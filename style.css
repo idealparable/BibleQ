@@ -1,5 +1,5 @@
 body {
-  background-color: #000; /* Black background color */
-  color: #fff; /* White text color */
-  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* Basic font stack for readability */
+  background-color: #400;
+  color: rgb(255, 170, 67);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
