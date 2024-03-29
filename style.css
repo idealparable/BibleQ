@@ -6,3 +6,12 @@ body {
 strong, b {
   font-weight: 750;
 }
+a { 
+  color: #47a0ff;
+}
+a:visited {
+  color: #9A46C2;
+}
+a:hover {
+  color: #76ddff;
+}
