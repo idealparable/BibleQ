@@ -21,11 +21,11 @@ Since Jesus focused on "from the beginning" as an important doctrinal tool to di
 
   I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in Genesis 5, which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
 
-- Second, I think the apostle John, Mark, and other early Christians likely noticed that Christ modeled what I've been calling "authorial avoidance" as an optional way to approach self-referential statements by an author in his own work.
+- Second, I think the apostle John, Mark, and other early Christians likely noticed that Christ modeled what I've been calling "authorial avoidance" as an optional way to approach self-referential statements by an author in his own work -- by avoiding using his own name in it.
 
   I'm not sure if I got that term from others or if there is a standard term for it, but this was a way authors could avoid seeming to claim too much *personal* honor, as in their culture they believed in a "limited honor" model, that honor (acclaim, likeliness of resources being directed your way, etc.) was a finite resource that had to be allocated.
 
-  This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively ()
+  This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively (compare 1:27 & 2:7).
 
   This is important as it answers Unitarian-style objections that the Trinity is a late invention, or at earliest a Christian objection. It's known that Jews in the Inter-Testamental (IT) period did think there might be "Two Powers" in heaven, identified as internal numbering, within God's nature, while God is outwardly one.
 
