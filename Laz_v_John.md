@@ -129,15 +129,18 @@ For the following detailed sections going through specific passages, **please do
 - **HeLoved** = He whom Jesus Loved (Lazarus in Jhn 11:1-3)
 - **Beloved** = anyBody Jesus Loved (esp. Christians; see first cite below, Jhn12:34-36)
 - **Auth / Author** = Author of Gospel of John (specifically, when used in viewpoint abbreviations / etc., although authorship of the sections of Genesis are also relevant; I'll try to avoid the noun form of author for those).
+
 ---
 - **Bap / Jonbap** = John the Baptist
 - **Bapdad** = Zechariah, father of John the Baptist
 - **Jonpete** = John the father of the apostle Peter
 - **Pete** = Peter
+
 ---
 - **Stu** = Student(s). Pronounced like stew.
 - **Src** = Source (potentially one source among many for Auth). Abbreviation can be pronounced rhyming with "purse".
 - **Foc** = Focus / focal point. Pronounced rhyming with "yoke".
+
 ---
 - **Gen** = Genesis
 - **GenFirst** = Genesis First Section (chapter 1 through 2:4, or through only 2:3 if 2:4 actually goes with the next section)
@@ -152,6 +155,7 @@ For the following detailed sections going through specific passages, **please do
 - **GodFirst** = the one called simply God in GenFirst (also Genesis chapter 1); the Father on Trinitarianism.
 - **LordGod / YahGod** = the LORD God in Genesis 2:4 (Tol2) and later (as rendered in many translations with LORD in all caps for the tetragammation YHWH as opposed to Adonai; LSB renders Yahweh God but I'm accustomed to LordGod. In my abbreviation I won't all-cap Lord due to my normal abbreviation rules.)
 - **PreIncChrist** = Pre-Incarnate Christ
+
 ---
 - **ANE** = Ancient Near East
 - **MT** = Masoretic Text
@@ -161,9 +165,11 @@ For the following detailed sections going through specific passages, **please do
 - **CMI** = Creation Ministries International (of creation.com)
 - **ICR** = Institute of Creation Research
 - **CRS** = Creation Research Society
+
 ---
 - **literall** = literal-all
 - **nonliterall** = non-literal all
+
 ---
 - **LazVJon / Laz v Jon** = abbreviation for the topic, or the question
 - **BibleQ** = Bible Question. I use this to refer to both my own notes about such questions when I try to do a thorough investigation and put my findings into a somewhat readable format, and to the questions themselves. Don't confuse with "Q" the spurious claimed "missing gospel" or source by biblioskeptic pseudoscholarship. Mnemonic pun on "barbecue / BBQ".
@@ -210,10 +216,11 @@ I think most likely Johnzeb took these words vividly to heart at this time, and 
 
 
 
-
+---
 
 ## Anti's Advocate: LazDi Advocate:
 
 AntiContentGoesHere
+
 ---
 [BibleQ Hub Page](index.md)
