@@ -21,6 +21,7 @@ For the following detailed sections going through specific passages, **please do
 ### Abbreviations:
 - **AbbrevGoesHere** = DefinitionGoesHere
 ---
+- **TopicAbbrevGoesHere** = abbreviation for the topic, or the question
 - **BibleQ** = Bible Question. I use this to refer to both my own notes about such questions when I try to do a thorough investigation and put my findings into a somewhat readable format, and to the questions themselves. Don't confuse with "Q" the spurious claimed "missing gospel" or source by biblioskeptic pseudoscholarship. Mnemonic pun on "barbecue / BBQ".
 
 #### Main Viewpoint Options:
