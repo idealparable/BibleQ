@@ -13,11 +13,13 @@ None of these are absolutely essential, but some of them are about as close as y
 --- 
 ### Relevant to Trinity
 ---
-The relevance I see as closest to crucial relates to some of the reasoning behind one of our strongest lines of support for the Trinity, that it's taught in Genesis 1-2, uses a premise of John as both the disciple Jesus loved and author of the gospel of John.
+The relevance I see as closest to crucial relates to one of our strongest lines of support for the Trinity, that it's taught in Genesis 1-2, using a premise of John as both the disciple Jesus loved and author of the gospel of John.
 
 Since Jesus focused on "from the beginning" as an important doctrinal tool to discern what in the Law of Moses still stands for Christians (e.g. Matthew 19:8), an emphasis Paul also taught in Romans 1 (likely following Christ's taught emphasis to his disciples, then passed on to Paul), it seems that the very well-studied students of Christ (John) and of his apostles (Mark, student of Peter) looked very closely at Genesis and noticed the phrasing that clearly implies these two things:
 
-- First, that Christ himself, the beginningless Son of God, or Word (Logos) of God as Philo also says (an extrabiblical NT-era Jewish source), authored Genesis 1 through 2:3. And likely 2:4 as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
+- First, that Christ himself, the beginningless Son of God, or Word (Logos) of God as Philo also says (an extrabiblical NT-era Jewish source), authored Genesis 1 through 2:3.
+
+  And likely 2:4 as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
 
   I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in Genesis 5, which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
 
