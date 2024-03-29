@@ -13,27 +13,27 @@ None of these relevances are absolutely essential, but some of them are about as
 
 The relevance I see as closest to crucial relates to one of our strongest lines of support for the Trinity, that it's taught in Genesis 1-2, using a premise of John as both the disciple Jesus loved and author of the gospel of John.
 
-Since Jesus focused on "from the beginning" as an important doctrinal tool to discern what in the Law of Moses still stands for Christians (e.g. Matthew 19:8), an emphasis Paul also taught in Romans 1 (likely following Christ's taught emphasis to his disciples, then passed on to Paul), it seems that the very well-studied students of Christ (John) and of his apostles (Mark, student of Peter) looked very closely at Genesis and noticed the phrasing that clearly implies these two things:
+Since Jesus focused on "from the beginning" as an important doctrinal tool to discern what in the Law of Moses still stands for Christians (e.g. [Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8/s_948008)), an emphasis Paul also taught in Romans 1 (likely following Christ's taught emphasis to his disciples, then passed on to Paul), in [20](https://www.blueletterbible.org/lsb/rom/1/20/s_1047020), [23](https://www.blueletterbible.org/lsb/rom/1/23/s_1047020), [25](https://www.blueletterbible.org/lsb/rom/1/25/s_1047020), [26](https://www.blueletterbible.org/lsb/rom/1/26/s_1047020), [27](https://www.blueletterbible.org/lsb/rom/1/27/s_1047020), it seems that the very well-studied students of Christ (John) and of his apostles (Mark, student of Peter) looked very closely at Genesis and noticed the phrasing that clearly implies these two things:
 
 - First, that Christ himself, the beginningless Son of God, or Word (Logos) of God as Philo also says (an extrabiblical NT-era Jewish source), authored Genesis 1 through 2:3.
 
-  And likely 2:4 as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
+  And likely [2:4](https://www.blueletterbible.org/lsb/gen/2/4/s_1047020) as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
 
-  I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in Genesis 5, which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
+  I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in [Genesis 5:1a](https://www.blueletterbible.org/lsb/gen/5/1/s_1047020), which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
 
 - Second, I think the apostle John, Mark, and other early Christians likely noticed that Christ modeled what I've been calling "authorial avoidance" as an optional way to approach self-referential statements by an author in his own work -- by avoiding using his own name in it.
 
   I'm not sure if I got that term from others or if there is a standard term for it, but this was a way authors could avoid seeming to claim too much *personal* honor, as in their culture they believed in a "limited honor" model, that honor (acclaim, likeliness of resources being directed your way, etc.) was a finite resource that had to be allocated.
 
-  This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively (compare 1:27 & 2:7).
+  This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively (compare [1:27](https://www.blueletterbible.org/lsb/gen/1/27/s_1047020) & [2:7](https://www.blueletterbible.org/lsb/gen/2/7/s_1047020)).
   
-  This is important as it answers Unitarian-style objections that the pluripersonality of God's internal nature yet singularity of his outward identity is a late invention. It's known that Jews in the Inter-Testamental (IT) period did at least think there might be "Two Powers" in heaven (conflating Son and Spirit to get two instead of three), identified as internal numbering, within God's nature, while God is one entity.
+  This is important as it answers Unitarian-style objections that the pluripersonality of God's internal nature yet singularity of his outward identity is a late invention. It's known that Jews in the Inter-Testamental (IT) period did at least think there might be "Two Powers" in heaven (conflating Son and Spirit to get two instead of three), identified as internal numbering, within God's nature, while God is one entity; these aren't separate beings, but have their own personalities or centers of consciousness.
   
   So "God is one" in the Shema, meaning there are no other legitimate gods, yet internally some of his traits can be literally personified, without beginning.
   
   Specifically his wisdom (knowledge in action) and ideas which can be expressed as his word(s) for the Son/Word/Wisdom, and his action capability and thoughts/emotions for the Spirit, while the Father focuses on omniscience/knowledge and ultimate authority.
 
-  Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and all Scripture is inspired by the Spirit (the word for Spirit is also the word for wind or breath, so this is implied in [2nd Timothy 3:16](https://www.blueletterbible.org/lsb/2ti/3/16/s_1128016)), so he has an implied authorial role too.
+  Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and all Scripture is inspired by the Spirit (the word for Spirit is also the word for wind or breath, so this is implied in [2nd Timothy 3:16](https://www.blueletterbible.org/lsb/2ti/3/16/s_1128016); see also [2nd Peter 1:21](https://www.blueletterbible.org/lsb/2pe/1/21/s_1157021), [Mark 12:36](https://www.blueletterbible.org/lsb/mar/12/36/s_969036)), so he has an implied authorial role too.
   
   He is not the one signing the account, so he doesn't need to completely avoid being named in it, yet has a partial avoidance in avoiding clear mentions of what he did (he and the Son both acted in creating; carrying out the "let us" orders from the one called simply God, the Father).
 
@@ -43,7 +43,7 @@ Since Jesus focused on "from the beginning" as an important doctrinal tool to di
 
   Most later authors of portions of Scripture, including the other "toledoth sections," just referred to themselves in the third person, only rarely clarifying in-text that they're the ones authoring it.
 
-  This seems to be the other way they avoid seeming to claim too much personal honor, probably motivated based on the toledoth lines originally as oral accounts, later likely written in tablets and on skins (clay tablets are common to the Ancient Near East, typically with the signature lines at the end (colophons), and Jewish extrabiblical sources say that Moses wrote on animal skins; this may have been an early Egyptian tradition, which I think Abraham also adopted, as he visited Egypt and the section I think was authored by him), and eventually papyrus.
+  This seems to be the other way they avoid seeming to claim too much personal honor, probably motivated based on the need to use the toledoth lines as signatures for what were likely originally oral accounts, later likely written in tablets and on skins (clay tablets are common to the Ancient Near East, typically with the signature lines at the end (colophons), and Jewish extrabiblical sources say that Moses wrote on animal skins; this may have been an early Egyptian tradition, which I think Abraham also adopted, as he visited Egypt and the section I think was authored by him), and eventually papyrus.
 
   Note: I'm saying these individuals likely "authored" sections of Genesis, not "wrote" per se.
 
@@ -55,19 +55,19 @@ Since Jesus focused on "from the beginning" as an important doctrinal tool to di
 
   Adam's life for example overlapped everyone in Noah's lineage except Noah himself, in the Masoretic Text (MT) version of the genealogies which our modern Bibles use, and from my study is most likely correct over and against the Septuagint (LXX) or Samaritan Pentateuch (SP).
 
-We can support the Trinity in many other ways other ways, including most of this, but the premise of John as authorially-avoiding with the "disciple loved" phrasing in his gospel is part of the support.
+We can support the Trinity in many other ways, including most of this, but the premise of John as authorially-avoiding with the "disciple loved" phrasing in his gospel is part of the support.
 
-Without this premise, a Unitarian can make it look more plausible that the Trinity is "out of the blue" when its clearest passages come in the New Testament, or, as many Unitarians do, they could argue that these passages themselves can't mean what they seem to mean to Trinitarians.
+Without this premise, a Unitarian can make it look more plausible that the Trinity is "out of the blue" when (most of) its clearest passages come in the New Testament, or, as many Unitarians do, they could argue that these passages themselves can't mean what they seem to mean to Trinitarians.
 
 We can still argue for the "us-texts" in Genesis as teaching plurality of internal nature of God in some way, and Unitarian arguments against this evidence have indeed been soundly debunked.
 
-Mainly they argue it refers to angels, which the wording forbids as the "us" does the creating, and we're explicitly told God does the creating, not angels.
+Mainly they argue it refers to angels, which the wording forbids as the "us" does the creating, and we're explicitly told God does the creating, not angels. Or some will argue for the "royal we" (plural of majesty) which Hebrew scholars reject as nonexistent for verbs and pronouns, so can't be used for "us," and that argument would prove too much, as it would imply only a plurality is actually majestic.
 
-And one (Sean Finnegan) argues based on the parcity of these "us" wordings (only three indisputable, all in Genesis, arguably a fourth in Isaiah) compared to unipersonal pronouns, which is irrelevant since most of these are referring to the Son or to the Father or to the Spirit rather than the Being, and some even backfire on the Unitarian (e.g. the Father calling the Son "you" in Psalm 110).
+And one (Sean Finnegan) argues based on the parcity of these "us" wordings (only three indisputable, all in Genesis, arguably a fourth in Isaiah) compared to unipersonal pronouns, which is irrelevant since most of these are referring to the Son or to the Father or to the Spirit rather than the Being, and some even backfire on the Unitarian (e.g. the Father calling the Son "you" in Psalm 110 ([1](https://www.blueletterbible.org/lsb/psa/110/1/s_588001) and most of the other verses "your", [4](https://www.blueletterbible.org/lsb/psa/110/4/s_588001) "you")).
 
-And the three initial us-texts serve as prior context clarifying all later phrasing, so it didn't need to be spelled out explicitly over and over, which is foreign to their high-context culture.
+And the three initial us-texts ([Gen 1:26](https://www.blueletterbible.org/lsb/gen/1/26/s_588001), [3:22](https://www.blueletterbible.org/lsb/gen/3/22/s_588001), [11:7](https://www.blueletterbible.org/lsb/gen/11/7/s_588001)) serve as prior context clarifying all later phrasing, so it didn't need to be spelled out explicitly over and over, which is foreign to their high-context culture.
 
-But if in fact the details of the opening, avoided self-referential naming, and authorship of John (the gospel) mean what I think they mean, then the Trinity specifically (as three actually listed Persons, not just a vague plurality with unspecified number) was taught using the rules of Hebrew right to Adam, and was always understood by all later authors and readers as foundational.
+But if in fact the details of the opening, avoided self-referential naming, and authorship of John (the gospel) mean what I think they mean, then the Trinity specifically (as three actually listed Persons, not just a vague plurality with unspecified number or sense) was taught using the rules of Hebrew right to Adam, and was always understood by all later authors and readers as foundational.
 
 ### Other Relevances
 
