@@ -26,10 +26,20 @@ Since Jesus focused on "from the beginning" as an important doctrinal tool to di
   I'm not sure if I got that term from others or if there is a standard term for it, but this was a way authors could avoid seeming to claim too much *personal* honor, as in their culture they believed in a "limited honor" model, that honor (acclaim, likeliness of resources being directed your way, etc.) was a finite resource that had to be allocated.
 
   This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively (compare 1:27 & 2:7).
+  
+  This is important as it answers Unitarian-style objections that the pluripersonality of God's internal nature yet singularity of his outward identity is a late invention. It's known that Jews in the Inter-Testamental (IT) period did at least think there might be "Two Powers" in heaven (conflating Son and Spirit to get two instead of three), identified as internal numbering, within God's nature, while God is one entity.
+  
+  So "God is one" in the Shema, meaning there are no other legitimate gods, yet internally some of his traits can be literally personified, without beginning.
+  
+  Specifically his wisdom (knowledge in action) and ideas which can be expressed as his word(s) for the Son/Word/Wisdom, and his action capability and thoughts/emotions for the Spirit, while the Father focuses on omniscience/knowledge and ultimate authority.
 
-  This is important as it answers Unitarian-style objections that the Trinity is a late invention, or at earliest a Christian objection. It's known that Jews in the Inter-Testamental (IT) period did think there might be "Two Powers" in heaven, identified as internal numbering, within God's nature, while God is outwardly one.
+  Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and other passages say all Scripture is inspired by the Spirit, so he has an implied authorial role too.
+  
+  He is not the one signing the account, so he doesn't need to completely avoid being named in it, yet has a partial avoidance in avoiding clear mentions of what he did (he and the Son both acted in creating; carrying out the "let us" orders from the one called simply God, the Father).
 
-  I see in this evidence that the "three Persons in one Being" belief of Trinitarianism is actually evidenced right in Genesis, and clearly noticed by the author of the gospel of John in John 1.
+  Thus, the Spirit has personal distinctions both from "God" and "the LORD God" (LSB Yahweh God).
+
+  In this I see evidence that the "three Persons in one Being" belief of Trinitarianism is actually evidenced right in Genesis, and clearly noticed by the author of the gospel of John in John 1.
 
   Most later authors of portions of Scripture, including the other "toledoth sections," just referred to themselves in the third person, only rarely clarifying in-text that they're the ones authoring it.
 
