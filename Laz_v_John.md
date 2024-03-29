@@ -109,6 +109,8 @@ The fact that Mark also is apparently the one not named in the gospel of Mark ev
 
     In any case, if we take this Lazarus-as-disciple-loved argument seriously, that it can't be John because he's the disciple (and if we somehow work our way out of the problem of "the disciple is not a disciple"), to be consistent it should be applied to the entirety of the rest of scriptural interpretation, and then the problems are too numerous to count.
 
+---
+
 ## Format Notes:
 For the following detailed sections going through specific passages, **please do first read** these notes on format and abbreviations:
 

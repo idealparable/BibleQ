@@ -7,6 +7,8 @@
 ## Relevance? Introduction / Summary
 SumRelevanceParagraphsGoHere
 
+---
+
 ## Format Notes:
 For the following detailed sections going through specific passages, **please do first read** these notes on format and abbreviations:
 
