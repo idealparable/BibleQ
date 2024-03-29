@@ -3,3 +3,6 @@ body {
   color: rgb(255, 170, 67);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
 }
+strong, b {
+  font-weight: 750;
+}
