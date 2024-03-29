@@ -33,7 +33,7 @@ Since Jesus focused on "from the beginning" as an important doctrinal tool to di
   
   Specifically his wisdom (knowledge in action) and ideas which can be expressed as his word(s) for the Son/Word/Wisdom, and his action capability and thoughts/emotions for the Spirit, while the Father focuses on omniscience/knowledge and ultimate authority.
 
-  Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and other passages say all Scripture is inspired by the Spirit, so he has an implied authorial role too.
+  Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and all Scripture is inspired by the Spirit (the word for Spirit is also the word for wind or breath, so this is implied in [2nd Timothy 3:16](https://www.blueletterbible.org/lsb/2ti/3/16/s_1128016)), so he has an implied authorial role too.
   
   He is not the one signing the account, so he doesn't need to completely avoid being named in it, yet has a partial avoidance in avoiding clear mentions of what he did (he and the Son both acted in creating; carrying out the "let us" orders from the one called simply God, the Father).
 
