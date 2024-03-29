@@ -75,7 +75,7 @@ Beyond this one relevance, the identity of the disciple Jesus loved might not be
 
 - The identity of the author as John does matter to skeptical objections to the authorship of all four gospels. The evidence best fits that the scroll tags of all four were the titles and author signatures, and this is universally attested.
 
-The fact that Mark also is apparently the one not named in the gospel of Mark evidences that this was a trend among Jesus' disciples, so most likely the "disciple Jesus loved" phrasing is John's own way of adopting this, and that he uses the similar style in his epistles, and when paraphrasing the messengers from Mary and Martha about Lazarus' sickness.
+The fact that Mark also is apparently the one not named in the gospel of Mark ([14:51-52](https://www.blueletterbible.org/lsb/mar/14/51/s_971051)) evidences that this was a trend among Jesus' disciples, so most likely the "disciple Jesus loved" phrasing is John's own way of adopting this, and that he uses the similar style in his epistles, and when paraphrasing the messengers from Mary and Martha about Lazarus' sickness.
 
 - John's use of Greek is also said to be better than Peter's, evidencing a better-then-usual education, perhaps because his father may have been a somewhat wealthier fisherman than others, and his theology is very advanced, making it plausible that he's the one who was known to the chief priest.
 
