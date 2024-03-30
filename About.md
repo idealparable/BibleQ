@@ -325,4 +325,4 @@ Some on this list are extremely bad, others are generally good. Don't read too m
 - There are countless others (like he of the famous Dillahunty Dodge), but most are so bad, it isn't worth even mentioning them.
 
 ---
-[TEMPLATE](!PageTemplate.md) | [About](About.md) | [Citing Me](About.html#citing-me)
+[BibleQ Hub Page](index.md)
