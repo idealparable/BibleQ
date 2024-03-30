@@ -159,17 +159,92 @@ Again, there are many other versions. The above is more of what I have read and 
 - [Answers in Genesis (AiG)](https://answersingenesis.org/)
 - [Creation Ministries International (CMI, of creation.com)](https://creation.com/)
 - [Institute of Creation Research (ICR)](https://www.icr.org/)
-- [Creation Research Society (CRS)](https://www.creationresearch.org/) AiG, CMI, and ICR are the main three sites I follow, but CRS is often cited for their journal. They offer a way to obtain access to and download all their journal volumes, which I did at one point, so I can check sources from them when cited by, for example, CMI.
-- [Woodmorappe, Noah's Ark, a Feasibility Study](https://www.amazon.com/Noahs-Ark-Feasibility-John-Woodmorappe/dp/0932766412) Only available in paper, unfortunately. I try not to recommend such books, but this one is an essential for anybody wanting to comment on plausibility of Noah's Ark. CMI does have many free articles that summarize much of it, and it's noted that the book is somewhat out of date, but it goes through every major topic of ark feasibility and cites scientific sources backing it up, using a principle of generosity to the skeptic (such as running the calculations with the maximum possible interpretation of how many baramins were on the ark, showing that even then there's plenty of space left over, as one example).
+- [Creation Research Society (CRS)](https://www.creationresearch.org/). AiG, CMI, and ICR are the main three sites I follow, but CRS is often cited for their journal. They offer a way to obtain access to and download all their journal volumes, which I did at one point, so I can check sources from them when cited by, for example, CMI.
+- [Woodmorappe, Noah's Ark, a Feasibility Study](https://www.amazon.com/Noahs-Ark-Feasibility-John-Woodmorappe/dp/0932766412). Only available in paper, unfortunately. I try not to recommend such books, but this one is an essential for anybody wanting to comment on plausibility of Noah's Ark. CMI does have many free articles that summarize much of it, and it's noted that the book is somewhat out of date, but it goes through every major topic of ark feasibility and cites scientific sources backing it up, using a principle of generosity to the skeptic (such as running the calculations with the maximum possible interpretation of how many baramins were on the ark, showing that even then there's plenty of space left over, as one example).
 
   I have digital photos of every page of this book I can check if asked for specifics, although image-only so it's not exactly searchable, and I can't share them presumably for copyright reasons. As with CRS's journal it's an option I can check for details when needed, though not easily.
 
-- [Starlight and Time]()
+- [Dr. Russel Humphreys, Starlight and Time](https://www.amazon.com/Starlight-Time-Russell-Humphreys-ebook/dp/B003BVJCQI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), and all CMI articles following. The question of distant starlight is one of the only legitimately big "problems" remaining today, and his suggested (not self-endorsed per se) model in this book is foundational to why it is not a definite problem today, although we don't yet know which of several options is correct. And if they were all to be ruled out, we would not know whether another option not thought of yet would fit.
+
+  On this I'd also recommend both AiG's and CMI's books of basic questions and answers (the titles escape me at the moment and out of time to try to find out), which list the current state of knowledge on this well.
+
+  Dr. Humphreys also accurately predicted the magnetic field strength of Mercury based on a model from his interpretation of Genesis and Peter, making him one of the most credible scientists alive today (at time of writing). See also TalkOrigins entry in the list later here of sources NOT to recommend, for an incident that has made accurate representation of Humphreys a sort of litmus test of whether someone is really informed on the subject or not.
+
+- [Dr. Nathaniel Jeanson]. Speaking of scientists with accurate testable predictions, Dr. Jeanson's work has been some of the most important and successful today. His books are a must-read (Replacing Darwin, and Traced). During 2020 Covid, his YouTube series on this with Ken Ham was extremely popular, and well worth it. I recommend watching it first, and then reading Replacing Darwin, then Traced.
+
+- Dr. John Baumgardner. He has the current scientific model of the global Flood, generally most supported by mainstream creationists. I have focused on this and see it as reaching the level of proven beyond a level of reasonable doubt. Admittedly a somewhat lower level than some topics (much lower than the Bible itself for example), but very solid. Specifically I read the in-depth written debate between him and Michael Oard, who is okay on a lot of topics, but his Flood model doesn't seem to make nearly as much sense of the physical evidence as Baumgardner's.
+
+  Speaking of Oard and Flood models, however, Oard's review of the rather strange model of Walt Brown should be read if you're interested in this topic. See also Standing for Truth below.
+
+- [CreationWiki]() I don't know who maintains this, but if you can't find a topic related to origins on the other go-to sites, it's always worth checking here.
+
+- [Standing for Truth]. A YouTube channel, primarily of a creationist named . See also [Young Earth Creation](https://www.youtube.com/@YoungEarthCreation), the owner of which seems to be affiliated with SFT.
+- [Apologetics 101]
+
+- Danny Faulkner
+
+- Vocab Malone
+
+
 
 ### Other Extrabiblical Sources (Modern)
 
-- [Hart]
+- [Hart, Experience of God]
 - [Alien Incursion]
+- [Strobel]
+- [Mike Winger]
+- [Nabeel Qureshi]
+- [Christian Prince]
+- [Anthony Rogers]
+- [David Wood]
+- [Whaddo You Meme??](https://www.youtube.com/@whaddoyoumeme). YouTube Channel. Very informed, evidently at least somewhat aware of JPH's work as he has cited it once that I've seen, and very good at parsing what people mean, as the title says. You might also recommend him from David Wood's spoof Islamicize Me. He focuses a lot on the core of the Christian message of salvation, and what it does and doesn't mean. Some of his older content seems to be the more "meaty," but he still puts out good content. Especially recommended is his takedown of the skeptic formerly known as CosmicSkeptic who had put together a 
+- [GK Chesterton's Orthodoxy]
+- The Behavior Panel (YouTube channel). Not exactly on-topic, and they seem to be standard Old-Earthers, but I follow them (although I haven't kept up as much lately, as their videos are typically very long), and the relevance of their top expertise in body language and similar topics is often indirectly relevant to pretty much any topic. The books written by them are worth a read too.
+
+## Source to be wary of
+
+Some on this list are extremely bad, others are generally good. Don't read too much into their being in the same list, for sake of brevity. Others on the recommended list above have issues too. Anybody with issues reaching at least a certain level of a sense that I can't just "recommend" them goes on this list, and some are on this list because you should definitely take everything they say with a whole salt shaker.
+
+- Hugh Ross. Huge Errors. Sadly some Christians naive on the topic of origins recommend this highly problematic Old-Earther, but aside from many poor arguments such as treating poetic passages as "creation accounts," this is the guy who hired two people to write critiques of Dr. Humphreys, in which it was clear that they don't understand the distinction between a universe of matter with an edge and one without, despite this being crucial to understanding Humphreys' model that they were critiquing. Most critics of Humphreys rely on those sources uncritically.
+
+  While it's possible he just made a mistake of signing off on something he didn't fact-check, since Ross himself didn't write it, AiG and CMI have documented many highly concerning behaviors, claims, and bad arguments used by Ross. Please don't recommend him.
+
+- John Walton? Mentioning because this was the name at the top of the JPH social sources I mentioned above. I haven't read his works personally, but have read reviews and arguments against his credibility seem reasonable. Others have asked me about some of his reasoning which they passed onto me.
+
+  Fundamentally, if they represented him correctly, he would be missing the biblical priority of physical symbols -- that is, things that do literally physically exist, which typically go with major covenants (and an Adamic original covenant of God's "if you do this, this is the result" statement is likely implied about not eating of the forbidden tree), and help serve as direct visual reminders to people of the time.
+  
+  This is likely the case of the two key trees in Eden -- real physical trees, serving as a symbolic way for God to tell Adam and Eve essentially, choose which future the tree of your descendants will have.
+  
+  Also the Hebrew for tree, erets, may be related to the word for earth/soil/land, ets (although it's spelled differently), or a play on words may be intended here, signifying that whatever they chose, the effects would literally apply to the whole of the Earth and its future inhabitants.
+  
+  The symbolic significance should be read as a materially-real focal point of simplifying the choice they had to make into one highly significant yet easily understandable command.
+
+  Walton has become popular in certain circles, and his central idea, of a "Cosmic Temple," is something of a byword among Old-Earthers looking to reinterpret the Bible while blindly, uncritically trusting popular "science" of our current era (circa 2000 AD). I can't say much more beyond that without having read his book, but based on all of the above, I find this idea suspect. From what I can see of what else is represented about him online, he comes across as trying to promote a potentially deceptive approach of making revisionist Old-Eartherism appear to be the return to understanding the Bible on its own terms. As CMI/etc. have proven extensively, and as another name on my recommended list might say, "The precise opposite is the case!"
+
+- Inspiring Philosophy. This is a popular self-described Christian apologist, going by that YouTube screenname. I have seen some from him that is somewhat decent, but tread carefully. I've also seen him shamefully attacking Answers in Genesis, claiming without evidence that the organization "lies" (!), and he promotes Walton and other questionable views. Also he stole the acronym IP that I want for IdealParable, my gmail handle. So. Yeah. (I'm not listing his name, which is known, although he uses it, because he did mention at one point that I happened to see, I forget where or why, that this became known because he was doxxed, and he hadn't wanted to be. To me that's a big deal, so I won't be passing it on.)
+
+- Sean Finnegan
+- "Rational" Wiki (and anything else by biblioskeptics)
+- TalkOrigins
+- ~ Sam Shamoun
+- Erica "Gutsick Gibbons". Another source who was doxxed, and I know her last name as a result, but evidently she didn't want to reveal that, although she does reveal her first name intentionally, oddly, and has a bizarre practice of giving out her last name to some people as well without warning them not to tell others (she did this to a Dr. Buggs). Anyway, I was asked to review some of her endlessly spammy videos against a Dr. Tomkins of ICR, who is one of the main sources for the idea that human/chimp DNA similarity is probably somewhere in the 80s range (Buggs is as well). 
+- Richard Dawkward. I mean Dawkins. Famous for intelligently designing a computer program hardcoding a target sequence of letters in from the start, and then somehow "thinking" it evidences anything other than special creation (or hoping his readers are extremely gullible), as well as actually conflating the fully infinite God with little-g-finite prospective gods, and basing actual arguments on their supposed equivalence, on topics anybody with a brain can see aren't equivalent.
+
+- Dan Barking Mad Barker. Infamous for, aside from being associated with the financial bully organization, the Freedom From Freedom Foundation (or they say from Religion, but they try to take away your religious freedom; let's call them what they are), hilariously thinking that he found the "real" ten commandments, in Exodus 34, failing to read verse 1, which clearly says that the Lord would write the actual 10Cs on the replacement tablets, and thus misunderstanding verse 27's "write these words" as a command to Moses to write them as the "actual" ten commandments (the "don't boil a young goat" ones) on the stone tablets.
+
+  It clearly says instead that Moses was to write these separately, not on stone, likely as application, *while* God wrote the 10Cs we were already told in Exodus 20. Barker was basing this on failing to understand Hebrew use of multiple consecutive pronouns for different referrents in verse 28 of chapter 34, projecting a popular modern English pseudo-rule against it onto Hebrew culture. If you just read the conversation between the LORD God and Adam in Genesis 3, you clearly see that Hebrew didn't have such a rule. Instead, it used context to specify which was which, and Exodus 34:1 is that context.
+
+  For a while, this silly accusation made the rounds among populist skeptics, and might still show up, although I haven't seen it used in a whlie. I'm not sure if it actually originated from Mad Barker, but he's the most prominent source I'm aware of, that I had reviewed.
+
+- Cult of Dusty
+
+- "Dr. Josh" of some YouTube channel the name of which is escaping me at the moment. A low-level scholar focusing on often spurious accusations against the Bible on slavery. He "reviewed" Whaddo You Meme's videos on the topic, and had the audacity to refuse to even deal with WYM's central and most important point, that the Mosiac Law constantly urged fair and equal treatment of all, including foreigners, even though "Dr. Josh" had a premise against this as a basic core of his argument.
+
+  He also literally claimed that the Law said that poor people shouldn't be around because God would miraculously make them rich, as if this was what the Bible meant, or even as if this would even be a problem (the passage in question said that there SHOULD not be poor among them if they all perfectly follow the law, which clearly they didn't, and it doesn't say this is due to any promise of miracles but due to good design of the law!).
+
+  I also saw him on a show with some other skeptic of such ill repute as to not even bother naming (plus I forget the name now), and some other skeptic repeated the famously stupid argument of Cult of Dusty (see above), and Dr. Josh seemed to be awake and right there, and he didn't comment at all. He seemed to endorse it, incredibly. Many skeptics promote him as a reliable source. He's the opposite.
+
+- Another 
 
 ---
 [TEMPLATE](!PageTemplate.md) | [About](About.md) | [Citing Me]()
