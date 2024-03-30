@@ -7,7 +7,7 @@
 ## Relevance? Introduction / Summary
 SumRelevanceIntroParagraphsGoHere
 
-Note: For this potentially extended introduction I'll try to generally avoid my abbreviations which are defined after it ([here-](#format-notes)), but note that Bible quotes are typically LSB version unless otherwise specified, and may be enclosed in slashes (like /In the beginning.../) instead of quote marks to indicate a Scriptural quote.
+Note: For this potentially extended introduction I'll try to generally avoid my abbreviations which are defined after it ([here](#format-notes)), but note that Bible quotes are typically LSB version unless otherwise specified, and may be enclosed in slashes (like /In the beginning.../) instead of quote marks to indicate a Scriptural quote.
 
 RelevanceAbstractLikeSummaryAndExtendedDetailsGoHereWithoutAbbrevsUsually
 

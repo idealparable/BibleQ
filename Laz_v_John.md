@@ -9,7 +9,7 @@ The identity of the disciple Jesus loved, and of the author of the gospel of Joh
 
 None of these relevances are absolutely essential, but some of them are about as close as you can get, including the Trinity and debunkings of supposed Bible contradictions.
 
-Note: For this extended introduction I'll try to generally avoid my abbreviations which are defined after it ([here](https://idealparable.github.io/BibleQ/Laz_v_John.html#format-notes)), but note that Bible quotes are typically LSB version unless otherwise specified, and may be enclosed in slashes (like /In the beginning.../) instead of quote marks to indicate a Scriptural quote.
+Note: For this extended introduction I'll try to generally avoid my abbreviations which are defined after it ([here](#format-notes)), but note that Bible quotes are typically LSB version unless otherwise specified, and may be enclosed in slashes (like /In the beginning.../) instead of quote marks to indicate a Scriptural quote.
 
 ### Relevant to Trinity
 

@@ -8,4 +8,4 @@ For now, pages on individual topic findings will simply be listed below in order
 
 
 ---
-[TEMPLATE](!PageTemplate.md) | [About](About.md)
+[TEMPLATE](!PageTemplate.md) | [About](About.md) | [Citing Me+](About.md#citing-me)
