@@ -61,4 +61,4 @@ ProContentGoesHere
 AntiContentGoesHere
 
 ---
-[BibleQ Hub Page](index.md)
+[BibleQ Hub Page](index.md) | [TEMPLATE](!PageTemplate.md) | [About](About.md) | [Citing Me]()
