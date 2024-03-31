@@ -15,7 +15,7 @@ Bible quotes may be from [World English Bible Public domain version (WEBP)](http
 
 Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example \|...the founder of the name...\|).
 
-Keep in mind for brevity my wording may sound more definite than intended. This site is devoted to careful, open-minded truthseeking, building soundly from the ground up, and help anyone interested learn the current global state of knowledge. I'll try, though, to clarify what is less or more certain with clear word choice.
+Keep in mind for brevity my wording may sound more definite than intended. This site is devoted to careful, open-minded truthseeking, building soundly from the ground up, and to helping anyone interested learn the current global state of knowledge. I'll try, though, to clarify what is less or more certain with clear word choice.
 
 See [end notes](#end-notes) for more about citation style, copyright notices, explanations of common abbreviations, and a little more about (ideally not) citing me or contacting me. Read those too when you finish reading the rest of this page, please, if you haven't before.
 
