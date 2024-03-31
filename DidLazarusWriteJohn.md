@@ -654,7 +654,7 @@ Jesus said to him, “Feed my sheep. 18  Most certainly I tell you, when you wer
 
 
 
-
+- add john 1:3 christ no beginning after nonliterall
 
 
 
