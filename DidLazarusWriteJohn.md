@@ -200,7 +200,7 @@ Genesis 6:
 
 17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth./
 
-Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*ohd m\*ohd in my [Lingua](Lingua.md) transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
+Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*OHD m\*OHD in my [Lingua](Lingua.md) transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
 
 /<u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
