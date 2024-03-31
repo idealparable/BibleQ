@@ -178,7 +178,7 @@ As we'll see [later](#disciple-isnt-disciple) from the gospel of John version of
 
 ## Before You Flood Me With Objections
 
-By contrast, we know for a standard example that "all" and synonyms are literal/absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these three will be all-capitalized), and many more about all land "flesh" dying outside the ark (I'll put the accumulating count for these in parentheses).
+By contrast, we know for a standard example that "all" and synonyms are literal/absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these will be all-capitalized), and many more about all land flesh dying outside the ark (I'll put the accumulating count for these in parentheses).
 
 Genesis 6:
 
@@ -188,7 +188,7 @@ Genesis 6:
 
 17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all (2)</b></u> flesh having the breath of life from under the sky. 
 
-<u><b>Every (3)</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
+<u><b>Every(3)</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
 
 (Keep in mind the listed exceptions don't change the otherwise universal nature of these statements, although that does mean they aren't literally all flesh under the sky dying. I'm not counting the "every" in 19 since that's about the exceptions. Also not counting the "alls" for Noah obeying, etc. Just about all flesh dying and the waters covering all land.)
 
