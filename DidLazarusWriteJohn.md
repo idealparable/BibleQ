@@ -170,36 +170,42 @@ Then **all the disciples left him and fled.**
 
 ## Before You Flood Me With Objections
 
-By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these three will be all-capitalized), and many more about all land "flesh" dying outside the ark.
+By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these three will be all-capitalized), and many more about all land "flesh" dying outside the ark (I'll put the accumulating count for these in parentheses).
 
 Genesis 6:
 
-/13 God said to Noah, “I will bring an end to <u><b>all</b></u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
+/13 God said to Noah, “I will bring an end to <u><b>all (1)</b></u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
 
 ...
 
-17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all</b></u> flesh having the breath of life from under the sky. 
+17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all (2)</b></u> flesh having the breath of life from under the sky. 
 
-<u><b>Every</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
+<u><b>Every (3)</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
 
 (Keep in mind the listed exceptions don't change the otherwise universal nature of these statements, although that does mean they aren't literally all flesh under the sky dying. I'm not counting the "every" in 19 since that's about the exceptions. Also not counting the "alls" for Noah obeying, etc. Just about all flesh dying and the waters covering all land.)
 
 7:
-/4 In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.”
+/4 In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy <u><b>every (4)</b></u> living thing that I have made from the surface of the ground.”
 
 ...
 
-17 The flood was forty days on the earth. The waters <u><i>increased</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>increased greatly,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>very</i></u> high on the earth.
+17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth.
 
 <u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
-20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every</b>></u> creeping thing that creeps on the earth, and <u><b>>every</b>></u> man.
+20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All (5)</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every (6)</b>></u> creeping thing that creeps on the earth, and <u><b>>every (7)</b>></u> man.
 
-22 <u><b>>All</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
+22 <u><b>>All (8)</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every (9)</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only (10)</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
 
 8:
 
 /9 but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the <u><b>WHOLE</b></u> earth. He put out his hand, and took her, and brought her to him into the ship./
+
+That's a total of three "alls" for water extent on land/earth, with three additional superlatives.
+
+And an astonishing ten "alls" for land flesh dying.
+
+If I can count. Which is often in question.
 
 This approach to language allows the Hebrew system to communicate clearly in any language -- including English or any other translation.
 
