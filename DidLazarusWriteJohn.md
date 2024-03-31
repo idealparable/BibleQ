@@ -216,6 +216,18 @@ And an astonishing ten "alls" for land flesh dying.
 
 If I can count. Which is often in question.
 
+(Depending on how little or much you know about origins, this may be good or bad news for you.
+
+As a biblical creationist, I can understand that many will find the idea of a nonliteral all concerning, but ironically, the answer to how we know when it's literal actually backs up biblical creation and its interpretation of a global Flood much more than you might realize if you don't know how Hebrew "all"-language works.
+
+The idea that "all means all" sounds great to our modern English culture, and often it does mean a literal all, but 1) it comes out of the effect on our culture of the industrial revolution (along with much of our general sense that literal = good and allowing for nonliteral is bad, because as one of JPH's sources says, \|machines tolerate no imprecision\|) and 2) even we don't actually follow that rule, as <u><b>every</b></u>one knows, so it's inconsistent to impose a rule on Hebrew culture that even we don't follow. Careful with that plank!
+
+Some object that literal=good, and thus the Bible should rightly be held to a higher standard, but this is missing that the idea that literal is better, or that nonliteral is unclear and open to interpretation, is part of our culture, not ancient culture.
+
+It's certainly true that ancients could struggle with this (we're looking at you, disciples when Jesus talked about the yeast of the Pharisees), but of course, the fact that Jesus spoke even more figuratively than many should clue you in that the higher standard may actually be to make your language a little bit more interesting from time to time, rather than a snorefest.
+
+For the Old-Earthers who worry the Bible gets disproven if it teaches a global Flood and "young" Earth, because secular scientists claim science disproves those, those claims are debunked in excruciating detail by AiG, CMI, ICR, CRS, etc. (See [end notes](#end-notes) on those.) I'll be eventually including articles about that on this site to clarify why I say that from my own perspective.)
+
 This approach to language allows the Hebrew system to communicate clearly in any language -- including English or any other translation.
 
 This shouldn't surprise us as the all-knowing God chose this language as the one for his original largest chosen culture which preserved his message to humanity, and the language for that message to primarily be in, for OT.
