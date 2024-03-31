@@ -394,7 +394,7 @@ First, when we simultaneously think that "all" disciples scattering rules out th
 
 Second, if we argue that this somehow implies this disciple can't be John.
 
-If Lazarus can be the "disciple" who accompanied Peter (and, to be fair, he can; most likely it wasn't just the 12; I think Mark was the anonymous young man who fled in Mark, for example), and the one at the Last Supper (I'm less sure Lazarus can be this one at time of writing this paragraph), then he can be among the disciples told they would "all" scatter, and especially in Matthew would be among the ones near Peter who Matthew says "all" scattered, according to John 18:15 (quoted above).
+If Lazarus can be the "disciple" who accompanied Peter (and, to be fair, he can in terms of whether he might have been there in Gethsemane; most likely it wasn't just the 12; I think Mark was the anonymous young man who fled in Mark, for example), and the one at the Last Supper (I'm less sure Lazarus can be this one at time of writing this paragraph), then he can be among the disciples told they would "all" scatter, and especially in Matthew would be among the ones near Peter who Matthew says "all" scattered, according to John 18:15 (quoted above).
 
 So the argument, while valid, actually goes nowhere.
 
