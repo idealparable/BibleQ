@@ -8,10 +8,11 @@
 
 ## Foundational topics:
 
-WIPs / unmade:
+WIPs; unmade or drafted but unposted:
 - [How to Read the Bible According to the Bible](HowToRead.md)
 - [Seek: Biblical Definition of God](BibleDefinesGod.md)
 - [Proof: Yahweh God & Bible](ProofOfYahweh.md)
+- [Looks Don't Deceive You - You Do](LooksDontDeceive.md) - They claimed it looks false, a claim which is false, but then they did say, believe anyway.
 
 ### More key topics
 
