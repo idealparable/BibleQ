@@ -60,7 +60,9 @@ So we know far beyond a reasonable doubt that John authored the gospel by his na
 
 And other context makes it clear that (and why) John was referring to himself anonymously within the body text of his gospel.
 
-In short, it was at least almost-definitely to follow an authorial avoidance strategy that Jesus pointed his closest disciples to, evidently, by his focus on "from the beginning" as an interpretive key, when in his Pre-Incarnate nature authored (I think, and will explain some of why below) Genesis 1-2:4, signing it in 2:4 as "the LORD God" (Yahweh God in LSB, WEBP) but avoiding mention of himself as the Person of the Son by that name within the body text of that initial account. Much about that is highly disputed by others, and isn't the primary focus of this article but I've found their arguments extremely wanting, and I may cover it later.
+In short, it was at least almost-definitely to follow an authorial avoidance strategy that Jesus pointed his closest disciples to, evidently, by his focus on "from the beginning" as an interpretive key, when in his Pre-Incarnate nature authored (I think, and will explain some of why below) Genesis 1-2:4, signing it in 2:4 as "the LORD God" (Yahweh God in LSB, WEBP) but avoiding mention of himself as the Person of the Son by that name within the body text of that initial account.
+
+Much about that is highly disputed by others, and isn't the primary focus of this article but I've found their arguments extremely wanting, and I may cover it later.
 
 And I think we can see where and why John likely started to place personal importance on the word "love" as reflected throughout his writing style in both the gospel and his epistles -- even in his very report of the messengers about Lazarus.
 
@@ -130,7 +132,7 @@ First, let's focus on most of the pro-Lazarus-as-DiLoved arguments that I've bee
 
 ## Non-LiterALL
 
-One argument that it has to be the same person is that the one called the disciple Jesus loved can't be John, or any of the "disciples" (see a problem already?) because Jesus and narrators of gospels say that all / each of the "disciples" scattered each to their own home.
+One argument that it has to be the same person is that the one called the disciple Jesus loved can't be John, or any of the "disciples" (see a problem already?) because Jesus and narrators of gospels say that all / each of the "disciples" scattered each to their own home, yet an anonymous disciple did follow Jesus, and helped Peter gain entrance to the courtyard of the high priest (I'll show the quote [later](#disciple-isnt-disciple)).
 
 Example:
 
@@ -156,7 +158,7 @@ It's true that we have more than one statement like this, but how close by do th
 
 (Or as I call it, a "literall".)
 
-As we clearly see, "each to his own home" can't mean a literal all in this case (or at least not right away), since Peter (obviously a "disciple" by both the general definition and in the sense of one of the 12):
+As we clearly see, "each to his own home" can't mean a literal all in this case (or at least not right away), at least not in any sense that would forbid this unnamed disciple from being John since John is one of the twelve, since Peter is also a disciple, by both the general definition and in the sense of one of the 12, and he also followed. In addition to this being said in John, it's said in Matthew too:
 
 Matthew 26:
 
@@ -168,9 +170,15 @@ Then **all the disciples left him and fled.**
 
 58 **But Peter followed him from a distance** to the court of the high priest, and entered in and sat with the officers, to see the end./
 
+You can see here that by "all," Matthew clearly doesn't mean literally all.
+
+If you didn't know before that Hebrew "language culture" has a non-literal-all, you should know it when you read this.
+
+As we'll see [later](#disciple-isnt-disciple) from the gospel of John version of this, Peter and the "another disciple" in question are placed in parallel in terms of following Jesus, so this exception refers to two "disciples."
+
 ## Before You Flood Me With Objections
 
-By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these three will be all-capitalized), and many more about all land "flesh" dying outside the ark (I'll put the accumulating count for these in parentheses).
+By contrast, we know for a standard example that "all" and synonyms are literal/absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these three will be all-capitalized), and many more about all land "flesh" dying outside the ark (I'll put the accumulating count for these in parentheses).
 
 Genesis 6:
 
