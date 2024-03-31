@@ -281,9 +281,65 @@ Obviously, David was before this, so Jesus' point was not that Jesus was simply 
 
 JPH has more material on this including historical evidence that this is how it was interpreted.
 
+### Disciple isn't Disciple?
+
+Another obvious problem with the "it can't be John because he's a disciple and all the disciples went home" argument is that, well, the phrase in question is the *disciple* Jesus loved.
+
+This argument works from this passage:
+
+John 18:
+
+/12 So the detachment, the commanding officer, and the officers of the Jews seized Jesus and bound him, 13 and led him to Annas first, for he was father-in-law to Caiaphas, who was high priest that year. 14 Now it was Caiaphas who advised the Jews that it was expedient that one man should perish for the people.
+
+15 Simon Peter followed Jesus, as did another disciple.
+
+Now that disciple was known to the high priest, and entered in with Jesus into the court of the high priest; 16 but Peter was standing at the door outside.
+
+So the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought in Peter./
+
+This doesn't include the "loved" part, but it does include the anonimity, oddness of the anonymity (occasional references to various unnamed sdisciples aren't necessarily surprising, but this one is emphasized and the wording used a few times here.), and, obviously, the word "disciple."
+
+Parsimoniously, this is the same one referred to by the DiLoved phrase in the incident with the dipping of bread, and in the final chapter of John, the other key uses.
+
+Now I find this argument *somewhat plausible,* because there can be two senses of "disciple."
+
+A common error is thinking that one word always has one meaning only, or that if it doesn't it's a problem. No.
+
+It *would* make sense to me that the "disciple" here (and perhaps the bread-dipping case, but not the final chapter of John) could be Lazarus. We see that the word can be used in a general sense of any follower of Christ, and Christian:
+
+John 8:
+
+/31 Jesus therefore said to those Jews who had believed him, “If you remain in my word, then you are truly my disciples./
+
+The Bible often switches between senses of words. It was normal practice and a sign of a worthy wordsmith to switch between them in close proximity without spelling out that the word was shifting, and rely on the intelligent reader to see the difference.
+
+This was part of how the wisdom teacher would sort the fool from the wise student.
+
+Like, I like the like count like I liked them all myself as the likeness of alike likers.
+
+Here, it would be that when Jesus and narrators say "all disciples" scattered, they mean all among the 12 only, but that Lazarus can be a disciple in a more general sense.
+
+That specific argument itself I have no problem with, so far as it alone goes, but it becomes a problem in these two ways beyond just itself:
+
+First, when we simultaneously think that "all" disciples scattering rules out the 12, because we can't allow "all" to also have multiple senses. This is inconsistent reasoning.
+
+Second, if we argue that this somehow implies this disciple can't be John.
+
+If Lazarus can be the "disciple" who accompanied Peter (and, to be fair, he can; most likely it wasn't just the 12; I think Mark was the anonymous young man who fled in Mark, for example), and the one at the Last Supper (I'm less sure Lazarus can be this one at time of writing this paragraph), then he can be among the disciples told they would "all" scatter, and especially in Matthew would be among the ones near Peter who Matthew says "all" scattered, according to John 18:15 (quoted above).
+
+So the argument, while valid, actually goes nowhere.
+
 ### Known to the high priest?
 
-Another argument is that Lazarus
+Another argument is that Lazarus is a better candidate than John to be known to the high priest (see passage quote in above section).
+
+John was "just" a fisherman.
+
+True, although to use this as an argument seems dubious; even if we grant for sake of argument that he's just as normal a mere fisherman as every other fisherman, and that this would mean that in that status alone, he can't be known to the high priest, why can't he become known to him in some sense later like knowing he's one of Jesus' inner circle?
+
+But let's grant it all for now, for sake of argument.
+
+
 
 
 
