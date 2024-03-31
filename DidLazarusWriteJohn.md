@@ -337,7 +337,109 @@ John was "just" a fisherman.
 
 True, although to use this as an argument seems dubious; even if we grant for sake of argument that he's just as normal a mere fisherman as every other fisherman, and that this would mean that in that status alone, he can't be known to the high priest, why can't he become known to him in some sense later like knowing he's one of Jesus' inner circle?
 
-But let's grant it all for now, for sake of argument.
+But let's grant it all for now, for sake of argument. Caiphas is simply hopelessly uninformed, and he only knows Lazarus because connections and Lazarus lived nearby, we'll say.
+
+Then there's a bit of a problem:
+
+John 12:
+
+/9 A large crowd therefore of the Jews learned that he was there; and they came, not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead.
+
+10 But the chief priests conspired to put Lazarus to death also, 11 because on account of him many of the Jews went away and believed in Jesus./
+
+Let's assume that Lazarus didnt flee Judea due to this, although I've heard it said that extrabiblical sources may claim or imply he did.
+
+Even if not, he probably knew this, so would hardly risk going even within a guarded gate right to the very people trying to kill him.
+
+It might be argued that whoever recorded this only found it out later, but the wording of "but" here seems to imply to me that it was known at the time and that Lazarus at least was trying to lay low.
+
+That's also consistent with the type of culture they were, where everybody essentially told everybody everything about everybody all of the time. JPH's social science sources have much to say on this.
+
+The Bible does record some cases of the general public knowing about intent to kill Jesus:
+
+John 7:
+
+/25 Therefore some of them of Jerusalem said, “Isn’t this he whom they seek to kill? 26 Behold, he speaks openly, and they say nothing to him. Can it be that the rulers indeed know that this is truly the Christ?/
+
+Although to be fair, they might have gotten that idea from Jesus himself:
+
+John 7 (a few verses earlier):
+
+/19  Didn’t Moses give you the law, and yet none of you keeps the law? Why do you seek to kill me?”
+
+20 The multitude answered, “You have a demon! Who seeks to kill you?”/
+
+Still, it looks like the author is saying that the people did know that they really were trying to kill them; that they already knew that before Jesus said that.
+
+Earlier in the chapter, it was mentioned that Jesus knew this too, though of course he may have known that only through his omniscience. But in general it seems clear to me that this was common knowledge.
+
+It's also possible for Jesus to warn Lazarus about the plot on his life too.
+
+So regardless of whether Lazarus was known to the high priest, it seems highly unlikely that right during the arrest of Jesus himself, that Lazarus would risk going right to the same people who did that.
+
+Far more likely it's a "lower target."
+
+But Peter shows that he "feels the heat" (so to speak, in the cold, while trying to stay warm by the fire), so all the more, Lazarus would, when Peter denies Christ three times (specifically denies being a "disciple" of him, ironically, in John's wording in John 18:17,25, then denies being in Gethsemane in 26-27), as Christ foretold he would.
+
+That this unnamed disciple who is known to the high priest is only mentioned in John (the gospel), and the identity of the fisherman DiLoved with the Last Supper DiLoved (read on) makes it clear that anonymity and the word "disciple" are the author's mark, and all the evidence that the author is John (again read on for deets), makes it highly likely that this is the author expressing his own perspective.
+
+Note again how detailed it is about specifically who moved where when:
+
+John 18:
+
+/15 Simon Peter followed Jesus, as did another disciple.
+
+Now that disciple was known to the high priest, and entered in with Jesus into the court of the high priest; 16 but Peter was standing at the door outside.
+
+So the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought in Peter.
+
+17 Then the maid who kept the door said to Peter, “Are you also one of this man’s disciples?”
+
+He said, “I am not.”
+
+18 Now the servants and the officers were standing there, having made a fire of coals, for it was cold.
+
+They were warming themselves.
+
+Peter was with them, standing and warming himself./
+
+And it goes on like this. This is clear authorial POV.
+
+This unnamed disciple continues to be here -- he doesn't disappear -- and likely remains with Jesus the whole time, a little distant (likely literally so that Jesus is "alone" but like at the back of the crowd in the "trials", or some of them (probably not with Pilate though, although specific reports of where Pilate walked are included, so probably nearby), and is then the one at the cross who is told that Mary, mother of Jesus, is now his mother to take care of, and he her son.
+
+John 19:
+
+/25 But standing by Jesus’ cross were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
+
+26 Therefore when Jesus saw his mother, and the disciple whom he loved standing there, he said to his mother, “Woman, behold, your son!”
+
+27 Then he said to the disciple, “Behold, your mother!” From that hour, the disciple took her to his own home./
+
+Note here that "the disciple whom he loved" is placed in parallel with "the disciple." That can be just normal shortening for the second reference, but it might also comment back on "the disciple" earlier who came with Peter to the courtyard, and this is almost certainly the same one here.
+
+Since DiLoved is, again almost certainly, the apostle John per logic from the final chapter of the gospel, this is John. And so the disciple who was known to the high priest, Caiaphas, is John.
+
+Why?
+
+Why would Caiaphas know a fisherman?
+
+Well, for a moment, let's drop our earlier for-sake-of-argument concession that somehow Caiaphas doesn't know who the inner circle of disciples are who are always there when this Jesus guy is being a thorn in his side. He could simply know that John has interest in what happens to Jesus. And that Nicodemus has no influence here, or any of the others like him.
+
+Now let's pick up that odd concession we made, though.
+
+In a worst-case scenario where the only explanation can be tied to John as he was before Jesus called him, a fisherman from Galilee, I still see several possibilities.
+
+First, John and James were of a fisherman family. This makes it possible they were a somewhat successful one. Any success at all is possible to open up connections to elites like Caiaphas. The same idea is used to suggest how Lazarus might be known to him, although Lazarus lived much closer.
+
+Second, we can't rule out a family connection without data to the contrary. Some uncle of John's might be a local synagogue leader who might have some connection to Caiphas, or to the Jerusalem leadership in general.
+
+Third, what does "known to the high priest" mean specifically and how do we know?
+
+Does it mean Caiaphas personally knew him?
+
+Not necessarily, due to the cultural language rule of embedding.
+
+#### Embedding in Body
 
 
 
