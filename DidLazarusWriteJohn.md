@@ -30,16 +30,51 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
 # Answer
 John and Lazarus were both very close friends of Jesus. It isn't surprising that John exclusively focuses on Lazarus in his gospel.
 
+Final chapter of John makes it crystal clear the disciple in question is a fisherman (Lazarus doesn't seem to be), and is the author of the gospel, and the style of the gospel is very clearly the same as the author of the three epistles also attributed to the apostle John.
+
+Ancient attestation is also unanimous that the names on the always-used scroll tags in every manuscript library, for all four gospels, are the authors of those gospels, contrary to populist pseudoscholarship claims of opponents in the current historical era (circa 2024 AD).
+
+So we know far beyond a reasonable doubt that John authored the gospel by his name.
+
+And other context makes it clear that (and why) John was referring to himself anonymously within the body text of his gospel.
+
+In short, it was at least almost-definitely to follow an authorial avoidance strategy that Jesus pointed his closest disciples to, evidently, by his focus on "from the beginning" as an interpretive key, when in his Pre-Incarnate nature authored (I think, and will explain some of why below) Genesis 1-2:4, signing it in 2:4 as "the LORD God" (Yahweh God in LSB, WEBP) but avoiding mention of himself as the Person of the Son by that name within the body text of that initial account. Much about that is highly disputed by others, and isn't the primary focus of this article but I've found their arguments extremely wanting, and I may cover it later.
+
+And I think we can see where and why John likely started to place personal importance on the word "love" as reflected throughout his writing style in both the gospel and his epistles -- even in his very report of the messengers about Lazarus.
+
+This is the mark of John's authorship and identity as the disciple Jesus loved (DiLoved)!
+
+One of Jesus' statements in John's version of the chapter where the DiLoved phrase is first used looks like it's the reason this was impressed on John -- note, right after Peter asked him (if it's him) to ask Jesus who was the betrayer; that would psychologically "wake John up" to pay even closer attention to everything surrounding this event than even anyone else:
+
+John 13:
+
+/34  A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.
+
+35  By this everyone will know that you are my disciples, if you have love for one another.”/
+
+John focuses on this -- if John is writing this gospel, as it seems crystal clear he did. Given the context, no wonder this impressed itself on him so strongly.
+
+This would influence his common word choice.
+
+Note that the DiLoved phrase is first used in this chapter, right at the part where Peter asks him to ask Jesus.
+
+This is a clear physchological connection between the phrase and this crucial statement by Jesus. Remember that John wrote this later -- long after this statement would have impressed itself on John's memory and heavily affected his typical wording style.
+
+Let's start to look at specific arguments and evidence.
+
+### Don't Quote the Messenger
+
 One error that may be being made by Laz=DiLoved proponents (arguments may vary, and I'm not assuming it's an error but hear me out) is based on seeing this passage as definitely *quoting* the messengers (the phrase in question I'll put in bold emphasis):
 
-/11
-1 Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha. 2 It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick.
+John 11:
+
+/1 Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha. 2 It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick.
 
 3 The sisters therefore sent to him, saying, **“Lord, behold, he for whom you have great affection is sick.”**
 
 4 But when Jesus heard it, he said, “This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.” 5 Now Jesus loved Martha, and her sister, and Lazarus./
 
-LSB has it as /"Lord, behold, he whom You love is sick."/
+LSB has it as /"Lord, behold, **he whom You love** is sick."/
 
 Quote marks didn't exist in Greek.
 
@@ -49,6 +84,163 @@ This is most likely *John's paraphrase* of the content of the messengers' messag
 
 *Not* likely a direct quote.
 
+Let's sum up this phrase "he whom you love" or its meaning, 'he whom Jesus loved' as **HeLoved**.
+
+We know that "**HeLoved**" = Lazarus.
+
+Does HeLoved = DiLoved? (DiscipleLoved?)
+
+Note: This does mean that Jesus' statement in John 13 isn't necessarily quoted either. But it makes sense that John is passing on Jesus' statement on this. Jesus is paraphrased or potentially quoted as making similar statements in other gospels, such as this:
+
+Matthew 22:
+
+/37 Jesus said to him, “ ‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’* 38  This is the first and great commandment.
+
+39  A second likewise is this, ‘You shall love your neighbor as yourself.’* 40  The whole law and the prophets depend on these two commandments.”/
+
+See also Mark 12:30-31, Luke 1:27-28.
+
+So this focus on the word love and relating it to commandments comes from Jesus most likely, not originating first with John, but John seems to have put his own personal style to it.
+
+I'll try to walk through a lot of examples of similar wordings in John and 1/2/3 John later.
+
+First, let's focus on most of the pro-Lazarus-as-DiLoved arguments that I've been able to find from some promoters online.
+
+### Non-LiterALL
+
+One argument that it has to be the same person is that the one called the disciple Jesus loved can't be John, or any of the "disciples" (see a problem already?) because Jesus and narrators of gospels say that all / each of the "disciples" scattered each to their own home.
+
+Example:
+
+John 16:
+
+/32  Behold, the time is coming, yes, and has now come, that **you will be scattered, <u>*every*</u>one to his own place, and you will leave me alone.** Yet I am not alone, because the Father is with me./
+
+First, although it's not my main point, how far do they need to be to qualify for "leave me alone"? I suggest they all scattered, and "left him alone," and perhaps eventually literally all went home separately (they may even have taken that part as instructions by that point), but in any case, my main argument allows for that this isn't literal.
+
+The pro-Lazarus-as-DiLoved argument (which may vary) in this case appears to assume that "all" means literally all, in all cases -- or, perhaps, implies an argument that if it doesn't, we have a problem.
+
+Not so, as I understand it.
+
+Hebrew "language culture" (how their culture used language, regardless of whether expressing their thoughts in Hebrew, Greek, or Aramaic or anything else) used *repitition* of "all" or synonyms to push toward a literal / universal all.
+
+Notice in the verse I quoted above, Jesus only uses an "all" word once.
+
+By default, this then should be seen as probably not absolute/literal, but that MOST of them would scatter and return to their homes.
+
+It's true that we have more than one statement like this, but how close by do they need to be to indicate a literal-all?
+
+(Or as I call it, a "literall".)
+
+As we clearly see, "each to his own home" can't mean a literal all in this case (or at least not right away), since Peter (obviously a "disciple" by both the general definition and in the sense of one of the 12):
+
+Matthew 26:
+
+/56  But all this has happened that the Scriptures of the prophets might be fulfilled.”
+
+Then **all the disciples left him and fled.**
+
+57 Those who had taken Jesus led him away to Caiaphas the high priest, where the scribes and the elders were gathered together.
+
+58 **But Peter followed him from a distance** to the court of the high priest, and entered in and sat with the officers, to see the end./
+
+By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined):
+
+Genesis 6:
+
+/13 God said to Noah, “I will bring an end to <u>**all**</u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
+
+...
+
+17 I, even I, will bring the flood of waters on this earth, to destroy <u>**all**</u> flesh having the breath of life from under the sky. 
+
+<u>**Every**</u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
+
+(Keep in mind the listed exceptions don't change the otherwise universal nature of these statements, although that does mean they aren't literally all flesh under the sky dying. I'm not counting the "every" in 19 since that's about the exceptions. Also not counting the "alls" for Noah obeying, etc. Just about all flesh dying and the waters covering all land.)
+
+7:
+/4 In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.”
+
+...
+
+17 The flood was forty days on the earth. The waters <u>*increased*</u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u>*increased greatly,*</u>  on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u>*very*</u> high on the earth. <u>**All**</u> the high mountains that were under the <u>**whole**</u> sky were covered. 20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u>**All**</u> flesh died that moved on the earth, including birds, livestock, animals, <u>**every**</u> creeping thing that creeps on the earth, and <u>**every**</u> man. 22 <u>**All**</u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u>**Every**</u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u>**Only**</u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
+
+8:
+
+/9 but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the <u>**whole**</u> earth. He put out his hand, and took her, and brought her to him into the ship./
+
+This approach to language allows the Hebrew system to communicate clearly in any language -- including English or any other translation.
+
+This shouldn't surprise us as the all-knowing God chose this language as the one for his original largest chosen culture which preserved his message to humanity, and the language for that message to primarily be in, for OT.
+
+God obviously fore-knew we would be translating it into every language we could.
+
+This is also similar to the rule about parallelism as usually implying equivalence or some other close relationship. This is a structure we can see in translation, although some lower-priority structures do get lost a bit like the common plays on words in Hebrew.
+
+You also have to look at the logic flow, and proximity to other passages that may repeat the "all," in each case.
+
+For example, what about this one?
+
+6:
+
+/22 Thus Noah did. He did all that God commanded him./
+
+Did he do only most of what God commanded?
+
+Well, a few verses later we have:
+
+7:
+
+/5 Noah did everything that Yahweh commanded him./
+
+He didn't necessarily need to repeat it, but he does.
+
+Notice this is all still the same basic section, so we should read these as most likely modifying each other. We know that because of the logic flow in this case.
+
+Paul himself talked about this principle here:
+
+1st Corinthians 15:
+
+/27 For, “He put all things in subjection under his feet.”*
+
+But when he says, “All things are put in subjection”, it is evident that he is excepted who subjected all things to him.
+
+28 When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all./
+
+Some of Jesus' statements on legitimate exceptions for "work" on the Sabbath likely also apply, especially what he said here:
+
+Mark 2:
+
+/23 He was going on the Sabbath day through the grain fields; and his disciples began, as they went, to pluck the ears of grain.
+
+24 The Pharisees said to him, “Behold, why do they do that which is not lawful on the Sabbath day?”
+
+25 He said to them, “Did you never read what David did when he had need and was hungry—he, and those who were with him?
+
+26  How he entered into God’s house at the time of Abiathar the high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?”
+
+27 He said to them, “The Sabbath was made for man, not man for the Sabbath. 28  Therefore the Son of Man is lord even of the Sabbath.”/
+
+This was referring to [1 Samuel 21:1-6](https://www.blueletterbible.org/lsb/1sa/21/1).
+
+For his own disciples in the present, this was probably at least partially about that he was instituting the new covenant predicted by Moses. (Details below.)
+
+But about David, it's about how the implied "all" in all (all) didactic law isn't necessarily literal and depended on all (all) the other laws in it, in full full full context in the Mosaic Law, and would be determined on a case by case basis by the judges.
+
+This is why the law was given, evidently, immediately after the setting up of the judge heirarchy. (See )
+
+The idea that exceptions always need to be explicitly spelled out up front is a modern one, so the objection is anachronistic. Social scientist Bruce Malina has documented this in detail (see for example his *Handbook of Biblical Social Values*, a must-read source recommended by JPH).
+
+For the part about Jesus' application to his disciples as Lord of the Sabbath, see here:
+
+
+
+
+
+
+### Known to the high priest?
+
+Another argument is that Lazarus
 
 
 
@@ -111,7 +303,10 @@ Note: "For web pages or apps the full copyright notice must be used with www.LSB
 
 ### Abbreviations:
 #### For this page:
-(None listed currently.)
+- **DiLoved** / **DiscipleLoved** = Disciple whom Jesus Loved.
+- **HeLoved** = He whom Jesus loved (we're told this is Lazarus).
+- **literall** = literal "all" (or a synonym), indicated in Hebrew "language culture" with repetition, the more the merrier.
+- **nonliterall** = non-literal "all" (or synonyms). A single use of an "all" word most likely just means "most" or "nearly all." Context, logic flow of it, etc. may also imply some individual "all" statements may be literal as well as shorthand, but don't assume a singular all is literal or absolute.
 #### Common Abbreviations: 
 - **OT** = Old Testament (Genesis through Malachi).
 - **IT** = Inter-Testamental historical era, includes some extrabiblical literature sometimes relevant for insights into beliefs at the time.
