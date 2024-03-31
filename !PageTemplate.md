@@ -7,7 +7,7 @@
 ([Skip to answer](#answer) if you're familiar with my standard "must read" notes below. Otherwise you must read the must-read notes.)
 
 ### Must-Read Notes:
-**If you know my real name, do not tell others.** I don't agree with giving out personal information online. You may refer to me by my email address, idealparable@gmail.com.
+**If you know my real name, do not tell others.** I don't agree with giving out personal information online. You may refer to me by my email address, [**idealparable@gmail.com**](idealparable@gmail.com).
 
 Bible quotes may be from [World English Bible Public domain version (WEBP)](https://ebible.org/web/GEN01.htm), or [Legacy Standard Bible (LSB)](https://www.blueletterbible.org/lsb/gen/1/1) (links will usually be to LSB on Blue Letter Bible (BLB)).
 
@@ -17,7 +17,7 @@ Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example \|...the
 
 Keep in mind for brevity my wording may sound more definite than intended. This site is devoted to careful, open-minded truthseeking, building soundly from the ground up, and help anyone interested learn the current global state of knowledge. I'll try, though, to clarify what is less or more certain with clear word choice.
 
-See [end notes](#end-notes) for more about citation style, copyright notices, explanations of common abbreviations, and a little more about (ideally not) citing me or contacting me.
+See [end notes](#end-notes) for more about citation style, copyright notices, explanations of common abbreviations, and a little more about (ideally not) citing me or contacting me. Read those too when you finish reading the rest of this page, please, if you haven't before.
 
 # Answer
 
