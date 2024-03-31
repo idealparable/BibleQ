@@ -1,5 +1,7 @@
 <head><link rel="stylesheet" href="style.css"></head>
 
+Current homepage URL (note, the "bibleseek" part is case sensitive due to how GitHub works): **https://idealparable.github.io/bibleseek/**.
+
 # BibleSeek - Bible Truthseeking
 
 #### Recent topics:

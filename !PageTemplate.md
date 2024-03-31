@@ -24,11 +24,45 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+
 ---
 
-# End Notes:
-For the following detailed sections going through specific passages, **please do first read** these notes on format and abbreviations:
+<br>
 
+# End Notes:
 ### Bible Citations
 - Bible quotes may be enclosed in slashes (e.g. /In the beginning.../), especially if extended.
 - Copypasted from Blue Letter Bible (BLB).
@@ -45,8 +79,8 @@ For the following detailed sections going through specific passages, **please do
 Note: "For web pages or apps the full copyright notice must be used with www.LSBible.org being a click-enabled web link."
 
 ### Abbreviations:
-- **AbbrevGoesHere** = DefinitionGoesHere
-<br><br>
+#### For this page:
+(None listed currently.)
 #### Common Abbreviations: 
 - **OT** = Old Testament (Genesis through Malachi).
 - **IT** = Inter-Testamental historical era, includes some extrabiblical literature sometimes relevant for insights into beliefs at the time.
@@ -68,7 +102,7 @@ Note: "For web pages or apps the full copyright notice must be used with www.LSB
 - **JPH** = James Patrick Holding of tektonics.org, some CMI articles, a library scientist & apologist, common source of mine on proper interpretation, scholarship review, biblical social context, etc.
 - **GM** = Glenn Miller of ChristianThinkTank.org, common source of JPH's, also does extensive scholarship and biblical context review.
 
-#### Cite or Contact Me?
+### Cite or Contact Me?
 Please think twice about citing me as if I was an authoritative source. I'm just a nobody layman with a brain who's dying (hopefully of old age), so I wanted to know what would happen after, and what I should do about it. As should all. I happened to learn a lot, including a layman focus on logic. So in case it would help people I try to make what I know available to others, but you should be doing your own study.
 
 If you want to cite me, you can refer to me by my email: idealparable@gmail.com.
