@@ -242,9 +242,9 @@ For the Christian Old-Earthers who worry the Bible gets disproven if it teaches 
 
 This approach to language allows the Hebrew system to communicate clearly in any language -- including English or any other translation.
 
-This shouldn't surprise us as the all-knowing God chose this language as the one for his original largest chosen culture which preserved his message to humanity, and the language for that message to primarily be in, for OT.
+This shouldn't surprise us as the all-knowing God chose this language as the one for his original largest chosen culture which preserved his message to all humanity, and the language for that message to primarily be in, for OT.
 
-God obviously fore-knew we would be translating it into every language we could.
+God obviously foreknew we would be translating it into every language we could.
 
 This is also similar to the rule about parallelism as usually implying equivalence or some other close relationship. This is a structure we can see in translation, although some lower-priority structures do get lost a bit like the common plays on words in Hebrew.
 
@@ -316,7 +316,9 @@ Deuteronomy 18:
 
 This was where Moses, passing on God's words, "spoke of" Jesus, as Jesus said he did.
 
-That he was predicting a new covenant might be a bit subtle, but establishing a covenant was what Moses did (the Mosaic covenant) so that's implied in the "like me." Also in the "listen to him." Basically this means when Christ came, it would be his prerogative to establish a new covenant, or not to, however God chose, and whether it would replace the Mosaic one (as a branch off of it, as all previous covenants had been except arguably a replacement Adamic one when Adam and Eve sinned), or else replace it (as clearly it did, as a branch off of the Abrahamic, which the Mosaic also branched off of).
+That he was predicting a new covenant might be a bit subtle, but establishing a covenant was what Moses did (the Mosaic covenant) so that's implied in the "like me."
+
+Also in the "listen to him." Basically this means when Christ came, it would be his prerogative to establish a new covenant, or not to, however God chose, and whether it would continue with the Mosaic one (as a branch off of it, as all previous covenants had been branches off of the previous (Adamic, Noahic, Abrahamic, then Mosaic), except arguably a replacement Adamic one when Adam and Eve sinned), or else replace it (as clearly it did, as a branch off of the Abrahamic, which the Mosaic also branched off of, which Paul makes clear in [Galatians 3](https://www.blueletterbible.org/lsb/gal/3), especially verse 25 in context).
 
 That it would indeed be a new covenant was explicitly confirmed here, as well as that it would not be a branch off of the Mosaic covenant:
 
@@ -364,9 +366,9 @@ Now that disciple was known to the high priest, and entered in with Jesus into t
 
 So the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought in Peter./
 
-This doesn't include the "loved" part, but it does include the anonimity, oddness of the anonymity (occasional references to various unnamed sdisciples aren't necessarily surprising, but this one is emphasized and the wording used a few times here.), and, obviously, the word "disciple."
+This doesn't include the "loved" part, but it does include the anonymity, oddness of the anonymity (occasional references to various unnamed disciples aren't necessarily surprising, but this one is emphasized and the wording used a few times here), and, obviously, the word "disciple."
 
-Parsimoniously, this is the same one referred to by the DiLoved phrase in the incident with the dipping of bread, and in the final chapter of John, the other key uses.
+Parsimoniously, this is the same one referred to by the DiLoved phrase in the incident with the dipping of bread, and in the final chapter of John.
 
 Now I find this argument *somewhat plausible,* because there can be two senses of "disciple."
 
@@ -378,9 +380,9 @@ John 8:
 
 /31 Jesus therefore said to those Jews who had believed him, “If you remain in my word, then you are truly my disciples./
 
-The Bible often switches between senses of words. It was normal practice and a sign of a worthy wordsmith to switch between them in close proximity without spelling out that the word was shifting, and rely on the intelligent reader to see the difference.
+The Bible often switches between senses of words. It was normal practice and a sign of a worthy wordsmith to switch between them in close proximity without spelling out that the meaning of the word was shifting, and rely on the intelligent reader to see the difference.
 
-This was part of how the wisdom teacher would sort the fool from the wise student.
+This was part of how the [wisdom teacher](RiddlesWise.md) would sort the fool from the wise student.
 
 Like, I like the like count like I liked them all myself as the likeness of alike likers.
 
