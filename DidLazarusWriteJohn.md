@@ -28,7 +28,26 @@ Keep in mind for brevity my wording may sound more definite than intended. This 
 See [end notes](#end-notes) for more about citation style, copyright notices, explanations of common abbreviations, and a little more about (ideally not) citing me or contacting me. Read those too when you finish reading the rest of this page, please, if you haven't before.
 
 ## Table of Contents
-[Did Lazarus Write John? Is he the Disciple Jesus Loved?](#did-lazarus-write-john-is-he-the-disciple-jesus-loved)
+- [Question: Did Lazarus Write John? Is he the Disciple Jesus Loved?](#did-lazarus-write-john-is-he-the-disciple-jesus-loved)
+  - [Must-Read Notes](#must-read-notes)
+  - [Table of Contents](#table-of-contents)
+- [Answer](#answer)
+  - [Don't Quote the Messenger](#dont-quote-the-messenger)
+  - [Non-LiterALL](#non-literall)
+  - [Say Again?](#say-again)
+  - [Before You Flood Me With Objections](#before-you-flood-me-with-objections)
+  - [Paul's All](#pauls-all)
+  - [He Is Not Just Talking About Bread](#he-is-not-just-talking-about-bread)
+  - [Disciple isn't Disciple?](#disciple-isnt-disciple)
+  - [Known to the high priest?](#known-to-the-high-priest)
+  - [Embedding in Body](#embedding-in-body)
+
+- [End Notes](#end-notes)
+  - [Bible Citations](#bible-citations)
+  - [Abbreviations](#abbreviations)
+    - [For this page](#for-this-page)
+    - [Common Abbreviations](#common-abbreviations)
+  - [Cite or Contact Me?](#cite-or-contact-me)
 
 # Answer
 John and Lazarus were both very close friends of Jesus. It isn't surprising that John exclusively focuses on Lazarus in his gospel.
@@ -65,7 +84,7 @@ This is a clear physchological connection between the phrase and this crucial st
 
 Let's start to look at specific arguments and evidence.
 
-### Don't Quote the Messenger
+## Don't Quote the Messenger
 
 One error that may be being made by Laz=DiLoved proponents (arguments may vary, and I'm not assuming it's an error but hear me out) is based on seeing this passage as definitely *quoting* the messengers (the phrase in question I'll put in bold emphasis):
 
@@ -109,7 +128,7 @@ I'll try to walk through a lot of examples of similar wordings in John and 1/2/3
 
 First, let's focus on most of the pro-Lazarus-as-DiLoved arguments that I've been able to find from some promoters online.
 
-### Non-LiterALL
+## Non-LiterALL
 
 One argument that it has to be the same person is that the one called the disciple Jesus loved can't be John, or any of the "disciples" (see a problem already?) because Jesus and narrators of gospels say that all / each of the "disciples" scattered each to their own home.
 
@@ -125,7 +144,7 @@ The pro-Lazarus-as-DiLoved argument (which may vary) in this case appears to ass
 
 Not so, as I understand it.
 
-#### Say Again?
+## Say Again?
 
 Hebrew "language culture" (how their culture used language, regardless of whether expressing their thoughts in Hebrew, Greek, or Aramaic or anything else) used *repitition* of "all" or synonyms to push toward a literal / universal all.
 
@@ -149,7 +168,7 @@ Then **all the disciples left him and fled.**
 
 58 **But Peter followed him from a distance** to the court of the high priest, and entered in and sat with the officers, to see the end./
 
-#### Before You Flood Me With Objections
+## Before You Flood Me With Objections
 
 By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined):
 
@@ -204,7 +223,7 @@ He didn't necessarily need to repeat it, but he does.
 
 Notice this is all still the same basic section, so we should read these as most likely modifying each other. We know that because of the logic flow in this case.
 
-#### Paul's All
+## Paul's All
 
 Paul himself talked about this principle here:
 
@@ -216,7 +235,7 @@ But when he says, “All things are put in subjection”, it is evident that he 
 
 28 When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all./
 
-#### He Is Not Just Talking About Bread
+## He Is Not Just Talking About Bread
 
 Some of Jesus' statements on legitimate exceptions for "work" on the Sabbath likely also apply, especially what he said here:
 
@@ -284,7 +303,7 @@ Obviously, David was before this, so Jesus' point was not that Jesus was simply 
 
 JPH has more material on this including historical evidence that this is how it was interpreted.
 
-### Disciple isn't Disciple?
+## Disciple isn't Disciple?
 
 Another obvious problem with the "it can't be John because he's a disciple and all the disciples went home" argument is that, well, the phrase in question is the *disciple* Jesus loved.
 
@@ -332,7 +351,7 @@ If Lazarus can be the "disciple" who accompanied Peter (and, to be fair, he can;
 
 So the argument, while valid, actually goes nowhere.
 
-### Known to the high priest?
+## Known to the high priest?
 
 Another argument is that Lazarus is a better candidate than John to be known to the high priest (see passage quote in above section).
 
@@ -442,7 +461,7 @@ Does it mean Caiaphas personally knew him?
 
 Not necessarily, due to the cultural language rule of embedding.
 
-#### Embedding in Body
+## Embedding in Body
 
 
 

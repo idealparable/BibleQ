@@ -7,6 +7,7 @@ Please note the "bibleseek" part in this site's URL is case sensitive and must b
 #### Recent topics:
 
 - [Did Lazarus Write John? Is he the Disciple Jesus Loved?](DidLazarusWriteJohn.md) Why I think answer's no to both.
+  - [DRAFT notes (temporary page)](Laz_v_John.md)
 
 ## Foundational topics:
 
