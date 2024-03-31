@@ -1,11 +1,25 @@
 <head><link rel="stylesheet" href="style.css"></head>
 
-# BibleQ - Bible Questions Notes
+# BibleSeek - Bible Truthseeking
 
-For now, pages on individual topic findings will simply be listed below in order made. Later I might create categories.
+#### Recent topics:
 
-- [Lazarus versus John](Laz_v_John.md) (WIP) - Who is the disciple Jesus loved? And who wrote the gospel of John?
+- [Did Lazarus Write John? Is he the Disciple Jesus Loved?](DidLazarusWriteJohn.md) Why I think answer's no to both.
+
+## Foundational topics:
+
+WIPs / unmade:
+- [How to Read the Bible According to the Bible](HowToRead.md)
+- [Seek: Biblical Definition of God](BibleDefinesGod.md)
+- [Proof: Yahweh God & Bible](ProofOfYahweh.md)
+
+### More key topics
+
+
+
+## Other topics:
+
 
 
 ---
-[TEMPLATE](!PageTemplate.md) | [About](About.md) | [Citing Me+](About.md#citing-me)
+[TEMPLATE](!PageTemplate.md) 
