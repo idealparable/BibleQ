@@ -474,7 +474,7 @@ Peter was with them, standing and warming himself./
 
 And it goes on like this. This is clear authorial POV.
 
-This unnamed disciple continues to be here -- he doesn't disappear -- and likely remains with Jesus the whole time, a little distant (likely literally so that Jesus is "alone" but like at the back of the crowd in the "trials", or some of them (probably not with Pilate though, although specific reports of where Pilate walked are included, so probably nearby), and is then the one at the cross who is told that Mary, mother of Jesus, is now his mother to take care of, and he her son.
+This unnamed disciple continues to be here -- he doesn't disappear -- and likely remains with Jesus the whole time, a little distant (likely literally so that Jesus is "alone" but such as at the back of the crowd in the "trials", or some of them (probably not with Pilate though, although specific reports of where Pilate walked are included, so probably nearby), and is then the one at the cross who is told that Mary, mother of Jesus, is now his mother to take care of, and he her son.
 
 John 19:
 
