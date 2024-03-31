@@ -1,6 +1,6 @@
 <head><link rel="stylesheet" href="style.css"></head>
 
-Current homepage URL (note, the "bibleseek" part is case sensitive due to how GitHub works): **https://idealparable.github.io/bibleseek/**.
+Please note the "bibleseek" part in this site's URL is case sensitive and must be lowercase, despite the spelling in the title below.
 
 # BibleSeek - Bible Truthseeking
 
