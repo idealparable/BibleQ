@@ -182,18 +182,19 @@ By contrast, we know for a standard example that "all" and synonyms are literal/
 
 Genesis 6:
 
-/13 God said to Noah, “I will bring an end to <u><b>all (1)</b></u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
+/13 God said to Noah, “I will bring an end to <u><b>all(1)</b></u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
 
 ...
 
-17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all (2)</b></u> flesh having the breath of life from under the sky. 
+17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all(2)</b></u> flesh having the breath of life from under the sky. 
 
 <u><b>Every(3)</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
 
 (Keep in mind the listed exceptions don't change the otherwise universal nature of these statements, although that does mean they aren't literally all flesh under the sky dying. I'm not counting the "every" in 19 since that's about the exceptions. Also not counting the "alls" for Noah obeying, etc. Just about all flesh dying and the waters covering all land.)
 
 7:
-/4 In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy <u><b>every (4)</b></u> living thing that I have made from the surface of the ground.”
+
+/4 In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy <u><b>every(4)</b></u> living thing that I have made from the surface of the ground.”
 
 ...
 
@@ -201,9 +202,9 @@ Genesis 6:
 
 <u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
-20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All (5)</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every (6)</b>></u> creeping thing that creeps on the earth, and <u><b>>every (7)</b>></u> man.
+20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All(5)</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every(6)</b>></u> creeping thing that creeps on the earth, and <u><b>>every(7)</b>></u> man.
 
-22 <u><b>>All (8)</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every (9)</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only (10)</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
+22 <u><b>>All(8)</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every(9)</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only(10)</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
 
 8:
 
