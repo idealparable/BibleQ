@@ -186,9 +186,9 @@ Genesis 6:
 
 ...
 
-17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all(2)</b></u> flesh having the breath of life from under the sky. 
+17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all(2)</b></u> flesh having the breath of life from under the sky. <u><b>Every(3)</b></u>thing that is in the earth will die.
 
-<u><b>Every(3)</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
+18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
 
 (Keep in mind the listed exceptions don't change the otherwise universal nature of these statements, although that does mean they aren't literally all flesh under the sky dying. I'm not counting the "every" in 19 since that's about the exceptions. Also not counting the "alls" for Noah obeying, etc. Just about all flesh dying and the waters covering all land.)
 
@@ -198,7 +198,9 @@ Genesis 6:
 
 ...
 
-17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth.
+17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth./
+
+Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*ohd m\*ohd in my transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
 
 <u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
@@ -210,7 +212,7 @@ Genesis 6:
 
 /9 but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the <u><b>WHOLE</b></u> earth. He put out his hand, and took her, and brought her to him into the ship./
 
-That's a total of three "alls" for water extent on land/earth, with three additional superlatives.
+That's a total of three "alls" for water extent on land/earth, with four additional superlatives.
 
 And an astonishing ten "alls" for land flesh dying.
 
