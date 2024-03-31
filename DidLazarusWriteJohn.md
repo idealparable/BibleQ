@@ -202,7 +202,7 @@ Genesis 6:
 
 <u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
-20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All(5)</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every(6)</b>></u> creeping thing that creeps on the earth, and <u><b>>every(7)</b>></u> man.
+20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All(5)</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every(6)</b>></u> creeping thing that creeps on the earth, and <u><b>every(7)</b></u> man.
 
 22 <u><b>>All(8)</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every(9)</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only(10)</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
 
@@ -226,7 +226,7 @@ Some object that literal=good, and thus the Bible should rightly be held to a hi
 
 It's certainly true that ancients could struggle with this (we're looking at you, disciples when Jesus talked about the yeast of the Pharisees), but of course, the fact that Jesus spoke even more figuratively than many should clue you in that the higher standard may actually be to make your language a little bit more interesting from time to time, rather than a snorefest.
 
-For the Old-Earthers who worry the Bible gets disproven if it teaches a global Flood and "young" Earth, because secular scientists claim science disproves those, those claims are debunked in excruciating detail by AiG, CMI, ICR, CRS, etc. (See [end notes](#end-notes) on those.) I'll be eventually including articles about that on this site to clarify why I say that from my own perspective.)
+For the Christian Old-Earthers who worry the Bible gets disproven if it teaches a global Flood and "young" Earth, because secular scientists claim science disproves those, those claims are debunked in excruciating detail by AiG, CMI, ICR, CRS, etc. (See [end notes](#end-notes) on those.) I'll be eventually including articles about that on this site to clarify why I say that from my own perspective.)
 
 This approach to language allows the Hebrew system to communicate clearly in any language -- including English or any other translation.
 
