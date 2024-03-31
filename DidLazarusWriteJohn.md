@@ -19,7 +19,7 @@ I could be wrong, now, but I don't think so.
 
 Bible quotes may be from [World English Bible Public domain version (WEBP)](https://ebible.org/web/GEN01.htm), or [Legacy Standard Bible (LSB)](https://www.blueletterbible.org/lsb/gen/1/1) (links will usually be to LSB on Blue Letter Bible (BLB)).
 
-**Bible quotes may be enclosed in slashes** without spaces (e.g. /In the beginning.../), preserving existing quote marks. Slashes wih spaces may go between parallel quotes / fragments / cites / etc.
+**Bible quotes may be enclosed in slashes** without spaces (e.g. /In the beginning.../), preserving existing quote marks. Slashes with spaces may go between parallel quotes / fragments / cites / etc.
 
 Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example \|...the founder of the name...\|).
 
@@ -136,7 +136,7 @@ Example:
 
 John 16:
 
-/32  Behold, the time is coming, yes, and has now come, that **you will be scattered, <u>*every*</u>one to his own place, and you will leave me alone.** Yet I am not alone, because the Father is with me./
+/32  Behold, the time is coming, yes, and has now come, that **you will be scattered, <u><i>every</i></u>one to his own place, and you will leave me alone.** Yet I am not alone, because the Father is with me./
 
 First, although it's not my main point, how far do they need to be to qualify for "leave me alone"? I suggest they all scattered, and "left him alone," and perhaps eventually literally all went home separately (they may even have taken that part as instructions by that point), but in any case, my main argument allows for that this isn't literal.
 
@@ -146,7 +146,7 @@ Not so, as I understand it.
 
 ## Say Again?
 
-Hebrew "language culture" (how their culture used language, regardless of whether expressing their thoughts in Hebrew, Greek, or Aramaic or anything else) used *repitition* of "all" or synonyms to push toward a literal / universal all.
+Hebrew "language culture" (how their culture used language, regardless of whether expressing their thoughts in Hebrew, Greek, or Aramaic or anything else) used *repetition* of "all" or synonyms to push toward a literal / universal all.
 
 Notice in the verse I quoted above, Jesus only uses an "all" word once.
 
@@ -170,17 +170,17 @@ Then **all the disciples left him and fled.**
 
 ## Before You Flood Me With Objections
 
-By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined):
+By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these three will be all-capitalized), and many more about all land "flesh" dying outside the ark.
 
 Genesis 6:
 
-/13 God said to Noah, “I will bring an end to <u>**all**</u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
+/13 God said to Noah, “I will bring an end to <u><b>all</b></u> flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.
 
 ...
 
-17 I, even I, will bring the flood of waters on this earth, to destroy <u>**all**</u> flesh having the breath of life from under the sky. 
+17 I, even I, will bring the flood of waters on this earth, to destroy <u><b>all</b></u> flesh having the breath of life from under the sky. 
 
-<u>**Every**</u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
+<u><b>Every</b></u>thing that is in the earth will die. 18 But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. 19 Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female./
 
 (Keep in mind the listed exceptions don't change the otherwise universal nature of these statements, although that does mean they aren't literally all flesh under the sky dying. I'm not counting the "every" in 19 since that's about the exceptions. Also not counting the "alls" for Noah obeying, etc. Just about all flesh dying and the waters covering all land.)
 
@@ -189,11 +189,17 @@ Genesis 6:
 
 ...
 
-17 The flood was forty days on the earth. The waters <u>*increased*</u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u>*increased greatly,*</u>  on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u>*very*</u> high on the earth. <u>**All**</u> the high mountains that were under the <u>**whole**</u> sky were covered. 20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u>**All**</u> flesh died that moved on the earth, including birds, livestock, animals, <u>**every**</u> creeping thing that creeps on the earth, and <u>**every**</u> man. 22 <u>**All**</u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u>**Every**</u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u>**Only**</u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
+17 The flood was forty days on the earth. The waters <u><i>increased</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>increased greatly,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>very</i></u> high on the earth.
+
+<u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
+
+20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>>every</b>></u> creeping thing that creeps on the earth, and <u><b>>every</b>></u> man.
+
+22 <u><b>>All</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
 
 8:
 
-/9 but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the <u>**whole**</u> earth. He put out his hand, and took her, and brought her to him into the ship./
+/9 but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the <u><b>WHOLE</b></u> earth. He put out his hand, and took her, and brought her to him into the ship./
 
 This approach to language allows the Hebrew system to communicate clearly in any language -- including English or any other translation.
 
@@ -463,10 +469,55 @@ Not necessarily, due to the cultural language rule of embedding.
 
 ## Embedding in Body
 
+Embedding refers to the common linguistic practice of referring to everybody under a leader as if they are that leader.
 
+We see embedding with the parallel passages about the centurion here:
 
+Matthew 8:
 
+/5 When he came into Capernaum, a centurion came to him, asking him for help, 6 saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”
 
+7 Jesus said to him, “I will come and heal him.”
+
+8 The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed. 9 For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”
+
+10 When Jesus heard it, he marveled and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel. 11  I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven, 12  but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.”
+
+13 Jesus said to the centurion, “Go your way. Let it be done for you as you have believed.” His servant was healed in that hour./
+
+Matthew is condensing the details that don't matter as much for the sake of the audience, drawing their attention to the key aspects of this event, but Luke gives more directly literal detail:
+
+Luke 7:
+
+/1 After he had finished speaking in the hearing of the people, he entered into Capernaum. 2 A certain centurion’s servant, who was dear to him, was sick and at the point of death.
+
+3 When he heard about Jesus, he sent to him elders of the Jews, asking him to come and save his servant.
+
+4 When they came to Jesus, they begged him earnestly, saying, “He is worthy for you to do this for him, 5 for he loves our nation, and he built our synagogue for us.”
+
+6 Jesus went with them.
+
+When he was now not far from the house, the centurion sent friends to him, saying to him, “Lord, don’t trouble yourself, for I am not worthy for you to come under my roof. 7 Therefore I didn’t even think myself worthy to come to you; but say the word, and my servant will be healed. 8 For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this,’ and he does it.”
+
+9 When Jesus heard these things, he marveled at him, and turned and said to the multitude who followed him, “I tell you, I have not found such great faith, no, not in Israel.”
+
+10 Those who were sent, returning to the house, found that the servant who had been sick was well./
+
+(This is on the populist ignorant skeptics' lists of supposed Bible contradictions, of course. Embedding is the answer.)
+
+Embedding would, in fact, be the default expected meaning people would expect is being implied even if nobody like Luke had ever let the rest of us in on the figure of speech.
+
+This is likely one example of a difference in initial intended audience.
+
+We have ancient testimony that Matthew wrote originally a "Hebrew" gospel (perhaps meaning writing in Aramaic, but it may have literally meant Hebrew), and that someone (maybe Matthew himself) later translated it to Greek. Matthew is also Hebrew himself, so he may have taken it more for granted how this figure works, while Luke is thought to have been more Hellenistic, so he may have had in mind more of writing for wider audiences.
+
+Embedding is also seen here:
+
+1st Corinthians 12:
+
+/27 Now you are the body of Christ, and members individually./
+
+And the previous verses starting at 12
 
 
 

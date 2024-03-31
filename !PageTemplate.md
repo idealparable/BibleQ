@@ -11,7 +11,7 @@
 
 Bible quotes may be from [World English Bible Public domain version (WEBP)](https://ebible.org/web/GEN01.htm), or [Legacy Standard Bible (LSB)](https://www.blueletterbible.org/lsb/gen/1/1) (links will usually be to LSB on Blue Letter Bible (BLB)).
 
-**Bible quotes may be enclosed in slashes** without spaces (e.g. /In the beginning.../), preserving existing quote marks. Slashes wih spaces may go between parallel quotes / fragments / cites / etc.
+**Bible quotes may be enclosed in slashes** without spaces (e.g. /In the beginning.../), preserving existing quote marks. Slashes with spaces may go between parallel quotes / fragments / cites / etc.
 
 Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example \|...the founder of the name...\|).
 
