@@ -230,7 +230,9 @@ If I can count. Which is often in question.
 
 As a biblical creationist, I can understand that many will find the idea of a nonliteral all concerning, but ironically, the answer to how we know when it's literal actually backs up biblical creation and its interpretation of a global Flood much more than you might realize if you don't know how Hebrew "all"-language works.
 
-The idea that "all means all" sounds great to our modern English culture, and often it does mean a literal all, but 1) it comes out of the effect on our culture of the industrial revolution (along with much of our general sense that literal = good and allowing for nonliteral is bad, because as one of JPH's sources says, \|machines tolerate no imprecision\|) and 2) even we don't actually follow that rule, as <u><b>every</b></u>one knows, so it's inconsistent to impose a rule on Hebrew culture that even we don't follow. Careful with that plank!
+The idea that "all means all" sounds great to our modern English culture, and often it does mean a literal all, but 1) it comes out of the effect on our culture of the industrial revolution (along with much of our general sense that literal = good and allowing for nonliteral is bad, because as one of JPH's sources says, \|machines tolerate no imprecision\|) and 2) even we don't actually follow that rule, as <u><b>every</b></u>one knows, so it's inconsistent to impose a rule on Hebrew culture that even we don't follow.
+
+Careful with that plank! You could poke an eye out!
 
 Some object that literal=good, and thus the Bible should rightly be held to a higher standard, but this is missing that the idea that literal is better, or that nonliteral is unclear and open to interpretation, is part of our culture, not ancient culture.
 
