@@ -40,7 +40,7 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
   - [He Is Not Just Talking About Bread](#he-is-not-just-talking-about-bread)
   - [Disciple isn't Disciple?](#disciple-isnt-disciple)
   - [Known to the high priest?](#known-to-the-high-priest)
-  - [Embedding in Body](#embedding-in-body)
+  - [Embodying Embedding in Body](#embodying-embedding-in-body)
 
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
@@ -508,7 +508,7 @@ Does it mean Caiaphas personally knew him?
 
 Not necessarily, due to the cultural language rule of embedding.
 
-## Embedding in Body
+## Embodying Embedding in Body
 
 Embedding refers to the common linguistic practice of referring to everybody under a leader as if they are that leader.
 
@@ -538,7 +538,9 @@ Luke 7:
 
 6 Jesus went with them.
 
-When he was now not far from the house, the centurion sent friends to him, saying to him, “Lord, don’t trouble yourself, for I am not worthy for you to come under my roof. 7 Therefore I didn’t even think myself worthy to come to you; but say the word, and my servant will be healed. 8 For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this,’ and he does it.”
+When he was now not far from the house, the centurion sent friends to him, saying to him, “Lord, don’t trouble yourself, for I am not worthy for you to come under my roof. 7 Therefore I didn’t even think myself worthy to come to you; but say the word, and my servant will be healed.
+
+8 For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this,’ and he does it.”
 
 9 When Jesus heard these things, he marveled at him, and turned and said to the multitude who followed him, “I tell you, I have not found such great faith, no, not in Israel.”
 
@@ -558,11 +560,96 @@ Embedding is also seen here:
 
 /27 Now you are the body of Christ, and members individually./
 
-And the previous verses starting at 12
+And the previous verses starting at 12.
 
+## A Man's Gotta Eat
+Life works by you work for food. You farm, or you fish, or you hunt, or you gather, or you produce lab-grown meat that probably causes cancer.
 
+Or else, you work in some kind of indirect support work for this, or else you're an elite, and you work at some unrelated task, and those who obtain money (the "certificate that you served your fellow man") get their food from someone else -- whether directly from a food producer, or from a food distribution worker or workers.
 
+If the idea is that a chief priest would not associate with a fisherman (which will be a problematic argument for saying DiLoved is Lazarus as it is, since the final chapter of John places DiLoved trying to fish all night with Peter etc.), or a farmer, or a hunter, or a gatherer... or a food distributor...
 
+That may very well be so in the sense of Caiaphas himself, but once we understand embedding, we understand that servants of Caiaphas, of the temple, etc., provide him and the other elites with food.
+
+Or else you very quickly would not have elites.
+
+Notice again this wording:
+
+John 18:
+
+/16 but Peter was standing at the door outside. So the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought in Peter.
+
+17 Then the maid who kept the door said to Peter, “Are you also one of this man’s disciples?”
+
+He said, “I am not.”/
+
+It seems like she who kept the door, a maid, knows this unnamed disciple.
+
+I think the wording is more like that John arrived first (seems this is a thing about which of the two of them arrives first to places, as seen with who arrived first at the tomb), and told the maid that he had interest to know the outcome of what was happening concerning Jesus, because he was a disciple.
+
+That would explain her word choice to Peter (read it just above again).
+
+But if not, then it seems that she didn't need someone of higher authority to come back and say it was okay to let Peter in too; it seems like she knew the Unnamed Disciple should be allowed through the door and could be trusted to say who else should be allowed through.
+
+This could simply be because someone who served food to Caiaphas knew John, or his father, or his brother, etc.
+
+While they lived in very different places, that could easily happen.
+
+It could also be that this is condensing that someone else did go and tell her that Unnamed Disciple's permission should stand, but this just shuffles around the same point. It would be normal in embedding too.
+
+## Fishy
+Let's look at the final chapter of John now, and see why it seems fishy to argue that the Unnamed Disciple who let Peter in can't be John because John as a fisherman can't know Caiaphas.
+
+That is that the DiLoved seems to be a fisherman.
+
+(And as shown earlier above, the DiLoved seems to be the Unnamed Disciple.)
+
+At the end of the chapter we'll also see that DiLoved is (very strongly apparently) the author of the gospel of John.
+
+John 21:
+
+/1 After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way. 2 Simon Peter, Thomas called Didymus,† Nathanael of Cana in Galilee, and the sons of Zebedee, and two others of his disciples were together. 3 Simon Peter said to them, “I’m going fishing.”
+
+They told him, “We are also coming with you.” They immediately went out and entered into the boat./
+
+pausfornow. who they? fishers all? who the two? why the zebsons turn unnamed?
+
+/That night, they caught nothing. 4 But when day had already come, Jesus stood on the beach; yet the disciples didn’t know that it was Jesus. 5 Jesus therefore said to them, “Children, have you anything to eat?”
+They answered him, “No.”
+6 He said to them, “Cast the net on the right side of the boat, and you will find some.”
+They cast it therefore, and now they weren’t able to draw it in for the multitude of fish. 7 That disciple therefore whom Jesus loved said to Peter, “It’s the Lord!”
+So when Simon Peter heard that it was the Lord, he wrapped his coat around himself (for he was naked), and threw himself into the sea. 8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits‡ away), dragging the net full of fish. 9 So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it. 10 Jesus said to them, “Bring some of the fish which you have just caught.”
+11 Simon Peter went up, and drew the net to land, full of one hundred fifty-three great fish. Even though there were so many, the net wasn’t torn.
+12 Jesus said to them, “Come and eat breakfast!”
+None of the disciples dared inquire of him, “Who are you?” knowing that it was the Lord.
+13 Then Jesus came and took the bread, gave it to them, and the fish likewise. 14 This is now the third time that Jesus was revealed to his disciples after he had risen from the dead. 15 So when they had eaten their breakfast, Jesus said to Simon Peter, “Simon, son of Jonah, do you love me more than these?”
+He said to him, “Yes, Lord; you know that I have affection for you.”
+He said to him, “Feed my lambs.” 16 He said to him again a second time, “Simon, son of Jonah, do you love me?”
+He said to him, “Yes, Lord; you know that I have affection for you.”
+He said to him, “Tend my sheep.” 17 He said to him the third time, “Simon, son of Jonah, do you have affection for me?”
+Peter was grieved because he asked him the third time, “Do you have affection for me?” He said to him, “Lord, you know everything. You know that I have affection for you.”
+Jesus said to him, “Feed my sheep. 18  Most certainly I tell you, when you were young, you dressed yourself and walked where you wanted to. But when you are old, you will stretch out your hands, and another will dress you and carry you where you don’t want to go.”
+19 Now he said this, signifying by what kind of death he would glorify God. When he had said this, he said to him, “Follow me.”
+20 Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus loved, the one who had also leaned on Jesus’ chest at the supper and asked, “Lord, who is going to betray you?” 21 Peter, seeing him, said to Jesus, “Lord, what about this man?”
+22 Jesus said to him, “If I desire that he stay until I come, what is that to you? You follow me.” 23 This saying therefore went out among the brothers§ that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, “If I desire that he stay until I come, what is that to you?”
+24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written.
+
+- who wrote John?
+- who wrote 1/2/3 John?
+- style sims tweenem
+- is this style close to Revelation? Which in the body text confirms it's by John.
+- Anon Mark
+- Paul's "I know not if in the body"
+- Jesus' "from the beginning"
+- Paul's Romans 1 Genesis focus
+- Opening of John
+- Personal honor
+- Genesis 1-2
+- Toledoths
+- Updated Genealogies
+- Unitarianism
+- Contradiction allegations
+- "Poetry means whatever you want" myth
 
 
 
