@@ -206,7 +206,15 @@ Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just
 
 20 The waters rose fifteen cubits† higher, and the mountains were covered. 21 <u><b>All(5)</b></u> flesh died that moved on the earth, including birds, livestock, animals, <u><b>every(6)</b></u> creeping thing that creeps on the earth, and <u><b>every(7)</b></u> man.
 
-22 <u><b>All(8)</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died. 23 <u><b>Every(9)</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only(10)</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
+22 <u><b>All(8)</b></u> on the dry land, in whose nostrils was the breath of the spirit of life, died./
+
+LSB here has another all:
+
+/Gen 7:22 - <u><b>All(8)</b></u> in whose nostrils was the breath of the spirit of life—of <u><b>all(9)</b></u> that was on the dry land—died./
+
+Back to WEBP (reluctantly):
+
+/23 <u><b>Every(10)</b></u> living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. <u><b>Only(11)</b></u> Noah was left, and those who were with him in the ship. 24 The waters flooded the earth one hundred fifty days./
 
 8:
 
@@ -214,7 +222,7 @@ Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just
 
 That's a total of three "alls" for water extent on land/earth, with four additional superlatives.
 
-And an astonishing ten "alls" for land flesh dying.
+And an astonishing eleven "alls" for land flesh dying.
 
 If I can count. Which is often in question.
 
