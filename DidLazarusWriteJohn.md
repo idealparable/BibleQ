@@ -122,6 +122,8 @@ The pro-Lazarus-as-DiLoved argument (which may vary) in this case appears to ass
 
 Not so, as I understand it.
 
+#### Say Again?
+
 Hebrew "language culture" (how their culture used language, regardless of whether expressing their thoughts in Hebrew, Greek, or Aramaic or anything else) used *repitition* of "all" or synonyms to push toward a literal / universal all.
 
 Notice in the verse I quoted above, Jesus only uses an "all" word once.
@@ -143,6 +145,8 @@ Then **all the disciples left him and fled.**
 57 Those who had taken Jesus led him away to Caiaphas the high priest, where the scribes and the elders were gathered together.
 
 58 **But Peter followed him from a distance** to the court of the high priest, and entered in and sat with the officers, to see the end./
+
+#### Before You Flood Me With Objections
 
 By contrast, we know for a standard example that "all" and synonyms are literal absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined):
 
@@ -197,6 +201,8 @@ He didn't necessarily need to repeat it, but he does.
 
 Notice this is all still the same basic section, so we should read these as most likely modifying each other. We know that because of the logic flow in this case.
 
+#### Paul's All
+
 Paul himself talked about this principle here:
 
 1st Corinthians 15:
@@ -206,6 +212,8 @@ Paul himself talked about this principle here:
 But when he says, “All things are put in subjection”, it is evident that he is excepted who subjected all things to him.
 
 28 When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all./
+
+#### He Is Not Just Talking About Bread
 
 Some of Jesus' statements on legitimate exceptions for "work" on the Sabbath likely also apply, especially what he said here:
 
@@ -225,18 +233,53 @@ This was referring to [1 Samuel 21:1-6](https://www.blueletterbible.org/lsb/1sa/
 
 For his own disciples in the present, this was probably at least partially about that he was instituting the new covenant predicted by Moses. (Details below.)
 
-But about David, it's about how the implied "all" in all (all) didactic law isn't necessarily literal and depended on all (all) the other laws in it, in full full full context in the Mosaic Law, and would be determined on a case by case basis by the judges.
+But about David, it's about how the implied "all" in all (all) didactic law (the legal genre that all all all ancient law was in, including the Law of Moses) isn't necessarily literal and depended on all (all) the other laws in it, in full full full context in the Mosaic Law, and would be determined on a case by case basis by the judges.
 
-This is why the law was given, evidently, immediately after the setting up of the judge heirarchy. (See )
+This is why the law was given, evidently, immediately after the setting up of the judge heirarchy. (See Exodus 18, where Jethro advises this, then 19 where the law begins to be revealed.)
 
-The idea that exceptions always need to be explicitly spelled out up front is a modern one, so the objection is anachronistic. Social scientist Bruce Malina has documented this in detail (see for example his *Handbook of Biblical Social Values*, a must-read source recommended by JPH).
+The idea that exceptions always need to be explicitly spelled out up front is a modern one, so the objection is anachronistic. Social scientist Bruce Malina has documented this in detail (see for example his *Handbook of Biblical Social Values*, a must-read source recommended by JPH (see abbreviations list in end notes)).
 
 For the part about Jesus' application to his disciples as Lord of the Sabbath, see here:
 
+Deuteronomy 18:
 
+/5 Yahweh your God will raise up to you a prophet from among you, of your brothers, like me. You shall listen to him. 16 This is according to all that you desired of Yahweh your God in Horeb in the day of the assembly, saying, “Let me not hear again Yahweh my God’s voice, neither let me see this great fire any more, that I not die.”
 
+17 Yahweh said to me, “They have well said that which they have spoken. 18 I will raise them up a prophet from among their brothers, like you. I will put my words in his mouth, and he shall speak to them all that I shall command him. 19 It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him./
 
+This was where Moses, passing on God's words, "spoke of" Jesus, as Jesus said he did.
 
+That he was predicting a new covenant might be a bit subtle, but establishing a covenant was what Moses did (the Mosaic covenant) so that's implied in the "like me." Also in the "listen to him." Basically this means when Christ came, it would be his prerogative to establish a new covenant, or not to, however God chose, and whether it would replace the Mosaic one (as a branch off of it, as all previous covenants had been except arguably a replacement Adamic one when Adam and Eve sinned), or else replace it (as clearly it did, as a branch off of the Abrahamic, which the Mosaic also branched off of).
+
+That it would indeed be a new covenant was explicitly confirmed here, as well as that it would not be a branch off of the Mosaic covenant:
+
+Jeremiah 31:
+
+/31 “Behold, the days come,” says Yahweh, “that I will make a new covenant with the house of Israel, and with the house of Judah,
+
+32 not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt, which covenant of mine they broke, although I was a husband to them,” says Yahweh.
+
+33 “But this is the covenant that I will make with the house of Israel after those days,” says Yahweh:
+
+“I will put my law in their inward parts,
+
+and I will write it in their heart.
+
+I will be their God,
+and they shall be my people.
+
+34 They will no longer each teach his neighbor,
+and every man teach his brother, saying, ‘Know Yahweh;’
+for they will all know me,
+from their least to their greatest,” says Yahweh,
+“for I will forgive their iniquity,
+and I will remember their sin no more.”/
+
+By beginning to establish new rules for the ceremonial aspects of life like how to behave on the Sabbath, Jesus was hinting that he was the Christ, Son of God (as many other passages made it clear the Messiah would be God, beyond the scope of this article, but planned for others later). So he was initiating the New Covenant, after which the New Testament is named (Testament means Covenant).
+
+Obviously, David was before this, so Jesus' point was not that Jesus was simply suspending the law as God beforehand, though he could do that too. His point is about how the law always worked, and this includes its "all" statements.
+
+JPH has more material on this including historical evidence that this is how it was interpreted.
 
 ### Known to the high priest?
 
