@@ -795,7 +795,9 @@ Although it would also be unlikely he was even personally consulted for that, si
 
 ## Rabbit: Fishy
 
-[Update after draft: Okay this section became so long even for me it feels a bit cruel to just toss the reader into it. I do recommend reading all of it; this is how you follow a trail of evidence wherever it leads, thoroughly. But if you want to skip to its conclusion, click here: [Skip Rabbit: Fishy](#skip-rabbit-fishy). We've got weightier meat still to get to so... either way make sure you don't abandon this hopelessly long article (sorry for that).]
+[Update after draft: Okay this section became so long even for me it feels a bit cruel to just toss the reader into it. I do recommend reading all of it; this is how you follow a trail of evidence wherever it leads, thoroughly, and some of this is very telling in support of my view as John as author and DiLoved. But if you want to skip to its conclusion, click the link at the end of the next paragraph. We've got weightier meat still to get to so... either way make sure you don't abandon this hopelessly long article (sorry for that).
+
+However, I recommend reading all of this until you get to the "Rabbit: Names" subsection, which has a skip button like this at the start of it, to skip to just the end of that subsection. The rest of this "Rabbit: Fishy" section is less rabbit-like. But if you really must skip, here's the link to do so: [Skip Rabbit: Fishy](#skip-rabbit-fishy)]
 
 Let's look at the final chapter of John now, and see why it seems fishy to argue that the Unnamed Disciple who let Peter in can't be John because John as a fisherman can't know Caiaphas.
 
