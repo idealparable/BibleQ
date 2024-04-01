@@ -42,10 +42,11 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
   - [Disciple isn't Disciple?](#disciple-isnt-disciple)
   - [Known to the high priest?](#known-to-the-high-priest)
   - [Embodying Embedding in Body](#embodying-embedding-in-body)
-
-
+  - [A Man's Gotta Eat](#a-mans-gotta-eat)
+  - [Backwards Statistics Fallacy (or Error)](#backwards-statistics-fallacy-or-error)
   - [Fishy](#fishy)
-    - [Skip Rabbit Names](#skip-rabbit-names)
+    - [Skip Rabbit: Names](#skip-rabbit-names)
+    - [Skip Rabbit: Fishy](#skip-rabbit-fishy)
 
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
