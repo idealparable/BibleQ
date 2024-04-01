@@ -44,7 +44,8 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
   - [Embodying Embedding in Body](#embodying-embedding-in-body)
   - [A Man's Gotta Eat](#a-mans-gotta-eat)
   - [Backwards Statistics Fallacy (or Error)](#backwards-statistics-fallacy-or-error)
-  - [Fishy](#fishy)
+  - [Rabbit: Fishy](#rabbit-fishy)
+    - [Rabbit: Names](#rabbit-names)
     - [Skip Rabbit: Names](#skip-rabbit-names)
     - [Skip Rabbit: Fishy](#skip-rabbit-fishy)
 
@@ -792,9 +793,9 @@ Now, I could at least accept that Caiaphas probably remembers clearly whether he
 
 Although it would also be unlikely he was even personally consulted for that, since he might have been a bit busy at the time, depending on where he was when the arresting group arrived with Jesus related to where Unnamed Disciple was.
 
-## Fishy
+## Rabbit: Fishy
 
-[Update after draft: Okay this section became so long even for me it feels a bit cruel to just toss the reader into it. I do recommend reading all of it. But if you want to skip to its conclusion, click here: [Skip Rabbit: Fishy](#skip-rabbit-fishy). We've got weightier meat still to get to so... either way make sure you don't abandon this hopelessly long article (sorry for that).]
+[Update after draft: Okay this section became so long even for me it feels a bit cruel to just toss the reader into it. I do recommend reading all of it; this is how you follow a trail of evidence wherever it leads, thoroughly. But if you want to skip to its conclusion, click here: [Skip Rabbit: Fishy](#skip-rabbit-fishy). We've got weightier meat still to get to so... either way make sure you don't abandon this hopelessly long article (sorry for that).]
 
 Let's look at the final chapter of John now, and see why it seems fishy to argue that the Unnamed Disciple who let Peter in can't be John because John as a fisherman can't know Caiaphas.
 
@@ -1215,6 +1216,8 @@ Acts 1:
 /23 They put forward two: Joseph called Barsabbas, who was also called Justus, and Matthias. 24 They prayed and said, “You, Lord, who know the hearts of all men, show which one of these two you have chosen 25 to take part in this ministry and apostleship from which Judas fell away, that he might go to his own place.” 26 They drew lots for them, and the lot fell on Matthias; and he was counted with the eleven apostles./
 
 Maybe Matthias has nicknames, although it would be a bit weird if his nickname of Nathanael, if it exists, isn't listed here, since this Joseph gets two nicknames (they like nicknames... or translations or whatever this is).
+
+### Rabbit: Names
 
 Let's look at the name meanings per BLB. Be aware, this is going to be quite a diversion. If you want, click this link to skip to the conclusion: [Skip Rabbit: Names](#skip-rabbit-names)
 
