@@ -44,11 +44,11 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
   - [Embodying Embedding in Body](#embodying-embedding-in-body)
   - [A Man's Gotta Eat](#a-mans-gotta-eat)
   - [Backwards Statistics Fallacy (or Error)](#backwards-statistics-fallacy-or-error)
-  - [Rabbit: Fishy](#rabbit-fishy)
-    - [Rabbit: Names](#rabbit-names)
+  - [Fishy](#fishy)
     - [A Long Luke Passage I Quoted](#a-long-luke-passage-i-quoted)
+    - 
+    - [Rabbit: Names](#rabbit-names)
     - [Skip Rabbit: Names](#skip-rabbit-names)
-    - [Skip Rabbit: Fishy](#skip-rabbit-fishy)
 
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
@@ -1316,6 +1316,8 @@ Also since there's two and we aren't told the name of the other one either, I do
 But that in turn means that all the more I'm most likely right that these two wouldn't surprise us if we were told who they are -- again fitting Andrew and Philip best.
 
 That last point does require the premise that the author is John (or James), but I mean that it's internally consistent, so wouldn't be an argument *against* the author being John.
+
+## Therefore God
 
 Now we're finally ready to continue in John 21 where we left off, which was with poor verse 4 unfinished:
 
