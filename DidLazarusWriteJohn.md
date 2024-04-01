@@ -157,7 +157,7 @@ The pro-Lazarus-as-DiLoved argument (which may vary) in this case appears to ass
 
 Not so, as I understand it.
 
-## Say Again?
+### Say Again?
 
 Hebrew "language culture" (how their culture used language, regardless of whether expressing their thoughts in Hebrew, Greek, or Aramaic or anything else) used *repetition* of "all" or synonyms to push toward a literal / universal all.
 
@@ -187,7 +187,7 @@ If you didn't know before that Hebrew "language culture" has a non-literal-all, 
 
 As we'll see [later](#disciple-isnt-disciple) from the gospel of John version of this, Peter and the "another disciple" in question are placed in parallel in terms of following Jesus, so this exception refers to two "disciples."
 
-## Before You Flood Me With Objections
+### Before You Flood Me With Objections
 
 By contrast, we know for a standard example that "all" and synonyms are literal/absolute in the case of the extent of the Noahic Floodwaters by its over-over-over-repetition, including three direct synonyms of "all" (in bold below and underlined) and some other superlatives (italic and underlined) about the extent of the water (these will be all-capitalized), and many more about all land flesh dying outside the ark (I'll put the accumulating count for these in parentheses).
 
@@ -279,7 +279,7 @@ He didn't necessarily need to repeat it, but he does.
 
 Notice this is all still the same basic section, so we should read these as most likely modifying each other. We know that because of the logic flow in this case.
 
-## Paul's All
+### Paul's All
 
 Paul himself talked about this principle here:
 
@@ -291,7 +291,7 @@ But when he says, “All things are put in subjection”, it is evident that he 
 
 28 When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all./
 
-## He Is Not Just Talking About Bread
+### He Is Not Just Talking About Bread
 
 Some of Jesus' statements on legitimate exceptions for "work" on the Sabbath likely also apply, especially what he said here:
 
@@ -361,19 +361,63 @@ Obviously, David was before this, so Jesus' point was not that Jesus was simply 
 
 JPH has more material on this including historical evidence that this is how it was interpreted.
 
-## Christ is the Creator, Not the Created
+### Christ is the Creator, Not the Created
 
 This rule about how "all"-language works in Hebrew language culture (including when expressed in Greek) is part of why we know Jesus had no beginning.
 
 This is contary to a popular Unitarian view (of some variants I've seen, though some seem to vary on this) that Jesus was simply the first created being, otherwise very similar to the Trinitarian view but just as a lesser being, like a super-angel.
 
-Since we're focusing on John here, let's start with the earliest example in that gospel:
+Since we're focusing on John here, let's just restrict this to the early examples there.
 
 John 1:
 
-//
+/1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God.
 
-[WIP]
+3 <u><b>All</b></u> things were made through him. Without him, <u><b>no</b></u>thing was made that has been made. 4 In him was life, and the life was the light of men./
+
+So far this is only two, but that may be enough to confirm it's literal, and the grammar and the rest of this is making that clear; the phrase "that has been made" is there to clarify that Jesus isn't a thing made. Not just "no thing has been made without him," but specifically no thing was made without him that *has* been made.
+
+In other words, he wasn't made.
+
+Unitarians have various ways to claim they can get out of the "and the Word was God," of course, that don't work. But that in addition to "the same was in the beginning with God," which is also a repetition of "and the Word was with God" is also implying an absolute. I didn't underline it because it's technically not a direct absolute word; it's implying the meaning of one. But it makes it very clear. And we're far from done here:
+
+/5 The light shines in the darkness, and the darkness hasn’t overcome† it.
+
+6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the light, that all might believe through him. 8 He was not the light, but was sent that he might testify about the light.
+
+9 The true light that enlightens everyone was coming into the world./
+
+This is shown by JPH (see abbreviations list at end, and read his "Wisdom Theology" article, and also his Holy Spirit article) as being an allusion to God's Wisdom. This is just one such of many similar examples in the NT, where the NT authors put Jesus in place of sayings that in the OT, and the extra-biblical IT (which don't need to be part of the Bible for the NT to make a point using allusions to that literature), had Wisdom in the same constructions. This about "light that enlightens" is one such.
+
+Recently a prominent Unitarian, Sean Finnegan, who you might find if you google Unitarianism because he often comes up in such searches, was forced to admit that the Bible teaches that Jesus is the personification of God's Wisdom.
+
+Without realizing it, he was admitting to the biblical Trinitarian model, which defines the "Personhood" of Jesus as being the beginninglessly, literally personified Wisdom of God, but simply denying the beginningless part.
+
+He doesn't realize that this is what being a "distinct but inseparable" "Person" means, but it is.
+
+(Finnegan claims not to see the distinction between distinction and separation. This is the distinction! Jesus obviously cannot be separated from God if he literally *is* God's Wisdom. If you separate God's Wisdom from God, what does that turn God into? You can have a finite mere representation of His Wisdom, to be fair, and as a personification, he is in a sense a representation, similar to what Hebrews 1 says, but John (the gospel) is here saying that's not all that Jesus is.)
+
+/10 He was in the world, and the world was made through him, and the world didn’t recognize him. 11 He came to his own, and those who were his own didn’t receive him. 12 But as many as received him, to them he gave the right to become God’s children, to those who believe in his name: 13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+
+14 The Word became flesh and lived among us. We saw his glory, such glory as of the <u><b>only</b></u> born‡ Son of the Father, full of grace and truth.
+
+15 John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’ ” 16 From his fullness we all received grace upon grace. 17 For the law was given through Moses. Grace and truth were realized through Jesus Christ.§
+
+18 <u><b>No</b></u> one has seen God at any time. The <u><b>only</b></u> born† Son,‡ who is in the bosom of the Father, has declared him./
+
+Some might be confused about "born" -- a common bad argument is that it implies being created, but birth is not the beginning of a human, so they're getting the analogy wrong. Something can be brought forth at a point in time, without having a beginning before it. This means when he entered the creation because it was being created. It has nothing to do with having a beginning; the other passages around it are in fact explicitly saying he doesn't!
+
+Yes, humans, of course, have beginnings, but at that point you're pushing the analogy too far, into territory we call the fallacy of analogy.
+
+The exclusive language is also saying that Jesus is to the Father what no created being is.
+
+This is also saying he's uncreated.
+
+And we have quite a bit of repetition here. Not as much about all land flesh dying in the Flood, but this is sufficient that if in fact Jesus is *not* God, John would be intentionally pushing toward saying he is, *without clarifying otherwise,* which would be blasphemy.
+
+While argument from silence can be fallacious, this is argument from glaring silence. As long as the glaring-ness is logically correct, based on strong evidence (that isn't silent), it actually becomes a strong point.
+
+(Thus the fallacy really should be called argument from non-glaring silence, but often of course those who use it will pretend that silence that logically isn't surprising is actually surprising if they're wrong. This is especially common with biblioskeptical pseudoscholars like Bart Ehrman for example.)
 
 ## Disciple isn't Disciple?
 
@@ -423,7 +467,7 @@ If Lazarus can be the "disciple" who accompanied Peter (and, to be fair, he can 
 
 So the argument, while valid, actually goes nowhere.
 
-## Known to the high priest?
+### Known to the high priest?
 
 Another argument is that Lazarus is a better candidate than John to be known to the high priest (see passage quote in above section).
 
@@ -533,7 +577,7 @@ Does it mean Caiaphas personally knew him?
 
 Not necessarily, due to the cultural language rule of embedding.
 
-## Embodying Embedding in Body
+### Embodying Embedding in Body
 
 Embedding refers to the common linguistic practice of referring to everybody under a leader as if they are that leader.
 
@@ -587,7 +631,8 @@ Embedding is also seen here:
 
 And the previous verses starting at 12.
 
-## A Man's Gotta Eat
+### A Man's Gotta Eat
+
 Life works by you work for food. You farm, or you fish, or you hunt, or you gather, or you produce lab-grown meat that probably causes cancer.
 
 Or else, you work in some kind of indirect support work for this, or for providing shelter, or amenities, or else you're an elite, and you work at some unrelated task, and those who obtain money (the "certificate that you served your fellow man") get their food from someone else -- whether directly from a food producer, or from a food distribution worker or workers.
@@ -849,7 +894,7 @@ Mark 1:
 
 See also Matthew 4:18-22, very similar to Mark, and:
 
-## A Long Luke Passage I Quoted
+### A Long Luke Passage I Quoted
 
 Luke 5:
 
@@ -881,7 +926,7 @@ Now, I don't know the professions of Thomas or Nathanael. I haven't studied this
 
 On the way to introducing Nathanael, let's cover some John 1 content.
 
-## John 1 Clues
+### John 1 Clues
 
 After the intro about the Word/Light, we're told a lot about John.
 
@@ -1049,7 +1094,7 @@ This may imply that while Nathanael might have known John Zebson, he didn't know
 
 50 Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” 51 He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”/
 
-## Nathanael = Bartholomew?
+### Nathanael = Bartholomew?
 
 Now since scholars think Bartholomew = Nathanael, let's look at some evidence for that:
 
@@ -1223,7 +1268,7 @@ Acts 1:
 
 Maybe Matthias has nicknames, although it would be a bit weird if his nickname of Nathanael, if it exists, isn't listed here, since this Joseph gets two nicknames (they like nicknames... or translations or whatever this is).
 
-### Rabbit: Names
+#### Rabbit: Names
 
 Let's look at the name meanings per BLB. Be aware, this is going to be quite a diversion. If you want, click this link to skip to the conclusion: [Skip Rabbit: Names](#skip-rabbit-names)
 
@@ -1291,7 +1336,7 @@ Let's look at the name meanings per BLB. Be aware, this is going to be quite a d
 
   I find that that's still good evidence that Bartholomew isn't his "first" name as we in modern English society would call it, which supports that he is really Nathanael Bartholomew. Perhaps the similarity to Matthias or Matthew might be why he was typically known by his "last name" instead, while not actually being Matthias (or Matthew for that matter, most likely), to differentiate. I feel like that's a reasonable guess, although I might just be biased for my theory here.
 
-### Skip Rabbit: Names
+#### Skip Rabbit: Names
 
 Conclusion:
 
@@ -1305,7 +1350,7 @@ But I think it's by far better-evidenced that they're most likely Andrew and Phi
 
 Enough of this!
 
-## Sons of Zebedee? Who Are They?
+### Sons of Zebedee? Who Are They?
 Another point in favor of authorial avoidance is that aside from the apostle John being conspicuously never mentioned by name in the entire gospel of John, the list of names on this boat shies away from specifics first with "sons of Zebedee" in John 21.
 
 If John is all you read, you would have no idea who they are. This is clearly meant to trust that the reader has read at least one of the other gospels already (remember John is believed to have been written last, although that might be somewhat premised on John actually being the author).
@@ -1320,7 +1365,7 @@ But that in turn means that all the more I'm most likely right that these two wo
 
 That last point does require the premise that the author is John (or James), but I mean that it's internally consistent, so wouldn't be an argument *against* the author being John.
 
-## Therefore God
+### Therefore God
 
 Now we're finally ready to continue in John 21 where we left off, which was with poor verse 4 unfinished:
 
@@ -1359,25 +1404,91 @@ Jesus is re-enacting this, in John 21. And notice that the DiLoved "therefore" s
 
 So... read the Luke passage *again.* We know the sons of Zebedee were there!
 
+/So when Simon Peter heard that it was the Lord, he wrapped his coat around himself (for he was naked), and threw himself into the sea. 8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits‡ away), dragging the net full of fish./
 
+Two hundred cubits is, as the footnote says: \|Approx. 100 yd. or 91 m, a cubit was approx. 18 in. or 45 cm\|.
 
+That confirms it's too far for them to have recognized Jesus. At least his face; perhaps if he still had familiar clothes. But I think it's pretty clear that the DiLoved is John connecting the dots to what Jesus did in the Luke passage.
 
+/9 So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it. 10 Jesus said to them, “Bring some of the fish which you have just caught.”
 
-So when Simon Peter heard that it was the Lord, he wrapped his coat around himself (for he was naked), and threw himself into the sea. 8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits‡ away), dragging the net full of fish. 9 So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it. 10 Jesus said to them, “Bring some of the fish which you have just caught.”
 11 Simon Peter went up, and drew the net to land, full of one hundred fifty-three great fish. Even though there were so many, the net wasn’t torn.
+
 12 Jesus said to them, “Come and eat breakfast!”
+
 None of the disciples dared inquire of him, “Who are you?” knowing that it was the Lord.
-13 Then Jesus came and took the bread, gave it to them, and the fish likewise. 14 This is now the third time that Jesus was revealed to his disciples after he had risen from the dead. 15 So when they had eaten their breakfast, Jesus said to Simon Peter, “Simon, son of Jonah, do you love me more than these?”
-He said to him, “Yes, Lord; you know that I have affection for you.”
+
+13 Then Jesus came and took the bread, gave it to them, and the fish likewise. 14 This is now the third time that Jesus was revealed to his disciples after he had risen from the dead.
+
+15 So when they had eaten their breakfast, Jesus said to Simon Peter, “Simon, son of Jonah, do you love me more than these?”/
+
+WEBP is saying Simon son of "Jonah." LSB has "son of John." The name Jonah (in Jonah 1:1) is this in the Greek LXX (Gk): Ἰωνάμ transliteration Ionam, Lingua (Ln) Ee-oh-NAHM, Hebrew (Hb) יוֹנָה transliteration Yonah, Lingua yoh-NAH, said to mean \|"Jehovah is a gracious giver"\|, and the Greek in this verse is:
+
+Gk Ἰωάννου transliteration Ioannou, Ln Ee-oh-AHN-neys, said to mean \|"Jehovah has graced"\|, of \|A form of יְהוֹחָנָן (H3076)\| Hb transliteration Yehokhanan, Ln y*-Hoh-khah-NAHN, said to mean same as the Gk form.
+
+In the Hebrew, these seem almost the same with "Yo" being a normal shortening of "Yeho," part of the altered Yahweh (altered Yahu), although I don't know the relationship of "nah" with "khanan," beyond that BLB is saying that "grace" is the meaning (basically) of both.
+
+So, okay, John could be "Jonah" here. Is it the same as in the case of Bap?
+
+Gk Ἰωάννης Ioannes
+
+This is the same root that BLB said that Pete's dad is (I didn't show it above, but it is; I checked). This is nominative singular masculine, the other was genitive singular masculine.
+
+So, it seems to me it's the same name. Weird that WEBP calls it Jonah. I think LSB makes more sense. They might technically mean the same thing, but why obscure that the book of John has yet another person named John in it?
+
+In any case, it does.
+
+Again to me that means that people named John stand out to this author (named John).
+
+I checked, and no other gospel reveals that the name of Peter's father is John (assuming it would be spelled as the same word in Greek; I only did a BLB word search for it after confirming it in John 21 is the same word as in John 1).
+
+There were some interesting finds in Acts.
+
+In Acts 4, after (in 3) Peter and John were preaching, they're arrested and we're told in 4:5-6 that rulers/elders/scribes were gathered, and Annas the high priest, Caiaphas, and John and Alexander, /and all who were of high-priestly descent./ (LSB)
+
+Really doesn't matter, but it's interesting that evidently someone of high-priestly descent (I think that last phrase is meant to modify all four of these names) is listed right after Caiaphas, and we know of two people named John tied to Galilee, and there's also John the Baptist and yeah. Potentially two people named John were known to Caiphas. It's totally irrelevant probably, but hey.
+
+Then there was this which I had no idea of:
+
+/[Act 12:11-12 LSB] 11 When Peter came to himself, he said, "Now truly I know that the Lord has sent His angel and rescued me from the hand of Herod and from all that the Jewish people were expecting." 12 And when he realized [this], he went to the house of Mary, the mother of John who was also called Mark, where many were gathered together and were praying./
+
+Probably this is a coincidence that the mother of someone I think we present at Jesus' arrest (Mark) happens to be named Mary (we do know John and Mary are common names, obviously), but based just on this snippet, it could be that the one told to take care of her at the cross is Mark. But... probably just a different Mary? Not sure if anything in the context makes it clear either way.
+
+But it made me wonder if in fact, DiLoved is Mark... I hope I'm joking? But yeah. Doesn't fit all of the evidence that it has to be the author of John, who apparently has to be John (son of Zebedee... not John called Mark). But that was a surprise.
+
+Back to John 21:
+
+/He said to him, “Yes, Lord; you know that I have affection for you.”
+
 He said to him, “Feed my lambs.” 16 He said to him again a second time, “Simon, son of Jonah, do you love me?”
+
 He said to him, “Yes, Lord; you know that I have affection for you.”
+
 He said to him, “Tend my sheep.” 17 He said to him the third time, “Simon, son of Jonah, do you have affection for me?”
+
 Peter was grieved because he asked him the third time, “Do you have affection for me?” He said to him, “Lord, you know everything. You know that I have affection for you.”
+
 Jesus said to him, “Feed my sheep. 18  Most certainly I tell you, when you were young, you dressed yourself and walked where you wanted to. But when you are old, you will stretch out your hands, and another will dress you and carry you where you don’t want to go.”
+
 19 Now he said this, signifying by what kind of death he would glorify God. When he had said this, he said to him, “Follow me.”
-20 Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus loved, the one who had also leaned on Jesus’ chest at the supper and asked, “Lord, who is going to betray you?” 21 Peter, seeing him, said to Jesus, “Lord, what about this man?”
-22 Jesus said to him, “If I desire that he stay until I come, what is that to you? You follow me.” 23 This saying therefore went out among the brothers§ that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, “If I desire that he stay until I come, what is that to you?”
-24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written.
+
+20 Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus loved, the one who had also leaned on Jesus’ chest at the supper and asked, “Lord, who is going to betray you?”/
+
+This is where we have our confirmation that Last Supper DiLoved = John 21 Boat DiLoved.
+
+/21 Peter, seeing him, said to Jesus, “Lord, what about this man?”
+
+22 Jesus said to him, “If I desire that he stay until I come, what is that to you? You follow me.”
+
+23 This saying therefore went out among the brothers§ that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, “If I desire that he stay until I come, what is that to you?”/
+
+Since it's thought that John actually lived quite a long time, this would make sense. He probably was writing this later in life. We know it's thought to be (translation: we don't know) later than the other gospels. Etc. So it seems like this is another hint that it's John.
+
+That said, it would make sense here as Lazarus too, but we're about to get our strong evidence that it can't be (if extrabiblical attestation is right that it's John, and all this other evidence that points to a guy named John who is very central among, probably, the 12).
+
+/24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written./
+
+
 
 
 ## Skip Rabbit: Fishy
