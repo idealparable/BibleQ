@@ -46,6 +46,7 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
   - [Backwards Statistics Fallacy (or Error)](#backwards-statistics-fallacy-or-error)
   - [Rabbit: Fishy](#rabbit-fishy)
     - [Rabbit: Names](#rabbit-names)
+    - [A Long Luke Passage I Quoted](#a-long-luke-passage-i-quoted)
     - [Skip Rabbit: Names](#skip-rabbit-names)
     - [Skip Rabbit: Fishy](#skip-rabbit-fishy)
 
@@ -793,11 +794,7 @@ Now, I could at least accept that Caiaphas probably remembers clearly whether he
 
 Although it would also be unlikely he was even personally consulted for that, since he might have been a bit busy at the time, depending on where he was when the arresting group arrived with Jesus related to where Unnamed Disciple was.
 
-## Rabbit: Fishy
-
-[Update after draft: Okay this section became so long even for me it feels a bit cruel to just toss the reader into it. I do recommend reading all of it; this is how you follow a trail of evidence wherever it leads, thoroughly, and some of this is very telling in support of my view as John as author and DiLoved. But if you want to skip to its conclusion, click the link at the end of the next paragraph. We've got weightier meat still to get to so... either way make sure you don't abandon this hopelessly long article (sorry for that).
-
-However, I recommend reading all of this until you get to the "Rabbit: Names" subsection, which has a skip button like this at the start of it, to skip to just the end of that subsection. The rest of this "Rabbit: Fishy" section is less rabbit-like. But if you really must skip, here's the link to do so: [Skip Rabbit: Fishy](#skip-rabbit-fishy)]
+## Fishy
 
 Let's look at the final chapter of John now, and see why it seems fishy to argue that the Unnamed Disciple who let Peter in can't be John because John as a fisherman can't know Caiaphas.
 
@@ -849,7 +846,7 @@ Mark 1:
 
 See also Matthew 4:18-22, very similar to Mark, and:
 
-### A Long Luke Passage I Quoted
+## A Long Luke Passage I Quoted
 
 Luke 5:
 
@@ -880,6 +877,8 @@ Notice anything familiar? Well, you'll see when we continue in John 21.
 Now, I don't know the professions of Thomas or Nathanael. I haven't studied this enough to know whether that's the current global state of knowledge though. I'll grant that Nathanael need not be a fisherman for it to be obviously plausible that he would automatically want to go fishing. It's said that he might be the Bartholomew mentioned in the synoptics, I don't know why at time of writing.
 
 On the way to introducing Nathanael, let's cover some John 1 content.
+
+## John 1 Clues
 
 After the intro about the Word/Light, we're told a lot about John.
 
@@ -1045,7 +1044,9 @@ This may imply that while Nathanael might have known John Zebson, he didn't know
 
 49 Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”
 
-50 Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” 51 He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”
+50 Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” 51 He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”/
+
+## Nathanael = Bartholomew?
 
 Now since scholars think Bartholomew = Nathanael, let's look at some evidence for that:
 
@@ -1297,40 +1298,66 @@ Surprisingly, Nathanael does mean essentially the same thing as Matthias, from A
 
 Nathanael could also quite possibly not be a member of the Twelve or Matthias. Either this or the Matthias theory would help support that Lazarus might be more likely to be one of the two unnamed John 21 disciples.
 
-But I think it's by far better-evidenced that they are Andrew and Philip.
+But I think it's by far better-evidenced that they're most likely Andrew and Philip.
 
 Enough of this!
 
-## 
+## Sons of Zebedee? Who Are They?
+Another point in favor of authorial avoidance is that aside from the apostle John being conspicuously never mentioned by name in the entire gospel of John, the list of names on this boat shies away from specifics first with "sons of Zebedee" in John 21.
 
+If John is all you read, you would have no idea who they are. This is clearly meant to trust that the reader has read at least one of the other gospels already (remember John is believed to have been written last, although that might be somewhat premised on John actually being the author).
 
+That this is finally seen, in the last chapter (not that there were chapters, but the chapter division in this case clearly is actually accurate to this being the last section), I think is John's equivalent of the Mark hint that Mark is that young man who fled anonymously in Mark.
 
+Of course, you could argue that the other two disciples in the boat are even more anonymous, but I mean that proximity to the end actually makes that a bit less likely to be the author (either of the two unnamed ones in this case).
 
+Also since there's two and we aren't told the name of the other one either, I doubt that anonymity is meant as anything other than just not overwhelming the reader with irrelevant side details, and just necessary if it's John and the sons of Zebedee reference means what I think it means; he would need to give the reader "plausible deniability" that the author might be one of these two unnamed disciples.
 
+But that in turn means that all the more I'm most likely right that these two wouldn't surprise us if we were told who they are -- again fitting Andrew and Philip best.
 
+That last point does require the premise that the author is John (or James), but I mean that it's internally consistent, so wouldn't be an argument *against* the author being John.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-pausfornow. who they? fishers all? who the two? why the zebsons turn unnamed?
+Now we're finally ready to continue in John 21 where we left off, which was with poor verse 4 unfinished:
 
 /That night, they caught nothing. 4 But when day had already come, Jesus stood on the beach; yet the disciples didn’t know that it was Jesus. 5 Jesus therefore said to them, “Children, have you anything to eat?”
+
 They answered him, “No.”
+
 6 He said to them, “Cast the net on the right side of the boat, and you will find some.”
-They cast it therefore, and now they weren’t able to draw it in for the multitude of fish. 7 That disciple therefore whom Jesus loved said to Peter, “It’s the Lord!”
+They cast it therefore, and now they weren’t able to draw it in for the multitude of fish.
+
+7 That disciple therefore whom Jesus loved said to Peter, “It’s the Lord!”/
+
+Okay, did you read that? Read it again. Now let's re-show the Luke passage I kept emphasizing:
+
+Luke 5:
+
+/2 He saw two boats standing by the lake, but the fishermen had gone out of them and were washing their nets. 3 He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.
+
+4 When he had finished speaking, he said to Simon, “Put out into the deep and let down your nets for a catch.”
+
+5 Simon answered him, “Master, we worked all night and caught nothing; but at your word I will let down the net.”
+
+6 When they had done this, they caught a great multitude of fish, and their net was breaking.
+
+7 They beckoned to their partners in the other boat, that they should come and help them. They came and filled both boats, so that they began to sink.
+
+8 But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, “Depart from me, for I am a sinful man, Lord.”
+
+9 For he was amazed, and all who were with him, at the catch of fish which they had caught; 10 and so also were James and John, sons of Zebedee, who were partners with Simon.
+
+Jesus said to Simon, “Don’t be afraid. From now on you will be catching people alive.”
+
+11 When they had brought their boats to land, they left everything, and followed him./
+
+Jesus is re-enacting this, in John 21. And notice that the DiLoved "therefore" said it's Jesus. Not that he looked closer and saw it was him, but because of the re-enactment of something *he was present for.*
+
+So... read the Luke passage *again.* We know the sons of Zebedee were there!
+
+
+
+
+
 So when Simon Peter heard that it was the Lord, he wrapped his coat around himself (for he was naked), and threw himself into the sea. 8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits‡ away), dragging the net full of fish. 9 So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it. 10 Jesus said to them, “Bring some of the fish which you have just caught.”
 11 Simon Peter went up, and drew the net to land, full of one hundred fifty-three great fish. Even though there were so many, the net wasn’t torn.
 12 Jesus said to them, “Come and eat breakfast!”
