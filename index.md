@@ -1,5 +1,4 @@
-<head><link rel="stylesheet" href="style.css"></head>
-
+{% include bibleseekheader.md %}
 Please note the "bibleseek" part in this site's URL is case sensitive and must be lowercase, despite the spelling in the title below.
 
 # BibleSeek - Bible Truthseeking

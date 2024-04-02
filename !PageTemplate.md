@@ -1,6 +1,6 @@
 {% include bibleseekheader.md %}
 # TitleGoesHere
-y
+
 **Question(s):** QuestionGoesHere
 
 {% include mustreadnotes.md %}
