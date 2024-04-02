@@ -2,7 +2,7 @@
 
 # Lingua - Keyboard Typeable Pronunciation System
 
-Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher.md){:target="_blank"} language systems.
+Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher){:target="_blank"} language systems.
 
 ## Table of Contents
 
