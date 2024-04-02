@@ -22,8 +22,8 @@ title: BibleSeek
 # email: idealparable@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
   Bible Truthseeking (BibleSeek) website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://idealparable.github.io/bibleseek/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bibleseek" # the subpath of your site, e.g. /blog
+url: "https://idealparable.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 # theme: minima
 # plugins:
