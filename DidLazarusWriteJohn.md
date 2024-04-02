@@ -1548,20 +1548,159 @@ Still, it does seem that the author of John was somewhat closer to the physical 
 
 If we only had the gospel named after John, this might indeed seem like an argument for Lazarus, but in comparing it to the three Johannine epistles and the book of Revelation, all four also thought to be authored by John, it’s very similar, as I'l cover in more detail later.
 
-Another source for Markan authorship of Mark is Clement of Alexandria, evidently quoted here by Eusebius (this is only mentioned by JPH, quoting here from a google result, I duplicated their italics which is the quote, I think, and bold for Mark and Clement, though not Papias):
+Another source for Markan authorship of Mark is Clement of Alexandria, evidently quoted here by Eusebius (this is only mentioned by JPH, quoting here from a google result, I duplicated their italics which seems to be what they think is the quote, or perhaps paraphrase, of Clement, and bold for Mark and Clement, though not Papias):
 
-\|And thus when the divine word had made its home among them [the Christians in Rome], the power of Simon [the magician] was quenched and immediately destroyed, together with the man himself.  And so greatly did the splendor of piety illumine the minds of PETER'S hearers that they were not satisfied with hearing once only, and were not content with the unwritten teaching of the divine Gospel, but with all sorts of entreaties <i>they besought <b>MARK</b>, a follower of Peter, and the one whose Gospel is extant, that he would leave them a written monument of the doctrine which had been orally communicated to them. Nor did they cease until they had prevailed with the man, and had thus become the occasion of the written Gospel which bears the name of <b>MARK</b>.  And they say that Peter when he had learned, through a revelation of the Spirit, of that which had been done, was pleased with the zeal of the men, and that the work obtained the sanction of his authority for the purpose of being used in the churches.</i>  <b>Clement</b> in the eighth book of his Hypotyposes gives this account, and with him agrees the bishop of Hierapolis named Papias.  And Peter makes mention of Mark in his first epistle which they say that he wrote in Rome itself, as is indicated by him, when he calls the city, by a figure, Babylon, as he does in the following words:  "The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son" (1 Peter 5:13).  And they say that this Mark was the first that was sent to Egypt, and that he proclaimed the Gospel which he had written, and first established churches in Alexandria.\|
+\|And thus when the divine word had made its home among them [the Christians in Rome], the power of Simon [the magician] was quenched and immediately destroyed, together with the man himself.
+
+And so greatly did the splendor of piety illumine the minds of PETER'S hearers that they were not satisfied with hearing once only, and were not content with the unwritten teaching of the divine Gospel, but with all sorts of entreaties <i>they besought <b>MARK</b>, a follower of Peter, and the one whose Gospel is extant, that he would leave them a written monument of the doctrine which had been orally communicated to them.
+
+Nor did they cease until they had prevailed with the man, and had thus become the occasion of the written Gospel which bears the name of <b>MARK</b>.
+
+And they say that Peter when he had learned, through a revelation of the Spirit, of that which had been done, was pleased with the zeal of the men, and that the work obtained the sanction of his authority for the purpose of being used in the churches.</i>
+
+<b>Clement</b> in the eighth book of his Hypotyposes gives this account, and with him agrees the bishop of Hierapolis named Papias.
+
+And Peter makes mention of Mark in his first epistle which they say that he wrote in Rome itself, as is indicated by him, when he calls the city, by a figure, Babylon, as he does in the following words:
+
+"The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son" (1 Peter 5:13).  And they say that this Mark was the first that was sent to Egypt, and that he proclaimed the Gospel which he had written, and first established churches in Alexandria.\|
+
+Note this would mean "she" who is in Babylon (Rome, similar to the Book of Revelation referring to Rome that way evidently) is the church, not a literal woman.
+
+This same page (on "catholic-resources.org") then has a long quote they say is Eusebius's summary, which also mentions authorship of John, and this looks to be the quote I have heard of that supports "Matthean priority" (i.e. that Matthew was written before Mark, as opposed to the currently popular Markan priority):
+
+\|5b. "Nevertheless, of all the disciples of the Lord, only Matthew and John have left us written memorials, and they, tradition says, were led to write only under the pressure of necessity. 6. For MATTHEW, who had at first preached to the Hebrews, when he was about to go to other peoples, committed his Gospel to writing in his native tongue, and thus compensated those whom he was obliged to leave for the loss of his presence.
+
+7. And when MARK and LUKE had already published their Gospels, they say that JOHN, who had employed all his time in proclaiming the Gospel orally, finally proceeded to write for the following reason.
+
+The three Gospels already mentioned having come into the hands of all and into his own too, they say that he accepted them and bore witness to their truthfulness; but that there was lacking in them an account of the deeds done by Christ at the beginning of his ministry.
+
+8. And this indeed is true. For it is evident that the three evangelists recorded only the deeds done by the Saviour for one year after the imprisonment of John the Baptist, and indicated this in the beginning of their account. 9. For Matthew, after the forty days’ fast and the temptation which followed it, indicates the chronology of his work when he says: “Now when he heard that John was delivered up he withdrew from Judea into Galilee.” 10. Mark likewise says: “Now after that John was delivered up Jesus came into Galilee.” And Luke, before commencing his account of the deeds of Jesus, similarly marks the time, when he says that Herod, “adding to all the evil deeds which he had done, shut up John in prison.”
+
+11. They say, therefore, that the apostle JOHN, being asked to do it for this reason, gave in his Gospel an account of the period which had been omitted by the earlier evangelists, and of the deeds done by the Saviour during that period; that is, of those which were done before the imprisonment of the Baptist.
+
+And this is indicated by him, they say, in the following words: “This beginning of miracles did Jesus”; and again when he refers to the Baptist, in the midst of the deeds of Jesus, as still baptizing in Ænon near Salim; where he states the matter clearly in the words: “For John was not yet cast into prison.”
+
+12. John accordingly, in his Gospel, records the deeds of Christ which were performed before the Baptist was cast into prison, but the other three evangelists mention the events which happened after that time.
+
+13. One who understands this can no longer think that the Gospels are at variance with one another, inasmuch as the Gospel according to John contains the first acts of Christ, while the others give an account of the latter part of his life. And the genealogy of our Saviour according to the flesh John quite naturally omitted, because it had been already given by Matthew and Luke, and began with the doctrine of his divinity, which had, as it were, been reserved for him, as their superior, by the divine Spirit.
+
+14. These things may suffice, which we have said concerning the Gospel of John. The cause which led to the composition of the Gospel of Mark has been already stated by us.
+
+15. But as for Luke, in the beginning of his Gospel, he states himself the reasons which led him to write it. He states that since many others had more rashly undertaken to compose a narrative of the events of which he had acquired perfect knowledge, he himself, feeling the necessity of freeing us from their uncertain opinions, delivered in his own Gospel an accurate account of those events in regard to which he had learned the full truth, being aided by his intimacy and his stay with Paul and by his acquaintance with the rest of the apostles. 16a. So much for our own account of these things."\|
+
+Indeed there is more detail about the early events surrounding John the Baptist in John. This wording is a bit weird as it says nothing about the extensive detail about the final events and speech of Jesus leading up to his arrest, but maybe it just means that this was the initial reason John set about the task, and that the other expanded details are of course consistent with that goal.
+
+The page goes on to quote what JPH in his article has covered already that Eusebius seems to want to insist that the apostle John didn't write Revelation. One thing to note, though, is that he lends credence to my theory here:
+
+\|For the evangelist nowhere gives his name, or proclaims himself, either in the Gospel or Epistle.\|
+
+The page has this in italics, in a section titled "citing Dionysius of Alexandria" so I'm guessing this is thought to be a quote of him, rather than Eusebius' words, but in any event, it shows early awareness that authorial avoidance is a mark of John as author.
+
+As for it supposedly being a problem in Revelation, the problem is Revelation is written much later in John's life, during exile on Patmos, when he is already severely persecuted, and there has been a long history of epistles with open signatures within the body text.
+
+Plus Revelation opens with letters to the churches, dictated by Jesus, so there would be a need to distinguish clearly between the words of Christ and those of the human writing them down. Anonymity within body text is not an absolute rule, and he could even be helping to clarify it by eventually using it, when the window for the need for it had closed, and he felt more comfortable that it was embraced as still a valid option within Christianity.
+
+He did also come close, if my theory is right, to a signature within the body text by naming the sons of Zebedee. There is an association of lessening the anonymity near an end, similar to keeping it through his own epistles but dropping the rule in the later apocalypse that contains epistles from Christ.
+
+So I find the idea that John wrote all five of these books internally consistent.
+
+It might not be externally consistent with Eusebius' opinion in the case of Revelation, although there are a few places where he makes it clear this is speculative, but for the authorship of the gospel, it is externally consistent with Eusebius.
+
+And I had listed (which I'll cover below) in my initial notes many similarities in style between the gospel and the three epistles of John. So that Eusebius also isn't disputing Johannine authorship of those four books is significant also for evidencing that John wrote John.
+
+Also keep in mind the evidence shows that the signature was always on the scroll tags for all four works.
+
+The rule about the difference in style between the Mosaic third-person self-references and John's apparent style (and that of Christ in Genesis 1-2:3) isn't that you have to hide that you wrote it, but that you find places where you do make that more implied, and you still clearly and openly sign your name to the work, as I think Christ did in Genesis 2:4, and then in Adam's work, as I think it is, next, there's no shyness about openly using that reference (the LORD God or Yahweh God).
+
+In fact, John might have been influenced by this pattern to see the "rule" as that you eventually drop the anonymity, and that it's okay for others to do so.
+
+There are also at least *three* styles shown to be valid from others -- *first*-person being the third, used by Paul, etc. In first person it was actually normal to refer to yourself openly too, and with no authorial avoidance at all.
+
+That John didn't do this even in his three epistles to me only supports that the same guy focused on authorial avoidance (note I say "avoidance" not total anonymity on purpose) wrote John, which clearly uses it, but he does switch to first person in the epistles. So I see a trend toward embracing the common Christian first-person-non-avoided approach.
+
+The big issue is in historical narration, like Moses telling all these dramatic events he was playing such a lead role in, and then reminding the reader that he was writing about them himself.
+
+In epistles this isn't a problem, yet John *also* uses avoidance there (or whoever wrote them).
+
+It also isn't as much of a problem with prophetic works. Compare to books like Isaiah. It opens within the body text openly self-referencing by name, and again in 2, etc., then after extensive speech from God, in chapter 6 turns to first person. John would be aware of this valid approach too.
+
+In all of this the "exaltation" is clearly directed exclusively to the Lord, both in Isaiah and John. You even see John wrongly so eager to bow that he bows to a mere angel and needs to be corrected. He's still making it crystal clear that he isn't trying to claim too much personal honor.
+
+So I see nothing inconsistent here about John dropping the avoidance within the body text in Revelation.
+
+Notice that Revelation also ends echoing the ending of Isaiah.
+
+This would also, by the way, evidence strong familiarity with the OT by John, again fitting well that he was better educated, although Acts cites opponents claiming he was poorly educated. Comparatively, he probably was, but that isn't just a boolean option (either fully educated or completely uneducated; I'm saying it looks like John was more in-between).
+
+Irenaeus is then cited:
+
+\|Matthew also issued a written Gospel among the Hebrews in their own dialect, while Peter and Paul were preaching at Rome, and laying the foundations of the Church. After their departure, Mark, the disciple and interpreter of Peter, did also hand down to us in writing what had been preached by Peter. Luke also, the companion of Paul, recorded in a book the Gospel preached by him. Afterwards, John, the disciple of the Lord, who also had leaned upon His breast, did himself publish a Gospel during his residence at Ephesus in Asia."\|
+
+Part of which I had quoted from JPH earlier. That page ends; now back to JPH.
+
+He notes detailed knowledge in John of the local geography. This could apply to Lazarus too, though. But perhaps more so for someone from Galilee, who would have to travel further to reach Jerusalem for Passover than Lazarus.
+
+There's a mention of evidence of familiarity with Samaritan "forms of thought." Again, fits well someone who had to travel either through it or around it often.
+
+The mention of the simple references to Bap as "John" is given here, mentioned by me already earlier.
+
+This is worth quoting as it directly supports my authorial avoidance theory about John specifically:
+
+\|Ommission of stories where John is prominent. Blomberg [Blom.Jn, 30] points to a number of Synoptic episodes missing from John in which John plays a role (Mark 1:16-20, 29-32; 3:13-19; 5:35-43, etc.) Though he does not reach this conclusion, we would observe thatleaving out such stories fits in with the ancient dialectic of honor and shame, in which John would be hesitant to report stories in which he was prominent.\|
+
+He reports the use of "professional fisherman's terms." Specifically, at least, the "distinct technical name for cooked fish."
+
+Next JPH cites abundant evidence John was written specifically to complement and be read after Mark. I won't cite it here but much of it looks plausible. This would also help evidence that this is John, since Mark is Peter's top student and John and Peter are obviously often put together. Though note that I think both Luke and John intended their readers to read all two, and then three, previous gospels anyway.
+
+(And if Matthean priority is right, it's quite possible Mark intended them to read Matthew first too, or vice versa if wrong, but I think the evidence best fits, following JPH elsewhere, that Matthew was likely writing live notes already even during Jesus' ministry as his official scribe, similar to the role of Baruch for Jeremiah, and that Matthew's notes were often of what all the apostles verbally repeated often, so in a sense Matthew is composed of both notes and memorized units likely accessible to all three of the other gospel writers.)
+
+Against the idea of contradictory chronologies, JPH writes:
+
+\|We note briefly that the Synoptics offered no clear time markers that demanded such a view. In line with the typical practice of ancient biography, in which words and deeds were the foremost feature, the Synoptics gathered material topically and were not concerned to provide a chronology in the same sense as a modern biography, in which every chapter or paragraph stresses that things happened on such and such a date at 4 in the afternoon (which among the Gospels, only John does to any extent; cf. 1:19, 1:35, 1:39, 1:43, 2;1, 2:13).\|
+
+I'm quoting this more for the list of verses at the end. I haven't checked them, though I did note one of them earlier, but it supports that a very familiar eyewitness wrote it. Not sure it makes as much sense to put Lazarus in those early events listed here. Given that John the Baptist was hanging out in the wilderness and the Jordan, it makes more sense to me that a fisherman would be the unnamed disciple so close to John.
+
+Of course, we do have our weird, possibly unintentional implied argument that Lazarus might be a fisherman in John 21, if we presuppose the DiLoved there is Laz.
+
+For the primary purpose of John, this is relevant:
+
+\|John's Gospel is therefore found to be a "resocializing" document intended to establish ties between the convert and his new "ingroup." To this end it features primarily conversations and monologue, the "main form of discourse used in socialization and reality maintenence" -- thus explaining as well why John does not follow the Synoptics in featuring public teachings and parables. A Sermon on the Mount would not serve John's purpose. The reader is intended to be a "conversation partner" with Jesus and there is nothing at all strange about John's non-usage of parables, which were clearly meant to be consumed by "outsiders".\|
+
+This again would be a natural purpose for one of the three most in-group disciples, Peter, James, or... John. It would seem a little more strange for Lazarus, who clearly didn't normally travel with Jesus, even if he might have been present whenever Jesus was in Bethany, etc.
+
+His comment next at the article's end about "Kingdom of God" being onlyused once in John also implies an in-group focus, consistent with John.
+
+I don't see JPH pages, at least not in the index, for 1/2/3 John. For Revelation, he does link to a GM page that says this in answer to how peasant John wrote in Greek:
+
+\|The short answer is that peasants in the commercial trades (esp. fishing, as was John's and James' occupation) were fluent in everyday Greek...it was the commercial language of the day...John, a native of the villages around the Sea of Galilee, would have had tons of dealings with the Jews in Galilee and with the non-Jews (mostly Greek-speaking) on the east shore of the Sea of Galilee (as would have Peter and James)...
+
+Also, the Greek of John and Revelation is a very SIMPLE style of Greek, without the polish of Hebrews or Paul...It befits a writer who mostly used Greek for business dealings...\|
+
+This would help support that the same author may have written John and Revelation.
+
+### Coop Mode
+What if both John and Lazarus wrote John, and Lazarus is sometimes the DiLoved, sometimes John?
+
+Or one wrote it but frequently used the other as a source?
+
+It's possible, at least the "coop" part of this idea, but it seems almost irrelevant to DiLoved's identity or identities re all the above overwhelming evidence. I think more likely John just knew more about Lazarus, and knew Lazarus through Jesus.
+
+But as mentioned earlier, the approach in writing ancient documents seems to have been largely cooperative anyway.
+
+This wouldn't likely involve two people doing the physical writing like we often think of today, but the writer (or author dictating to a scribe) speaking with anyone nearby about what could be added next. Note there was also no expectation of any need to cite them by name like our modern culture has become obsessed with.
+
+### Style Sims Tweenem
+Style similarities between them (John and 1/2/3 John.
+
+Since this article has proven to be overlong, I'm going to switch to relying on links, from some draft content in my notes that I've been otherwise expanding on for the above. If you want to read this article and see the links separately, consider opening them in right-click or hold for menu and new tab.
+
+For example, "love," a key word in the very phrase most at issue for this BibleQ, is a common theme and word in the three epistles and the gospel (especially [1st John 4:8](https://www.blueletterbible.org/lsb/1jo/4/8) / [4:16](https://www.blueletterbible.org/lsb/1jo/4/16) and [John 8:42](https://www.blueletterbible.org/lsb/jhn/8/42) / [14:21](https://www.blueletterbible.org/lsb/jhn/14/21),[23](https://www.blueletterbible.org/lsb/jhn/14/23),[24](https://www.blueletterbible.org/lsb/jhn/14/24) / [15:9](https://www.blueletterbible.org/lsb/jhn/15/9),[13](https://www.blueletterbible.org/lsb/jhn/15/13) and many others). Also found often are light (e.g. [1st John 1:5](https://www.blueletterbible.org/lsb/1jo/1/5),[7](https://www.blueletterbible.org/lsb/1jo/1/7) and [John 1:4-9](https://www.blueletterbible.org/lsb/jhn/1/4)), life ([1st John 5:12](https://www.blueletterbible.org/lsb/1jo/5/12) and [John 5:26](https://www.blueletterbible.org/lsb/jhn/5/26) and surrounding 21-29 / [6:33-34](https://www.blueletterbible.org/lsb/jhn/6/33) & surrounding 27-68), and truth ([2nd John 1:1](https://www.blueletterbible.org/lsb/2jo/1/1) / [3rd John 1:3](https://www.blueletterbible.org/lsb/3jo/1/3) and [John 4:23](https://www.blueletterbible.org/lsb/jhn/4/23) which alludes to all three Persons re [14:6](https://www.blueletterbible.org/lsb/jhn/14/6) / [1:17](https://www.blueletterbible.org/lsb/jhn/1/17)). Note also the lack of self-attribution in the epistles compared to others' epistles (although Revelation is self-attributed in its body text to John), the phrase /Word of Life/ in [1st John 1:1](https://www.blueletterbible.org/lsb/1jo/1/1) as an opening very similar to that about the Word in [John 1](https://www.blueletterbible.org/lsb/jhn/1){:target="_blank"}, and many similar constructions.
 
 
 
+{:target="_blank"}
 
 
-
-
-
-- who wrote John?
-  - epxlore the "both" option, or source, and how it's irrelevant to DiLoved = John
-- who wrote 1/2/3 John?
 - style sims tweenem
 - is this style close to Revelation? Which in the body text confirms it's by John.
 - Anon Mark
@@ -1569,7 +1708,7 @@ Another source for Markan authorship of Mark is Clement of Alexandria, evidently
 - Jesus' "from the beginning"
 - Paul's Romans 1 Genesis focus
 - Opening of John
-- Personal honor
+- Personal honor, Limited Honor
 - adapt draft paras from start of "Relevant to Trinity" through at least the first few there, maye all of it.
 - Genesis 1-2
 - Toledoths
