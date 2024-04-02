@@ -7,12 +7,12 @@
 - [Purpose of Cipher linguistic systems](#purpose-of-cipher-linguistic-systems)
 
 # Cipher, Lingua, Syllabic, ThoughtGlyphs, Speakscript, & Related Systems
-For the purposes of this text-based site, [Lingua](Lingua.md){:target="_blank"} is the most relevant, a keyboard-typeable pronunciation system.
+For the purposes of this text-based site, [Lingua](Lingua){:target="_blank"} is the most relevant, a keyboard-typeable pronunciation system.
 
 "Cipher" refers both to the category containing all of the following systems, and to the "ThoughtGlyphs" group of systems (meanings-based, not sound-based). The reason for the large number of systems is to provide options for different purposes.
 
 - **Cipher (Cf)**: a group of hand-drawn language systems that clarify meanings and pronunciations of other languages.
-  - **[Lingua](Lingua.md){:target="_blank"} (Ln) (Or SoundType (SdTp)**: Keyboard-typeable pronunciation spelling system.
+  - **[Lingua](Lingua){:target="_blank"} (Ln) (Or SoundType (SdTp)**: Keyboard-typeable pronunciation spelling system.
   - Hand-drawn *Cipher Glyphs (CfGl)* systems:
     - **Syllabic (Sl) / SoundGlyphs (SdGl)**: Highly compact pronunciation system.
     - **Cipher ThoughtGlyphs (ThGl) Art Language**: Ideographs that portray meaning in a large ingredient-symbols system, like an alphabet for thoughts (albeit much larger than the English alphabet). Has various subsystems, and two main subcategories:
@@ -83,7 +83,7 @@ The purpose is dual:
 
 # End Notes:
 
-{% include bibleseekbiblecitations.md %}
+{% include bibleseekbiblecitations %}
 
 ### Abbreviations:
 
@@ -91,8 +91,8 @@ The purpose is dual:
 
 Explained inline above.
 
-{% include bibleseekcommonabbreviations.md %}
+{% include bibleseekcommonabbreviations %}
 
-{% include bibleseekciteorcontactme.md %}
+{% include bibleseekciteorcontactme %}
 
-{% include bibleseekfooter.md %}
+{% include bibleseekfooter %}

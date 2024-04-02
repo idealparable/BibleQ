@@ -2,7 +2,7 @@
 
 # Lingua - Keyboard Typeable Pronunciation System
 
-Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher.md){:target="_blank"} language systems.
+Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher){:target="_blank"} language systems.
 
 ## Table of Contents
 
@@ -68,7 +68,7 @@ Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher.md){:
 
 # End Notes:
 
-{% include bibleseekbiblecitations.md %}
+{% include bibleseekbiblecitations %}
 
 ### Abbreviations:
 
@@ -76,8 +76,8 @@ Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher.md){:
 
 (None listed yet.)
 
-{% include bibleseekcommonabbreviations.md %}
+{% include bibleseekcommonabbreviations %}
 
-{% include bibleseekciteorcontactme.md %}
+{% include bibleseekciteorcontactme %}
 
-{% include bibleseekfooter.md %}
+{% include bibleseekfooter %}

@@ -3,7 +3,7 @@
 
 **Question(s):** QuestionGoesHere
 
-{% include mustreadnotes.md %}
+{% include mustreadnotes %}
 
 ## Table of Contents
 
