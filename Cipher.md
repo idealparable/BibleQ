@@ -1,4 +1,4 @@
-{% include bibleseekheader.md %}
+<head><link rel="stylesheet" href="style.css"></head>
 
 ## Table of Contents
 
