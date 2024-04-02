@@ -18,3 +18,12 @@
 - **CRS** = Creation Research Society
 - **JPH** = James Patrick Holding of [tektonics.org](http://tektonics.org){:target="_blank"}, some CMI articles, a library scientist & apologist, common source of mine on proper interpretation, scholarship review, biblical social context, etc.
 - **GM** = Glenn Miller of [ChristianThinkTank.org](http://christian-thinktank.org){:target="_blank"}, common source of JPH's, also does extensive scholarship and biblical context review.
+<br><br>
+- **Gk** = Greek
+- **Hb** = Hebrew
+- **Ar** = Aramaic
+- **Ln** = [Lingua](Lingua.md){:target="_blank"}, my typable pronunciation/transliteration system, part of several linguistics system under the category I call [Cipher](Cipher.md){:target="_blank"}.
+- **Cf** = Cipher (see above)
+- **Lt** = Latin
+- **En** = English
+- **StAE** = Standard American English pronunciation dialect
