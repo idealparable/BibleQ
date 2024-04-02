@@ -1,5 +1,4 @@
 <head><link rel="stylesheet" href="style.css"></head>
-
 # Did Lazarus Write John? Is he the Disciple Jesus Loved?
 
 **Question(s):** It's been suggested that Lazarus is the one referred to as the disciple Jesus loved, commonly thought to be John, since messengers tell Jesus that the one he loves (not disciple he loves, note) is sick, and we're told this is Lazarus.
@@ -198,7 +197,7 @@ Genesis 6:
 
 17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth./
 
-Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*OHD m\*OHD in my [Lingua](Lingua.md){:target="_blank"} transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
+Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*OHD m\*OHD in my [Lingua](Lingua){:target="_blank"} transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
 
 /<u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
@@ -438,7 +437,7 @@ John 8:
 
 The Bible often switches between senses of words. It was normal practice and a sign of a worthy wordsmith to switch between them in close proximity without spelling out that the meaning of the word was shifting, and rely on the intelligent reader to see the difference.
 
-This was part of how the [wisdom teacher](RiddlesWise.md){:target="_blank"} would sort the fool from the wise student.
+This was part of how the [wisdom teacher](RiddlesWise){:target="_blank"} would sort the fool from the wise student.
 
 Like, I like the like count like I liked them all myself as the likeness of alike likers.
 
