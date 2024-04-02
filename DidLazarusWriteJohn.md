@@ -211,7 +211,7 @@ Genesis 6:
 
 17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth./
 
-Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*OHD m\*OHD in my [Lingua](Lingua.md) transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
+Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*OHD m\*OHD in my [Lingua](Lingua.md){:target="_blank"} transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
 
 /<u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
@@ -307,7 +307,7 @@ Mark 2:
 
 27 He said to them, “The Sabbath was made for man, not man for the Sabbath. 28  Therefore the Son of Man is lord even of the Sabbath.”/
 
-This was referring to [1 Samuel 21:1-6](https://www.blueletterbible.org/lsb/1sa/21/1).
+This was referring to [1 Samuel 21:1-6](https://www.blueletterbible.org/lsb/1sa/21/1){:target="_blank"}.
 
 For his own disciples in the present, this was probably at least partially about that he was instituting the new covenant predicted by Moses. (Details below.)
 
@@ -329,7 +329,7 @@ This was where Moses, passing on God's words, "spoke of" Jesus, as Jesus said he
 
 That he was predicting a new covenant might be a bit subtle, but establishing a covenant was what Moses did (the Mosaic covenant) so that's implied in the "like me."
 
-Also in the "listen to him." Basically this means when Christ came, it would be his prerogative to establish a new covenant, or not to, however God chose, and whether it would continue with the Mosaic one (as a branch off of it, as all previous covenants had been branches off of the previous (Adamic, Noahic, Abrahamic, then Mosaic), except arguably a replacement Adamic one when Adam and Eve sinned), or else replace it (as clearly it did, as a branch off of the Abrahamic, which the Mosaic also branched off of, which Paul makes clear in [Galatians 3](https://www.blueletterbible.org/lsb/gal/3), especially verse 25 in context).
+Also in the "listen to him." Basically this means when Christ came, it would be his prerogative to establish a new covenant, or not to, however God chose, and whether it would continue with the Mosaic one (as a branch off of it, as all previous covenants had been branches off of the previous (Adamic, Noahic, Abrahamic, then Mosaic), except arguably a replacement Adamic one when Adam and Eve sinned), or else replace it (as clearly it did, as a branch off of the Abrahamic, which the Mosaic also branched off of, which Paul makes clear in [Galatians 3](https://www.blueletterbible.org/lsb/gal/3){:target="_blank"}, especially verse 25 in context).
 
 That it would indeed be a new covenant was explicitly confirmed here, as well as that it would not be a branch off of the Mosaic covenant:
 
@@ -451,7 +451,7 @@ John 8:
 
 The Bible often switches between senses of words. It was normal practice and a sign of a worthy wordsmith to switch between them in close proximity without spelling out that the meaning of the word was shifting, and rely on the intelligent reader to see the difference.
 
-This was part of how the [wisdom teacher](RiddlesWise.md) would sort the fool from the wise student.
+This was part of how the [wisdom teacher](RiddlesWise.md){:target="_blank"} would sort the fool from the wise student.
 
 Like, I like the like count like I liked them all myself as the likeness of alike likers.
 
@@ -1690,11 +1690,13 @@ But as mentioned earlier, the approach in writing ancient documents seems to hav
 This wouldn't likely involve two people doing the physical writing like we often think of today, but the writer (or author dictating to a scribe) speaking with anyone nearby about what could be added next. Note there was also no expectation of any need to cite them by name like our modern culture has become obsessed with.
 
 ### Style Sims Tweenem
-Style similarities between them (John and 1/2/3 John.
+Style similarities between them (John and 1/2/3 John).
 
-Since this article has proven to be overlong, I'm going to switch to relying on links, from some draft content in my notes that I've been otherwise expanding on for the above. If you want to read this article and see the links separately, consider opening them in right-click or hold for menu and new tab.
+Since this article has proven to be overlong, I'm going to switch to relying on links, at least in some cases, from some draft content in my notes that I've been otherwise expanding on for the above.
 
-For example, "love," a key word in the very phrase most at issue for this BibleQ, is a common theme and word in the three epistles and the gospel (especially [1st John 4:8](https://www.blueletterbible.org/lsb/1jo/4/8) / [4:16](https://www.blueletterbible.org/lsb/1jo/4/16) and [John 8:42](https://www.blueletterbible.org/lsb/jhn/8/42) / [14:21](https://www.blueletterbible.org/lsb/jhn/14/21),[23](https://www.blueletterbible.org/lsb/jhn/14/23),[24](https://www.blueletterbible.org/lsb/jhn/14/24) / [15:9](https://www.blueletterbible.org/lsb/jhn/15/9),[13](https://www.blueletterbible.org/lsb/jhn/15/13) and many others). Also found often are light (e.g. [1st John 1:5](https://www.blueletterbible.org/lsb/1jo/1/5),[7](https://www.blueletterbible.org/lsb/1jo/1/7) and [John 1:4-9](https://www.blueletterbible.org/lsb/jhn/1/4)), life ([1st John 5:12](https://www.blueletterbible.org/lsb/1jo/5/12) and [John 5:26](https://www.blueletterbible.org/lsb/jhn/5/26) and surrounding 21-29 / [6:33-34](https://www.blueletterbible.org/lsb/jhn/6/33) & surrounding 27-68), and truth ([2nd John 1:1](https://www.blueletterbible.org/lsb/2jo/1/1) / [3rd John 1:3](https://www.blueletterbible.org/lsb/3jo/1/3) and [John 4:23](https://www.blueletterbible.org/lsb/jhn/4/23) which alludes to all three Persons re [14:6](https://www.blueletterbible.org/lsb/jhn/14/6) / [1:17](https://www.blueletterbible.org/lsb/jhn/1/17)). Note also the lack of self-attribution in the epistles compared to others' epistles (although Revelation is self-attributed in its body text to John), the phrase /Word of Life/ in [1st John 1:1](https://www.blueletterbible.org/lsb/1jo/1/1) as an opening very similar to that about the Word in [John 1](https://www.blueletterbible.org/lsb/jhn/1){:target="_blank"}, and many similar constructions.
+For example, "love," a key word in the very phrase most at issue for this BibleQ, is a common theme and word in the three epistles and the gospel (especially [1st John 4:8](https://www.blueletterbible.org/lsb/1jo/4/8){:target="_blank"} / [4:16](https://www.blueletterbible.org/lsb/1jo/4/16){:target="_blank"} and [John 8:42](https://www.blueletterbible.org/lsb/jhn/8/42){:target="_blank"} / [14:21](https://www.blueletterbible.org/lsb/jhn/14/21){:target="_blank"},[23](https://www.blueletterbible.org/lsb/jhn/14/23){:target="_blank"},[24](https://www.blueletterbible.org/lsb/jhn/14/24){:target="_blank"} / [15:9](https://www.blueletterbible.org/lsb/jhn/15/9){:target="_blank"},[13](https://www.blueletterbible.org/lsb/jhn/15/13){:target="_blank"} and many others). Also found often are light (e.g. [1st John 1:5](https://www.blueletterbible.org/lsb/1jo/1/5){:target="_blank"},[7](https://www.blueletterbible.org/lsb/1jo/1/7){:target="_blank"} and [John 1:4-9](https://www.blueletterbible.org/lsb/jhn/1/4)){:target="_blank"}, life ([1st John 5:12](https://www.blueletterbible.org/lsb/1jo/5/12){:target="_blank"} and [John 5:26](https://www.blueletterbible.org/lsb/jhn/5/26){:target="_blank"} and surrounding 21-29 / [6:33-34](https://www.blueletterbible.org/lsb/jhn/6/33){:target="_blank"} & surrounding 27-68), and truth ([2nd John 1:1](https://www.blueletterbible.org/lsb/2jo/1/1){:target="_blank"} / [3rd John 1:3](https://www.blueletterbible.org/lsb/3jo/1/3){:target="_blank"} and [John 4:23](https://www.blueletterbible.org/lsb/jhn/4/23){:target="_blank"} which alludes to all three Persons re [14:6](https://www.blueletterbible.org/lsb/jhn/14/6){:target="_blank"} / [1:17](https://www.blueletterbible.org/lsb/jhn/1/17){:target="_blank"}). Note also the lack of self-attribution in the epistles compared to others' epistles (although Revelation is self-attributed in its body text to John), the phrase /Word of Life/ in [1st John 1:1](https://www.blueletterbible.org/lsb/1jo/1/1){:target="_blank"} as an opening very similar to that about the Word in [John 1](https://www.blueletterbible.org/lsb/jhn/1){:target="_blank"}, and many similar constructions.
+
+
 
 
 
