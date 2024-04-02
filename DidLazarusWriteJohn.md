@@ -1,4 +1,4 @@
-<head><link rel="stylesheet" href="style.css"></head>
+{% include bibleseekheader.md %}
 # Did Lazarus Write John? Is he the Disciple Jesus Loved?
 
 **Question(s):** It's been suggested that Lazarus is the one referred to as the disciple Jesus loved, commonly thought to be John, since messengers tell Jesus that the one he loves (not disciple he loves, note) is sick, and we're told this is Lazarus.
