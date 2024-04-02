@@ -18,7 +18,7 @@ WIPs; unmade or drafted but unposted:
 - [Looks Don't Deceive You - You Do](LooksDontDeceive.md) - They claimed it looks false, a claim which is false, but then they did say, believe anyway.
 
 ## More key topics
-
+- [Genesis Toledoth (Generation / Account) Lines](ToledothTheory.md) - What I think verses like Genesis 2:4, 5:1, etc. mean, key relevances, weighing opposition reasoning.
 
 
 ## Other topics:
