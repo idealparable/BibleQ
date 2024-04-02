@@ -15,6 +15,6 @@ a:visited {
 a:hover {
   color: #b3d0fc;
 }
-.site-title {
-  color: #00b439;
+.site-header {  /* Assuming your header has the class "site-header" */
+  margin-left: 20px;  /* Adjust the value as needed */
 }
