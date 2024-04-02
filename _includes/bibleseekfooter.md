@@ -1,2 +1,2 @@
 ---
-[BibleSeek Hub Page](index.md)
+[BibleSeek Hub Page](index)
