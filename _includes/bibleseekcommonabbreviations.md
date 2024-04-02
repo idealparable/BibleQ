@@ -22,7 +22,7 @@
 - **Gk** = Greek
 - **Hb** = Hebrew
 - **Ar** = Aramaic
-- **Ln** = [Lingua](Lingua.md){:target="_blank"}, my typable pronunciation/transliteration system, part of several linguistics system under the category I call [Cipher](Cipher.md){:target="_blank"}.
+- **Ln** = [Lingua](Lingua){:target="_blank"}, my typable pronunciation/transliteration system, part of several linguistics system under the category I call [Cipher](Cipher.md){:target="_blank"}.
 - **Cf** = Cipher (see above)
 - **Lt** = Latin
 - **En** = English
