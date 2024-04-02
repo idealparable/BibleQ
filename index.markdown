@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 <head><link rel="stylesheet" href="style.css"></head>
 
 Please note the "bibleseek" part in this site's URL is case sensitive and must be lowercase, despite the spelling in the title below.
