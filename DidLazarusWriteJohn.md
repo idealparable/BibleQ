@@ -83,9 +83,9 @@ One of Jesus' statements in John's version of the chapter where the DiLoved phra
 
 John 13:
 
-/34  A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.
+<b>/34  A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.
 
-35  By this everyone will know that you are my disciples, if you have love for one another.”/
+35  By this everyone will know that you are my disciples, if you have love for one another.”/</b>
 
 John focuses on this -- if John is writing this gospel, as it seems crystal clear he did. Given the context, no wonder this impressed itself on him so strongly.
 
