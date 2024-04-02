@@ -1488,13 +1488,7 @@ That said, it would make sense here as Lazarus too, since associating Lazarus wi
 
 /24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written./
 
--get the response to this part from the draft version
-
-
-
-
-
-
+More about the "we know" part in a bit. But notice the first-person in "I suppose" and the phrasing of the first sentence (here) in verse 24.
 
 ## Who Wrote John?
 
@@ -1527,6 +1521,38 @@ If you read this by itself, you might think Peter personally literally wrote (ra
 So this establishes that most likely, Peter, a fisherman, wasn't as capable for personally writing something himself (whether due to illiteracy, or choosing to send the letter in Greek while he might only know how to write in Hebrew, or feeling that his command of the language was not as good as the scribe, etc.).
 
 This could also apply just as easily to John. But it's also possible evidence that John was more learned than most fishermen, so in turn, possible evidence for higher likelihood of John specifically knowing an elite like Caiaphas.
+
+Also, that Peter relied on Mark to write down his teachings evidences this, or at least a possible lesser knowledge of Greek specifically (he may have told them what to write in Aramaic, or Hebrew, although it’s likely everyone knew some Greek). This is reported by Eusebius, a historian, quoting the earlier Papias:
+
+\|Mark indeed, since he was the interpreter of Peter, wrote accurately, but not in order, the things either said or done by the Lord as much as he remembered. For he neither heard the Lord nor followed Him, but afterwards, as I have said, [heard and followed] Peter, who fitted his discourses to the needs [of his hearers] but not as if making a narrative of the Lord's sayings'; consequently, Mark, writing down some things just as he remembered, erred in nothing; for he was careful of one thing - not to omit anything of the things he heard or to falsify anything in them.\|
+
+I mentioned that I think the anonymous young man in Mark at the arrest of Jesus is Mark. The line here about "neither heard the Lord nor followed him" could be taken as denying this is possible, but since the arrest is obviously at the end of the ministry, that doesn't make sense to me. It's fully plausible that it means Mark wasn't present for most of Jesus' ministry, converting only near the end. Given that Mark has some kind of close relationship to Peter as probably top student, he likely had to start fairly early. See:
+
+1st Peter 5:
+
+/13 She who is in Babylon, chosen together with you, greets you. So does Mark, my son./
+
+It's thought this doesn't mean that John Mark was literally Peter's son, though that would certainly explain all of the above, but rather a poetic description of his close relationship as Peter's top student.
+
+It might also be that Mark "writing down" means Mark translated Hebrew or Aramaic to Greek, and Silvanus did the literal writing, I don't know. (To help explain why Mark isn't said to be the one 1st Peter was written through.) And the vague mention of "She who is in Babylon" might refer to Peter's wife. This could also imply Mark might literally be their son. If so, the Mary seen earlier would be Peter's wife, but again, this doesn't seem to be the standard view, perhaps for good reasons I'm unaware of. I especially haven't focused as much on Acts as many have and am not a scholar, so that wouldn't surprise me.
+
+In any case, the point is that Peter is attested in Scripture to have relied on this Silvanus/Silas, and attested extrabiblically (but with strong evidence in Scripture) to have relied on Mark to some capacity.
+
+If these clues mean what they seem to mean, and if John really did write directly rather than using scribes, it may evidence a better-than-usual education, perhaps because his father may have been a somewhat wealthier fisherman than others, and his theology is very advanced, making it plausible that he’s the one who was known to the high priest.
+
+That said, the line /we know that his witness is true/ (John 21:24) is taken by some to indicate the use of scribes, or that John’s students wrote the final form of the gospel. I think more likely it’s including the author’s first-person affirmation that he knows what he says is true, and that of other witnesses whose presence has been mentioned, given that the very same verse confirms /This is the disciple who is bearing witness to these things and wrote these things/ and the next /I suppose/ (showing first-person writing).
+
+Also, in their culture, no writing was likely a solitary project; it’s thought that it was normal for the author to be collaborating in discussing ideas of what to write next with others. So any statement I make about who apparently wrote a work needs to be understood in light of this caveat, that the specific word choice might not be solely his own even if he was the one physically writing. Also dictation to a scribe was normal even for the highly educated, as Paul himself says many times that he did.
+
+Still, it does seem that the author of John was somewhat closer to the physical writing and closer to being the sole intellectual source for the wordings than Peter.
+
+If we only had the gospel named after John, this might indeed seem like an argument for Lazarus, but in comparing it to the three Johannine epistles and the book of Revelation, all four also thought to be authored by John, it’s very similar, as I'l cover in more detail later.
+
+Another source for Markan authorship of Mark is Clement of Alexandria, evidently quoted here by Eusebius (this is only mentioned by JPH, quoting here from a google result, I duplicated their italics which is the quote, I think, and bold for Mark and Clement, though not Papias):
+
+\|And thus when the divine word had made its home among them [the Christians in Rome], the power of Simon [the magician] was quenched and immediately destroyed, together with the man himself.  And so greatly did the splendor of piety illumine the minds of PETER'S hearers that they were not satisfied with hearing once only, and were not content with the unwritten teaching of the divine Gospel, but with all sorts of entreaties <i>they besought <b>MARK</b>, a follower of Peter, and the one whose Gospel is extant, that he would leave them a written monument of the doctrine which had been orally communicated to them. Nor did they cease until they had prevailed with the man, and had thus become the occasion of the written Gospel which bears the name of <b>MARK</b>.  And they say that Peter when he had learned, through a revelation of the Spirit, of that which had been done, was pleased with the zeal of the men, and that the work obtained the sanction of his authority for the purpose of being used in the churches.</i>  <b>Clement</b> in the eighth book of his Hypotyposes gives this account, and with him agrees the bishop of Hierapolis named Papias.  And Peter makes mention of Mark in his first epistle which they say that he wrote in Rome itself, as is indicated by him, when he calls the city, by a figure, Babylon, as he does in the following words:  "The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son" (1 Peter 5:13).  And they say that this Mark was the first that was sent to Egypt, and that he proclaimed the Gospel which he had written, and first established churches in Alexandria.\|
+
+
 
 
 
