@@ -12,11 +12,7 @@ I'll try to walk through major arguments pro/con with Scriptural quotes backing 
 
 I could be wrong, now, but I don't think so.
 
-<br><br>
-
 {% include mustreadnotes.md %}
-
-<br><br>
 
 ## Table of Contents
 - [Question: Did Lazarus Write John? Is he the Disciple Jesus Loved?](#did-lazarus-write-john-is-he-the-disciple-jesus-loved)
