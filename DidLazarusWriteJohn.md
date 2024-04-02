@@ -1794,5 +1794,4 @@ If you have questions, be aware I might not be very responsive at that email. I 
 
 **If you know my real name, do not tell others.** I don't agree with giving out personal information online.
 
----
-[BibleSeek Hub Page](index.md)
+{% include bibleseekfooter.md %}
