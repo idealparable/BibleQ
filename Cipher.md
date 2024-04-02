@@ -83,7 +83,7 @@ The purpose is dual:
 
 # End Notes:
 
-{% include bibleseekbiblecitations %}
+{% include bibleseekbiblecitations.md %}
 
 ### Abbreviations:
 
@@ -91,8 +91,8 @@ The purpose is dual:
 
 Explained inline above.
 
-{% include bibleseekcommonabbreviations %}
+{% include bibleseekcommonabbreviations.md %}
 
-{% include bibleseekciteorcontactme %}
+{% include bibleseekciteorcontactme.md %}
 
-{% include bibleseekfooter %}
+{% include bibleseekfooter.md %}

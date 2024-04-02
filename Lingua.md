@@ -68,7 +68,7 @@ Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher){:tar
 
 # End Notes:
 
-{% include bibleseekbiblecitations %}
+{% include bibleseekbiblecitations.md %}
 
 ### Abbreviations:
 
@@ -76,8 +76,8 @@ Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher){:tar
 
 (None listed yet.)
 
-{% include bibleseekcommonabbreviations %}
+{% include bibleseekcommonabbreviations.md %}
 
-{% include bibleseekciteorcontactme %}
+{% include bibleseekciteorcontactme.md %}
 
-{% include bibleseekfooter %}
+{% include bibleseekfooter.md %}
