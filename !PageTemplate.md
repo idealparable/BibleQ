@@ -99,8 +99,8 @@ Note: "For web pages or apps the full copyright notice must be used with www.LSB
 - **CMI** = Creation Ministries International
 - **ICR** = Institute of Creation Research
 - **CRS** = Creation Research Society
-- **JPH** = James Patrick Holding of [tektonics.org](tektonics.org){:target="_blank"}, some CMI articles, a library scientist & apologist, common source of mine on proper interpretation, scholarship review, biblical social context, etc.
-- **GM** = Glenn Miller of [ChristianThinkTank.org](christian-thinktank.org){:target="_blank"}, common source of JPH's, also does extensive scholarship and biblical context review.
+- **JPH** = James Patrick Holding of [tektonics.org](http://tektonics.org){:target="_blank"}, some CMI articles, a library scientist & apologist, common source of mine on proper interpretation, scholarship review, biblical social context, etc.
+- **GM** = Glenn Miller of [ChristianThinkTank.org](http://christian-thinktank.org){:target="_blank"}, common source of JPH's, also does extensive scholarship and biblical context review.
 
 ### Cite or Contact Me?
 Please think twice about citing me as if I was an authoritative source. I'm just a nobody layman with a brain who's dying (hopefully of old age), so I wanted to know what would happen after, and what I should do about it. As should all. I happened to learn a lot, including a layman focus on logic. So in case it would help people I try to make what I know available to others, but you should be doing your own study.
