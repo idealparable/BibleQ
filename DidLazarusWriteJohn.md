@@ -197,7 +197,7 @@ Genesis 6:
 
 17 The flood was forty days on the earth. The waters <u><i>INCREASED</i></u> and lifted up the ship, and it was lifted up above the earth. 18 The waters rose, and <u><i>INCREASED GREATLY,</i></u> on the earth; and the ship floated on the surface of the waters. 19 The waters rose <u><i>VERY</i></u> high on the earth./
 
-Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m\*OHD m\*OHD in my [Lingua](Lingua){:target="_blank"} transliteration system, with "\*" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
+Here LSB actually has /MORE and MORE/, which I confirmed in the interlinear just to be sure (מְאֹד מְאֹד, m^OHD m^OHD in my [Lingua](Lingua){:target="_blank"} transliteration system, with "^" being the unstressed uh of schwa, mᵊ'ōḏ mᵊ'ōḏ in BLB's transliteration), so what WEBP makes look like just one for /VERY/ is two.
 
 /<u><b>ALL</b></u> the high mountains that were under the <u><b>WHOLE</b></u> sky were covered.
 
@@ -1268,11 +1268,11 @@ Let's look at the name meanings per BLB. Be aware, this is going to be quite a d
 
     It's from when Rachel named Joseph son of Jacob son of Isaac son of Abraham (not Joseph son of Jacob of the end of the genealogy in Matthew 1; that Joseph is Mary's husband), saying /Gen 30:24 - And she named him Joseph, saying, “May Yahweh [fn]give me another son.”/ but the footnote says \|Lit add to me; Heb Joseph\|. It's really Hebrew Yosehf. (In spelling. I'm not very clear on whether the Greek version of E that looks like a lowercase n is the one pronounced eh or the one pronounced ey; I just went with ey above since BLB said so.)
 
-- Barsabbas, Greek Βαρσαβᾶς Ln Bahr'sah'BAHS, which BLB helpfully translates \|"son of Sabas"\|. And says: \|Of Aramaic origin בַּר (H1247) and probably צְבָה (H6634)\| That's bahr (well-known as the Aramaic equivalent of behn / ben, meaning son or son of), and Ln ts*b-AH.
+- Barsabbas, Greek Βαρσαβᾶς Ln Bahr'sah'BAHS, which BLB helpfully translates \|"son of Sabas"\|. And says: \|Of Aramaic origin בַּר (H1247) and probably צְבָה (H6634)\| That's bahr (well-known as the Aramaic equivalent of behn / ben, meaning son or son of), and Ln ts^b-AH.
 
-  In Lingua, I don't have a great way to turn schwa (*, unstressed uh) into a normal letter, other than to just leave it out and keep a silent apostrophe separator, so we would get, for a more normal spelling and capitalization (not indicating syllable stress anymore): Ts'bah.
+  In Lingua, I don't have a great way to turn schwa (^, unstressed uh) into a normal letter, other than to just leave it out and keep a silent apostrophe separator, so we would get, for a more normal spelling and capitalization (not indicating syllable stress anymore): Ts'bah.
 
-  BLB translates: \|to desire, be inclined, be willing, be pleased\| Strong's also mentions will, and we're told it corresponds to another word spelled almost identically: צְבָא. The only difference in pronunciation is they put the B with the final syllable, which I thought it was weird they didn't for the earlier one (hence I included the dash to clarify), so this would be ts*-BAH. The only spelling difference is that the final letter is the aleph vowel carrier (Hebrew's consonantal equivalent of the first letter of the alphabet although it isn't a vowel, but similar to our letter A or Greek's alpha, from which we get "alphabet") instead of the final silent H of the other one.
+  BLB translates: \|to desire, be inclined, be willing, be pleased\| Strong's also mentions will, and we're told it corresponds to another word spelled almost identically: צְבָא. The only difference in pronunciation is they put the B with the final syllable, which I thought it was weird they didn't for the earlier one (hence I included the dash to clarify), so this would be ts^-BAH. The only spelling difference is that the final letter is the aleph vowel carrier (Hebrew's consonantal equivalent of the first letter of the alphabet although it isn't a vowel, but similar to our letter A or Greek's alpha, from which we get "alphabet") instead of the final silent H of the other one.
 
   We're told this one means to fight, war, serve, assemble, muster, wait upon, etc.
 
@@ -1288,7 +1288,7 @@ Let's look at the name meanings per BLB. Be aware, this is going to be quite a d
 
   God in Greek would be theos, which it just happens to look like thias in Matthias, but this seems to be a coincidence, since the Hebrew really did have a "t" of the type often spelled TH, sometimes argued to be pronounced T + H (not our English "th" sound as in "thin" but like "tin" with a blowing breath sound as you release the T, what in Ln full would be T'hin, not to be confused with t'-hin with t' as a separate syllable implying schwa -- but I've seen arguments that in ancient Hebrew, unlike modern Hebrew, it really was pronounced like English th as in thin, so I just spell my Lingua transliterations that way for Hebrew th).
 
-  It seems like BLB flubbed here, or they don't care so much about translating YHWH as "Lord" consistently (what here they call "Jehovah"). And Lord isn't translated; it's normally turned into kurios in Greek (the standard transliteration from memory), so this Matthias looks indeed to be shortened raw transliteration of Hebrew (Hb) Mattithiah מַתַּתְיָה Ln Mah-tihth-*YAH / Mahtihth'YAH / Matihth'YAH / Matihth'yah.
+  It seems like BLB flubbed here, or they don't care so much about translating YHWH as "Lord" consistently (what here they call "Jehovah"). And Lord isn't translated; it's normally turned into kurios in Greek (the standard transliteration from memory), so this Matthias looks indeed to be shortened raw transliteration of Hebrew (Hb) Mattithiah מַתַּתְיָה Ln Mah-tihth-^YAH / Mahtihth'YAH / Matihth'YAH / Matihth'yah.
 
   Here for translating the name, in my system, we run into a problem, where I don't like to end names in ways that you might confuse for a name for God. A raw translation would be Giftlord (or if BLB were right for the Gk, Giftgod). In my name translation system it's better to flip the order of the parts than to avoid such confusions (we're not calling this human a God of gifts; in English Giftgod or Giftlord looks like Gift as adjectival noun of noun God/Lord, which would mean it could be flipped to the object of the preposition of).
 
@@ -1304,11 +1304,11 @@ Let's look at the name meanings per BLB. Be aware, this is going to be quite a d
 
   And it wouldn't be all that surprising that John might list the calling of one of the two guys who were considered to replace Judas I-steal-a-lot, nor would it be surprising that they might want to go fishing with people other than members of the 12.
 
-  They say \|Of Hebrew origin נְתַנְאֵל (H5417)\|, Ln N*th-ah-n*-EHL / N'thahnEHL / N'thanel, and that is \|"given of God"\| (Well there you go; for the Lordgift, I was justified in using Lordgiven... Anywho.) So that would be Godgiven indeed.
+  They say \|Of Hebrew origin נְתַנְאֵל (H5417)\|, Ln N^th-ah-n^-EHL / N'thahnEHL / N'thanel, and that is \|"given of God"\| (Well there you go; for the Lordgift, I was justified in using Lordgiven... Anywho.) So that would be Godgiven indeed.
 
   Minus el, it's a variant, obviously, of a word that could be transliterated the same as Nathan (although BLB doesn't list it as such... well, not in the main two sections. The third section goes on and on and on, and even I would probably never have enough patience to follow up on all the links there, wow... and fourth...? I dunno. Kind of long, and they don't transliterate. I'm getting too tired of this rabbit hole, and that doesn't really seem relevant, I was just wondering.)
 
-  Hb נָתַן Ln nahTHAHN / na'THAHN / naTHAN / Nathan. (Well, yeah, it does work out to the same transliteration in Lingua too as the normal name Nathan but don't confuse that with the NAYth*n pronunciation.) Meaning, to give, put, set.
+  Hb נָתַן Ln nahTHAHN / na'THAHN / naTHAN / Nathan. (Well, yeah, it does work out to the same transliteration in Lingua too as the normal name Nathan but don't confuse that with the NAYth^n pronunciation.) Meaning, to give, put, set.
 
   I don't see any mention here of it being related to Matthew. I really should go look that one up, but this diversion has been so long... I'm willing to just accept that "given" and "given" are potentially similar, but all the other evidence I found seems to better fit that Nathanael is Bartholomew. Let's move on to that one.
 
@@ -1318,7 +1318,7 @@ Let's look at the name meanings per BLB. Be aware, this is going to be quite a d
 
   Technically, Lingua itself only allows "o" by itself to be a shortening of "oh," and "a" by itself can only be shortening of "ah" so as long as you know Lingua's rules, we can get it down to Bartholomaios which is actually identical to one field BLB offers calls their "Transliteration." So they and Lingua agree for once. I just normally avoid shortenings that will be mispronounced by English speakers if that's all they see.
 
-  Anywho, it means \|"son of Tolmai"\|, and unsurprisingly since "bar" is "son of" in Aramaic, \|Of Aramaic origin בַּר (H1247) and תַּלְמַי (H8526)\|. That last is Ln Tohl*MAHy, \|"furrowed"\| or \|ridged\|. A "proper name". This isn't that relevant probably, most likely it just means Bartholomew is the son of a guy named Tolmai.
+  Anywho, it means \|"son of Tolmai"\|, and unsurprisingly since "bar" is "son of" in Aramaic, \|Of Aramaic origin בַּר (H1247) and תַּלְמַי (H8526)\|. That last is Ln Tohl^MAHy, \|"furrowed"\| or \|ridged\|. A "proper name". This isn't that relevant probably, most likely it just means Bartholomew is the son of a guy named Tolmai.
 
   I find that that's still good evidence that Bartholomew isn't his "first" name as we in modern English society would call it, which supports that he is really Nathanael Bartholomew. Perhaps the similarity to Matthias or Matthew might be why he was typically known by his "last name" instead, while not actually being Matthias (or Matthew for that matter, most likely), to differentiate. I feel like that's a reasonable guess, although I might just be biased for my theory here.
 
@@ -1410,7 +1410,7 @@ None of the disciples dared inquire of him, “Who are you?” knowing that it w
 
 WEBP is saying Simon son of "Jonah." LSB has "son of John." The name Jonah (in Jonah 1:1) is this in the Greek LXX (Gk): Ἰωνάμ transliteration Ionam, Lingua (Ln) Ee-oh-NAHM, Hebrew (Hb) יוֹנָה transliteration Yonah, Lingua yoh-NAH, said to mean \|"Jehovah is a gracious giver"\|, and the Greek in this verse is:
 
-Gk Ἰωάννου transliteration Ioannou, Ln Ee-oh-AHN-neys, said to mean \|"Jehovah has graced"\|, of \|A form of יְהוֹחָנָן (H3076)\| Hb transliteration Yehokhanan, Ln y*-Hoh-khah-NAHN, said to mean same as the Gk form.
+Gk Ἰωάννου transliteration Ioannou, Ln Ee-oh-AHN-neys, said to mean \|"Jehovah has graced"\|, of \|A form of יְהוֹחָנָן (H3076)\| Hb transliteration Yehokhanan, Ln y^-Hoh-khah-NAHN, said to mean same as the Gk form.
 
 In the Hebrew, these seem almost the same with "Yo" being a normal shortening of "Yeho," part of the altered Yahweh (altered Yahu), although I don't know the relationship of "nah" with "khanan," beyond that BLB is saying that "grace" is the meaning (basically) of both.
 
