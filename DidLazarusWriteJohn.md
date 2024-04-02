@@ -47,7 +47,7 @@ See [end notes](#end-notes) for more about citation style, copyright notices, ex
   - [Fishy](#fishy)
     - [A Long Luke Passage I Quoted](#a-long-luke-passage-i-quoted)
     - [John 1 Clues](#john-1-clues)
-    - [Nathanael = Bartholomew?](#nathanael-bartholomew)
+    - [Nathanael = Bartholomew?](#nathanael--bartholomew)
       - [Rabbit: Names](#rabbit-names)
       - [Skip Rabbit: Names](#skip-rabbit-names)
     - [Sons of Zebedee? Who Are They?](#sons-of-zebedee-who-are-they)
@@ -1500,7 +1500,7 @@ That said, it would make sense here as Lazarus too, since associating Lazarus wi
 
 Hint: John.
 
-Let's go through the attestation and other arguments in JPH's article on this. For the full details, go to his site (see abbreviations section in endnotes) and his by-Bible-book section of the hub page, to John, and it's the first link (the one in the intro paragraph at the top).
+Let's go through the attestation and other arguments in JPH's article on this. For the full details, go to his site (see abbreviations section in endnotes) and his by-Bible-book section of the hub page, to John, and it's the first link (the one in the intro paragraph at the top). I won't link it here in case the link changes in the future.
 
 First, Irenaeus, said to be a student of Polycarp, who is in turn said to be a student of John, quoted Polycarp:
 
