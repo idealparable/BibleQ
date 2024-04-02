@@ -1484,14 +1484,54 @@ This is where we have our confirmation that Last Supper DiLoved = John 21 Boat D
 
 Since it's thought that John actually lived quite a long time, this would make sense. He probably was writing this later in life. We know it's thought to be (translation: we don't know) later than the other gospels. Etc. So it seems like this is another hint that it's John.
 
-That said, it would make sense here as Lazarus too, but we're about to get our strong evidence that it can't be (if extrabiblical attestation is right that it's John, and all this other evidence that points to a guy named John who is very central among, probably, the 12).
+That said, it would make sense here as Lazarus too, since associating Lazarus with not dying obviously fits, but we're about to get our strong evidence that it can't be (if extrabiblical attestation is right that it's John, and all this other evidence that points to a guy named John who is very central among, probably, the 12).
 
 /24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written./
 
+-get the response to this part from the draft version
 
 
 
-## Skip Rabbit: Fishy
+
+
+
+
+## Who Wrote John?
+
+Hint: John.
+
+Let's go through the attestation and other arguments in JPH's article on this. For the full details, go to his site (see abbreviations section in endnotes) and his by-Bible-book section of the hub page, to John, and it's the first link (the one in the intro paragraph at the top).
+
+First, Irenaeus, said to be a student of Polycarp, who is in turn said to be a student of John, quoted Polycarp:
+
+\|John, the disciple of the Lord, who leaned back on his breast, published the Gospel while he was resident at Ephesus in Asia...\|
+
+I won't be showing all the arguments against this or the responses JPH gives here. Read his article for that. It suffices to say, it wasn't Lazarus, even if I were to grant all the objections there (which weren't about arguing for Lazarus, but about which John).
+
+\|John's Gospel is in good Greek with some semitizing\|
+
+This is a quote of an opponent, who then goes on to whine about it for reasons unrelated here, but this is relevant to why it could be that John was more educated than Peter, if he wrote on his own, though his statement that he "wrote" these things could possibly be embedding of an unnamed amanuensis (scribe, someone who would take dictation from another to write down their words, or translations of them, or paraphrases of them).
+
+What we do know is that 1st Peter is said to be written through a scribe, Silas/Silvanus:
+
+1st Peter 5:
+
+/12 Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand./
+
+We also have this in 2nd Peter 3:
+
+/1 This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you.../
+
+If you read this by itself, you might think Peter personally literally wrote (rather than dictated) both letters, but we know that this is how he's defining dictation from the previous passage in the first letter, and note the wording there also said "I have written to you" -- "through" the scribe. So that again is most likely what he means here in 2nd Peter too. (Note this is another example of embedding language.)
+
+So this establishes that most likely, Peter, a fisherman, wasn't as capable for personally writing something himself (whether due to illiteracy, or choosing to send the letter in Greek while he might only know how to write in Hebrew, or feeling that his command of the language was not as good as the scribe, etc.).
+
+This could also apply just as easily to John. But it's also possible evidence that John was more learned than most fishermen, so in turn, possible evidence for higher likelihood of John specifically knowing an elite like Caiaphas.
+
+
+
+
+
 
 - who wrote John?
   - epxlore the "both" option, or source, and how it's irrelevant to DiLoved = John
@@ -1504,13 +1544,14 @@ That said, it would make sense here as Lazarus too, but we're about to get our s
 - Paul's Romans 1 Genesis focus
 - Opening of John
 - Personal honor
+- adapt draft paras from start of "Relevant to Trinity" through at least the first few there, maye all of it.
 - Genesis 1-2
 - Toledoths
 - Updated Genealogies
 - Unitarianism
 - Contradiction allegations
 - "Poetry means whatever you want" myth
-
+- Mopup: Other features throughout gospel of John, maybe other anonymity or POV evidence
 
 
 
