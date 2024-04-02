@@ -81,11 +81,11 @@ This is the mark of John's authorship and identity as the disciple Jesus loved (
 
 One of Jesus' statements in John's version of the chapter where the DiLoved phrase is first used looks like it's the reason this was impressed on John -- note, right after Peter asked him (if it's him) to ask Jesus who was the betrayer; that would psychologically "wake John up" to pay even closer attention to everything surrounding this event than even anyone else:
 
-John 13:
+**John 13:**
 
-<b>/34  A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.
+<b>/34  A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.</b>
 
-35  By this everyone will know that you are my disciples, if you have love for one another.”/</b>
+<b>35  By this everyone will know that you are my disciples, if you have love for one another.”/</b>
 
 John focuses on this -- if John is writing this gospel, as it seems crystal clear he did. Given the context, no wonder this impressed itself on him so strongly.
 
