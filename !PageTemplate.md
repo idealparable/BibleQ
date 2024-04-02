@@ -5,7 +5,7 @@ test
 
 **Question(s):** QuestionGoesHere
 
-{% include mustreadnotes %}
+{% include mustreadnotes.md %}
 
 ## Table of Contents
 
