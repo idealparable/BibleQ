@@ -24,6 +24,7 @@ title: BibleSeek
 #  Bible Truthseeking (BibleSeek) website.
 baseurl: "/bibleseek" # the subpath of your site, e.g. /blog
 url: "https://idealparable.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: idealparable/bibleseek
 # Build settings
 theme: minima
 plugins:
