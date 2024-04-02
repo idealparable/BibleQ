@@ -1,0 +1,17 @@
+body {
+  background-color: #300;
+  color: rgb(255, 170, 67);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+}
+strong, b {
+  font-weight: 750;
+}
+a { 
+  color: #80b3ff;
+}
+a:visited {
+  color: #86bf88;
+}
+a:hover {
+  color: #b3d0fc;
+}
