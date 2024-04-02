@@ -1,5 +1,4 @@
-<head><link rel="stylesheet" href="style.css"></head>
-# Did Lazarus Write John? Is he the Disciple Jesus Loved?
+<head><link rel="stylesheet" href="style.css"></head> # Did Lazarus Write John? Is he the Disciple Jesus Loved?
 
 **Question(s):** It's been suggested that Lazarus is the one referred to as the disciple Jesus loved, commonly thought to be John, since messengers tell Jesus that the one he loves (not disciple he loves, note) is sick, and we're told this is Lazarus.
 
@@ -1682,6 +1681,11 @@ Since this article has proven to be overlong, I'm going to switch to relying on 
 
 For example, "love," a key word in the very phrase most at issue for this BibleQ, is a common theme and word in the three epistles and the gospel (especially [1st John 4:8](https://www.blueletterbible.org/lsb/1jo/4/8){:target="_blank"} / [4:16](https://www.blueletterbible.org/lsb/1jo/4/16){:target="_blank"} and [John 8:42](https://www.blueletterbible.org/lsb/jhn/8/42){:target="_blank"} / [14:21](https://www.blueletterbible.org/lsb/jhn/14/21){:target="_blank"},[23](https://www.blueletterbible.org/lsb/jhn/14/23){:target="_blank"},[24](https://www.blueletterbible.org/lsb/jhn/14/24){:target="_blank"} / [15:9](https://www.blueletterbible.org/lsb/jhn/15/9){:target="_blank"},[13](https://www.blueletterbible.org/lsb/jhn/15/13){:target="_blank"} and many others). Also found often are light (e.g. [1st John 1:5](https://www.blueletterbible.org/lsb/1jo/1/5){:target="_blank"},[7](https://www.blueletterbible.org/lsb/1jo/1/7){:target="_blank"} and [John 1:4-9](https://www.blueletterbible.org/lsb/jhn/1/4)){:target="_blank"}, life ([1st John 5:12](https://www.blueletterbible.org/lsb/1jo/5/12){:target="_blank"} and [John 5:26](https://www.blueletterbible.org/lsb/jhn/5/26){:target="_blank"} and surrounding 21-29 / [6:33-34](https://www.blueletterbible.org/lsb/jhn/6/33){:target="_blank"} & surrounding 27-68), and truth ([2nd John 1:1](https://www.blueletterbible.org/lsb/2jo/1/1){:target="_blank"} / [3rd John 1:3](https://www.blueletterbible.org/lsb/3jo/1/3){:target="_blank"} and [John 4:23](https://www.blueletterbible.org/lsb/jhn/4/23){:target="_blank"} which alludes to all three Persons re [14:6](https://www.blueletterbible.org/lsb/jhn/14/6){:target="_blank"} / [1:17](https://www.blueletterbible.org/lsb/jhn/1/17){:target="_blank"}). Note also the lack of self-attribution in the epistles compared to others' epistles (although Revelation is self-attributed in its body text to John), the phrase /Word of Life/ in [1st John 1:1](https://www.blueletterbible.org/lsb/1jo/1/1){:target="_blank"} as an opening very similar to that about the Word in [John 1](https://www.blueletterbible.org/lsb/jhn/1){:target="_blank"}, and many similar constructions.
 
+## From the Beginning
+Now let's start building an understanding of why I think John (and/or Mark; if it's true that John is especially focused on writing a followup to Mark, it may be Mark, or Peter, thought of this first, and John followed Mark's lead) came to value "authorial avoidance."
+
+An absolutely crucial passage for Christians, for understanding how we should still look at the Mosaic law for guidance, yet know which parts don't stand in the Christian covenant, is revealed by Jesus here:
+
 
 
 
@@ -1689,10 +1693,6 @@ For example, "love," a key word in the very phrase most at issue for this BibleQ
 {:target="_blank"}
 
 
-- style sims tweenem
-- is this style close to Revelation? Which in the body text confirms it's by John.
-- Anon Mark
-- Paul's "I know not if in the body"
 - Jesus' "from the beginning"
 - Paul's Romans 1 Genesis focus
 - Opening of John
