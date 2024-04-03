@@ -1691,10 +1691,14 @@ An absolutely crucial passage for Christians, for understanding how we should st
 
 
 
-{:target="_blank"}
+
 
 
 - Jesus' "from the beginning"
+
+
+
+
 - Paul's Romans 1 Genesis focus
 - Opening of John
 - Personal honor, Limited Honor
@@ -1709,9 +1713,9 @@ An absolutely crucial passage for Christians, for understanding how we should st
 
 
 
-- add john 1:3 christ no beginning after nonliterall
 
 
+{:target="_blank"}
 
 
 
