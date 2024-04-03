@@ -3,7 +3,7 @@
 
 ## Recent topics:
 
-- [Did Lazarus Write John? Is he the Disciple Jesus Loved?](DidLazarusWriteJohn) Why I think answer's no to both. WIP.
+- [Did Lazarus Write John? Is he the Disciple Jesus Loved?](DidLazarusWriteJohn) Why I think answer's no to both. [Draft form complete].
 - [Lingua](Lingua) & [Cipher](Cipher) (some language systems, Lingua is the main one useful here, for pronunciation guides). WIP.
 ## Foundational topics:
 
