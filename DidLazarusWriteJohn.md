@@ -1685,8 +1685,659 @@ For example, "love," a key word in the very phrase most at issue for this BibleQ
 ## From the Beginning
 Now let's start building an understanding of why I think John (and/or Mark; if it's true that John is especially focused on writing a followup to Mark, it may be Mark, or Peter, thought of this first, and John followed Mark's lead) came to value "authorial avoidance."
 
+First let me restate the argument from the version in my notes:
+
+Specifically the argument is that some early Christians took Jesus' focus on Genesis ([Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8)) as a reason to look closely at it as a pattern to follow, and that [Genesis 2:4](https://www.blueletterbible.org/lsb/gen/2/4) is a signature line for the preceding account, seeing Jesus as the LORD God there, implying he authored 1-2:3, using "authorial avoidance" of his own personal name within the account's body text itself, and that these early Christians used this model in some of their own works (Mark and John), despite millennia of a tradition of instead referring to oneself in the third person, since the apparent account of Adam from [2:5](https://www.blueletterbible.org/lsb/gen/2/5) through [5:1a](https://www.blueletterbible.org/lsb/gen/5/1), and Moses himself ([Exodus 17:14](https://www.blueletterbible.org/lsb/exo/17/14), [Numbers 33:1](https://www.blueletterbible.org/lsb/num/33/1),[2](https://www.blueletterbible.org/lsb/num/33/2)), etc.
+
+Though the 3rd-person option also remained valid, as Matthew uses it (compare [Matthew 9:9](https://www.blueletterbible.org/lsb/mat/9/9) with [Mark 2:14](https://www.blueletterbible.org/lsb/mar/2/14) and [Luke 5:27](https://www.blueletterbible.org/lsb/luk/5/27)). And sometimes first person as with Luke's openings of both [Luke](https://www.blueletterbible.org/lsb/luk/1/3) and [Acts](https://www.blueletterbible.org/lsb/act/1/1).
+
+Also, probably not coincidentally, Mark was said (by Papias as quoted by Eusebius, and by Clement) to be a top student of Peter, and Peter and John were two of the three disciples normally treated as central (e.g. [Matthew 17:1-8](https://www.blueletterbible.org/lsb/mat/17/1)), and closest to Jesus. So basically they adopted what they saw as Jesus' own authorship style.
+
 An absolutely crucial passage for Christians, for understanding how we should still look at the Mosaic law for guidance, yet know which parts don't stand in the Christian covenant, is revealed by Jesus here:
 
+Matthew 19:
+
+/3 Pharisees came to him, testing him and saying, “Is it lawful for a man to divorce his wife for any reason?”
+
+4 He answered, “Haven’t you read that he who made them <b><i><u>FROM THE BEGINNING</u></i></b> made them male and female,* 5  and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh’?* 6  So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”
+
+7 They asked him, “Why then did Moses command us to give her a certificate of divorce and divorce her?”
+
+8 He said to them, “Moses, **because of the hardness of your hearts**, allowed you to divorce your wives, but <b><i><u>FROM THE BEGINNING</u></i></b> it has not been so./
+
+When someone repeats something, it's important, and all the more so in their culture.
+
+Mark version, chapter 10:
+
+/2 Pharisees came to him testing him, and asked him, “Is it lawful for a man to divorce his wife?”
+
+3 He answered, “What did Moses command you?”
+
+4 They said, “Moses allowed a certificate of divorce to be written, and to divorce her.”
+
+5 But Jesus said to them, “For your hardness of heart, he wrote you this commandment.
+
+6  But <b><i><u>FROM THE BEGINNING OF THE CREATION</u></i></b>, God made them male and female.* 7  For this cause a man will leave his father and mother, and will join to his wife, 8  and the two will become one flesh,* so that they are no longer two, but one flesh. 9  What therefore God has joined together, let no man separate.”/
+
+(By the way, Mark's wording rules out Old-Eartherism.)
+
+This gave Christians our interpretive key to know how to tell what among the highly-detailed Mosaic Covenant still stands in the Christian Covenant, along with other context shown earlier showing that the Mosiac itself ended -- we look to what in it is consistent with the original pattern in early Genesis.
+
+This is why God took six whole days to create rather than creating in an instant; to demonstrate to us that we should also work six days and then rest on the Sabbath, and that this Sabbath rest, while partially to show devotion to God, was not against man, but for him.
+
+Matthew 12
+
+/8  For the Son of Man is Lord of the Sabbath.”
+
+9 He departed from there and went into their synagogue. 10 And behold, there was a man with a withered hand. They asked him, “Is it lawful to heal on the Sabbath day?” so that they might accuse him.
+
+11 He said to them, “What man is there among you who has one sheep, and if this one falls into a pit on the Sabbath day, won’t he grab on to it and lift it out? 12  Of how much more value then is a man than a sheep! Therefore it is lawful to do good on the Sabbath day.”
+
+13 Then he told the man, “Stretch out your hand.” He stretched it out; and it was restored whole, just like the other./
+
+Mark 2:
+
+/1 When he entered again into Capernaum after some days, it was heard that he was at home.
+
+2 Immediately many were gathered together, so that there was no more room, not even around the door; and he spoke the word to them. 3 Four people came, carrying a paralytic to him. 4 When they could not come near to him for the crowd, they removed the roof where he was. When they had broken it up, they let down the mat that the paralytic was lying on.
+
+5 Jesus, seeing their faith, said to the paralytic, “Son, your sins are forgiven you.”
+
+6 But there were some of the scribes sitting there and reasoning in their hearts, 7 “Why does this man speak blasphemies like that? Who can forgive sins but God alone?”
+
+8 Immediately Jesus, perceiving in his spirit that they so reasoned within themselves, said to them, “Why do you reason these things in your hearts? 9  Which is easier, to tell the paralytic, ‘Your sins are forgiven;’ or to say, ‘Arise, and take up your bed, and walk’? 10  But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralytic— 11  “I tell you, arise, take up your mat, and go to your house.”
+
+12 He arose, and immediately took up the mat and went out in front of them all, so that they were all amazed and glorified God, saying, “We never saw anything like this!”
+
+...
+
+23 He was going on the Sabbath day through the grain fields; and his disciples began, as they went, to pluck the ears of grain.
+
+24 The Pharisees said to him, “Behold, why do they do that which is not lawful on the Sabbath day?”
+
+25 He said to them, “Did you never read what David did when he had need and was hungry—he, and those who were with him? 26  How he entered into God’s house at the time of Abiathar the high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?”
+
+27 He said to them, “The Sabbath was made for man, not man for the Sabbath. 28  Therefore the Son of Man is lord even of the Sabbath.”/
+
+See also [Luke 6:1-11](https://www.blueletterbible.org/lsb/luk/6/1).
+
+Exodus 20:
+
+/8 “Remember the Sabbath day, to keep it holy.
+
+9 You shall labor six days, and do all your work, 10 but the seventh day is a Sabbath to Yahweh your God.
+
+You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; 11 <b><i><u>FOR</u></i></b> in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; <b><i><u>THEREFORE</u></i></b> Yahweh blessed the Sabbath day, and made it holy./
+
+What all of this means is that from the beginning of creation, the Sabbath was for man, but as part of the ceremonial law for signing onto the Mosaic covenant, you were to take it to what might otherwise be an "extreme," unless there was a legitimate reason for an exception -- and that one the Mosaic covenant ended when John prepared the way for the Lord, we return to how it originally was to be.
+
+Luke 16:
+
+/14 The Pharisees, who were lovers of money, also heard all these things, and they scoffed at him.
+
+15 He said to them, “You are those who justify yourselves in the sight of men, but God knows your hearts. For that which is exalted among men is an abomination in the sight of God.
+
+16  “The law and the prophets were until John. From that time the Good News of God’s Kingdom is preached, and everyone is forcing his way into it. 17  But it is easier for heaven and earth to pass away than for one tiny stroke of a pen in the law to fall.
+
+18  “Everyone who divorces his wife and marries another commits adultery. He who marries one who is divorced from a husband commits adultery./
+
+There's a lot of relevance there, one of the keys being that the standing Old-Testament system, with the Mosaic covenant, began to be turned back to the Abrahamic covenant only, as the Christian covenant was being established.
+
+
+#### Accomplished
+
+This process was completed once Jesus finished all that he had to accomplish:
+
+Matthew 5:
+
+/13  “You are the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men.
+
+14  You are the light of the world. A city located on a hill can’t be hidden. 15  Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. 16  Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
+
+17  <b>“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill. 18  For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter‡ or one tiny pen stroke§ shall in any way pass away from the law, <u>until all things are accomplished.</u></b>
+
+19  Therefore, whoever shall break one of these least commandments and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.
+
+20  <b>For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.</b>
+
+21  “You have heard that it was said to the ancient ones, ‘You shall not murder;’* and ‘Whoever murders will be in danger of the judgment.’ 22  But I tell you that everyone who is angry with his brother without a cause † will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ ‡ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.§
+
+23  “If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, 24  leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift. 25  Agree with your adversary quickly while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison. 26  Most certainly I tell you, you shall by no means get out of there until you have paid the last penny.†
+
+27  “You have heard that it was said, ‡ ‘You shall not commit adultery;’* 28  but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart. 29  If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish than for your whole body to be cast into Gehenna.§ 30  If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.†
+
+31  “It was also said, ‘Whoever shall put away his wife, let him give her a writing of divorce,’* 32  but I tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery.
+
+33  “Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’* 34  but I tell you, don’t swear at all: neither by heaven, for it is the throne of God; 35  nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King. 36  Neither shall you swear by your head, for you can’t make one hair white or black. 37  But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one.
+
+38  “You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’* 39  But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also. 40  If anyone sues you to take away your coat, let him have your cloak also. 41  Whoever compels you to go one mile, go with him two. 42  Give to him who asks you, and don’t turn away him who desires to borrow from you.
+
+43  “You have heard that it was said, ‘You shall love your neighbor * and hate your enemy.’‡ 44  But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you, 45  that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust. 46  For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same? 47  If you only greet your friends, what more do you do than others? Don’t even the tax collectors§ do the same? 48  Therefore you shall be perfect, just as your Father in heaven is perfect./
+
+Back to the foundational Matthew 19:
+
+/9  I tell you that whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and he who marries her when she is divorced commits adultery.”
+
+10 His disciples said to him, “If this is the case of the man with his wife, it is not expedient to marry.”
+
+11 But he said to them, “Not all men can receive this saying, but those to whom it is given. 12  For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it.”
+
+13 Then little children were brought to him that he should lay his hands on them and pray; and the disciples rebuked them. 14 But Jesus said, “Allow the little children, and don’t forbid them to come to me; for the Kingdom of Heaven belongs to ones like these.” 15 He laid his hands on them, and departed from there.
+
+16 Behold, one came to him and said, “Good teacher, what good thing shall I do, that I may have eternal life?”
+
+17 He said to him, “Why do you call me good?† No one is good but one, that is, God. But if you want to enter into life, keep the commandments.”
+
+18 He said to him, “Which ones?”
+
+Jesus said, “ ‘You shall not murder.’ ‘You shall not commit adultery.’ ‘You shall not steal.’ ‘You shall not offer false testimony.’ 19  ‘Honor your father and your mother.’* And, ‘You shall love your neighbor as yourself.’ ”*
+
+20 The young man said to him, “All these things I have observed from my youth. What do I still lack?”
+
+21 Jesus said to him, “If you want to be perfect, go, sell what you have, and give to the poor, and you will have treasure in heaven; and come, follow me.”
+
+22 But when the young man heard this, he went away sad, for he was one who had great possessions.
+
+23 Jesus said to his disciples, “Most certainly I say to you, a rich man will enter into the Kingdom of Heaven with difficulty. 24  Again I tell you, it is easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”
+
+25 When the disciples heard it, they were exceedingly astonished, saying, <b>“Who then can be saved?”
+
+26 Looking at them, Jesus said, “With men this is impossible, but <u>with God all things are possible</u>.”</b>
+
+27 Then Peter answered, “Behold, we have left everything and followed you. What then will we have?”
+
+28 Jesus said to them, “Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel. 29  Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life. 30  But many will be last who are first, and first who are last./
+
+Remember the disciples did not yet understand the atonement Christ would provide for them on the cross.
+
+Mark's version, chapter 10 continued:
+
+/10 In the house, his disciples asked him again about the same matter. 11 He said to them, “Whoever divorces his wife and marries another commits adultery against her. 12  If a woman herself divorces her husband and marries another, she commits adultery.”
+
+13 They were bringing to him little children, that he should touch them, but the disciples rebuked those who were bringing them.
+
+14 But when Jesus saw it, he was moved with indignation and said to them, “Allow the little children to come to me! Don’t forbid them, for God’s Kingdom belongs to such as these. 15  Most certainly I tell you, whoever will not receive God’s Kingdom like a little child, he will in no way enter into it.” 16 He took them in his arms and blessed them, laying his hands on them.
+
+17 As he was going out into the way, one ran to him, knelt before him, and asked him, “Good Teacher, what shall I do that I may inherit eternal life?”
+
+18 Jesus said to him, “Why do you call me good? No one is good except one—God. 19  You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’ ”*
+20 He said to him, “Teacher, I have observed all these things from my youth.”
+
+21 Jesus looking at him loved him, and said to him, “One thing you lack. Go, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.”
+
+22 But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions.
+
+23 Jesus looked around and said to his disciples, “How difficult it is for those who have riches to enter into God’s Kingdom!”
+
+24 The disciples were amazed at his words. But Jesus answered again, “Children, how hard it is for those who trust in riches to enter into God’s Kingdom! 25  It is easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”
+
+26 They were exceedingly astonished, saying to him, “Then who can be saved?”
+
+27 Jesus, looking at them, said, “With men it is impossible, but not with God, for all things are possible with God.”
+
+28 Peter began to tell him, “Behold, we have left all and have followed you.”
+
+29 Jesus said, “Most certainly I tell you, there is no one who has left house, or brothers, or sisters, or father, or mother, or wife, or children, or land, for my sake, and for the sake of the Good News, 30  but he will receive one hundred times more now in this time: houses, brothers, sisters, mothers, children, and land, with persecutions; and in the age to come eternal life. 31  But many who are first will be last, and the last first.”
+
+32 They were on the way, going up to Jerusalem; and Jesus was going in front of them, and they were amazed; and those who followed were afraid.
+
+He again took the twelve, and began to tell them the things that were going to happen to him.
+
+33  “Behold, we are going up to Jerusalem. The Son of Man will be delivered to the chief priests and the scribes. They will condemn him to death, and will deliver him to the Gentiles. 34  They will mock him, spit on him, scourge him, and kill him. On the third day he will rise again.”/
+
+
+#### The Necessary Suffering of Christ's Soul
+
+Luke 13:
+
+/13 Behold, two of them were going that very day to a village named Emmaus, which was sixty stadia† from Jerusalem.
+
+14 They talked with each other about all of these things which had happened.
+
+15 While they talked and questioned together, Jesus himself came near, and went with them. 16 But their eyes were kept from recognizing him. 17 He said to them, “What are you talking about as you walk, and are sad?”
+
+18 One of them, named Cleopas, answered him, “Are you the only stranger in Jerusalem who doesn’t know the things which have happened there in these days?”
+
+19 He said to them, “What things?”
+
+They said to him, “The things concerning Jesus the Nazarene, who was a prophet mighty in deed and word before God and all the people; 20 and how the chief priests and our rulers delivered him up to be condemned to death, and crucified him. 21 But we were hoping that it was he who would redeem Israel. Yes, and besides all this, it is now the third day since these things happened.
+
+22 Also, certain women of our company amazed us, having arrived early at the tomb; 23 and when they didn’t find his body, they came saying that they had also seen a vision of angels, who said that he was alive. 24 Some of us went to the tomb and found it just like the women had said, but they didn’t see him.”
+
+25 He said to them, “Foolish people, and slow of heart to believe in all that the prophets have spoken! 26  Didn’t the Christ have to suffer these things and to enter into his glory?”
+
+27 <b>Beginning from Moses and from all the prophets, he explained to them in all the Scriptures the things concerning himself</b>./
+
+Mark 16:
+
+/11 When they heard that he was alive and had been seen by her, <b>they disbelieved</b>.
+
+12 After these things he was revealed in another form to two of them as they walked, on their way into the country. 13 They went away and told it to the rest. <b?They didn’t believe them, either</b>./
+
+Isaiah 53:
+
+/<b>1 Who has believed our message?
+To whom has Yahweh’s arm been revealed?
+2 For he grew up before him as a tender plant,
+and as a root out of dry ground.
+He has no good looks or majesty.
+When we see him, there is no beauty that we should desire him.
+3 He was despised
+and rejected by men,
+a man of suffering
+and acquainted with disease.
+He was despised as one from whom men hide their face;
+and we didn’t respect him.
+ 
+4 Surely he has borne our sickness
+and carried our suffering;
+yet we considered him plagued,
+struck by God, and afflicted.
+5 But he was pierced for our transgressions.
+He was crushed for our iniquities.
+The punishment that brought our peace was on him;
+and by his wounds we are healed.
+6 All we like sheep have gone astray.
+Everyone has turned to his own way;
+and Yahweh has laid on him the iniquity of us all.
+ 
+7 He was oppressed,
+yet when he was afflicted he didn’t open his mouth.
+As a lamb that is led to the slaughter,
+and as a sheep that before its shearers is silent,
+so he didn’t open his mouth.
+8 He was taken away by oppression and judgment.
+As for his generation,
+who considered that he was cut off out of the land of the living
+and stricken for the disobedience of my people?
+9 They made his grave with the wicked,
+and with a rich man in his death,
+although he had done no violence,
+nor was any deceit in his mouth.
+ 
+10 Yet it pleased Yahweh to bruise him.
+He has caused him to suffer.
+<b?When you make his soul an offering for sin</b>,
+he will see his offspring.
+<b>He will prolong his days</b>
+and Yahweh’s pleasure will prosper in his hand.
+<b>11 After the suffering of his soul,
+he will see the light† and be satisfied.</b>
+My righteous servant will justify many by the knowledge of himself;
+and he will bear their iniquities.
+12 Therefore I will give him a portion with the great.
+He will divide the plunder with the strong,
+because he poured out his soul to death
+and was counted with the transgressors;
+yet he bore the sins of many
+and made intercession for the transgressors./
+
+Remember that "soul" (Hb nephesh Ln NEH-fesh) in OT is body + spirit. Spirit (Hb ruakh Ln RUE-ahkh) is the intangible aspect of a living thing, the immateriality (like information, but including emotions, thoughts, will, etc.) with dynamic continuity, and both words are poetically (and in Hebrew etymologically) rooted to breath, wind.
+
+Genesis 2:
+
+/7 Yahweh God formed man from the dust of the ground, and breathed (root: nephesh) into his nostrils the breath (root: nephesh) of life; and man became a living soul (root: nephesh)./
+
+Genesis 1:
+
+/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit (ruakh) was hovering over the surface of the waters./
+
+Genesis 6:
+
+/17 I, even I, will bring the flood of waters on this earth, to destroy all flesh having the breath (ruakh) of life from under the sky. Everything that is in the earth will die./
+
+Genesis 8:
+
+/1 God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind (ruakh) to pass over the earth. The waters subsided./
+
+In other words, Isaiah prophesied the Messiah's death and resurrection.
+
+Why?
+
+Isaiah says it as quoted above, several times. Let's continue:
+
+
+#### IT IS FINISHED
+
+Matthew 27:
+
+/46 About the ninth hour Jesus cried with a loud voice, saying, “Eli, Eli, lima‡ sabachthani?” That is, “My God, my God, why have you forsaken me?”*/
+
+Mark 15:
+
+/34 At the ninth hour Jesus cried with a loud voice, saying, “Eloi, Eloi, lama sabachthani?” which is, being interpreted, “My God, my God, why have you forsaken me?” */
+
+This was Jesus predicting his vindication by alluding to this entire Psalm by quoting its opening passage (opening passages were used as titles throughout ANE cultures, thus for example "In the beginning" giving the Hebrew title of the Book of Genesis; Beginning):
+
+Psalm 22:
+
+/For the Chief Musician; set to “The Doe of the Morning.” A Psalm by David.
+1 **My God, my God, why have you forsaken me?**
+Why are you so far from helping me, and from the words of my groaning?
+2 My God, I cry in the daytime, but you don’t answer;
+in the night season, and am not silent.
+3 But you are holy,
+you who inhabit the praises of Israel.
+4 Our fathers trusted in you.
+They trusted, and you delivered them.
+5 They cried to you, and were delivered.
+They trusted in you, and were not disappointed.
+6 But I am a worm, and no man;
+a reproach of men, and despised by the people.
+7 All those who see me mock me.
+They insult me with their lips. They shake their heads, saying,
+8 “He trusts in Yahweh.
+Let him deliver him.
+Let him rescue him, since he delights in him.”
+9 But you brought me out of the womb.
+You made me trust while at my mother’s breasts.
+10 I was thrown on you from my mother’s womb.
+You are my God since my mother bore me.
+11 Don’t be far from me, for trouble is near.
+For there is no one to help.
+12 Many bulls have surrounded me.
+Strong bulls of Bashan have encircled me.
+13 They open their mouths wide against me,
+lions tearing prey and roaring.
+14 I am poured out like water.
+All my bones are out of joint.
+My heart is like wax.
+It is melted within me.
+15 My strength is dried up like a potsherd.
+My tongue sticks to the roof of my mouth.
+You have brought me into the dust of death.
+16 For dogs have surrounded me.
+A company of evildoers have enclosed me.
+They have pierced my hands and feet.†
+17 I can count all of my bones.
+They look and stare at me.
+18 They divide my garments among them.
+They cast lots for my clothing.
+ 
+19 But don’t be far off, Yahweh.
+You are my help. Hurry to help me!
+20 Deliver my soul from the sword,
+my precious life from the power of the dog.
+21 Save me from the lion’s mouth!
+Yes, you have rescued me from the horns of the wild oxen.
+ 
+22 I will declare your name to my brothers.
+Among the assembly, I will praise you.
+23 You who fear Yahweh, praise him!
+All you descendants of Jacob, glorify him!
+Stand in awe of him, all you descendants of Israel!
+24 <b>For he has not despised nor abhorred the affliction of the afflicted,
+neither has he hidden his face from him;
+but when he cried to him, he heard.</b>
+ 
+25 My praise of you comes in the great assembly.
+I will pay my vows before those who fear him.
+26 <b>The humble shall eat and be satisfied.
+They shall praise Yahweh who seek after him.
+Let your hearts live forever.</b>
+27 All the ends of the earth shall remember and turn to Yahweh.
+All the relatives of the nations shall worship before you.
+28 For the kingdom is Yahweh’s.
+He is the ruler over the nations.
+29 All the rich ones of the earth shall eat and worship.
+<b?All those who go down to the dust shall bow before him,
+even he who can’t keep his soul alive.</b>
+30 Posterity shall serve him.
+Future generations shall be told about the Lord.
+31 They shall come and shall declare his righteousness to a people that shall be born,
+<b><i></u>FOR HE HAS DONE IT</u></i></b>./
+
+Matthew 27:
+
+/50 <b>Jesus cried again with <i>a loud voice</i>, and yielded up his spirit</b>./
+
+Mark 15:
+
+/37 <b>Jesus cried out with <i>a loud voice</i>, and gave up the spirit</b>./
+
+Luke 23:
+
+/46 <b>Jesus, crying with <i>a loud voice</i>, said, “Father, into your hands I commit my spirit!” Having said this, he breathed his last</b>./
+
+John 19:
+
+/25 But **standing by Jesus’ cross** were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene. 26 Therefore when **Jesus saw his mother, and the disciple whom he loved standing there**, he said to his mother, “Woman, behold, your son!” 27 Then he said to the disciple, “Behold, your mother!” From that hour, the disciple took her to his own home.
+
+...
+
+30 When <b>Jesus</b> therefore had received the vinegar, <b>he said, <i><u>“IT IS FINISHED!</u></i>” Then he bowed his head and gave up his spirit</b>./
+
+Matthew 5 again:
+
+/17  <b>“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill. 18  For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter‡ or one tiny pen stroke§ shall in any way pass away from the law, <u>until all things are accomplished.</u></b>/
+
+Remember what we read about John's purpose in writing the gospel according to Eusebius. If this is correct, that he was writting supplemental material to the other three gospels, it can hardly be overstated the significance of this.
+
+I see signs that Mark and John were reading the Old Testament *very closely,* especially anything about Jesus, and alluding to it.
+
+John was explaining what the loud voice said, and it explains what Jesus meant about "until all things are accomplished." This happened at the cross, because only then could our sin be dealt with in a way other than simply sending us all to hell with no hope.
+
+Now we're getting closer to our significance to Genesis.
+
+
+#### John Read Genesis Attentively
+
+How did John start? Quite "oddly," it might seem, to a modern's eye not reading so closely.
+
+John 1:
+
+/1 <b><u>In the beginning</u> was the Word, and <i>the Word was with God, and the Word was God. 2 The same was in the beginning with God</i>.
+
+3 All things were made through him. Without him, nothing was made that has been made. 4 In him was life, and the life was the light of men. 5 <u>The light shines in the darkness, and the darkness hasn’t overcome† it</u>.</b>
+
+6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the light, that all might believe through him. 8 <b>He was not the light, but was sent that he might testify about the light. 9 The true light that enlightens everyone was coming into the world.</b>
+
+10 He was in the world, and the world was made through him, and the world didn’t recognize him. 11 He came to his own, and those who were his own didn’t receive him. 12 But as many as received him, to them he gave the right to become God’s children, to those who believe in his name: 13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+
+14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth.
+
+15 John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’ ” 16 From his fullness we all received grace upon grace. 17 <b>For the law was given through Moses. Grace and truth were realized through Jesus Christ</b>.§ 
+
+18 No one has seen God at any time. The only born† Son,‡ who is in the bosom of the Father, has declared him.
+
+19 This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”
+
+20 He declared, and didn’t deny, but he declared, “I am not the Christ.”
+
+21 They asked him, “What then? Are you Elijah?”
+
+He said, “I am not.”
+
+“Are you the prophet?”
+
+He answered, “No.”
+
+22 They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”
+
+23 He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’* as Isaiah the prophet said.”
+
+24 The ones who had been sent were from the Pharisees. 25 They asked him, “Why then do you baptize if you are not the Christ, nor Elijah, nor the prophet?”
+
+26 John answered them, “I baptize in water, but among you stands one whom you don’t know. 27 He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.” 28 These things were done in Bethany beyond the Jordan, where John was baptizing.
+
+29 The next day, he saw Jesus coming to him, and said, “Behold,§ the Lamb of God, who takes away the sin of the world! 30 This is he of whom I said, ‘After me comes a man who is preferred before me, for he was before me.’ 31 I didn’t know him, but for this reason I came baptizing in water, that he would be revealed to Israel.”
+
+32 John testified, saying, “I have seen the Spirit descending like a dove out of heaven, and it remained on him. 33 I didn’t recognize him, but he who sent me to baptize in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.’ 34 I have seen and have testified that this is the Son of God.”
+
+35 Again, the next day, John was standing with two of his disciples, 36 and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!” 37 The two disciples heard him speak, and they followed Jesus./
+
+This about light and about the Christ being who God created the universe through might seem like out of the blue new revelation, but it isn't. It's crystal clear in Genesis:
+
+Genesis 1:
+
+/1 <b><u>In the beginning</u>, <i>God† created the heavens and the earth</i></b>. 2 The earth was formless and empty. <b><u>Darkness</u> was on the surface of the <u>deep</u> and <u>God’s Spirit</u> was hovering over the surface of the <u>waters</u>.
+
+3 <u>God said, “Let there be light,” and there was light. 4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”.</u></b> There was evening and there was morning, the first day.
+
+6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 <u>God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse</u>; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day.
+
+9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good. 11 God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so. 12 The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good. 13 There was evening and there was morning, a third day.
+
+14 God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years; 15 and let them be for lights in the expanse of the sky to give light on the earth;” and it was so. 16 God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars. 17 God set them in the expanse of the sky to give light to the earth, 18 and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good. 19 There was evening and there was morning, a fourth day.
+
+20 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.” 21 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good. 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 There was evening and there was morning, a fifth day.
+
+24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.
+
+26 <b><i>God</i> said, “<i>Let’s</i> make man in our image, after our likeness.</b> Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”
+
+27 <b><i>God created man</i> in his own image. In <i>God</i>’s image <i>he created him</i>; male and female <i>he created them</i>.</b>
+
+28 God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”
+
+29 God said, “Behold,‡ I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food. 30 To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.
+
+31 <i>God saw everything that he had made</i>, and, behold, it was very good. There was evening and there was morning, a sixth day.
+
+2:
+
+/1 The heavens, the earth, and all their vast array were <b><i><u>FINISHED</u></i></b>. 2 On the seventh day God <b><i><u>FINISHED</u></i></b> his work which he had done; and he rested on the seventh day from all his work which he had done.
+
+3 God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done.
+
+4 <b>This is the history of the generations of the heavens and of the earth when they were created, in the day that <i>Yahweh† God</i> made the earth and the heavens.</b>
+
+5 No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground, 6 but a mist went up from the earth, and watered the whole surface of the ground.
+
+7 <b><i>Yahweh God</i> formed man</b> from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul./
+
+On the hypothesis of sig-after-until-Abraham (SAUA), everything fits.
+
+John explicitly alludes to all the major features of this section -- and if SAUA, then he is observing that Genesis 2:4 is an end signature line -- the perspective before it is of "the LORD God" as many translations have it, or Yahweh God as WEBP and LSV.
+
+If sig-always-before (SAB), admittedly it makes sense that the term "Yahweh God" suddenly shows up in 2:4 and then continues. But this *also* makes sense if Adam authored the next account and was alluding to this reference for the pre-incarnate Christ.
+
+NO ONE HAS SEEN GOD. Remember we just read that in John 1:18. That means John believes that the one who walked in the Garden was not God the Father, but the Son of God -- yet also in a sense God, because he *is* God, so John is seeing this interchangeable-yet-not tension between these two sections.
+
+That means he realizes that what Adam calls the one he speaks with personally is the one who told Adam about the details of creation Adam wasn't there yet to see (and God's POV of the ones he was), then we get Adam's account.
+
+I think John understood all this -- and he noticed that it means Jesus was avoiding mention of himself within HIS account.
+
+Scroll up and read it again.
+
+Notice several places where it says that God made the things that the one called simply God said "Let US make," and that in MOST cases, this is avoided.
+
+
+#### The Genesis Light Source
+
+Notice also that the Spirit is stated, but then mysteriously seems to be missing.
+
+Notice how a Hebrew would understand the parallelisms in this section:
+
+Genesis 1:
+
+/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
+
+3 God said, “Let there be light,” and there was light. 4 God saw the light, and saw that it was good. God divided the light from the darkness./
+
+Throughout the Bible, "deep" is a synonym for a large body of water such as the Mediterranean (the "deep" that Israelites primarily were around), and can refer to oceans.
+
+Note:
+
+Genesis 1:
+
+/9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so./
+
+From this it's commonly thought (as the findings related to Dr. John Baumgardner's Flood model appear to clearly confirm) that there was originally a single supercontinent, broken up during the Flood, and thus a single super-ocean as well. Prior to land, it was just all water on the surface, thus "earth" (dry land per verse 10) was "formless and void" or empty.
+
+What was over the water? It's unclear if there was air yet; that may be what was primarily added on Day 2, but in any case, we do know two things above the water, as the parallelism shows:
+
+||darkness|was|on|the surface of|the deep|
+|(and)|God's Spirit|was|hovering over|the surface of|the waters|
+
+In other words, the Spirit was dark -- not shining, not making light yet.
+
+This in turns mean that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!
+
+Now, again, the Spirit is said to have inspired all Scripture. Cites to that end are in the next section (SAUA section).
+
+That means he had, as I say there, an implied authorial role in Genesis 1 through 2:4 as well.
+
+He doesn't need to sign the account, and it's more "okay" to put his name (or a name for him) within the account, unlike the Word, but there's still partial authorial avoidance by the Spirit.
+
+Notice also the "loud voice" is what John picks up on to reveal what Jesus said (it is finished). This according to a source I follow, Anthony Rogers, is actually referring to a title for the theophany of the Son in the garden; that it isn't just that they heard the audible voice of the theophany of God, but that the theophany was titled the Voice of God.
+
+This is likely a big part of where John (Philo, etc.) God the idea that the one we now know as the Son is the "Word" / Logos / Memra, and it further evidences that John is seeing the one who speaks as the Word. Yet the words in Genesis are attributed to the one called simply God (the NT also tends to prefer this term as a concise option for the Father, though at times it refers to the shared essence or being as when the Word IS God).
+
+So the idea here is that the Father was Breathing Out the Voice/Word, when he breathed out the voice/word of each instruction he said, and the Voice/Word then carried out those very instructions, through the Spirit.
+
+So, Father (unchanging God) constantly "emits" the radiance of his being, his intrinsic and beginningless wisdom and the ideas that can be expressed as words, which have always been personified, and his action principle (the Spirit). Carrying with Him, the Word/Wisdom/Son expresses specific instructions and carries them out, acting as a sort of directing agent for the direct creative action of the Spirit.
+
+This is what Genesis teaches, if SAUA, and it also just happens to be what the NT teaches in extreme levels of detail.
+
+And all of it directly supports that John saw these details and learned authorial avoidance.
+
+So it's very clear that John used the cases of avoidance as self-reference without the name, much like Christ did in his account of creation.
+
+In John's case, the phrase he picked as the self-reference appears to be based on the significant statement Jesus said during the first incident where in the account of it the author of the gospel of John uses the "disciple Jesus loved" phrase (DiLoved).
+
+Remember, in the <i>He</i>Loved section about Lazarus, there's nothing anonymous about it.
+
+I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiLoved is Lazarus.
+
+So, John is seeing, due to authorial avoidance and Christ's signed authorship of Genesis 1-2:4, that the <b>Son</b> is the Light that shone out through the Spirit over the waters.
+
+Without these premises, you don't naturally get to the conclusion John clearly reached that led him to phrase things as he did.
+
+It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.
+
+
+### Sig-After-Until-Abe - Genesis Toledoth Lines Theory (SAUA)
+
+From my prep notes for this article, some sections I felt are good enough to include, with more detail about why I think SAUA makes by far the most sense.
+
+Starting with one paragraph that introduced two sections (about "from the beginning," now expanded a lot above), the first of which is about SAUA:
+
+Since Jesus focused on "from the beginning" as an important doctrinal tool to discern what in the Law of Moses still stands for Christians (e.g. [Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8)), an emphasis Paul also taught in Romans 1 (likely following Christ's taught emphasis to his disciples, then passed on to Paul), in [20](https://www.blueletterbible.org/lsb/rom/1/20), [23](https://www.blueletterbible.org/lsb/rom/1/23), [25](https://www.blueletterbible.org/lsb/rom/1/25), [26](https://www.blueletterbible.org/lsb/rom/1/26), [27](https://www.blueletterbible.org/lsb/rom/1/27), it seems that the very well-studied students of Christ (John) and of his apostles (Mark, student of Peter) looked very closely at Genesis and noticed the phrasing that clearly implies these two things:
+
+First, that Christ himself, the beginningless Son of God, or Word (Logos) of God as Philo also says (an extrabiblical NT-era Jewish source), authored Genesis 1 through 2:3.
+
+And likely [2:4](https://www.blueletterbible.org/lsb/gen/2/4/s_1047020) as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
+
+I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in [Genesis 5:1a](https://www.blueletterbible.org/lsb/gen/5/1/s_1047020), which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
+
+The perspectives match "sig-after" (toledoth lines as signatures after the accounts they go with) -- for example, only God witnesses creation before Day 6 -- up through the Abraham section, which has no toledoth, as the first one to be very long, so an end-signature first became less useful, then later shifted to usually sig-before.
+  
+Sarfati seems to assume that they all have to be one or the other, but we don't do that with modern sources; some are after, some before, and as far as I've been able to find, nobody has ever supported a universal rule with any evidence at all.
+  
+And the norm in clay tablets for short accounts in the Ancient Near East (ANE) is sig-after.
+  
+Until the Abraham account, the sections were short enough to work for that, but the Abe account is much too long for it.
+
+The "signature" purpose may also have been Moses citing his source, rather than part of the original account per se, but that works out to the same thing (not merely a transitional statement).
+  
+This could make sense if the accounts were originally oral, and whose account it was would be credited outside of the account itself, and later was added into attribution lines at the end of clay tablets (such end-sigs are called colophons), used as sources possibly by Moses, or at least the pattern of them could have been emulated by him.
+
+The only exception where this pattern doesn't seem initially to fit is in the Naamah genealogy in chapter 4, if Naamah is Noah's wife, as I think is clearly implied.
+  
+Based on the number of names, and timing of similarities in styles in different eras between her and his genealogies (a common trend throughout biblical history), Naamah likely was born after the death of Adam.
+  
+However, it's clear that genealogical information was later updated into earlier accounts by someone else in the chain of curation of the accounts (authors of later accounts in Genesis, or compiler if as late as Moses).
+  
+This is seen most clearly in the two Esau genealogies ([36:1-8](https://www.blueletterbible.org/lsb/gen/36/1) listing his sons, then [9-43](https://www.blueletterbible.org/lsb/mat/19/8) repeating the list of his sons and adding other later descendants).
+  
+Genealogies also usually start an account, establishing credentials of the author, so the style change from [4:17](https://www.blueletterbible.org/lsb/gen/4/17) to 18 likely is the start of a later brief account of Naamah added by Noah, or kept separately and compiled in by Moses or any of the other curators between them, such as Shem.
+  
+The style also changes back at [4:25](https://www.blueletterbible.org/lsb/gen/4/25), so this is likely Adam's authorship again, continuing through the /This is the book of the generations of Adam/ part ([5:1a](https://www.blueletterbible.org/lsb/gen/5/1)) of Genesis 5.
+
+Then a review summary of events from the earlier accounts is begun in 5:1b, also common after toledoth lines, indicating it is preserving an original account verbatim, not Moses merely using sources loosely. (Yet another basic point Sarfati does not even engage with.)
+
+In effect, Moses' use of these statements does turn them into transitions, but it's clear this is a lesser purpose.
+
+Also, the only case that looks like a transition is a major purpose is [Genesis 10:1](https://www.blueletterbible.org/lsb/gen/10/1) (sons of "them" makes the last part clearly not the start of a later account, nor "the sons of Noah", and the first mention of the sons in the following verses has no break).
+  
+This just happens to be the only one where the authorship, under the sig-after-until-Abe view, includes the same person (Shem) for the account both before and after.
+  
+It's clear that before it, Shem was writing with help from Ham and Japheth, and after it he wrote his own contribution, so both would indeed have been a single account likely from the start, or he could have done the second one as an update and edited the original wording of what is now Genesis 10:1 (such an edit is much more likely for the original author than a later curator, given the clear evidence mentioned above that later curators/authors preserved prior accounts verbatim to a "fault").
+
+Early Christians following the "noble Berean" approach ([Acts 17:10-11](https://www.blueletterbible.org/lsb/act/17/10)) would of course have read Genesis attentively and noticed these things, if they weren't already common knowledge in Judaism of the time (as they likely also were).
+
+Especially with Jesus' extra focus on Genesis as key.
 
 
 
@@ -1694,12 +2345,13 @@ An absolutely crucial passage for Christians, for understanding how we should st
 
 
 
-- Jesus' "from the beginning"
 
 
 
 
-- Paul's Romans 1 Genesis focus
+
+
+
 - Opening of John
 - Personal honor, Limited Honor
 - adapt draft paras from start of "Relevant to Trinity" through at least the first few there, maye all of it.
