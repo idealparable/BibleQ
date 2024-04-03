@@ -405,6 +405,170 @@ While argument from silence can be fallacious, this is argument from glaring sil
 
 (Thus the fallacy really should be called argument from non-glaring silence, but often of course those who use it will pretend that silence that logically isn't surprising is actually surprising if they're wrong. This is especially common with biblioskeptical pseudoscholars like Bart Ehrman for example.)
 
+
+### All Contradiction Claims
+
+I've personally investigated now over 1000 claimed Bible contradictions, and literally not one has stood as a legitimate contradiction.
+
+Inductively at this point it's plausible to conclude there are none.
+
+I should have found some if it's just manmade.
+
+Many, many of the bad arguments for Bible contradictions depend on the assumption that "all" is always literal.
+
+If you don't follow apologetics much it might not seem that relevant, but it's very relevant. It's extremely significant that a fully logical understanding of the entire biblical text, and of the world around us, make complete sense together when we follow the rules of the biblical source languages and culture to properly intepret the text using sound hermeneutics science.
+
+The rule about "all" isn't light speculation, or speculation at all.
+
+It's beyond the scope of this article, which will be extremely long, to go over many examples but suffice to say this is a major focus you can read about extensively from JPH/GM (see end notes).
+
+JPH's standard example diffusing many claimed contradictions related to "all" is where Jesus is said to have taught his disciples "all" things.
+
+Clearly it doesn't mean teaching them obscure modern trivia or telling them the number of grains of sand on Israel's Mediterranean shore, etc.
+
+Example of JPH pointing this out:
+
+\|1 Corinthians 13:7
+Beareth all things, believeth all things, hopeth all things, endureth all things. One Skeptic quotes the "believeth" part against verses that say to test things, and others may wonder whether this is an admonition against thinking critically. Our answer calls upon an application from elsewhere: "All things" is a general phrase of proverbial hyperbole; it is to be taken no more as exclusive than the idea that Jesus in Mark expounded "all things" (including the habits of sea slugs?) to his disciples. 1 Cor. 13:7 may be taken as a piece with the likewise proverbial admonition in 1 Thess. 5:21 to prove all things. (Does that include gravity and star mass ratios?)\|
+
+
+### Poetry Justifies No Such Thing
+
+One last point on that topic. A common modern objection to the idea that the Bible contains poetry (especially if it dares show its face in historical narrative, especially for we biblical creationists) is that poetry is intended to be unclear and opens it up to personal interpretation.
+
+The precise opposite is generally the case of Hebrew poetry, and the rules of Hebrew poetry are a way to often be as clear as, in some cases even more clear than, literal speech. It just depends on the situation.
+
+Examples of poetry legitimately being less clear to them abound in the disciples and the general public struggling to understand Jesus' parables, but as he said about it:
+
+Mark 4:
+
+/13 He said to them, “Don’t you understand this parable? How will you understand all of the parables?
+
+14  The farmer sows the word. 15  The ones by the road are the ones where the word is sown; and when they have heard, immediately Satan comes and takes away the word which has been sown in them. 16  These in the same way are those who are sown on the rocky places, who, when they have heard the word, immediately receive it with joy. 17  They have no root in themselves, but are short-lived. When oppression or persecution arises because of the word, immediately they stumble. 18  Others are those who are sown among the thorns. These are those who have heard the word, 19  and the cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful. 20  Those which were sown on the good ground are those who hear the word, accept it, and bear fruit, some thirty times, some sixty times, and some one hundred times.”
+
+21 He said to them, “Is a lamp brought to be put under a basket ‡ or under a bed? Isn’t it put on a stand? 22  For there is nothing hidden except that it should be made known, neither was anything made secret but that it should come to light. 23  If any man has ears to hear, let him hear.”/
+
+There is nothing hidden in Jesus' parables but that it should come to light.
+
+He clearly *expects* you to be able to follow the rules to deduce what he meant, at least in general (do keep in mind nonliterall means not necessarily literally all poetic devices in the Bible will become crystal clear in this life, such as some in Revelation).
+
+I've seen people go way, way, way overboard with the idea that they're supposed to understand, to be fair. You know the types if you read online internet comments to long. But they get their crazy ideas because they aren't reading the whole thing in context, they make a claim, rather than TEST the hypothesis to see if it's really true. They just run with it, full of arrogance.
+
+There's all kinds of ways to err, but going too far in avoiding the errors of that type is itself an error, and throwing all poetry under the bus is a fool's errand.
+
+You can see in many cases that even when Jesus is speaking to outsiders, he is drawing comparisons to help vividly teach an important lesson, such as here:
+
+Matthew 11:
+
+/13  For all the prophets and the law prophesied until John. 14  If you are willing to receive it, this is Elijah, who is to come. 15  He who has ears to hear, let him hear.
+
+16  “But to what shall I compare this generation? It is like children sitting in the marketplaces, who call to their companions 17  and say, ‘We played the flute for you, and you didn’t dance. We mourned for you, and you didn’t lament.’ 18  For John came neither eating nor drinking, and they say, ‘He has a demon.’ 19  The Son of Man came eating and drinking, and they say, ‘Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners!’ But wisdom is justified by her children.”‡/
+
+And:
+
+Luke 13:
+
+/18 He said, “What is God’s Kingdom like? To what shall I compare it? 19  It is like a grain of mustard seed which a man took and put in his own garden. It grew and became a large tree, and the birds of the sky live in its branches.”
+
+20 Again he said, “To what shall I compare God’s Kingdom? 21  It is like yeast, which a woman took and hid in three measures † of flour, until it was all leavened.”/
+
+And in some cases even the outsiders got the point:
+
+Matthew 21:
+
+/23 When he had come into the temple, the chief priests and the elders of the people came to him as he was teaching, and said, “By what authority do you do these things? Who gave you this authority?”
+
+24 Jesus answered them, “I also will ask you one question, which if you tell me, I likewise will tell you by what authority I do these things. 25  The baptism of John, where was it from? From heaven or from men?”
+
+They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will ask us, ‘Why then did you not believe him?’ 26 But if we say, ‘From men,’ we fear the multitude, for all hold John as a prophet.”
+
+27 They answered Jesus, and said, “We don’t know.”
+
+He also said to them, “Neither will I tell you by what authority I do these things.
+
+28  But what do you think?
+
+A man had two sons, and he came to the first, and said, ‘Son, go work today in my vineyard.’
+
+29  He answered, ‘I will not,’ but afterward he changed his mind, and went.
+
+30  He came to the second, and said the same thing.
+
+He answered, ‘I’m going, sir,’ but he didn’t go.
+
+31  Which of the two did the will of his father?”
+
+They said to him, “The first.”
+
+Jesus said to them, “Most certainly I tell you that the tax collectors and the prostitutes are entering into God’s Kingdom before you. 32  For John came to you in the way of righteousness, and you didn’t believe him; but the tax collectors and the prostitutes believed him. When you saw it, you didn’t even repent afterward, that you might believe him./
+
+Here they clearly understand his point, and he made it *more* clear via poetry.
+
+And then immediately after it in the same chapter, that happens again:
+
+/33  “Hear another parable. There was a man who was a master of a household who planted a vineyard, set a hedge about it, dug a wine press in it, built a tower, leased it out to farmers, and went into another country.
+
+34  When the season for the fruit came near, he sent his servants to the farmers to receive his fruit.
+
+35  The farmers took his servants, beat one, killed another, and stoned another.
+
+36  Again, he sent other servants more than the first; and they treated them the same way.
+
+37  But afterward he sent to them his son, saying, ‘They will respect my son.’
+
+38  But the farmers, when they saw the son, said among themselves, ‘This is the heir. Come, let’s kill him and seize his inheritance.’ 39  So they took him and threw him out of the vineyard, then killed him. 40  When therefore the lord of the vineyard comes, what will he do to those farmers?”
+
+41 They told him, “He will miserably destroy those miserable men, and will lease out the vineyard to other farmers who will give him the fruit in its season.”
+
+42 Jesus said to them, “Did you never read in the Scriptures,
+‘The stone which the builders rejected
+was made the head of the corner.
+This was from the Lord.
+It is marvelous in our eyes’?*
+
+43  “Therefore I tell you, God’s Kingdom will be taken away from you and will be given to a nation producing its fruit. 44  He who falls on this stone will be broken to pieces, but on whomever it will fall, it will scatter him as dust.”
+
+45 When the chief priests and the Pharisees heard his parables, they perceived that he spoke about them./
+
+Another obvious example from the OT:
+
+2nd Samuel 12:
+
+/1 Yahweh sent Nathan to David.
+
+He came to him, and said to him, “There were two men in one city: the one rich, and the other poor. 2 The rich man had very many flocks and herds, 3 but the poor man had nothing, except one little ewe lamb, which he had bought and raised.
+
+It grew up together with him and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him.
+
+4 A traveler came to the rich man, and he didn’t want to take of his own flock and of his own herd to prepare for the wayfaring man who had come to him, but took the poor man’s lamb and prepared it for the man who had come to him.”
+
+5 David’s anger burned hot against the man, and he said to Nathan, “As Yahweh lives, the man who has done this deserves to die! 6 He must restore the lamb fourfold, because he did this thing and because he had no pity!”
+
+7 Nathan said to David, “You are the man!
+
+This is what Yahweh, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you out of the hand of Saul. 8 I gave you your master’s house and your master’s wives into your bosom, and gave you the house of Israel and of Judah; and if that would have been too little, I would have added to you many more such things. 9 Why have you despised Yahweh’s word, to do that which is evil in his sight? You have struck Uriah the Hittite with the sword, have taken his wife to be your wife, and have slain him with the sword of the children of Ammon. 10 Now therefore the sword will never depart from your house, because you have despised me and have taken Uriah the Hittite’s wife to be your wife.’
+
+11 “This is what Yahweh says: ‘Behold, I will raise up evil against you out of your own house; and I will take your wives before your eyes and give them to your neighbor, and he will lie with your wives in the sight of this sun. 12 For you did this secretly, but I will do this thing before all Israel, and before the sun.’ ”
+
+13 David said to Nathan, “I have sinned against Yahweh.”
+
+Nathan said to David, “Yahweh also has put away your sin. You will not die. 14 However, because by this deed you have given great occasion to Yahweh’s enemies to blaspheme, the child also who is born to you will surely die.” 15 Then Nathan departed to his house./
+
+The point was *clearer* to David because it was delivered by poetry -- even David's initial lack of understanding the metaphor was a tool used for highly effective communication, and cutting through what would have been a serious emotional barrier if Nathan had just said directly, "You have sinned against Yahweh. You did this and that regarding Bathsheba and Uriah. BAD King! BAD!"
+
+David likely would have been immediately defensive about it.
+
+And in any case, the delivery is much more memorable and cuts to the heart.
+
+As for concerns about poetic devices in historical narration, while it can, with limited data, be misunderstood, in general they're actually easier to understand in translation than many modern metaphors would be if you didn't know the cultural context, ironically enough since biblical culture was high-context and we're (dramatically) low-context (in the "West").
+
+Such as throwing people under the bus, etc. We're much less properly inventive with them, though, because we're so low-context, we're stuck as walking cliches, and not the funny Colonel Jack O'Neill type.
+
+Literal statements, though, can also be misunderstood, if you don't know the meanings of the words. Poetic *comparisons* can in many cases actually help clarify the meanings.
+
+And we also today have newscasters and the like who often throw in new puns (I won't call them innovative) that we have no trouble understanding even though they aren't necessarily in our normal repertoire, and we don't suddenly worry that the entire news report might be open to wild reinterpretation.
+
+
 ## Disciple isn't Disciple?
 
 Another obvious problem with the "it can't be John because he's a disciple and all the disciples went home" argument is that, well, the phrase in question is the *disciple* Jesus loved.
@@ -452,6 +616,7 @@ Second, if we argue that this somehow implies this disciple can't be John.
 If Lazarus can be the "disciple" who accompanied Peter (and, to be fair, he can in terms of whether he might have been there in Gethsemane; most likely it wasn't just the 12; I think Mark was the anonymous young man who fled in Mark, for example), and the one at the Last Supper (I'm less sure Lazarus can be this one at time of writing this paragraph), then he can be among the disciples told they would "all" scatter, and especially in Matthew would be among the ones near Peter who Matthew says "all" scattered, according to John 18:15 (quoted above).
 
 So the argument, while valid, actually goes nowhere.
+
 
 ### Known to the high priest?
 
