@@ -56,6 +56,15 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
 
     Please don't actually think of the spellings as belonging to different sounds. It you "translate" the sound in your mind, keep the StAE dialect sound in mind primarily, and imagine (or try to) how it would look spelled in your dialect.
 
+6. Parentheses are used to indicate either the optional long spelling of schwa (short relative of UH) Ln "(UH)" / "(uh)" / "^" or for other spellings besides "uh" indicate a similarly short version of the sound (even though the addition of the parentheses makes the spelling actually longer).
+
+    To indicate a shortened actual  "UH" sound (which is distinct from schwa; compare UH in "heart" versus schwa in "hurt"), you would need to borrow the comma from Lingua's [Tones](#tones) system ("uh,"), or you could enclose the "uh" in single-quotes (apostrophes as silent sound separators), to indicate that the parentheses are not part of the sound's spelling itself (they are with schwa).
+
+    Parentheses are used for this since although schwa is normally always in unstressed syllables, that isn't the case with the consonants R and L (and some similar variants), as in the example "hurry" (En/English spelling); Ln H(UH)R-ree.
+
+    That would be the "proper" longest/clearest spelling. If you want to condense, you can just use ^ in cases like that since the presence of the R will clarify that it's meant to be all-capitalized; Ln H^R-ree. But technically "^" is only lowercase (no emphasis).
+
+
 ### Conventions for Lingua Definitions
 These are explanations of how and why I'll format the definitions below of each Lingua sound, applying to both Consonants and Vowels.
 
@@ -78,8 +87,22 @@ They are divided into "full" consonants (such as T, D, S, N, TH, H, KH) and "hal
 
 ### Full Consonants
 
+Full consonants fit within a chart arranged like the following. I'll show the full chart first and then explain them in order of unvoiced stops (UnVoiStop) (non-nasal), voiced stops (VoiceStop) (non-nasal), nasal stops (NasalStop) (voiced), unvoiced fricatives (UnVoiFric), and voiced fricatives (VoiceFric).
 
-|t|g|
+For now I'm only showing the main list. There are expanded spellings for unusual sounds as well.
+
+|UnVoiFric|UnVoiStop|NasalStop|VoiceStop|VoiceFric|
+|:-------:|:-------:|:-------:|:-------:|:-------:|
+|ph|p|m|b|bh|
+|f||||v|
+|th||||dh|
+|s|t|n|d|z|
+|sh||||zh|
+|kh|k|ng'|g|gh|
+|h|\|||||
+
+
+
 
 ## Vowels
 
