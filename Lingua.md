@@ -40,7 +40,7 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
 
     E. **If** you're representing a pronunciation guide someone else made and **you don't know whether unstressed (syllables not marked as with emphasis) should be full emphasis, no emphasis, or partial, default to partial if there's one other (no-emphasis) syllable between it**.
 
-    Example, the word "syllable" itself has the first syllable emphasized in English, fully, and the third partially. If you didn't know that and you only knew the first syllable was emphasized, default the third to partial. (This rule had to be added because BLB often has this problem.) So it would look like SIHL-\^-B\^l.
+      Example, the word "syllable" itself has the first syllable emphasized in English, fully, and the third partially. If you didn't know that and you only knew the first syllable was emphasized, default the third to partial. (This rule had to be added because BLB often has this problem.) So it would look like SIHL-\^-B\^l.
 
 4. When giving a pronunciation guide, it's probably best, depending on the situation, to show multiple versions of the pronunciation, separated by slashes, the first version including all the optional clarifiers like dashes and the full versions of each vowel sound, then the next ones showing whichever steps of condensing make the most sense to you, all with the syllable emphasis included. (If it's one syllable, all-capitalize it.)
 
