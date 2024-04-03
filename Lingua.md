@@ -89,16 +89,16 @@ They are divided into "full" consonants (such as T, D, S, N, TH, H, KH) and "hal
 
 Full consonants fit within a chart arranged like the following. I'll show the full chart first and then explain them in order of unvoiced stops (UnVoiStop) (non-nasal), voiced stops (VoiceStop) (non-nasal), nasal stops (NasalStop) (voiced), unvoiced fricatives (UnVoiFric), and voiced fricatives (VoiceFric).
 
-For now I'm only showing the main list. There are expanded spellings for unusual sounds as well.
+For now I'm only showing the main list (sounds in English, "ancient" Hebrew, and "ancient" Greek). There are expanded spellings for unusual sounds as well.
 
 |UnVoiFric|UnVoiStop|NasalStop|VoiceStop|VoiceFric|
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|ph|p|m|b|bh|
+||p|m|b||
 |f||||v|
 |th||||dh|
 |s|t|n|d|z|
 |sh||||zh|
-|kh|k|ng'|g|gh|
+|kh|k|ng'|g||
 |h|\|||||
 
 
