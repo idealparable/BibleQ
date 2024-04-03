@@ -3,10 +3,15 @@
 
 Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher){:target="_blank"} language systems.
 
+Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and related systems).
+
 ## Table of Contents
 
-- Lingua - Keyboard Typeable Pronunciation System
-- Rules of Lingua
+- [Lingua - Keyboard Typeable Pronunciation System](#lingua---keyboard-typeable-pronunciation-system)
+- [Rules of Lingua](#rules-of-lingua)
+- [Consonants](#consonants)
+- [Vowels](#vowels)
+- [Tones](#tones)
 
 ## Rules of Lingua
 1. **Single apostrophe (') is a silent separator of sounds**. It *must be used when two letters would otherwise be part of combination spellings not intended*. It is *not* a syllable separator.
@@ -46,7 +51,36 @@ Lingua could also be called SoundType. It's a subset of my [Cipher](Cipher){:tar
 
     Please don't actually think of the spellings as belonging to different sounds. It you "translate" the sound in your mind, keep the StAE dialect sound in mind primarily, and imagine (or try to) how it would look spelled in your dialect.
 
-NOTE: Lingua is not ideal for portraying tones concisely. For hand-drawing, Syllabic / SoundGlyphs does have an optional version that can portray tones efficiently, such as for Mandarin.
+### Conventions for Lingua Definitions
+These are explanations of how and why I'll format the definitions below of each Lingua sound, applying to both Consonants and Vowels.
+
+My convention is to show the sounds in almost all lowercase form, when introducing them, and later I can show them all-capitalized when using them in a sentence as the sound by itself, but to default to lowercase in one-syllable pronunciation guides of words/etc.
+
+Example:
+
+"zh = as in a<b>z</b>ure, mira<b>g</b>e
+
+ZH is found with D in the typical English sound of 'J' which is allowed as a shortened form of D + ZH = DZH = J, as in 'jar' (Ln dzhahr / jahr / jar)."
+
+Because online fonts typically make capital I (the letter after H in the English alphabet) look virtually identical to a lowercase L (letter after K in English alphabet), my convention is to try to lowercase "i" for it, so you can see the dot that's part of it, and to capitalize L (what would be "l" when lowercase). When next to each other, capital i and lowercase L do look slightly distinct often (il = Il; in the font I see, the lowercase L is slightly taller), but when not next to each other, most fonts make it difficult to tell which is which.
+
+Note: I won't be listing the letters in alphabetical order since we're concerned with sounds here, not constructing an alphabet-like list.
+
+## Consonants
+Consonant sounds are usually either always one letter long or always two without a shorter option.
+
+They are divided into "full" consonants (such as T, D, S, N, TH, H, KH) and "half-vowel" consonants, or half-consonants / half-vowels for short (R, L, Y, W), with the latter two of the four (main) half-vowels having closely related vowels (ee/iy/i, ue/u).
+
+### Full Consonants
+
+
+|t|g|
+
+## Vowels
+
+## Tones
+
+Lingua is not ideal for portraying tones concisely. For hand-drawing, Syllabic / SoundGlyphs does have an optional version that can portray tones efficiently, such as for Mandarin.
 
 For Lingua, you first need to know the symbols for high to lower tones.
 
@@ -54,11 +88,25 @@ Heights of tones are not easy to represent using keyboard symbols, when many oth
 
 `+=~_
 
+` is highest
+
+\+ is mid-high
+
+= is mid
+
+~ is mid-low
+
+_ is lowest
+
 You can think of equals sign as "equally high and low" -- a middle pitch, and plus as adding a little to that for mid-low, while grave accent (typed with the button on a normal keyboard to the left of 1) is highest. Obviously underscore is lowest, and that leaves tilde as mid-low.
 
 Then you need to understand how to indicate length of a tone. This is done using one of these symbols, after the pitch indicator, shown in order from shortest to longest.
 
-,. (, = short, . = medium)
+,.
+
+, is short
+
+. is medium
 
 Syllables default to the medium length, so the period can normally be left off.
 
@@ -79,14 +127,18 @@ Otherwise, the length indicator needs to go after the pitch indicator, and to in
 So, examples of length in ascending order:
 
 ,
+
 .
+
 ..
+
 ...
+
 ....
 
 And so on.
 
-If your tone falls from or to any of the three middle ranges, you just have to show the pitch indicators in order from start to end.
+If your tone falls from/to any of the three middle ranges, you just have to show the pitch indicators in order from start to end.
 
 Otherwise if it rises or falls from the highest to lowest pitch, or vice versa, you may use slashes and backslashes:
 
@@ -94,22 +146,31 @@ Otherwise if it rises or falls from the highest to lowest pitch, or vice versa, 
 
 \ (highest to lowest)
 
+Keep in mind that normal slash (/) is used normally in Lingua to separate alternate spellings, but for that usage you need a space before and after the slash. Do not include spaces between any characters within a Lingua word. This should help clarify when a slash is part of a tone indicator.
+
 Remember if you add more pitch indicators, it has no effect on the length of the tone. So a more complex tone with many pitch indicators needs to be pronounced quickly to fit in the same amount of time as one with just one pitch indicator, if no length indicator is included (which means default "." length).
 
-Examples using Mandarin tones:
+The following examples will depicit the five tones in Mandarin.
 
-- Mandarin First Tone (constant high level): Two grave accents (` -- the symbol typed with the button on normal keyboards to the left of the 1 key) before and after the syllable.
-    
-    Example: ma`
+To avoid confusion, I won't use slashes here to separate alternate versions; I'll use "or".
 
-- Mandarin Second Tone (rising): 
-    
+First Tone (high): \` or full version \`. to indicate normal length
 
-## Consonants
+Second Tone (rising): =\` or =\`.
 
-## Vowels
+Third Tone (falling-rising): ~_+ or ~_+.
 
+Fourth Tone (falling): \ or \\.
 
+Neutral Tone (mid-tone short): ; or =,
+
+NOTE: When depicting this in Markdown files as I'm doing here (using GitHub Pages with Jekyll), the grave accent (`) and backslash can be interpreted as code so when that happens you need to use another backslash before them to escape the code behavior. I draft pages in Visual Studio Code (VSC) with the preview on to ensure they're coming out correctly. If you want to use this system you may want to do the same. But for plain text it will work as you see it on this page.
+
+For where to put the tone indicators, you could put them right after the vowel, especially if you want to use this with some type of code-responsive system that would then convert it into Pinyin.
+
+For normal plain text (when keyboard characters only is how it stays), I recommend putting at the end of the syllable.
+
+They can then also serve as replacements of the dash for syllable dividers. And placing them at the syllable break will help make the spelling less confusing visually as well.
 
 
 
