@@ -2039,9 +2039,9 @@ Jesus said, “ ‘You shall not murder.’ ‘You shall not commit adultery.’
 
 23 Jesus said to his disciples, “Most certainly I say to you, a rich man will enter into the Kingdom of Heaven with difficulty. 24  Again I tell you, it is easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”
 
-25 When the disciples heard it, they were exceedingly astonished, saying, <b>“Who then can be saved?”
+25 When the disciples heard it, they were exceedingly astonished, saying, <b>“Who then can be saved?”</b>
 
-26 Looking at them, Jesus said, “With men this is impossible, but <u>with God all things are possible</u>.”</b>
+26 <b>Looking at them, Jesus said, “With men this is impossible, but <u>with God all things are possible</u>.”</b>
 
 27 Then Peter answered, “Behold, we have left everything and followed you. What then will we have?”
 
