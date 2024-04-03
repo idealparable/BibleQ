@@ -40,7 +40,7 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
 
     E. **If** you're representing a pronunciation guide someone else made and **you don't know whether unstressed (syllables not marked as with emphasis) should be full emphasis, no emphasis, or partial, default to partial if there's one other (no-emphasis) syllable between it**.
 
-    Example, the word "syllable" itself has the first syllable emphasized in English, fully, and the third partially. If you didn't know that and you only knew the first syllable was emphasized, default the third to partial. (This rule had to be added because BLB often has this problem.) So it would look like SIHL-\^-B\^l.
+    Example, the word "syllable" itself has the first syllable emphasized in English, fully, and the third partially. If you didn't know that and you only knew the first syllable was emphasized, default the third to partial. (This rule had to be added because BLB often has this problem.) So it would look like SIHL-^-B^l.
 
 4. When giving a pronunciation guide, it's probably best, depending on the situation, to show multiple versions of the pronunciation, separated by slashes, the first version including all the optional clarifiers like dashes and the full versions of each vowel sound, then the next ones showing whichever steps of condensing make the most sense to you, all with the syllable emphasis included. (If it's one syllable, all-capitalize it.)
 
@@ -55,6 +55,15 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
     Those of other dialects who know which sounds in theirs go with which sounds in StAE, for example, can pronounce their way, but if they spell it, they should probably indicate it by spelling it in Lingua (if I have provided options for it; I might not have covered every important nuance -- I was focused just on English, "ancient" Hebrew, and "ancient" Greek) and stating somewhere which dialect it is. (Likewise I try to always clarify which dialect I'm using, as I am here on this page.)
 
     Please don't actually think of the spellings as belonging to different sounds. It you "translate" the sound in your mind, keep the StAE dialect sound in mind primarily, and imagine (or try to) how it would look spelled in your dialect.
+
+6. Parentheses are used to indicate either the optional long spelling of schwa (short relative of UH) Ln "(UH)" / "(uh)" / "^" or for other spellings besides "uh" indicate a similarly short version of the sound (even though the addition of the parentheses makes the spelling actually longer).
+
+    To indicate a shortened actual  "UH" sound (which is distinct from schwa; compare UH in "heart" versus schwa in "hurt"), you would need to borrow the comma from Lingua's [Tones](#tones) system ("uh,"), or you could enclose the "uh" in single-quotes (apostrophes as silent sound separators), to indicate that the parentheses are not part of the sound's spelling itself (they are with schwa).
+
+    Parentheses are used for this since although schwa is normally always in unstressed syllables, that isn't the case with the consonants R and L (and some similar variants), as in the example "hurry" (En/English spelling); Ln H(UH)R-ree.
+
+    That would be the "proper" longest/clearest spelling. If you want to condense, you can just use ^ in cases like that since the presence of the R will clarify that it's meant to be all-capitalized; Ln H^R-ree. But technically "^" is only lowercase (no emphasis).
+
 
 ### Conventions for Lingua Definitions
 These are explanations of how and why I'll format the definitions below of each Lingua sound, applying to both Consonants and Vowels.
@@ -78,8 +87,22 @@ They are divided into "full" consonants (such as T, D, S, N, TH, H, KH) and "hal
 
 ### Full Consonants
 
+Full consonants fit within a chart arranged like the following. I'll show the full chart first and then explain them in order of unvoiced stops (UnVoiStop) (non-nasal), voiced stops (VoiceStop) (non-nasal), nasal stops (NasalStop) (voiced), unvoiced fricatives (UnVoiFric), and voiced fricatives (VoiceFric).
 
-|t|g|
+For now I'm only showing the main list. There are expanded spellings for unusual sounds as well.
+
+|UnVoiFric|UnVoiStop|NasalStop|VoiceStop|VoiceFric|
+|:-------:|:-------:|:-------:|:-------:|:-------:|
+|ph|p|m|b|bh|
+|f||||v|
+|th||||dh|
+|s|t|n|d|z|
+|sh||||zh|
+|kh|k|ng'|g|gh|
+|h|\|||||
+
+
+
 
 ## Vowels
 
