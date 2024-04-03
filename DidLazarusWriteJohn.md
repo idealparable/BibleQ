@@ -1735,11 +1735,11 @@ Another source for Markan authorship of Mark is Clement of Alexandria, evidently
 
 \|And thus when the divine word had made its home among them [the Christians in Rome], the power of Simon [the magician] was quenched and immediately destroyed, together with the man himself.
 
-And so greatly did the splendor of piety illumine the minds of PETER'S hearers that they were not satisfied with hearing once only, and were not content with the unwritten teaching of the divine Gospel, but with all sorts of entreaties <i>they besought <b>MARK</b>, a follower of Peter, and the one whose Gospel is extant, that he would leave them a written monument of the doctrine which had been orally communicated to them.
+And so greatly did the splendor of piety illumine the minds of PETER'S hearers that they were not satisfied with hearing once only, and were not content with the unwritten teaching of the divine Gospel, but with all sorts of entreaties <i>they besought <b>MARK</b>, a follower of Peter, and the one whose Gospel is extant, that he would leave them a written monument of the doctrine which had been orally communicated to them.</i>
 
-Nor did they cease until they had prevailed with the man, and had thus become the occasion of the written Gospel which bears the name of <b>MARK</b>.
+<i>Nor did they cease until they had prevailed with the man, and had thus become the occasion of the written Gospel which bears the name of <b>MARK</b>.</i>
 
-And they say that Peter when he had learned, through a revelation of the Spirit, of that which had been done, was pleased with the zeal of the men, and that the work obtained the sanction of his authority for the purpose of being used in the churches.</i>
+<i>And they say that Peter when he had learned, through a revelation of the Spirit, of that which had been done, was pleased with the zeal of the men, and that the work obtained the sanction of his authority for the purpose of being used in the churches.</i>
 
 <b>Clement</b> in the eighth book of his Hypotyposes gives this account, and with him agrees the bishop of Hierapolis named Papias.
 
