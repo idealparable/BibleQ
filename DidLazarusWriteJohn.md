@@ -2213,7 +2213,7 @@ This was Jesus predicting his vindication by alluding to this entire Psalm by qu
 Psalm 22:
 
 /For the Chief Musician; set to “The Doe of the Morning.” A Psalm by David.<br>
-1 <b>>My God, my God, why have you forsaken me?</b><br>
+1 <b>My God, my God, why have you forsaken me?</b><br>
 Why are you so far from helping me, and from the words of my groaning?<br>
 2 My God, I cry in the daytime, but you don’t answer;<br>
 in the night season, and am not silent.<br>
@@ -2307,6 +2307,8 @@ John 19:
 ...
 
 30 When <b>Jesus</b> therefore had received the vinegar, <b>he said, “<i><u>IT IS FINISHED!</u></i>” Then he bowed his head and gave up his spirit</b>./
+
+It's thought that the thrice-repeated "loud voice" means that witnesses standing further away heard that he said something and it was loud, but they couldn't make it out but some of what he said was reported selectively from others close by, and John puts his version in parallel to make it clear that "It is finished!" is what he directly witnessed, up close, was what Jesus said in that loud voice. I agree this makes sense.
 
 Matthew 5 again:
 
