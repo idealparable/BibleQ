@@ -27,13 +27,16 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
 2. **Dash is a syllable separator**. It *must be used when it would otherwise be unclear which sound goes in which syllable*. Optionally can be between all syllables.
 
 3. *Syllable emphasis system:*
-  A. Syllables with **full emphasis** are **all-capitalized** / all uppercase (like "**THIS**").
-  B. Syllables with no emphasis are *all* **un***capitalized* / all lowercase (like "**this**").
-  C. Syllables with partial emphasis are *first-letter-capitalized (like "**This**").
 
-  D. **If a syllable has either full or partial emphasis, it must be two-letters long**. Syllables always have vowels, and while five vowels have optional one-letter versions, they could only be used (in proper full version of Lingua) in the two-letter versions, if there is no consonant represented (other than a silent one used within the vowel combo such as the silent H in "oh").
+    A. Syllables with **full emphasis** are **all-capitalized** / all uppercase (like "**THIS**").
 
-  E. **If** you're representing a pronunciation guide someone else made and **you don't know whether unstressed (syllables not marked as with emphasis) should be full emphasis, no emphasis, or partial, default to partial if there's one other (no-emphasis) syllable between it**.
+    B. Syllables with no emphasis are *all* **un***capitalized* / all lowercase (like "**this**").
+  
+    C. Syllables with partial emphasis are *first-letter-capitalized (like "**This**").
+
+    D. **If a syllable has either full or partial emphasis, it must be two-letters long**. Syllables always have vowels, and while five vowels have optional one-letter versions, they could only be used (in proper full version of Lingua) in the two-letter versions, if there is no consonant represented (other than a silent one used within the vowel combo such as the silent H in "oh").
+
+    E. **If** you're representing a pronunciation guide someone else made and **you don't know whether unstressed (syllables not marked as with emphasis) should be full emphasis, no emphasis, or partial, default to partial if there's one other (no-emphasis) syllable between it**.
 
     Example, the word "syllable" itself has the first syllable emphasized in English, fully, and the third partially. If you didn't know that and you only knew the first syllable was emphasized, default the third to partial. (This rule had to be added because BLB often has this problem.) So it would look like SIHL-^-B^l.
 
