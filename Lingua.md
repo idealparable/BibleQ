@@ -18,7 +18,7 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
   
     In "Lingua proper" (where the goal is to communicate the pronunciation), this is all apostrophe can imply. This should be indicated by all-capitalizing syllables with emphasis. If the word is one-syllable, you can all-cap the entire word.
 
-    If you want to make a normal spelling such as a transliteration that's inspired by Lingua but doesn't strictly follow its rules, you could use single apostrophe "as" a schwa character, if it still looks clear to you on a case by case basis what was intended. But this would really be a schwa followed by an apostrophe, and then the schwa is just removed and implied. I prefer to then drop the syllable indications to help make it clear it isn't a "proper" pronunication-guide spelling anymore in that case or similar cases.
+    If you want to make a normal spelling such as a transliteration that's inspired by Lingua but doesn't strictly follow its rules, you could use single apostrophe "as" a schwa character, if it still looks clear to you on a case by case basis what was intended. But this would really be a schwa followed by an apostrophe, and then the schwa is just removed and implied. I prefer to then drop the syllable-emphasis indications to help make it clear it isn't a "proper" pronunication-guide spelling anymore in that case or similar cases.
 
     Optionally you can show single apostrophes between all sounds or any you like if it looks good.
 
