@@ -64,7 +64,9 @@ Remember, if you know who I am, please don't pass that information along. Refer 
 
 The purpose is dual:
 
-1. **First, so that it can be used for Bible study purposes, or notes translating any language, or similar uses**.
+### Pronunciation Guides for Real-Life Purposes
+
+**First, so that it can be used for Bible study purposes, or notes translating any language, or similar uses**.
 
     For example, versions of the figures and symbols for objects in the surrounding can be adapted into art, for the ThoughtGlyphs "art language," such as illustrations for use in Sunday School lessons.
 
@@ -76,7 +78,9 @@ The purpose is dual:
   
     Cipher (ThoughtGlyphs) is designed to be ideal for precisely that sort of purpose.
 
-2. Second, I'm slowly working on a sort of edutainment science fiction adventure story series, which will use (I intend, we'll see if I succeed) good character-driven storytelling as a highly extended sort of parable teaching important things like logic and Christian apologetics. The world within the story has characters who fictionally developed Cipher for their own needs in-story.
+### Fictional Language Systems in my Work-In-Progess Edutainment Series
+
+Second, I'm slowly working on a sort of edutainment science fiction adventure story series, which will use (I intend, we'll see if I succeed) good character-driven storytelling as a highly extended sort of parable teaching important things like logic and Christian apologetics. The world within the story has characters who fictionally developed Cipher for their own needs in-story.
 
     Progress is slow, as the goal is to try to make it as ideal as possible. I'm not sure the title is final yet, and I would rather not reveal any other details at all right now, other than the Cipher systems themselves.
 
