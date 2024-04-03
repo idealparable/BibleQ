@@ -25,6 +25,8 @@ I could be wrong, now, but I don't think so.
     - [Paul's All](#pauls-all)
     - [He Is Not Just Talking About Bread](#he-is-not-just-talking-about-bread)
     - [Christ is the Creator, Not the Created](#christ-is-the-creator-not-the-created)
+    - [All Testable Contradiction Claims Are Debunked](#all-testable-contradiction-claims-are-debunked)
+    - [Poetry Justifies No Such Thing](#poetry-justifies-no-such-thing)
   - [Disciple isn't Disciple?](#disciple-isnt-disciple)
     - [Known to the high priest?](#known-to-the-high-priest)
     - [Embodying Embedding in Body](#embodying-embedding-in-body)
@@ -38,7 +40,19 @@ I could be wrong, now, but I don't think so.
       - [Skip Rabbit: Names](#skip-rabbit-names)
     - [Sons of Zebedee? Who Are They?](#sons-of-zebedee-who-are-they)
     - [Therefore God](#therefore-god)
-
+  - [Who Wrote John](#who-wrote-john)
+    - [Coop Mode](#coop-mode)
+    - [Style Sims Tweenem](#style-sims-tweenem)
+  - [From the Beginning](#from-the-beginning)
+    - [Accomplished](#accomplished)
+    - [The Necessary Suffering of Christ's Soul](#the-necessary-suffering-of-christs-soul)
+    - [IT IS FINISHED](#it-is-finished)
+    - [John Read Genesis Attentively](#john-read-genesis-attentively)
+    - [The Genesis Light Source](#the-genesis-light-source)
+    - [Sig-After-Until-Abe - Genesis Toledoth Lines Theory (SAUA)](#sig-after-until-abe---genesis-toledoth-lines-theory-saua)
+    - [Limited Personal Honor](#limited-personal-honor)
+    - [Trinity](#trinity)
+    - [Jenga](#jenga)
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
   - [Abbreviations](#abbreviations)
@@ -406,7 +420,7 @@ While argument from silence can be fallacious, this is argument from glaring sil
 (Thus the fallacy really should be called argument from non-glaring silence, but often of course those who use it will pretend that silence that logically isn't surprising is actually surprising if they're wrong. This is especially common with biblioskeptical pseudoscholars like Bart Ehrman for example.)
 
 
-### All Contradiction Claims
+### All Testable Contradiction Claims Are Debunked
 
 I've personally investigated now over 1000 claimed Bible contradictions, and literally not one has stood as a legitimate contradiction.
 
@@ -1949,7 +1963,7 @@ Luke 16:
 There's a lot of relevance there, one of the keys being that the standing Old-Testament system, with the Mosaic covenant, began to be turned back to the Abrahamic covenant only, as the Christian covenant was being established.
 
 
-#### Accomplished
+### Accomplished
 
 This process was completed once Jesus finished all that he had to accomplish:
 
@@ -2051,7 +2065,7 @@ He again took the twelve, and began to tell them the things that were going to h
 33  “Behold, we are going up to Jerusalem. The Son of Man will be delivered to the chief priests and the scribes. They will condemn him to death, and will deliver him to the Gentiles. 34  They will mock him, spit on him, scourge him, and kill him. On the third day he will rise again.”/
 
 
-#### The Necessary Suffering of Christ's Soul
+### The Necessary Suffering of Christ's Soul
 
 Luke 13:
 
@@ -2077,11 +2091,11 @@ Mark 16:
 
 /11 When they heard that he was alive and had been seen by her, <b>they disbelieved</b>.
 
-12 After these things he was revealed in another form to two of them as they walked, on their way into the country. 13 They went away and told it to the rest. <b?They didn’t believe them, either</b>./
+12 After these things he was revealed in another form to two of them as they walked, on their way into the country. 13 They went away and told it to the rest. <b>They didn’t believe them, either</b>./
 
 Isaiah 53:
 
-/<b>1 Who has believed our message?
+/<b>1 Who has believed our message?</b>
 To whom has Yahweh’s arm been revealed?
 2 For he grew up before him as a tender plant,
 and as a root out of dry ground.
@@ -2122,7 +2136,7 @@ nor was any deceit in his mouth.
  
 10 Yet it pleased Yahweh to bruise him.
 He has caused him to suffer.
-<b?When you make his soul an offering for sin</b>,
+<b>When you make his soul an offering for sin</b>,
 he will see his offspring.
 <b>He will prolong his days</b>
 and Yahweh’s pleasure will prosper in his hand.
@@ -2162,7 +2176,7 @@ Why?
 Isaiah says it as quoted above, several times. Let's continue:
 
 
-#### IT IS FINISHED
+### IT IS FINISHED
 
 Matthew 27:
 
@@ -2245,7 +2259,7 @@ All the relatives of the nations shall worship before you.
 28 For the kingdom is Yahweh’s.
 He is the ruler over the nations.
 29 All the rich ones of the earth shall eat and worship.
-<b?All those who go down to the dust shall bow before him,
+<b>All those who go down to the dust shall bow before him,
 even he who can’t keep his soul alive.</b>
 30 Posterity shall serve him.
 Future generations shall be told about the Lord.
@@ -2285,7 +2299,7 @@ John was explaining what the loud voice said, and it explains what Jesus meant a
 Now we're getting closer to our significance to Genesis.
 
 
-#### John Read Genesis Attentively
+### John Read Genesis Attentively
 
 How did John start? Quite "oddly," it might seem, to a modern's eye not reading so closely.
 
@@ -2388,7 +2402,7 @@ Scroll up and read it again.
 Notice several places where it says that God made the things that the one called simply God said "Let US make," and that in MOST cases, this is avoided.
 
 
-#### The Genesis Light Source
+### The Genesis Light Source
 
 Notice also that the Spirit is stated, but then mysteriously seems to be missing.
 
@@ -2505,7 +2519,7 @@ Early Christians following the "noble Berean" approach ([Acts 17:10-11](https://
 Especially with Jesus' extra focus on Genesis as key.
 
 
-#### Limited Personal Honor
+### Limited Personal Honor
 
 Before I continue in my draft notes with the second section alluded to above, a key quote from JPH:
 
@@ -2532,6 +2546,8 @@ One more point needs to be noted: Why is it that Jesus often stopped demons from
 Presumably I don't have to spell out the relevance here to who wrote the gospel of John.
 
 Now continuing in my prep notes:
+
+### Trinity
 
 Second, I think the apostle John, Mark, and other early Christians likely noticed that Christ modeled what I've been calling "authorial avoidance" as an optional way to approach self-referential statements by an author in his own work -- by avoiding using his own name in Genesis 1-2:3.
 
@@ -2574,7 +2590,7 @@ Even if the pre-Babel or pre-Flood authors of toledoth sections had no form of w
 Adam's life for example overlapped everyone in Noah's lineage except Noah himself, in the Masoretic Text (MT) version of the genealogies which our modern Bibles use, and from my study is most likely correct over and against the Septuagint (LXX) or Samaritan Pentateuch (SP).
 
 
-#### Jenga
+### Jenga
 
 It probably doesn't seem like pulling out the block of John as author of John and as the disciple Jesus loved risks toppling any important towers, but as should be obvious by now, that's quite far from the case.
 
