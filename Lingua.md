@@ -36,7 +36,7 @@ Lingua can be abbreviated "Ln" (see Cipher page for abbreviations of Cipher and 
 
     D. **If a syllable has either full or partial emphasis, it must be two-letters long**. Syllables always have vowels (in "Lingua proper"), and while five vowels have optional one-letter versions, they could only be used (in proper full version of Lingua) in the two-letter versions for full/partial emphasis, if there is no consonant represented (other than a silent one used within the vowel combo such as the silent H in "oh").
 
-    This is so you can tell the difference between both letters capitalized (full emphasis) and first-letter capitalized (partial).test
+    This is so you can tell the difference between both letters capitalized (full emphasis) and first-letter capitalized (partial).
 
     E. **If** you're representing a pronunciation guide someone else made and **you don't know whether unstressed (syllables not marked as with emphasis) should be full emphasis, no emphasis, or partial, default to partial if there's one other (no-emphasis) syllable between it**.
 
