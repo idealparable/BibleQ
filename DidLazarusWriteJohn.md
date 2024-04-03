@@ -97,6 +97,7 @@ This is a clear physchological connection between the phrase and this crucial st
 
 Let's start to look at specific arguments and evidence.
 
+
 ## Don't Quote the Messenger
 
 One error that may be being made by Laz=DiLoved proponents (arguments may vary, and I'm not assuming it's an error but hear me out) is based on seeing this passage as definitely *quoting* the messengers (the phrase in question I'll put in bold emphasis):
@@ -141,6 +142,7 @@ I'll try to walk through a lot of examples of similar wordings in John and 1/2/3
 
 First, let's focus on most of the pro-Lazarus-as-DiLoved arguments that I've been able to find from some promoters online.
 
+
 ## Non-LiterALL
 
 One argument that it has to be the same person is that the one called the disciple Jesus loved can't be John, or any of the "disciples" (see a problem already?) because Jesus and narrators of gospels say that all / each of the "disciples" scattered each to their own home, yet an anonymous disciple did follow Jesus, and helped Peter gain entrance to the courtyard of the high priest (I'll show the quote [later](#disciple-isnt-disciple)).
@@ -156,6 +158,7 @@ First, although it's not my main point, how far do they need to be to qualify fo
 The pro-Lazarus-as-DiLoved argument (which may vary) in this case appears to assume that "all" means literally all, in all cases -- or, perhaps, implies an argument that if it doesn't, we have a problem.
 
 Not so, as I understand it.
+
 
 ### Say Again?
 
@@ -186,6 +189,7 @@ You can see here that by "all," Matthew clearly doesn't mean literally all.
 If you didn't know before that Hebrew "language culture" has a non-literal-all, you should know it when you read this.
 
 As we'll see [later](#disciple-isnt-disciple) from the gospel of John version of this, Peter and the "another disciple" in question are placed in parallel in terms of following Jesus, so this exception refers to two "disciples."
+
 
 ### Before You Flood Me With Objections
 
@@ -279,6 +283,7 @@ He didn't necessarily need to repeat it, but he does.
 
 Notice this is all still the same basic section, so we should read these as most likely modifying each other. We know that because of the logic flow in this case.
 
+
 ### Paul's All
 
 Paul himself talked about this principle here:
@@ -290,6 +295,7 @@ Paul himself talked about this principle here:
 But when he says, “All things are put in subjection”, it is evident that he is excepted who subjected all things to him.
 
 28 When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all./
+
 
 ### He Is Not Just Talking About Bread
 
@@ -345,14 +351,14 @@ Jeremiah 31:
 
 and I will write it in their heart.
 
-I will be their God,
+I will be their God,<br>
 and they shall be my people.
 
-34 They will no longer each teach his neighbor,
-and every man teach his brother, saying, ‘Know Yahweh;’
-for they will all know me,
-from their least to their greatest,” says Yahweh,
-“for I will forgive their iniquity,
+34 They will no longer each teach his neighbor,<br>
+and every man teach his brother, saying, ‘Know Yahweh;’<br>
+for they will all know me,<br>
+from their least to their greatest,” says Yahweh,<br>
+“for I will forgive their iniquity,<br>
 and I will remember their sin no more.”/
 
 By beginning to establish new rules for the ceremonial aspects of life like how to behave on the Sabbath, Jesus was hinting that he was the Christ, Son of God (as many other passages made it clear the Messiah would be God, beyond the scope of this article, but planned for others later). So he was initiating the New Covenant, after which the New Testament is named (Testament means Covenant).
@@ -360,6 +366,7 @@ By beginning to establish new rules for the ceremonial aspects of life like how 
 Obviously, David was before this, so Jesus' point was not that Jesus was simply suspending the law as God beforehand, though he could do that too. His point is about how the law always worked, and this includes its "all" statements.
 
 JPH has more material on this including historical evidence that this is how it was interpreted.
+
 
 ### Christ is the Creator, Not the Created
 
@@ -615,7 +622,7 @@ John 8:
 
 The Bible often switches between senses of words. It was normal practice and a sign of a worthy wordsmith to switch between them in close proximity without spelling out that the meaning of the word was shifting, and rely on the intelligent reader to see the difference.
 
-This was part of how the [wisdom teacher](RiddlesWise){:target="_blank"} would sort the fool from the wise student.
+This was part of how the wisdom teacher would sort the fool from the wise student.
 
 Like, I like the like count like I liked them all myself as the likeness of alike likers.
 
@@ -742,6 +749,7 @@ Does it mean Caiaphas personally knew him?
 
 Not necessarily, due to the cultural language rule of embedding.
 
+
 ### Embodying Embedding in Body
 
 Embedding refers to the common linguistic practice of referring to everybody under a leader as if they are that leader.
@@ -796,6 +804,7 @@ Embedding is also seen here:
 
 And the previous verses starting at 12.
 
+
 ### A Man's Gotta Eat
 
 Life works by you work for food. You farm, or you fish, or you hunt, or you gather, or you produce lab-grown meat that probably causes cancer.
@@ -831,6 +840,7 @@ This could simply be because someone who served food to Caiaphas knew John, or h
 While they lived in very different places, that could easily happen.
 
 It could also be that this is condensing that someone else did go and tell her that Unnamed Disciple's permission should stand, but this just shuffles around the same point. It would be normal in embedding too.
+
 
 ## Backwards Statistics Fallacy (or Error)
 
@@ -1007,6 +1017,7 @@ Now, I could at least accept that Caiaphas probably remembers clearly whether he
 
 Although it would also be unlikely he was even personally consulted for that, since he might have been a bit busy at the time, depending on where he was when the arresting group arrived with Jesus related to where Unnamed Disciple was.
 
+
 ## Fishy
 
 Let's look at the final chapter of John now, and see why it seems fishy to argue that the Unnamed Disciple who let Peter in can't be John because John as a fisherman can't know Caiaphas.
@@ -1059,6 +1070,7 @@ Mark 1:
 
 See also Matthew 4:18-22, very similar to Mark, and:
 
+
 ### A Long Luke Passage I Quoted
 
 Luke 5:
@@ -1091,6 +1103,7 @@ Now, I don't know the professions of Thomas or Nathanael. I haven't studied this
 
 On the way to introducing Nathanael, let's cover some John 1 content.
 
+
 ### John 1 Clues
 
 After the intro about the Word/Light, we're told a lot about John.
@@ -1113,7 +1126,7 @@ It's just a guess.
 
 (That was reverse hyperbole.)
 
-Next, let's have you [scroll up and re-read the long Luke passage I had quoted](##a-long-luke-passage-i-quoted).
+Next, let's have you [scroll up and re-read the long Luke passage I had quoted](#a-long-luke-passage-i-quoted).
 
 Then return here and keep reading.
 
@@ -1258,6 +1271,7 @@ This may imply that while Nathanael might have known John Zebson, he didn't know
 49 Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”
 
 50 Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” 51 He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”/
+
 
 ### Nathanael = Bartholomew?
 
@@ -1433,6 +1447,7 @@ Acts 1:
 
 Maybe Matthias has nicknames, although it would be a bit weird if his nickname of Nathanael, if it exists, isn't listed here, since this Joseph gets two nicknames (they like nicknames... or translations or whatever this is).
 
+
 #### Rabbit: Names
 
 Let's look at the name meanings per BLB. Be aware, this is going to be quite a diversion. If you want, click this link to skip to the conclusion: [Skip Rabbit: Names](#skip-rabbit-names)
@@ -1501,6 +1516,7 @@ Let's look at the name meanings per BLB. Be aware, this is going to be quite a d
 
   I find that that's still good evidence that Bartholomew isn't his "first" name as we in modern English society would call it, which supports that he is really Nathanael Bartholomew. Perhaps the similarity to Matthias or Matthew might be why he was typically known by his "last name" instead, while not actually being Matthias (or Matthew for that matter, most likely), to differentiate. I feel like that's a reasonable guess, although I might just be biased for my theory here.
 
+
 #### Skip Rabbit: Names
 
 Conclusion:
@@ -1514,6 +1530,7 @@ Nathanael could also quite possibly not be a member of the Twelve or Matthias. E
 But I think it's by far better-evidenced that they're most likely Andrew and Philip.
 
 Enough of this!
+
 
 ### Sons of Zebedee? Who Are They?
 Another point in favor of authorial avoidance is that aside from the apostle John being conspicuously never mentioned by name in the entire gospel of John, the list of names on this boat shies away from specifics first with "sons of Zebedee" in John 21.
@@ -1529,6 +1546,7 @@ Also since there's two and we aren't told the name of the other one either, I do
 But that in turn means that all the more I'm most likely right that these two wouldn't surprise us if we were told who they are -- again fitting Andrew and Philip best.
 
 That last point does require the premise that the author is John (or James), but I mean that it's internally consistent, so wouldn't be an argument *against* the author being John.
+
 
 ### Therefore God
 
@@ -1843,6 +1861,7 @@ Also, the Greek of John and Revelation is a very SIMPLE style of Greek, without 
 
 This would help support that the same author may have written John and Revelation.
 
+
 ### Coop Mode
 What if both John and Lazarus wrote John, and Lazarus is sometimes the DiLoved, sometimes John?
 
@@ -1853,6 +1872,7 @@ It's possible, at least the "coop" part of this idea, but it seems almost irrele
 But as mentioned earlier, the approach in writing ancient documents seems to have been largely cooperative anyway.
 
 This wouldn't likely involve two people doing the physical writing like we often think of today, but the writer (or author dictating to a scribe) speaking with anyone nearby about what could be added next. Note there was also no expectation of any need to cite them by name like our modern culture has become obsessed with.
+
 
 ### Style Sims Tweenem
 Style similarities between them (John and 1/2/3 John).
@@ -1866,11 +1886,11 @@ Now let's start building an understanding of why I think John (and/or Mark; if i
 
 First let me restate the argument from the version in my notes:
 
-Specifically the argument is that some early Christians took Jesus' focus on Genesis ([Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8)) as a reason to look closely at it as a pattern to follow, and that [Genesis 2:4](https://www.blueletterbible.org/lsb/gen/2/4) is a signature line for the preceding account, seeing Jesus as the LORD God there, implying he authored 1-2:3, using "authorial avoidance" of his own personal name within the account's body text itself, and that these early Christians used this model in some of their own works (Mark and John), despite millennia of a tradition of instead referring to oneself in the third person, since the apparent account of Adam from [2:5](https://www.blueletterbible.org/lsb/gen/2/5) through [5:1a](https://www.blueletterbible.org/lsb/gen/5/1), and Moses himself ([Exodus 17:14](https://www.blueletterbible.org/lsb/exo/17/14), [Numbers 33:1](https://www.blueletterbible.org/lsb/num/33/1),[2](https://www.blueletterbible.org/lsb/num/33/2)), etc.
+Specifically the argument is that some early Christians took Jesus' focus on Genesis ([Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8){:target="_blank"}) as a reason to look closely at it as a pattern to follow, and that [Genesis 2:4](https://www.blueletterbible.org/lsb/gen/2/4){:target="_blank"} is a signature line for the preceding account, seeing Jesus as the LORD God there, implying he authored 1-2:3, using "authorial avoidance" of his own personal name within the account's body text itself, and that these early Christians used this model in some of their own works (Mark and John), despite millennia of a tradition of instead referring to oneself in the third person, since the apparent account of Adam from [2:5](https://www.blueletterbible.org/lsb/gen/2/5){:target="_blank"} through [5:1a](https://www.blueletterbible.org/lsb/gen/5/1){:target="_blank"}, and Moses himself ([Exodus 17:14](https://www.blueletterbible.org/lsb/exo/17/14){:target="_blank"}, [Numbers 33:1](https://www.blueletterbible.org/lsb/num/33/1){:target="_blank"},[2](https://www.blueletterbible.org/lsb/num/33/2){:target="_blank"}), etc.
 
-Though the 3rd-person option also remained valid, as Matthew uses it (compare [Matthew 9:9](https://www.blueletterbible.org/lsb/mat/9/9) with [Mark 2:14](https://www.blueletterbible.org/lsb/mar/2/14) and [Luke 5:27](https://www.blueletterbible.org/lsb/luk/5/27)). And sometimes first person as with Luke's openings of both [Luke](https://www.blueletterbible.org/lsb/luk/1/3) and [Acts](https://www.blueletterbible.org/lsb/act/1/1).
+Though the 3rd-person option also remained valid, as Matthew uses it (compare [Matthew 9:9](https://www.blueletterbible.org/lsb/mat/9/9){:target="_blank"} with [Mark 2:14](https://www.blueletterbible.org/lsb/mar/2/14){:target="_blank"} and [Luke 5:27](https://www.blueletterbible.org/lsb/luk/5/27){:target="_blank"}). And sometimes first person as with Luke's openings of both [Luke](https://www.blueletterbible.org/lsb/luk/1/3){:target="_blank"} and [Acts](https://www.blueletterbible.org/lsb/act/1/1){:target="_blank"}.
 
-Also, probably not coincidentally, Mark was said (by Papias as quoted by Eusebius, and by Clement) to be a top student of Peter, and Peter and John were two of the three disciples normally treated as central (e.g. [Matthew 17:1-8](https://www.blueletterbible.org/lsb/mat/17/1)), and closest to Jesus. So basically they adopted what they saw as Jesus' own authorship style.
+Also, probably not coincidentally, Mark was said (by Papias as quoted by Eusebius, and by Clement) to be a top student of Peter, and Peter and John were two of the three disciples normally treated as central (e.g. [Matthew 17:1-8](https://www.blueletterbible.org/lsb/mat/17/1){:target="_blank"}), and closest to Jesus. So basically they adopted what they saw as Jesus' own authorship style.
 
 An absolutely crucial passage for Christians, for understanding how we should still look at the Mosaic law for guidance, yet know which parts don't stand in the Christian covenant, is revealed by Jesus here:
 
@@ -1938,7 +1958,7 @@ Mark 2:
 
 27 He said to them, “The Sabbath was made for man, not man for the Sabbath. 28  Therefore the Son of Man is lord even of the Sabbath.”/
 
-See also [Luke 6:1-11](https://www.blueletterbible.org/lsb/luk/6/1).
+See also [Luke 6:1-11](https://www.blueletterbible.org/lsb/luk/6/1){:target="_blank"}.
 
 Exodus 20:
 
@@ -2025,7 +2045,9 @@ Jesus said, “ ‘You shall not murder.’ ‘You shall not commit adultery.’
 
 27 Then Peter answered, “Behold, we have left everything and followed you. What then will we have?”
 
-28 Jesus said to them, “Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel. 29  Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life. 30  But many will be last who are first, and first who are last./
+28 Jesus said to them, “Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel.
+
+29  Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life. 30  But many will be last who are first, and first who are last./
 
 Remember the disciples did not yet understand the atonement Christ would provide for them on the cross.
 
@@ -2095,60 +2117,60 @@ Mark 16:
 
 Isaiah 53:
 
-/<b>1 Who has believed our message?</b>
-To whom has Yahweh’s arm been revealed?
-2 For he grew up before him as a tender plant,
-and as a root out of dry ground.
-He has no good looks or majesty.
-When we see him, there is no beauty that we should desire him.
-3 He was despised
-and rejected by men,
-a man of suffering
-and acquainted with disease.
-He was despised as one from whom men hide their face;
-and we didn’t respect him.
+/<b>1 Who has believed our message?</b><br>
+To whom has Yahweh’s arm been revealed?<br>
+2 For he grew up before him as a tender plant,<br>
+and as a root out of dry ground.<br>
+He has no good looks or majesty.<br>
+When we see him, there is no beauty that we should desire him.<br>
+3 He was despised<br>
+and rejected by men,<br>
+a man of suffering<br>
+and acquainted with disease.<br>
+He was despised as one from whom men hide their face;<br>
+and we didn’t respect him.<br>
  
-4 Surely he has borne our sickness
-and carried our suffering;
-yet we considered him plagued,
-struck by God, and afflicted.
-5 But he was pierced for our transgressions.
-He was crushed for our iniquities.
-The punishment that brought our peace was on him;
-and by his wounds we are healed.
-6 All we like sheep have gone astray.
-Everyone has turned to his own way;
-and Yahweh has laid on him the iniquity of us all.
+4 Surely he has borne our sickness<br>
+and carried our suffering;<br>
+yet we considered him plagued,<br>
+struck by God, and afflicted.<br>
+5 But he was pierced for our transgressions.<br>
+He was crushed for our iniquities.<br>
+The punishment that brought our peace was on him;<br>
+and by his wounds we are healed.<br>
+6 All we like sheep have gone astray.<br>
+Everyone has turned to his own way;<br>
+and Yahweh has laid on him the iniquity of us all.<br>
  
-7 He was oppressed,
-yet when he was afflicted he didn’t open his mouth.
-As a lamb that is led to the slaughter,
-and as a sheep that before its shearers is silent,
-so he didn’t open his mouth.
-8 He was taken away by oppression and judgment.
-As for his generation,
-who considered that he was cut off out of the land of the living
-and stricken for the disobedience of my people?
-9 They made his grave with the wicked,
-and with a rich man in his death,
-although he had done no violence,
-nor was any deceit in his mouth.
+7 He was oppressed,<br>
+yet when he was afflicted he didn’t open his mouth.<br>
+As a lamb that is led to the slaughter,<br>
+and as a sheep that before its shearers is silent,<br>
+so he didn’t open his mouth.<br>
+8 He was taken away by oppression and judgment.<br>
+As for his generation,<br>
+who considered that he was cut off out of the land of the living<br>
+and stricken for the disobedience of my people?<br>
+9 They made his grave with the wicked,<br>
+and with a rich man in his death,<br>
+although he had done no violence,<br>
+nor was any deceit in his mouth.<br>
  
-10 Yet it pleased Yahweh to bruise him.
-He has caused him to suffer.
-<b>When you make his soul an offering for sin</b>,
-he will see his offspring.
-<b>He will prolong his days</b>
-and Yahweh’s pleasure will prosper in his hand.
-<b>11 After the suffering of his soul,
-he will see the light† and be satisfied.</b>
-My righteous servant will justify many by the knowledge of himself;
-and he will bear their iniquities.
-12 Therefore I will give him a portion with the great.
-He will divide the plunder with the strong,
-because he poured out his soul to death
-and was counted with the transgressors;
-yet he bore the sins of many
+10 Yet it pleased Yahweh to bruise him.<br>
+He has caused him to suffer.<br>
+<b>When you make his soul an offering for sin</b>,<br>
+he will see his offspring.<br>
+<b>He will prolong his days</b><br>
+and Yahweh’s pleasure will prosper in his hand.<br>
+<b>11 After the suffering of his soul,<br>
+he will see the light† and be satisfied.</b><br>
+My righteous servant will justify many by the knowledge of himself;<br>
+and he will bear their iniquities.<br>
+12 Therefore I will give him a portion with the great.<br>
+He will divide the plunder with the strong,<br>
+because he poured out his soul to death<br>
+and was counted with the transgressors;<br>
+yet he bore the sins of many<br>
 and made intercession for the transgressors./
 
 Remember that "soul" (Hb nephesh Ln NEH-fesh) in OT is body + spirit. Spirit (Hb ruakh Ln RUE-ahkh) is the intangible aspect of a living thing, the immateriality (like information, but including emotions, thoughts, will, etc.) with dynamic continuity, and both words are poetically (and in Hebrew etymologically) rooted to breath, wind.
@@ -2190,80 +2212,80 @@ This was Jesus predicting his vindication by alluding to this entire Psalm by qu
 
 Psalm 22:
 
-/For the Chief Musician; set to “The Doe of the Morning.” A Psalm by David.
-1 **My God, my God, why have you forsaken me?**
-Why are you so far from helping me, and from the words of my groaning?
-2 My God, I cry in the daytime, but you don’t answer;
-in the night season, and am not silent.
-3 But you are holy,
-you who inhabit the praises of Israel.
-4 Our fathers trusted in you.
-They trusted, and you delivered them.
-5 They cried to you, and were delivered.
-They trusted in you, and were not disappointed.
-6 But I am a worm, and no man;
-a reproach of men, and despised by the people.
-7 All those who see me mock me.
-They insult me with their lips. They shake their heads, saying,
-8 “He trusts in Yahweh.
-Let him deliver him.
-Let him rescue him, since he delights in him.”
-9 But you brought me out of the womb.
-You made me trust while at my mother’s breasts.
-10 I was thrown on you from my mother’s womb.
-You are my God since my mother bore me.
-11 Don’t be far from me, for trouble is near.
-For there is no one to help.
-12 Many bulls have surrounded me.
-Strong bulls of Bashan have encircled me.
-13 They open their mouths wide against me,
-lions tearing prey and roaring.
-14 I am poured out like water.
-All my bones are out of joint.
-My heart is like wax.
-It is melted within me.
-15 My strength is dried up like a potsherd.
-My tongue sticks to the roof of my mouth.
-You have brought me into the dust of death.
-16 For dogs have surrounded me.
-A company of evildoers have enclosed me.
-They have pierced my hands and feet.†
-17 I can count all of my bones.
-They look and stare at me.
-18 They divide my garments among them.
-They cast lots for my clothing.
+/For the Chief Musician; set to “The Doe of the Morning.” A Psalm by David.<br>
+1 <b>>My God, my God, why have you forsaken me?</b><br>
+Why are you so far from helping me, and from the words of my groaning?<br>
+2 My God, I cry in the daytime, but you don’t answer;<br>
+in the night season, and am not silent.<br>
+3 But you are holy,<br>
+you who inhabit the praises of Israel.<br>
+4 Our fathers trusted in you.<br>
+They trusted, and you delivered them.<br>
+5 They cried to you, and were delivered.<br>
+They trusted in you, and were not disappointed.<br>
+6 But I am a worm, and no man;<br>
+a reproach of men, and despised by the people.<br>
+7 All those who see me mock me.<br>
+They insult me with their lips. They shake their heads, saying,<br>
+8 “He trusts in Yahweh.<br>
+Let him deliver him.<br>
+Let him rescue him, since he delights in him.”<br>
+9 But you brought me out of the womb.<br>
+You made me trust while at my mother’s breasts.<br>
+10 I was thrown on you from my mother’s womb.<br>
+You are my God since my mother bore me.<br>
+11 Don’t be far from me, for trouble is near.<br>
+For there is no one to help.<br>
+12 Many bulls have surrounded me.<br>
+Strong bulls of Bashan have encircled me.<br>
+13 They open their mouths wide against me,<br>
+lions tearing prey and roaring.<br>
+14 I am poured out like water.<br>
+All my bones are out of joint.<br>
+My heart is like wax.<br>
+It is melted within me.<br>
+15 My strength is dried up like a potsherd.<br>
+My tongue sticks to the roof of my mouth.<br>
+You have brought me into the dust of death.<br>
+16 For dogs have surrounded me.<br>
+A company of evildoers have enclosed me.<br>
+They have pierced my hands and feet.†<br>
+17 I can count all of my bones.<br>
+They look and stare at me.<br>
+18 They divide my garments among them.<br>
+They cast lots for my clothing.<br>
  
-19 But don’t be far off, Yahweh.
-You are my help. Hurry to help me!
-20 Deliver my soul from the sword,
-my precious life from the power of the dog.
-21 Save me from the lion’s mouth!
-Yes, you have rescued me from the horns of the wild oxen.
+19 But don’t be far off, Yahweh.<br>
+You are my help. Hurry to help me!<br>
+20 Deliver my soul from the sword,<br>
+my precious life from the power of the dog.<br>
+21 Save me from the lion’s mouth!<br>
+Yes, you have rescued me from the horns of the wild oxen.<br>
  
-22 I will declare your name to my brothers.
-Among the assembly, I will praise you.
-23 You who fear Yahweh, praise him!
-All you descendants of Jacob, glorify him!
-Stand in awe of him, all you descendants of Israel!
-24 <b>For he has not despised nor abhorred the affliction of the afflicted,
-neither has he hidden his face from him;
-but when he cried to him, he heard.</b>
+22 I will declare your name to my brothers.<br>
+Among the assembly, I will praise you.<br>
+23 You who fear Yahweh, praise him!<br>
+All you descendants of Jacob, glorify him!<br>
+Stand in awe of him, all you descendants of Israel!<br>
+24 <b>For he has not despised nor abhorred the affliction of the afflicted,<br>
+neither has he hidden his face from him;<br>
+but when he cried to him, he heard.</b><br>
  
-25 My praise of you comes in the great assembly.
-I will pay my vows before those who fear him.
-26 <b>The humble shall eat and be satisfied.
-They shall praise Yahweh who seek after him.
-Let your hearts live forever.</b>
-27 All the ends of the earth shall remember and turn to Yahweh.
-All the relatives of the nations shall worship before you.
-28 For the kingdom is Yahweh’s.
-He is the ruler over the nations.
-29 All the rich ones of the earth shall eat and worship.
-<b>All those who go down to the dust shall bow before him,
-even he who can’t keep his soul alive.</b>
-30 Posterity shall serve him.
-Future generations shall be told about the Lord.
-31 They shall come and shall declare his righteousness to a people that shall be born,
+25 My praise of you comes in the great assembly.<br>
+I will pay my vows before those who fear him.<br>
+26 <b>The humble shall eat and be satisfied.<br>
+They shall praise Yahweh who seek after him.<br>
+Let your hearts live forever.</b><br>
+27 All the ends of the earth shall remember and turn to Yahweh.<br>
+All the relatives of the nations shall worship before you.<br>
+28 For the kingdom is Yahweh’s.<br>
+He is the ruler over the nations.<br>
+29 All the rich ones of the earth shall eat and worship.<br>
+<b>All those who go down to the dust shall bow before him,<br>
+even he who can’t keep his soul alive.</b><br>
+30 Posterity shall serve him.<br>
+Future generations shall be told about the Lord.<br>
+31 They shall come and shall declare his righteousness to a people that shall be born,<br>
 <b><i></u>FOR HE HAS DONE IT</u></i></b>./
 
 Matthew 27:
@@ -2284,7 +2306,7 @@ John 19:
 
 ...
 
-30 When <b>Jesus</b> therefore had received the vinegar, <b>he said, <i><u>“IT IS FINISHED!</u></i>” Then he bowed his head and gave up his spirit</b>./
+30 When <b>Jesus</b> therefore had received the vinegar, <b>he said, “<i><u>IT IS FINISHED!</u></i>” Then he bowed his head and gave up his spirit</b>./
 
 Matthew 5 again:
 
@@ -2472,13 +2494,13 @@ From my prep notes for this article, some sections I felt are good enough to inc
 
 Starting with one paragraph that introduced two sections (about "from the beginning," now expanded a lot above), the first of which is about SAUA:
 
-Since Jesus focused on "from the beginning" as an important doctrinal tool to discern what in the Law of Moses still stands for Christians (e.g. [Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8)), an emphasis Paul also taught in Romans 1 (likely following Christ's taught emphasis to his disciples, then passed on to Paul), in [20](https://www.blueletterbible.org/lsb/rom/1/20), [23](https://www.blueletterbible.org/lsb/rom/1/23), [25](https://www.blueletterbible.org/lsb/rom/1/25), [26](https://www.blueletterbible.org/lsb/rom/1/26), [27](https://www.blueletterbible.org/lsb/rom/1/27), it seems that the very well-studied students of Christ (John) and of his apostles (Mark, student of Peter) looked very closely at Genesis and noticed the phrasing that clearly implies these two things:
+Since Jesus focused on "from the beginning" as an important doctrinal tool to discern what in the Law of Moses still stands for Christians (e.g. [Matthew 19:8](https://www.blueletterbible.org/lsb/mat/19/8){:target="_blank"}), an emphasis Paul also taught in Romans 1 (likely following Christ's taught emphasis to his disciples, then passed on to Paul), in [20](https://www.blueletterbible.org/lsb/rom/1/20){:target="_blank"}, [23](https://www.blueletterbible.org/lsb/rom/1/23){:target="_blank"}, [25](https://www.blueletterbible.org/lsb/rom/1/25){:target="_blank"}, [26](https://www.blueletterbible.org/lsb/rom/1/26){:target="_blank"}, [27](https://www.blueletterbible.org/lsb/rom/1/27){:target="_blank"}, it seems that the very well-studied students of Christ (John) and of his apostles (Mark, student of Peter) looked very closely at Genesis and noticed the phrasing that clearly implies these two things:
 
 First, that Christ himself, the beginningless Son of God, or Word (Logos) of God as Philo also says (an extrabiblical NT-era Jewish source), authored Genesis 1 through 2:3.
 
-And likely [2:4](https://www.blueletterbible.org/lsb/gen/2/4/s_1047020) as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
+And likely [2:4](https://www.blueletterbible.org/lsb/gen/2/4/s_1047020){:target="_blank"} as closing signature line (containing the word "toledoth," sometimes thought to merely mean generations, but likely means "account"), though one prominent interpreter of Genesis, Jonathan Sarfati, in his book *The Genesis Account*, credibly argues, (although I think unsuccessfully), that all such lines go with the sections following them, not before them, and are likely merely transitional statements by Moses, though he acknowledges Moses may have used sources.
 
-I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in [Genesis 5:1a](https://www.blueletterbible.org/lsb/gen/5/1/s_1047020), which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
+I think that Moses likely compiled accounts, possibly accurately preserved from memory originally prior to the invention of writing, and this seems to be explicitly confirmed in the case of the toledoth line in [Genesis 5:1a](https://www.blueletterbible.org/lsb/gen/5/1/s_1047020){:target="_blank"}, which adds that it is the "book of" the toledoth of Adam, which likely should be read as implied to apply to all the other toledoth lines too.
 
 The perspectives match "sig-after" (toledoth lines as signatures after the accounts they go with) -- for example, only God witnesses creation before Day 6 -- up through the Abraham section, which has no toledoth, as the first one to be very long, so an end-signature first became less useful, then later shifted to usually sig-before.
   
@@ -2498,23 +2520,23 @@ Based on the number of names, and timing of similarities in styles in different 
   
 However, it's clear that genealogical information was later updated into earlier accounts by someone else in the chain of curation of the accounts (authors of later accounts in Genesis, or compiler if as late as Moses).
   
-This is seen most clearly in the two Esau genealogies ([36:1-8](https://www.blueletterbible.org/lsb/gen/36/1) listing his sons, then [9-43](https://www.blueletterbible.org/lsb/mat/19/8) repeating the list of his sons and adding other later descendants).
+This is seen most clearly in the two Esau genealogies ([36:1-8](https://www.blueletterbible.org/lsb/gen/36/1){:target="_blank"} listing his sons, then [9-43](https://www.blueletterbible.org/lsb/mat/19/8){:target="_blank"} repeating the list of his sons and adding other later descendants).
   
-Genealogies also usually start an account, establishing credentials of the author, so the style change from [4:17](https://www.blueletterbible.org/lsb/gen/4/17) to 18 likely is the start of a later brief account of Naamah added by Noah, or kept separately and compiled in by Moses or any of the other curators between them, such as Shem.
+Genealogies also usually start an account, establishing credentials of the author, so the style change from [4:17](https://www.blueletterbible.org/lsb/gen/4/17){:target="_blank"} to 18 likely is the start of a later brief account of Naamah added by Noah, or kept separately and compiled in by Moses or any of the other curators between them, such as Shem.
   
-The style also changes back at [4:25](https://www.blueletterbible.org/lsb/gen/4/25), so this is likely Adam's authorship again, continuing through the /This is the book of the generations of Adam/ part ([5:1a](https://www.blueletterbible.org/lsb/gen/5/1)) of Genesis 5.
+The style also changes back at [4:25](https://www.blueletterbible.org/lsb/gen/4/25), so this is likely Adam's authorship again, continuing through the /This is the book of the generations of Adam/ part ([5:1a](https://www.blueletterbible.org/lsb/gen/5/1){:target="_blank"}) of Genesis 5.
 
 Then a review summary of events from the earlier accounts is begun in 5:1b, also common after toledoth lines, indicating it is preserving an original account verbatim, not Moses merely using sources loosely. (Yet another basic point Sarfati does not even engage with.)
 
 In effect, Moses' use of these statements does turn them into transitions, but it's clear this is a lesser purpose.
 
-Also, the only case that looks like a transition is a major purpose is [Genesis 10:1](https://www.blueletterbible.org/lsb/gen/10/1) (sons of "them" makes the last part clearly not the start of a later account, nor "the sons of Noah", and the first mention of the sons in the following verses has no break).
+Also, the only case that looks like a transition is a major purpose is [Genesis 10:1](https://www.blueletterbible.org/lsb/gen/10/1){:target="_blank"} (sons of "them" makes the last part clearly not the start of a later account, nor "the sons of Noah", and the first mention of the sons in the following verses has no break).
   
 This just happens to be the only one where the authorship, under the sig-after-until-Abe view, includes the same person (Shem) for the account both before and after.
   
 It's clear that before it, Shem was writing with help from Ham and Japheth, and after it he wrote his own contribution, so both would indeed have been a single account likely from the start, or he could have done the second one as an update and edited the original wording of what is now Genesis 10:1 (such an edit is much more likely for the original author than a later curator, given the clear evidence mentioned above that later curators/authors preserved prior accounts verbatim to a "fault").
 
-Early Christians following the "noble Berean" approach ([Acts 17:10-11](https://www.blueletterbible.org/lsb/act/17/10)) would of course have read Genesis attentively and noticed these things, if they weren't already common knowledge in Judaism of the time (as they likely also were).
+Early Christians following the "noble Berean" approach ([Acts 17:10-11](https://www.blueletterbible.org/lsb/act/17/10){:target="_blank"}) would of course have read Genesis attentively and noticed these things, if they weren't already common knowledge in Judaism of the time (as they likely also were).
 
 Especially with Jesus' extra focus on Genesis as key.
 
@@ -2555,17 +2577,17 @@ I'm not sure if I got that term from others or if there is a standard term for i
 
 To be constantly reminding the reader that you were the person often in important events would seem to beat others over the head with how important you are, and that wasn't very appreciated.
 
-This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively (compare [1:27](https://www.blueletterbible.org/lsb/gen/1/27/s_1047020) & [2:7](https://www.blueletterbible.org/lsb/gen/2/7/s_1047020)).
+This is part of why it's clear right in Genesis 1-2 that "the LORD God" has a *personal* distinction from the one called simply "God" earlier, even though it's also clear the two terms can be used interchangeably or at least cooperatively (compare [1:27](https://www.blueletterbible.org/lsb/gen/1/27/s_1047020){:target="_blank"} & [2:7](https://www.blueletterbible.org/lsb/gen/2/7/s_1047020){:target="_blank"}).
   
 This is important as it answers Unitarian-style objections that the pluripersonality of God's internal nature yet singularity of his outward identity is a late invention.
   
 It's known that Jews in the Inter-Testamental (IT) period did at least think there might be "Two Powers" in heaven (conflating Son and Spirit to get two instead of three), identified as internal numbering, within God's nature, while God is one entity; these aren't separate beings, but have their own personalities or centers of consciousness.
   
-So "God is one" in the Shema ([Deuteronomy 6:4](https://www.blueletterbible.org/lsb/deu/6/4), and related passages [Exodus 20:3](https://www.blueletterbible.org/lsb/exo/20/3), [Isaiah 43:10](https://www.blueletterbible.org/lsb/isa/43/10), cf. [Mark 12:29](https://www.blueletterbible.org/lsb/mar/12/29)), meaning there are no other legitimate gods, yet internally some of his traits can be literally personified, without beginning.
+So "God is one" in the Shema ([Deuteronomy 6:4](https://www.blueletterbible.org/lsb/deu/6/4){:target="_blank"}, and related passages [Exodus 20:3](https://www.blueletterbible.org/lsb/exo/20/3){:target="_blank"}, [Isaiah 43:10](https://www.blueletterbible.org/lsb/isa/43/10){:target="_blank"}, cf. [Mark 12:29](https://www.blueletterbible.org/lsb/mar/12/29){:target="_blank"}), meaning there are no other legitimate gods, yet internally some of his traits can be literally personified, without beginning.
   
-Specifically his wisdom (knowledge in action) and ideas which can be expressed as his word(s) for the Son (e.g. [Mark 1:1](https://www.blueletterbible.org/lsb/mar/1/1), [Matthew 3:17](https://www.blueletterbible.org/lsb/mat/3/17), [Matthew 8:20](https://www.blueletterbible.org/lsb/mat/8/20)) / Word ([John 1:1](https://www.blueletterbible.org/lsb/jhn/1/1), [14](https://www.blueletterbible.org/lsb/jhn/1/14)) / Wisdom (e.g. [Luke 11:49](https://www.blueletterbible.org/lsb/luke/11/49), cf. [Matthew 23:34](https://www.blueletterbible.org/lsb/mat/23/34); [Proverbs 8:12](https://www.blueletterbible.org/lsb/pro/8/12), [22-30](https://www.blueletterbible.org/lsb/pro/8/22), [Proverbs 2:6](https://www.blueletterbible.org/lsb/pro/2/6), [Matthew 11:16-19](https://www.blueletterbible.org/lsb/mat/11/16) / [Luke 7:31-32](https://www.blueletterbible.org/lsb/luk/7/32), cf. [Proverbs 1:24-28](https://www.blueletterbible.org/lsb/pro/1/24)) with focus on omnipotence (focus, not sole ability) (e.g. /word of his power/ in [Hebrews 1:3](https://www.blueletterbible.org/lsb/heb/1/3)), and his action capability (hand; [Ezekiel 1:3](https://www.blueletterbible.org/lsb/eze/1/3), [Deuteronomy 2:15](https://www.blueletterbible.org/lsb/deu/2/15), [1st Samuel 12:15](https://www.blueletterbible.org/lsb/1sa/12/15); cf. [Judges 3:10](https://www.blueletterbible.org/lsb/jdg/3/10), [Isaiah 61:1](https://www.blueletterbible.org/lsb/isa/61/1), [1st Peter 1:2](https://www.blueletterbible.org/lsb/1pe/1/2); finger [Luke 11:20](https://www.blueletterbible.org/lsb/luk/11/20), cf. [Matthew 12:28](https://www.blueletterbible.org/lsb/mat/12/28)) and thoughts ([John 16:13](https://www.blueletterbible.org/lsb/jhn/16/13)) / emotions ([Romans 8:26](https://www.blueletterbible.org/lsb/rom/8/26)) / understanding ([1st Corinthians 2:10-14](https://www.blueletterbible.org/lsb/1co/2/10), [14](https://www.blueletterbible.org/lsb/1co/2/14)) for the Spirit with focus on omnipresence (esp. in indwelling Christians (multiple people at once); e.g. [Acts 2:4](https://www.blueletterbible.org/lsb/act/2/4), [Romans 8:9](https://www.blueletterbible.org/lsb/rom/8/9); also [Psalm 139:7-8](https://www.blueletterbible.org/lsb/psa/139/7)), while the Father focuses on omniscience/knowledge ([Exodus 31:3](https://www.blueletterbible.org/lsb/exo/31/3), [1st Peter 1:2](https://www.blueletterbible.org/lsb/1pe/1/2), [Matthew 24:36](https://www.blueletterbible.org/lsb/mat/24/36), [Mark 13:32](https://www.blueletterbible.org/lsb/mar/13/32)) and ultimate authority ([John 8:28](https://www.blueletterbible.org/lsb/jhn/8/28) / [5:19](https://www.blueletterbible.org/lsb/jhn/5/19) / [16:13](https://www.blueletterbible.org/lsb/jhn/16/13)) and as eternally, beginninglessly the source of the other two ([Hebrews 1:3](https://www.blueletterbible.org/lsb/heb/1/3) (read in context of [2](https://www.blueletterbible.org/lsb/heb/1/2) and [5](https://www.blueletterbible.org/lsb/heb/1/5)) / [John 8:42](https://www.blueletterbible.org/lsb/jhn/8/42) / [Colossians 1:15-17](https://www.blueletterbible.org/lsb/col/1/15), [John 15:26](https://www.blueletterbible.org/lsb/jhn/15/26) / [Hebrews 9:14](https://www.blueletterbible.org/lsb/heb/9/14)).
+Specifically his wisdom (knowledge in action) and ideas which can be expressed as his word(s) for the Son (e.g. [Mark 1:1](https://www.blueletterbible.org/lsb/mar/1/1){:target="_blank"}, [Matthew 3:17](https://www.blueletterbible.org/lsb/mat/3/17){:target="_blank"}, [Matthew 8:20](https://www.blueletterbible.org/lsb/mat/8/20){:target="_blank"}) / Word ([John 1:1](https://www.blueletterbible.org/lsb/jhn/1/1){:target="_blank"}, [14](https://www.blueletterbible.org/lsb/jhn/1/14){:target="_blank"}) / Wisdom (e.g. [Luke 11:49](https://www.blueletterbible.org/lsb/luke/11/49){:target="_blank"}, cf. [Matthew 23:34](https://www.blueletterbible.org/lsb/mat/23/34){:target="_blank"}; [Proverbs 8:12](https://www.blueletterbible.org/lsb/pro/8/12){:target="_blank"}, [22-30](https://www.blueletterbible.org/lsb/pro/8/22){:target="_blank"}, [Proverbs 2:6](https://www.blueletterbible.org/lsb/pro/2/6){:target="_blank"}, [Matthew 11:16-19](https://www.blueletterbible.org/lsb/mat/11/16){:target="_blank"} / [Luke 7:31-32](https://www.blueletterbible.org/lsb/luk/7/32){:target="_blank"}, cf. [Proverbs 1:24-28](https://www.blueletterbible.org/lsb/pro/1/24){:target="_blank"}) with focus on omnipotence (focus, not sole ability) (e.g. /word of his power/ in [Hebrews 1:3](https://www.blueletterbible.org/lsb/heb/1/3){:target="_blank"}), and his action capability (hand; [Ezekiel 1:3](https://www.blueletterbible.org/lsb/eze/1/3){:target="_blank"}, [Deuteronomy 2:15](https://www.blueletterbible.org/lsb/deu/2/15){:target="_blank"}, [1st Samuel 12:15](https://www.blueletterbible.org/lsb/1sa/12/15){:target="_blank"}; cf. [Judges 3:10](https://www.blueletterbible.org/lsb/jdg/3/10){:target="_blank"}, [Isaiah 61:1](https://www.blueletterbible.org/lsb/isa/61/1){:target="_blank"}, [1st Peter 1:2](https://www.blueletterbible.org/lsb/1pe/1/2){:target="_blank"}; finger [Luke 11:20](https://www.blueletterbible.org/lsb/luk/11/20){:target="_blank"}, cf. [Matthew 12:28](https://www.blueletterbible.org/lsb/mat/12/28){:target="_blank"}) and thoughts ([John 16:13](https://www.blueletterbible.org/lsb/jhn/16/13){:target="_blank"}) / emotions ([Romans 8:26](https://www.blueletterbible.org/lsb/rom/8/26){:target="_blank"}) / understanding ([1st Corinthians 2:10-14](https://www.blueletterbible.org/lsb/1co/2/10){:target="_blank"}, [14](https://www.blueletterbible.org/lsb/1co/2/14){:target="_blank"}) for the Spirit with focus on omnipresence (esp. in indwelling Christians (multiple people at once); e.g. [Acts 2:4](https://www.blueletterbible.org/lsb/act/2/4){:target="_blank"}, [Romans 8:9](https://www.blueletterbible.org/lsb/rom/8/9){:target="_blank"}; also [Psalm 139:7-8](https://www.blueletterbible.org/lsb/psa/139/7){:target="_blank"}), while the Father focuses on omniscience/knowledge ([Exodus 31:3](https://www.blueletterbible.org/lsb/exo/31/3){:target="_blank"}, [1st Peter 1:2](https://www.blueletterbible.org/lsb/1pe/1/2){:target="_blank"}, [Matthew 24:36](https://www.blueletterbible.org/lsb/mat/24/36){:target="_blank"}, [Mark 13:32](https://www.blueletterbible.org/lsb/mar/13/32){:target="_blank"}) and ultimate authority ([John 8:28](https://www.blueletterbible.org/lsb/jhn/8/28){:target="_blank"} / [5:19](https://www.blueletterbible.org/lsb/jhn/5/19){:target="_blank"} / [16:13](https://www.blueletterbible.org/lsb/jhn/16/13){:target="_blank"}) and as eternally, beginninglessly the source of the other two ([Hebrews 1:3](https://www.blueletterbible.org/lsb/heb/1/3){:target="_blank"} (read in context of [2](https://www.blueletterbible.org/lsb/heb/1/2){:target="_blank"} and [5](https://www.blueletterbible.org/lsb/heb/1/5)){:target="_blank"} / [John 8:42](https://www.blueletterbible.org/lsb/jhn/8/42){:target="_blank"} / [Colossians 1:15-17](https://www.blueletterbible.org/lsb/col/1/15){:target="_blank"}, [John 15:26](https://www.blueletterbible.org/lsb/jhn/15/26){:target="_blank"} / [Hebrews 9:14](https://www.blueletterbible.org/lsb/heb/9/14){:target="_blank"}).
 
-Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and all Scripture is inspired by the Spirit (the word for Spirit is also the word for wind or breath, so this is implied in [2nd Timothy 3:16](https://www.blueletterbible.org/lsb/2ti/3/16/s_1128016); see also [2nd Peter 1:21](https://www.blueletterbible.org/lsb/2pe/1/21/s_1157021), [Mark 12:36](https://www.blueletterbible.org/lsb/mar/12/36/s_969036)), so he has an implied authorial role too.
+Also the Spirit is mentioned within the account, as if prepared for action, but then not mentioned again, and all Scripture is inspired by the Spirit (the word for Spirit is also the word for wind or breath, so this is implied in [2nd Timothy 3:16](https://www.blueletterbible.org/lsb/2ti/3/16/s_1128016){:target="_blank"}; see also [2nd Peter 1:21](https://www.blueletterbible.org/lsb/2pe/1/21/s_1157021){:target="_blank"}, [Mark 12:36](https://www.blueletterbible.org/lsb/mar/12/36/s_969036){:target="_blank"}), so he has an implied authorial role too.
   
 He isn't the one signing the account, so he doesn't need to completely avoid being named in it, yet has a partial avoidance in avoiding clear mentions of what he did (he and the Son both acted in creating; carrying out the "let us" orders from the one called simply God, the Father).
 
@@ -2610,15 +2632,19 @@ If we take out the John premise, we have less strong evidence for authorial avoi
 
 We could still argue for "the LORD God" as the author of 1-2:3, and 2:4 as a signature line based on all the clear evidence from Genesis, but it becomes unclear that the reason for the lack of that term earlier is about personal honor or authorial avoidance.
 
-This is much clearer if John used authorial avoidance -- the same author who started his gospel with "In the beginning was the Word" and adds that he was the primary focus of creative power -- which might otherwise seem like surprising new revelation. Which is possible, but then the apparent total lack of early surprise or dispute of this teaching is, well, surprising. It makes much more sense if John was seeing this as taught in Genesis following Hebrew rules of interpretation in combination with Christ. Jesus may also have directly told him how this works, so that John would preserve very clear clues to it in his gospel.
+This is much clearer if John used authorial avoidance -- the same author who started his gospel with "In the beginning was the Word" and adds that he was the primary focus of creative power -- which might otherwise seem like surprising new revelation. Which is possible, but then the apparent total lack of early surprise or dispute of this teaching is, well, surprising.
+
+It makes much more sense if John was seeing this as taught in Genesis following Hebrew rules of interpretation in combination with Christ. Jesus may also have directly told him how this works, so that John would preserve very clear clues to it in his gospel.
 
 We can still argue for the "us-texts" in Genesis as teaching plurality of internal nature of God in some way, and Unitarian arguments against this evidence have indeed been soundly debunked.
 
 Mainly they argue it refers to angels, which the wording forbids as the "us" does the creating, and we're explicitly told God does the creating, not angels. Or some will argue for the "royal we" (plural of majesty) which Hebrew scholars reject as nonexistent for verbs and pronouns, so can't be used for "us," and that argument would prove too much, as it would imply only a plurality is actually majestic.
 
-And one (Sean Finnegan) argues based on the rarity of these "us" wordings (only three indisputable, all in Genesis, arguably a fourth in Isaiah) compared to unipersonal pronouns, which is irrelevant since most of these are referring to the Son or to the Father or to the Spirit rather than the Being, and some even backfire on the Unitarian (e.g. the Father calling the Son "you" in Psalm 110 ([1](https://www.blueletterbible.org/lsb/psa/110/1) and most of the other verses "your", [4](https://www.blueletterbible.org/lsb/psa/110/4) "you"); the Unitarian argument assumes that all such pronouns are literally *personal* pronouns, and that there is no such thing as a pronoun referring to the Being, which I don't assume, but if it's correct, it also means the "you" here has the Father referring to the Messiah as a distinct Person from the Father, and we know from many other OT passages that the Messiah would be God; see [Isaiah 9:6-7](https://www.blueletterbible.org/lsb/isa/9/7), [Psalm 45:6-7](https://www.blueletterbible.org/lsb/psa/45/6), [Micah 5:2](https://www.blueletterbible.org/lsb/mic/5/2), [Daniel 7:13-14](https://www.blueletterbible.org/lsb/dan/7/13),[27](https://www.blueletterbible.org/lsb/dan/7/27)).
+And one (Sean Finnegan) argues based on the rarity of these "us" wordings (only three indisputable, all in Genesis, arguably a fourth in Isaiah) compared to unipersonal pronouns, which is irrelevant since most of these are referring to the Son or to the Father or to the Spirit rather than the Being, and some even backfire on the Unitarian (e.g. the Father calling the Son "you" in Psalm 110 ([1](https://www.blueletterbible.org/lsb/psa/110/1){:target="_blank"} and most of the other verses "your", [4](https://www.blueletterbible.org/lsb/psa/110/4){:target="_blank"} "you").
 
-And the three initial us-texts ([Gen 1:26](https://www.blueletterbible.org/lsb/gen/1/26), [3:22](https://www.blueletterbible.org/lsb/gen/3/22), [11:7](https://www.blueletterbible.org/lsb/gen/11/7)) serve as prior context clarifying all later phrasing, so it didn't need to be spelled out explicitly over and over, which is foreign to their high-context culture.
+The Unitarian argument assumes that all such pronouns are literally *personal* pronouns, and that there is no such thing as a pronoun referring to the Being, which I don't assume, but if it's correct, it also means the "you" here has the Father referring to the Messiah as a distinct Person from the Father, and we know from many other OT passages that the Messiah would be God; see [Isaiah 9:6-7](https://www.blueletterbible.org/lsb/isa/9/7){:target="_blank"}, [Psalm 45:6-7](https://www.blueletterbible.org/lsb/psa/45/6){:target="_blank"}, [Micah 5:2](https://www.blueletterbible.org/lsb/mic/5/2){:target="_blank"}, [Daniel 7:13-14](https://www.blueletterbible.org/lsb/dan/7/13){:target="_blank"},[27](https://www.blueletterbible.org/lsb/dan/7/27){:target="_blank"}).
+
+And the three initial us-texts ([Gen 1:26](https://www.blueletterbible.org/lsb/gen/1/26){:target="_blank"}, [3:22](https://www.blueletterbible.org/lsb/gen/3/22){:target="_blank"}, [11:7](https://www.blueletterbible.org/lsb/gen/11/7){:target="_blank"}) serve as prior context clarifying all later phrasing, so it didn't need to be spelled out explicitly over and over, which is foreign to their high-context culture.
 
 But if in fact the details of the opening, avoided self-referential naming, and authorship of John (the gospel) mean what I think they mean, then the Trinity specifically (as three actually listed Persons, not just a vague plurality with unspecified number or sense) was taught using the rules of Hebrew right to Adam, and was always understood by all later authors and readers as foundational.
 
@@ -2628,7 +2654,7 @@ But if in fact the details of the opening, avoided self-referential naming, and 
 
 
 
-{:target="_blank"}
+
 
 
 
