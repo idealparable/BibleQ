@@ -89,7 +89,7 @@ They are divided into "full" consonants (such as T, D, S, N, TH, H, KH) and "hal
 
 Full consonants fit within a chart arranged like the following. I'll show the full chart first and then explain them in order of unvoiced stops (UnVoiStop) (non-nasal), voiced stops (VoiceStop) (non-nasal), nasal stops (NasalStop) (voiced), unvoiced fricatives (UnVoiFric), and voiced fricatives (VoiceFric).
 
-For now I'm only showing the main list (sounds in English, "ancient" Hebrew, and "ancient" Greek). There are expanded spellings for unusual sounds as well.
+For now I'm only showing the main list (sounds in English, "ancient" Hebrew, and "ancient" Greek -- not necessarily accurately ancient but using my chosen default pronunciations for biblical Hb and Gk). There are expanded spellings for unusual sounds as well.
 
 |UnVoiFric|UnVoiStop|NasalStop|VoiceStop|VoiceFric|
 |:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -100,6 +100,30 @@ For now I'm only showing the main list (sounds in English, "ancient" Hebrew, and
 |sh||||zh|
 |kh|k|ng'|g||
 |h|\|||||
+
+That chart is showing sounds made with the front of the mouth on top, and further back the lower the row. I won't trouble you with the technical terms for the rows, but you can read about them [here](https://en.wikipedia.org/wiki/Place_of_articulation).
+
+#### Unvoiced Stops
+
+These consonants are produced by completely blocking the airflow in the vocal tract for a moment, then releasing it abruptly. They are not voiced, meaning the vocal cords do not vibrate during articulation. Examples include **p**, **t**, and **k**.
+
+#### Voiced Stops
+
+Voiced stops are similar to unvoiced stops but involve vibration of the vocal cords along with the blockage of airflow. They create a brief plosive sound upon release. Examples include **b**, **d**, and **g**.
+
+#### Nasal Stops
+
+Nasal stops are produced by blocking the airflow in the mouth cavity, but allowing it to pass through the nasal cavity. This creates a combined sound with both a stop and a nasal resonance. Examples include **m**, **n**, and **ng** (as in "sing").
+
+#### Unvoiced Fricatives
+
+Unvoiced fricatives are created by forcing airflow through a narrow opening in the vocal tract, resulting in a turbulent sound with friction. No vibration of the vocal cords occurs. Examples include **f**, **s**, and **th** (as in "thin").
+
+#### Voiced Fricatives
+
+Voiced fricatives are similar to unvoiced fricatives but involve vibration of the vocal cords along with the friction of airflow. They produce a hissing or buzzing sound. Examples include **v**, **z**, and **dh** (as in "then").
+
+
 
 
 
