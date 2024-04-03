@@ -17,7 +17,7 @@ I could be wrong, now, but I don't think so.
 - [Question: Did Lazarus Write John? Is he the Disciple Jesus Loved?](#did-lazarus-write-john-is-he-the-disciple-jesus-loved)
   - [Must-Read Notes](#must-read-notes)
   - [Table of Contents](#table-of-contents)
-- [Answer](#answer)
+- [**Answer**](#answer)
   - [Don't Quote the Messenger](#dont-quote-the-messenger)
   - [Non-LiterALL](#non-literall)
     - [Say Again?](#say-again)
