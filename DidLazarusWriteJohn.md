@@ -2286,7 +2286,7 @@ even he who can’t keep his soul alive.</b><br>
 30 Posterity shall serve him.<br>
 Future generations shall be told about the Lord.<br>
 31 They shall come and shall declare his righteousness to a people that shall be born,<br>
-<b><i></u>FOR HE HAS DONE IT</u></i></b>./
+<b><i><u>FOR HE HAS DONE IT</u></i></b>./
 
 Matthew 27:
 
