@@ -2371,9 +2371,9 @@ This about light and about the Christ being who God created the universe through
 
 Genesis 1:
 
-/1 <b><u>In the beginning</u>, <i>God† created the heavens and the earth</i></b>. 2 The earth was formless and empty. <b><u>Darkness</u> was on the surface of the <u>deep</u> and <u>God’s Spirit</u> was hovering over the surface of the <u>waters</u>.
+/1 <b><u>In the beginning</u>, <i>God† created the heavens and the earth</i></b>. 2 The earth was formless and empty. <b><u>Darkness</u> was on the surface of the <u>deep</u> and <u>God’s Spirit</u> was hovering over the surface of the <u>waters</u></b>.
 
-3 <u>God said, “Let there be light,” and there was light. 4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”.</u></b> There was evening and there was morning, the first day.
+3 <b><u>God said, “Let there be light,” and there was light. 4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”.</u></b> There was evening and there was morning, the first day.
 
 6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 <u>God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse</u>; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day.
 
@@ -2568,6 +2568,7 @@ One more point needs to be noted: Why is it that Jesus often stopped demons from
 Presumably I don't have to spell out the relevance here to who wrote the gospel of John.
 
 Now continuing in my prep notes:
+
 
 ### Trinity
 
