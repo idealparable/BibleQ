@@ -918,7 +918,8 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Composition fallacy:** "Something true of a part is true of the whole." **(Particular to universal.)** Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive **(some, to all)** or negative **(some not, to none)**.
 
-  Example:<br>
+  Example:
+  
   "Metal doesn't float,<br>
   "So a metal boat,<br>
   "Simply doesn't float."
