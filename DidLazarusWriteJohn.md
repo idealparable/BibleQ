@@ -1005,7 +1005,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   In this Caiaphas case, we can accept that it is indeed unlikely that Caiaphas knew the particular fisherman named John, in and of only his status as fisherman.
 
-  But we can't accept that the disciple known to Caiaphas "can't" be John simply because John is a fisherman, even if we grant that Caiaphas could only known him from his life prior to Jesus calling him or any such claim to near-fame, so back when he was just a random fisherman.
+  But we can't accept that the disciple known to Caiaphas "can't" be John simply because John is a fisherman, even if we grant that Caiaphas could only have known him from his life prior to Jesus calling him or any such claim to near-fame, so back when he was just a random fisherman.
 
   Because to accept that, we must accept that Caiaphas is the rare type of person who has no connections to any non-elite.
   
