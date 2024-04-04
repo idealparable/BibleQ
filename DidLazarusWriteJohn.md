@@ -1021,7 +1021,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   (And so forth.)
 
-  Those premises can be implied, or logically necessary, note. A common "cheat" by promoters of such fallacious views is to simply personally avoid drawing the conclusions that would logically follow from their arguments, and hope the rest of us do too.
+  Those "despite" premises can be implied, or logically necessary, note. A common "cheat" by promoters of such fallacious views is to simply personally avoid drawing the conclusions that would logically follow from their arguments, and hope the rest of us do too.
 
   We see this often for example when a less-than-reasonable evolutionist will complain about a creationist citing evolutionist sources (typically being up front that they're evolutionist, but that's not really relevant usually) to establish a premise, that they agree with or to do an internal consistency analysis.
   
