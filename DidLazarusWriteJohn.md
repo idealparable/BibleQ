@@ -477,7 +477,7 @@ I've seen people go way, way, way overboard with the idea that they're supposed 
 
 There are all kinds of ways to err, but going too far in avoiding the errors of that type is itself an error, and throwing all poetry under the bus is a fool's errand.
 
-You can see in many cases that even when Jesus is speaking to outsiders, he is drawing comparisons to help vividly teach an important lesson, such as here:
+You can see in many cases that even when Jesus is speaking to outsiders, which he did in parable as a general rule, he is drawing comparisons to help vividly teach an important lesson, such as here:
 
 Matthew 11:
 
