@@ -1137,7 +1137,11 @@ We don't seem to get upset if a crow shows evidence of intelligence, such as by 
 
 But if a human shows signs of intelligence, those who use that objection will cry foul.
 
-Most analyses aren't thorough! They're short articles I can read in five minutes! You should write a book! Which I won't read!
+"*Most* analyses aren't thorough! They're short articles I can read in five minutes! You should write a book! Which I won't read!
+
+"When the question is complex, we simply have no place in our culture for ever solving those puzzles! Not soundly, logically!
+
+"Just accept my fallacies! It's easier!
 
 "You're <u>not</u> con<u>form</u>ing to our <u>prob</u>lematic <u>cul</u>ture.<br>
 "So a<u>round</u> you I <u>see</u> a lot of <u>circ</u>ling <u>vul</u>ture."
