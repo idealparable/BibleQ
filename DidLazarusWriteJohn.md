@@ -1033,7 +1033,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   
   For example, the argument that since Jesus says and does only what the Father orders (which we would see as clear evidence he's the same being -- of what *different* beings can this be said? None that I know of, but they make the bad argument nonetheless), Jesus must, they claim, be a lesser entity than God, not the same Being, and not literally God.
 
-  Yet the very same people usually admit that the Holy Spirit *is* God, although they will deny his personhood, yet fail to do their research, evidently, to notice that the Bible also says this same thing of the Spirit (in [John 16:13-15](https://www.blueletterbible.org/lsb/jhn/16/13)).
+  Yet the very same people usually admit that the Holy Spirit *is* God, although they will deny his Personhood, yet fail to do their research, evidently, to notice that the Bible also says this same thing of the Spirit (in [John 16:13-15](https://www.blueletterbible.org/lsb/jhn/16/13)).
 
   When I've asked Unitarians about this point, who make the argument about Jesus, I've so far never even gotten an answer -- certainly not "I was aware of it, and such and such is why that one doesn't count" or anything like it.
   
