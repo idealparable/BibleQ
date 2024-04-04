@@ -920,21 +920,31 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   Example:
 
-  "Metal doesn't float,<br>
-  "So a metal boat,<br>
-  "Simply doesn't float."
+  "<u>Metal</u> doesn't <u>float</u>,<br>
+  "<u>So</u> a metal <u>boat</u>,<br>
+  "<u>Simply</u> doesn't <u>float</u>."
 
 - **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
 
   Example:
   
-  "The metal boat floats;<br>
-  "A piece of the boat,<br>
-  "Will totally float!"
+  "The <u>metal</u> boat <u>floats</u>;<br>
+  "A <u>piece</u> of the <u>boat</u>,<br>
+  "Will <u>tot</u>ally <u>float</u>!"
 
 - **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
+  
+  "I <u>saw</u> a metal <u>boat</u>.<br>
+  "Of <u>this I thus took <u>note</u>,<br>
+  "Though <u>it's</u> an anec<u>dote</u>,<br>
 
-  E.g. "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
+  "When you <u>read</u> about <u>boats</u>,<br>
+  "They are <u>metal</u> then, <u>totes</u>.<br>
+  "Or at <u>least</u> true for <u>most</u>.<br>
+
+  "When a <u>storm</u> Christ made <u>dust</u>,<br>
+  "On a <u>boat</u>, then, it <u>must</u>,<br>
+  "Be quite <u>prone</u> to some <u>rust</u>."
 
 - **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." **(Pattern in one or a few, to pattern in most of all.)**
 
