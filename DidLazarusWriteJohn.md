@@ -1150,9 +1150,11 @@ This is probably a rare reaction (let's not commit this error), but I see it oft
 
 Though I doubt most making the Lazarus argument would try it (hard to say), but I'm saying it more to be thorough on the topic of backwards statistics in general (as I might re-use this section later for a more general guide on logic).
 
-For example, one Unitarian made a long series of arguments for Unitarianism, and I went through each argument, and debunked them line by line.
+For example, one Unitarian made a long series of arguments for Unitarianism, and I went through each argument, and debunked them line by line, since the topic is important, and there could be some people who might care about the truth and would want to know.
 
-The first reaction (from a different Unitarian) was literally a complaint about how long the response was. And it was very concise on each point! Yet the Unitarian who made the original argument "oddly" didn't get this objection from the same person, of course.
+The first reaction (from a different Unitarian) was literally a complaint about how long the response was.
+
+And it was very concise on each point! Yet the Unitarian who made the original argument "oddly" didn't get this objection from the same person, of course.
 
 Then my points were summarily ignored, for the most part, with a few bad arguments thrown in.
 
