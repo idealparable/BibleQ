@@ -1081,7 +1081,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "If <u>wrong</u> are Glenn <u>Mor</u>ton,<br>
   "And the <u>N</u>CS<u>E</u>."
 
-Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely in their culture, especially hyperbole.
+Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely, especially hyperbole.
 
 For the lying, this is so at least if we take the biblical data seriously about how the typical leader of the group he seems to have been part of (so not including Nicodemus for example), in that they don't seem concerned primarily with truth but with which words will play best politically for them.
 
