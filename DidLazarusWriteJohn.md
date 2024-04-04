@@ -908,7 +908,7 @@ Some fishermen are not known to Caiaphas.
 
 Therefore no fishermen are known to Caiaphas.
 
-Note: If that doesn't look equivalent to a setup with "S" and "P," the standard approach for formal logic (which can help you learn how to mentally do this informally too) is to convert all sentences with verbs other than "is" to sentences with "is" and a modified noun or noun-phrase, no matter how awkward, that means the same thing.
+Note: If to you that doesn't look equivalent to a setup with "S" and "P," the standard approach for formal logic (which can help you learn how to mentally do this informally too) is to convert all sentences with verbs other than "is" to sentences with "is" and a modified noun or noun-phrase, no matter how awkward, that means the same thing.
 
 Here we would have:
 
