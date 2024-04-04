@@ -934,6 +934,18 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Hasty Generalization:** "One (or a few) cases prove a majority (or a universal)." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
 
+  It's true that when you first encounter of an example of something within a set, it's most likely that you have encountered a typical example.
+  
+  I think this sense is why people fall for this error, but this should motivate us not to lazily leap to conclusions based on it, but to be aware of, and plan for, the potential for it to be typical.
+
+  And then if it matters, motivate you to do research more widely, and find out if it really is.
+
+  And why; why is that feature or trait true in that case, or in however many cases it is, and how can you *actually* tell which cases it will be true of?
+
+  So learn to test for what really indicates a thing.
+
+  That lesson applies to all of these fallacies/errors, of course.
+
   Example of Hasty Generalization Fallacy: "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
   
   "I <u>saw</u> a metal <u>boat</u>.<br>
