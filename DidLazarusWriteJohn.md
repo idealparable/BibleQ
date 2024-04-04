@@ -880,7 +880,7 @@ My mnemonic: E excludes.
 
 (S excludes P.)
 
-A and E (all and none; mnemonic affirms and excludes) are "universal" types of premises. Keep that term in mind; this is key here to why we have a fallacy with the argument that John "can't" be the disciple known to Caiaphas.
+A and E (all and none; mnemonic affirms and excludes) are "universal" types of premises. Keep that term "universal" in mind; this is key here to why we have a fallacy with the argument that John "can't" be the disciple known to Caiaphas.
 
 3: Some S is P = I-Type.
 
