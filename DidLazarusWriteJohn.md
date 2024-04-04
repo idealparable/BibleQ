@@ -870,7 +870,9 @@ My mnemonic for this is that "A affirms."
 
 (S affirms P.)
 
-(The four vowels used to label the square don't come from English words, so might be a bit counterintuitive other than the "All" case.)
+The four vowels used to label the square don't come from English words, so might be a bit counterintuitive other than the "All" case, if not for the mnemonic.
+
+I have a whole mnemonic system building on this but it's off-topic here. I might post it later on this site, but I might also reserve it for my [edutainment](Cipher#fictional-language-systems-in-my-work-in-progess-edutainment-series) series where it's introduced more interestingly in-story.
 
 2: No S is P = E-Type.
 
