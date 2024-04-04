@@ -1139,7 +1139,7 @@ But if a human shows signs of intelligence, those who use that objection will cr
 
 Most analyses aren't thorough! They're short articles I can read in five minutes! You should write a book! Which I won't read!
 
-"You're <u>not</u> con<u>form</u>ing to our <u>prob</u>lematic <u>cul</u>ture.
+"You're <u>not</u> con<u>form</u>ing to our <u>prob</u>lematic <u>cul</u>ture.<br>
 "So a<u>round</u> you I <u>see</u> a lot of <u>circ</u>ling <u>vul</u>ture."
 
 This is probably a rare reaction (let's not commit this error), but I see it often enough that it might need said.
