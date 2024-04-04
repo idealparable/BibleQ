@@ -924,7 +924,7 @@ Therefore all "set of fisherman" (S) is "set of people not known to Caiaphas" (P
 
 (And then, since John is a fisherman, therefore John is not known to Caiaphas. Ignore the problem that DiLoved spent a whole night fishing in John 21.)
 
-Specifically it is a subtype of what I call "parts fallacy" -- the general category of fallacies that wrongly claim that what applies to a part of a whole applies to the whole, or vice versa. This subtype is which argues from a MOST to an ALL, or at least from a MOST to a LARGER MOST, without warrant.
+Specifically it's a subtype of what I call "parts fallacy" -- the general category of fallacies that wrongly claim that what applies to a part of a whole applies to the whole, or vice versa. This subtype argues from a MOST to an ALL, or at least from a MOST to a LARGER MOST, without warrant.
 
 Warrant could be if we had a statement where Caiaphas is on record saying, "I know no fishermen, and none of my servants know any either."
 
