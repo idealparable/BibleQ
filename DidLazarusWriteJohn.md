@@ -1131,6 +1131,29 @@ It would be almost fine if so many of us weren't so hand-wringey about whenever 
 
 We create our own problem.
 
+What's especially weird about it is it seems to ban humans from being human -- that is, with functioning brains.
+
+We don't seem to get upset if a crow shows evidence of intelligence, such as by using a tool.
+
+But if a human shows signs of intelligence, those who use that objection will cry foul.
+
+Most analyses aren't thorough! They're short articles I can read in five minutes! You should write a book! Which I won't read!
+
+"You're <u>NOT</u> con<u>FORM</u>ing to our <u>PROB</u>lematic <u>CUL</u>ture.
+"So a<u>ROUND</u> you I <u>SEE</u> a lot of <u>CIRC</u>ling <u>VUL</u>ture."
+
+This is probably a rare reaction (let's not commit this error), but I see it often enough that it might need said.
+
+Though I doubt most making the Lazarus argument would try it (hard to say), but I'm saying it more to be thorough on the topic of backwards statistics in general (as I might re-use this section later for a more general guide on logic).
+
+For example, one Unitarian made a long series of arguments for Unitarianism, and I went through each argument, since the comment system allowed it, and debunked them line by line.
+
+The first reaction (from a different Unitarian) was literally a complaint about how long the response was. And it was very concise on each point! Yet the Unitarian who made the original argument "oddly" didn't get this objection from the same person, of course.
+
+Then my points were summarily ignored, for the most part, with a few bad arguments thrown in.
+
+It's a shell game.
+
 And the topic might seem irrelevant at first, but I happened to have focused on more obviously relevant topics for a long time enough to know instantly some key ones it does touch on.
 
 In any case, I find that most likely, following what we could call the Columbo rule, most likely the way we'll answer questions *accurately* (as we should) is by a thorough investigation, and most likely, some things that might seem trivial will most likely turn out not to be, and the only way to be sure is to check.
