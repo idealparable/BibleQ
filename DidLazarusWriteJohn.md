@@ -946,7 +946,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   "When a <u>storm</u> Christ made <u>dust</u>,<br>
   "On a <u>boat</u>, then, it <u>must</u>,<br>
-  "Be quite <u>prone</u> to some <u>rust</u>."
+  "Be <u>quite</u> prone to <u>rust</u>."
 
 - **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." **(Pattern in one or a few, to pattern in most or all.)**
 
