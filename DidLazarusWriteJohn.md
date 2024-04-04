@@ -894,7 +894,7 @@ Mnemonic: O outlies.
 
 (S outlies P.)
 
-I and O are "particular" types of premises.
+I and O (some and some not; mnemonic includes and outlies) are "particular" types of premises.
 
 If we affirm a particular premise, typically it is taken as confirming the real existence of at least one member. ("Some S is P" implies at least one member of S does exist.) While "all S is P" (A-type; affirms) is not taken as implying any S actually exist.
 
