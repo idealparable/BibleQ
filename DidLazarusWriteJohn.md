@@ -914,14 +914,15 @@ Warrant could be if we had a statement where Caiaphas is on record saying, "I kn
 
 Here's the list of main examples I see a lot or otherwise are important main categories to understand the types of "parts fallacies:"
 
-- **Parts fallacy:** My term for both the fallacies of composition and division. (Arguing from particular to universal or from universal to particular, or any combination of those, including from particular to majority, minority to majority, majority to minority, etc.)
-- **Composition fallacy:** "Something true of a part is true of the whole." (Particular to universal. Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive (some, to all) or negative (some not, to none).)
+- **Parts fallacy:** My term for the whole category of both the fallacies of composition and division. (**Arguing from particular to universal or from universal to particular, or any combination** of those, **including from particular to majority, minority to majority, majority to minority, etc.**)
 
-- **Division fallacy:** "Something true of a whole is true of a part." (Universal to particular.)
+- **Composition fallacy:** "Something true of a part is true of the whole." **(Particular to universal.)** Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive **(some, to all)** or negative **(some not, to none)**.
 
-- **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* (One or a few, to most or all.) I call it **HastyGen** for short.
+- **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
 
-- **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." (Pattern in one or a few, to pattern in most of all.)
+- **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
+
+- **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." **(Pattern in one or a few, to pattern in most of all.)**
 
 - **Overgeneralization:** Whereas HastyGen argues from a potential minority (or very small minority) to a plurality (what approaches a majority) or a majority or universal, overgeneralization *might* argue from a *majority* (or a plurality) to a higher majority (such as a vast majority) or to a universal. **(More, to most or all.)**
 
