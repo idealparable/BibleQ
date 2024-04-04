@@ -1001,7 +1001,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Backwards Statistics Error** (**or Fallacy**, but it's my term so you won't find this on populist fallacy lists... currently... most likely... as of 2024...). This is when someone makes an argument, the truth of which is itself highly unlikely, because some aspect of the argument is rightly identifying something highly unlikely, so self-refuting overgeneralization.
 
-  That is, in order for their argument to be accepted as true, once we properly understand the situation, we must admit that the argument is false.
+  That is, in order for their argument to be accepted as true, once we properly understand the situation, we must admit that their argument is false.
 
   In this Caiaphas case, we can accept that it is indeed unlikely that Caiaphas knew the particular fisherman named John, in and of only his status as fisherman.
 
