@@ -918,7 +918,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Composition fallacy:** "Something true of a part is true of the whole." **(Particular to universal.)** Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive **(some, to all)** or negative **(some not, to none)**.
 
-  Example: "Metal doesn't float, so the metal boat doesn't float."
+  Example:
 
   "<u>Met</u>al doesn't <u>float</u>,<br>
   "<u>So</u> a metal <u>boat</u>,<br>
@@ -926,15 +926,13 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
 
-  Example: "The metal boat floats, so a piece of metal from the boat will float on its own too."
+  Example:
   
   "The <u>metal</u> boat <u>floats</u>;<br>
   "A <u>piece</u> of the <u>boat</u>,<br>
   "Will <u>tot</u>ally <u>float</u>!"
 
 - **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
-
-  E.g. "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
   
   "I <u>saw</u> a metal <u>boat</u>.<br>
   "Of <u>this</u> I thus took <u>note</u>,<br>
@@ -973,19 +971,6 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   The precise opposite is the case when it's the specific type of overgeneralization I'm talking about; they made an extremely weak argument, and it's best for the reply to make that initially very clear (politely if you can manage that).
 
   Example: "Ancients usually didn't float babies down rivers in small flotation devices, so the Moses adoption story by the Egyptian princess is probably false. More likely his mother camouflaged a bigger boat, or the story's totally made up."
-
-  Must I really try to make a poem for that? I started above because I noticed the first example I gave almost rhymed with almost matching meter.
-
-  Well I <u>think</u> less than <u>half</u> of you could <u>think</u> that I <u>should</u>,<br>
-  And I <u>like</u> less than <u>half</u> of you as <u>much</u> as you <u>would</u>.
-
-  "I <u>not</u>iced a <u>lot</u>,<br>
-  "Of <u>float</u>ing is <u>not</u>,<br>
-  "Of <u>wood</u> which does <u>rot</u>;<br>
-  "A <u>prob/u>lem< I <u>thought</u>,<br>
-  "'Bout <u>Mo</u>ses the <u>tot</u>.
-
-  There.
 
 - **Backwards Statistics Error** (**or Fallacy**, but it's my term so you won't find this on populist fallacy lists... currently... most likely... as of 2024...). This is when someone makes an argument, the truth of which is itself highly unlikely, because some aspect of the argument is rightly identifying something highly unlikely, so self-refuting overgeneralization.
 
