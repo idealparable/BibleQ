@@ -1109,7 +1109,7 @@ Looking a little less astronomically unlikely now that he might just know a fish
 
 Now it still *is* unlikely -- let's not commit Backwards Statistics ourselves. But not at all impossible.
 
-If we get a statement, we can ignore the above problems, and just say that most likely Caiaphas indeed didn't know a fisherman from Galilee, but we still have the two other unlikelihoods to deal with:
+If we get a statement, we can ignore the above problems, but we still have the two other unlikelihoods to deal with:
 
 First, it's unlikely he is always honest.
 
