@@ -918,7 +918,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Composition fallacy:** "Something true of a part is true of the whole." **(Particular to universal.)** Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive **(some, to all)** or negative **(some not, to none)**.
 
-  Example: "Metal doesn't float, so the metal boat doesn't float."
+  Example of Composition Fallacy: "Metal doesn't float, so the metal boat doesn't float."
 
   "<u>Met</u>al doesn't <u>float</u>,<br>
   "<u>So</u> a metal <u>boat</u>,<br>
@@ -926,7 +926,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
 
-  Example: "The metal boat floats, so a piece of metal from the boat will float on its own too."
+  Example of Division Fallacy: "The metal boat floats, so a piece of metal from the boat will float on its own too."
   
   "The <u>met</u>al boat <u>floats</u>;<br>
   "A <u>piece</u> of the <u>boat</u>,<br>
@@ -934,7 +934,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
 
-  E.g. "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
+  Example of Hasty Generalization Fallacy: "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
   
   "I <u>saw</u> a metal <u>boat</u>.<br>
   "Of <u>this</u> I thus took <u>note</u>,<br>
@@ -948,9 +948,9 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "On a <u>boat</u>, then, it <u>must</u>,<br>
   "Be quite <u>prone</u> to some <u>rust</u>."
 
-- **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." **(Pattern in one or a few, to pattern in most of all.)**
+- **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." **(Pattern in one or a few, to pattern in most or all.)**
 
-  "I've noticed metal boats tend to be used for work purposes like commercial fishing or shipping of goods. Probably this pattern extends back through all history, so the boat Peter wanted to go fishing on in John 21? Totes metal."
+  Example of Overconfident Extrapolation Fallacy: "I've noticed metal boats tend to be used for work purposes like commercial fishing or shipping of goods. Probably this pattern extends back through all history, so the boat Peter wanted to go fishing on in John 21? Totes metal."
 
    "I have <u>not</u>iced a <u>patt</u>ern,<br>
    "So my <u>doubts</u> have been <u>scatt</u>erned,<br>
@@ -972,7 +972,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   The precise opposite is the case when it's the specific type of overgeneralization I'm talking about; they made an extremely weak argument, and it's best for the reply to make that initially very clear (politely if you can manage that).
 
-  Example: "Ancients usually didn't float babies down rivers in small flotation devices, so the Moses adoption story by the Egyptian princess is probably false. More likely his mother camouflaged a bigger boat, or the story's totally made up."
+  Example of Overgeneralization Fallacy: "Ancients usually didn't float babies down rivers in small flotation devices, so the Moses adoption story by the Egyptian princess is probably false. More likely his mother camouflaged a bigger boat, or the story's totally made up."
 
   Must I really try to make a poem for that? I started above because I noticed the first example I gave almost rhymed with almost matching meter.
 
@@ -1043,11 +1043,33 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   But since they didn't think it through before declaring the argument, this doesn't seem to matter to them. It should.
 
-  Example: "It's highly likely that large wooden boats eventually break apart. We have many historical cases. They twist and turn in the waves and this puts too much stress on their hull structural integrity. This is why we make metal boats.
+  Example of Backwards Statistics Error (or Fallacy): "It's highly likely that large wooden boats eventually break apart. We have many historical cases. They twist and turn in the waves and this puts too much stress on their hull structural integrity. This is why we make metal boats.
 
   "Therefore, Noah's ark could not have survived a year.
 
   "What? All known, well-made giant wooden boats survived much more than a year? Um... well, Noah's Ark was the one unlucky one that definitely... you know, fell apart in under a year. Cuz reasons."
+
+  (That's a real example. I've had people make that bad argument to me personally. John Woodmorappe notes it in his landmark book *Noah's Ark, A Feasibility Study" too.)
+
+  "Most <u>boats</u> of <u>wood</u>
+  "Sink <u>fast</u>er than <u>met</u>al,
+  "So <u>Noah</u>'s Ark <u>would</u>
+  "Sink <u>like</u> a bike <u>pedal</u>.
+
+  "How <u>long</u> is <u>long</u>?
+  "You <u>ask</u> if I'm <u>wrong</u>?
+  "Don't <u>know</u> but I'd <u>guess</u>,
+  "Five <u>months</u>, days, or <u>less</u>.
+
+  "What <u>did</u> you just <u>say</u>?
+  "It's <u>more</u> than a <u>day</u>?
+  "They <u>last</u> for five <u>YEARS</u>!?
+  "But the <u><i>Flood's</i><u> just a <u>year</u>!
+
+  "Well <u>maybe</u> from <u>now</u> on,
+  "I'll <u>first</u> try and <u>see</u>,
+  "If <u>wrong</u> are Glenn <u>Mor</u>ton,
+  "And the <u>N</u>CS<u>E</u>."
 
 Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely in their culture, especially hyperbole.
 
