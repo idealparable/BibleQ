@@ -1089,7 +1089,7 @@ In other words, we would expect that most likely he's a lying politician.
 
 In any event, as far as we know, we have no such statement by Caiaphas. We need one to remove the unlikeliness that Caiaphas doesn't know any fishermen.
 
-So we have three unlikelihoods being swept under the rug to argue based on the admittely legitimate unlikelihood that Caiaphas knows a particular fisherman named John.
+So we have three unlikelihoods being swept under the rug to argue based on the admittedly legitimate unlikelihood that Caiaphas knows a particular fisherman named John.
 
 Two of them are in an opposite category based on whether we have a statement to the effect of the first.
 
