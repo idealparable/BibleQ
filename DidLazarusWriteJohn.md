@@ -982,7 +982,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "I <u>not</u>iced a <u>lot</u>,<br>
   "Of <u>float</u>ing is <u>not</u>,<br>
   "Of <u>wood</u> which does <u>rot</u>;<br>
-  "A <u>prob/u>lem< I <u>thought</u>,<br>
+  "A <u>prob</u>lem I <u>thought</u>,<br>
   "'Bout <u>Mo</u>ses the <u>tot</u>.
 
   There.
