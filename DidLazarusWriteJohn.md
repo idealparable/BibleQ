@@ -1061,24 +1061,24 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   (That's a real example. I've had people make that bad argument to me personally. John Woodmorappe notes it in his landmark book *Noah's Ark, A Feasibility Study" too.)
 
-  "Most <u>boats</u> of <u>wood</u>
-  "Sink <u>fast</u>er than <u>met</u>al,
-  "So <u>Noah</u>'s Ark <u>would</u>
-  "Sink <u>like</u> a bike <u>pedal</u>.
+  "Most <u>boats</u> of <u>wood</u>,<br>
+  "Sink <u>fast</u>er than <u>met</u>al,<br>
+  "So <u>Noah</u>'s Ark <u>would</u>,<br>
+  "Sink <u>like</u> a bike <u>pedal</u>.<br>
 
-  "How <u>long</u> is <u>long</u>?
-  "You <u>ask</u> if I'm <u>wrong</u>?
-  "Don't <u>know</u> but I'd <u>guess</u>,
-  "Five <u>months</u>, days, or <u>less</u>.
+  "How <u>long</u> is <u>long</u>?<br>
+  "You <u>ask</u> if I'm <u>wrong</u>?<br>
+  "Don't <u>know</u> but I'd <u>guess</u>,<br>
+  "Five <u>months</u>, days, or <u>less</u>.<br>
 
-  "What <u>did</u> you just <u>say</u>?
-  "It's <u>more</u> than a <u>day</u>?
-  "They <u>last</u> for five <u>YEARS</u>!?
-  "But the <u><i>Flood's</i><u> just a <u>year</u>!
+  "What <u>did</u> you just <u>say</u>?<br>
+  "It's <u>more</u> than a <u>day</u>?<br>
+  "They <u>last</u> for five <u>YEARS</u>!?<br>
+  "But the <u><i>Flood's</i><u> just a <u>year</u>!<br>
 
-  "Well <u>maybe</u> from <u>now</u> on,
-  "I'll <u>first</u> try and <u>see</u>,
-  "If <u>wrong</u> are Glenn <u>Mor</u>ton,
+  "Well <u>maybe</u> from <u>now</u> on,<br>
+  "I'll <u>first</u> try and <u>see</u>,<br>
+  "If <u>wrong</u> are Glenn <u>Mor</u>ton,<br>
   "And the <u>N</u>CS<u>E</u>."
 
 Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely in their culture, especially hyperbole.
