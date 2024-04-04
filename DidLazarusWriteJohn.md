@@ -1059,7 +1059,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   "What? All known, well-made giant wooden boats survived much more than a year? Um... well, Noah's Ark was the one unlucky one that definitely... you know, fell apart in under a year. Cuz reasons."
 
-  (That's a real example. I've had people make that bad argument to me personally. John Woodmorappe notes it in his landmark book *Noah's Ark, A Feasibility Study" too.)
+  (That's a real example. I've had people make that bad argument to me personally. John Woodmorappe notes it in his landmark book *Noah's Ark: A Feasibility Study" too.)
 
   "Most <u>boats</u> of <u>wood</u>,<br>
   "Sink <u>fast</u>er than <u>met</u>al,<br>
