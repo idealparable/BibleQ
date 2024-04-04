@@ -1003,7 +1003,7 @@ We create our own problem.
 
 And the topic might seem irrelevant at first, but I happened to have focused on more obviously relevant topics for a long time enough to know instantly some key ones it does touch on (mentioned briefly in intro; I'll explain later below).
 
-In any case, I find that most likely, following what we could call the Columbo rule, most likely the way we'll answer questions is by a thorough investigation, and most likely, some things that might seem trivial will most likely turn out not to be, and the only way to be sure is to check.
+In any case, I find that most likely, following what we could call the Columbo rule, most likely the way we'll answer questions *accurately* (as we should) is by a thorough investigation, and most likely, some things that might seem trivial will most likely turn out not to be, and the only way to be sure is to check.
 
 Now, I could at least accept that Caiaphas probably remembers clearly whether he knows of any fishermen though, such that he would personally approve them entering the gate. (He might forget having met any, but that's irrelevant.)
 
