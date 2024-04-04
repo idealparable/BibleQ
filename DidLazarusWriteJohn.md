@@ -1076,7 +1076,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "They <u>last</u> for five <u>YEARS</u>!?<br>
   "But the <u><i>Flood's</i></u> just a <u>year</u>!<br>
 
-  "Well <u>maybe</u> from <u>now</u> on,<br>
+  "Well <u>may</u>be from <u>now</u> on,<br>
   "I'll <u>first</u> try and <u>see</u>,<br>
   "If <u>wrong</u> are Glenn <u>Mor</u>ton,<br>
   "And the <u>N</u>CS<u>E</u>."
