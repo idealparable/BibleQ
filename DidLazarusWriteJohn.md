@@ -923,7 +923,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." (Pattern in one or a few, to pattern in most of all.)
 
-- **Overgeneralization:** Whereas HastyGen argues from a potential minority to a majority or universal, overgeneralization argues from a majority to a higher majority (such as a vast majority) or to a universal. (More, to most or all.)
+- **Overgeneralization:** Whereas HastyGen argues from a potential minority (or very small minority) to a plurality (what approaches a majority) or a majority or universal, overgeneralization *might* argue from a *majority* (or a plurality) to a higher majority (such as a vast majority) or to a universal. **(More, to most or all.)**
 
   This one is essentially Backwards Statistics, but Backwards Statistics has a slightly different emphasis that's more relevant to why overgeneralization is wrong and shows that the specific type of use of it is actually self-refuting.
   
