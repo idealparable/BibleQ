@@ -1172,6 +1172,16 @@ Now, I could at least accept that Caiaphas probably remembers clearly whether he
 
 Although it would also be unlikely he was even personally consulted for that, since he might have been a bit busy at the time, depending on where he was when the arresting group arrived with Jesus related to where Unnamed Disciple was.
 
+There are other fallacies that could be listed here (especially confirmation fallacy), but since I'm *not* trying to write a book, let's move on with just one more caution: that I haven't done a whole-book line by line of the entire gospel of John yet to test this.
+
+Eventually I might, since authorship and authorial avoidance of John is an important premise to some of my reasoning.
+
+And as said at the start, I'm not assuming I'm right, despite how strongly-worded some of my points may appear.
+
+It could easily be that many people know some arguments I haven't been able to find, and that perhaps some of them would overturn all of this.
+
+The goal here is more to report what I already know and to do some of the groundwork in some of the more obviously relevant areas like John 21, or John 1, or the first use of DiLoved, as an initial default answer (not assuming it).
+
 
 ## Fishy
 
