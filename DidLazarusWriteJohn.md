@@ -928,7 +928,9 @@ Specifically it's a subtype of what I call "parts fallacy" -- the general catego
 
 Warrant could be if we had a statement where Caiaphas is on record saying, "I know no fishermen, and none of my servants know any either."
 
-(Of course, that also doesn't disprove John, since we don't actually agree that it doesn't mean that Caiaphas, or she who governs the door, or anybody else knows John is a disciple of Jesus, so had interest to be let in for Jesus' trial. Plus Caiaphas could be lying, or using hyperbole, but it would at least be evidence pushing against John.)
+Of course, that also doesn't disprove John, since we don't actually agree that it doesn't mean that Caiaphas, or she who governs the door, or anybody else knows John is a disciple of Jesus, so had interest to be let in for Jesus' trial. Caiaphas could know John while having no clue he was a fisherman, or suspecting it but having had no interest in verifying it.
+
+Plus Caiaphas could be lying, or using hyperbole, but it would at least be evidence pushing against John.
 
 Here's the list of main examples I see a lot or otherwise are important main categories to understand the types of "parts fallacies:"
 
