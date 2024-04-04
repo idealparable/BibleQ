@@ -928,7 +928,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   Example: "The metal boat floats, so a piece of metal from the boat will float on its own too."
   
-  "The <u>metal</u> boat <u>floats</u>;<br>
+  "The <u>met</u>al boat <u>floats</u>;<br>
   "A <u>piece</u> of the <u>boat</u>,<br>
   "Will <u>tot</u>ally <u>float</u>!"
 
