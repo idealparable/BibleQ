@@ -918,11 +918,19 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 - **Composition fallacy:** "Something true of a part is true of the whole." **(Particular to universal.)** Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive **(some, to all)** or negative **(some not, to none)**.
 
+  Example: "Metal doesn't float, so the metal boat doesn't float."
+
 - **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
+
+  Example: "The metal boat floats, so a piece of metal from the boat will float on its own too."
 
 - **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
 
+  E.g. "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
+
 - **Overconfident Extrapolation:** "A pattern found in most cases with limited data, will (or will most likely) apply to other cases." **(Pattern in one or a few, to pattern in most of all.)**
+
+  "I've noticed metal boats tend to be used for work purposes like commercial fishing or shipping of goods. Probably this pattern extends back through all history, so the boat Peter wanted to go fishing on in John 21? Totes metal."
 
 - **Overgeneralization:** Whereas HastyGen argues from a potential minority (or very small minority) to a plurality (what approaches a majority) or a majority or universal, overgeneralization *might* argue from a *majority* (or a plurality) to a higher majority (such as a vast majority) or to a universal. **(More, to most or all.)**
 
@@ -933,6 +941,8 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   The reason I like to have a specific term for the self-refuting type of overgeneralization is that if you just reply to the use of the self-refuting type with "that's an overgeneralization," people will emotionally (often) assume it's a weak response to a strong argument they made, while acknowledging that their argument isn't absolutely proven.
 
   The precise opposite is the case when it's the specific type of overgeneralization I'm talking about; they made an extremely weak argument, and it's best for the reply to make that initially very clear (politely if you can manage that).
+
+  Example: "Ancients usually didn't float babies down rivers in small flotation devices, so the Moses adoption story by the Egyptian princess is probably false. More likely his mother camouflaged a bigger boat, or the story's totally made up."
 
 - **Backwards Statistics Error** (**or Fallacy**, but it's my term so you won't find this on populist fallacy lists... currently... most likely... as of 2024...). This is when someone makes an argument, the truth of which is itself highly unlikely, because some aspect of the argument is rightly identifying something highly unlikely, so self-refuting overgeneralization.
 
@@ -989,6 +999,12 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   Makes no sense.
 
   But since they didn't think it through before declaring the argument, this doesn't seem to matter to them. It should.
+
+  Example: "It's highly likely that large wooden boats eventually break apart. We have many historical cases. They twist and turn in the waves and this puts too much stress on their hull structural integrity. This is why we make metal boats.
+
+  "Therefore, Noah's ark could not have survived a year.
+
+  "What? All known, well-made giant wooden boats survived much more than a year? Um... well, Noah's Ark was the one unlucky one that definitely... you know, fell apart in under a year. Cuz reasons."
 
 Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely in their culture, especially hyperbole.
 
