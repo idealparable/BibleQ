@@ -1083,7 +1083,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
 Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, would both default expectations highly likely, especially hyperbole.
 
-For the lying, this is so at least if we take the biblical data seriously about how the typical leader of the group he seems to have been part of (so not including Nicodemus for example), in that they don't seem concerned primarily with truth but with which words will play best politically for them.
+For the lying, this is so at least if we take the biblical data seriously about how the typical leader of the group he seems to have been part of (so not including Nicodemus for example) usually behaved, in that they don't seem concerned primarily with truth but with which words will play best politically for them.
 
 In other words, we would expect that most likely he's a lying politician.
 
