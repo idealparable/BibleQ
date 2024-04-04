@@ -1064,7 +1064,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "Most <u>boats</u> of <u>wood</u>,<br>
   "Sink <u>fast</u>er than <u>met</u>al,<br>
   "So <u>Noah</u>'s Ark <u>would</u>,<br>
-  "Sink <u>like</u> a bike <u>pedal</u>.<br>
+  "Sink <u>like</u> a bike <u>ped</u>al.<br>
 
   "How <u>long</u> is <u>long</u>?<br>
   "You <u>ask</u> if I'm <u>wrong</u>?<br>
