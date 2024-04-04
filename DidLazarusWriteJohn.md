@@ -971,7 +971,9 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   Yet the very same people usually admit that the Holy Spirit *is* God, although they will deny his personhood, yet fail to do their research, evidently, to notice that the Bible also says this same thing of the Spirit (in [John 16:13-15](https://www.blueletterbible.org/lsb/jhn/16/13)).
 
-  When I've confronted Unitarians with this point, who make the argument about Jesus, I've so far never even gotten an answer -- certainly not "I was aware of it, and such and such is why that one doesn't count" or anything like it.
+  When I've asked Unitarians about this point, who make the argument about Jesus, I've so far never even gotten an answer -- certainly not "I was aware of it, and such and such is why that one doesn't count" or anything like it.
+  
+  They just mysteriously ignore the point, or mysteriously disappear from the conversations at that point.
 
   To be clear, a variant on such an argument could perhaps be made logically if we find evidence that the phrasing means one thing in one case, and another in another, but that's not how the ones I see using the argument are presenting it.
   
@@ -980,6 +982,12 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   This is an implied likelihood argument, that you shouldn't need to think more about it to see that most likely it means Jesus is a lesser entity, a different entity, and thus not literally God (they do admit he's called God and they're correct that the term can mean authority; this is why God is named that; he's the ultimate authority, though they misuse this argument too in ways beyond the scope of this article).
 
   So by the same token, I must accept then that I should ignore the likelihood when it comes to the Spirit.
+
+  I'll add too that some of their other premises require that this requires that Jesus has his own Personhood, because they say it makes him a separate person, yet with the Spirit they're also denying his Personhood.
+
+  Makes no sense.
+
+  But since they didn't think it through before declaring the argument, this doesn't seem to matter to them. It should.
 
 Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely in their culture, especially hyperbole.
 
