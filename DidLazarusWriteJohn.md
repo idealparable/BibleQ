@@ -922,7 +922,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   "<u>Met</u>al doesn't <u>float</u>,<br>
   "<u>So</u> a metal <u>boat</u>,<br>
-  "<u>Simply</u> doesn't <u>float</u>."
+  "<u>Simp</u>ly doesn't <u>float</u>."
 
 - **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
 
