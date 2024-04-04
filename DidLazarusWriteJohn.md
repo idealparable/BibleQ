@@ -1003,8 +1003,6 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   That is, in order for their argument to be accepted as true, once we properly understand the situation, we must admit that the argument is false.
 
-  Namely, the premise that the argument requires, that we should not treat as the default, most-likely true view, something which goes against the statistical norm.
-
   In this Caiaphas case, we can accept that it is indeed unlikely that Caiaphas knew the particular fisherman named John, in and of only his status as fisherman.
 
   But we can't accept that the disciple known to Caiaphas "can't" be John simply because John is a fisherman, even if we grant that Caiaphas could only known him from his life prior to Jesus calling him or any such claim to near-fame, so back when he was just a random fisherman.
