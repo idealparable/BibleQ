@@ -984,7 +984,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   The precise opposite is the case when it's the specific type of overgeneralization I'm talking about; they made an extremely weak argument, and it's best for the reply to make that initially very clear (politely if you can manage that).
 
-  Example of Overgeneralization Fallacy: "Ancients usually didn't float babies down rivers in small flotation devices, so the Moses adoption story by the Egyptian princess is probably false. More likely his mother camouflaged a bigger boat, or the story's totally made up."
+  Example of Overgeneralization Fallacy: "Ancients usually didn't float babies down rivers in small wooden baskets, so the Moses adoption story by the Egyptian princess is probably false. They would have used a metal box. Way easier to waterproof."
 
   Must I really try to make a poem for that? I started above because I noticed the first example I gave almost rhymed with almost matching meter.
 
