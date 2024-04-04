@@ -941,7 +941,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "Though <u>it's</u> an anec<u>dote</u>,<br>
 
   "When you <u>read</u> about <u>boats</u>,<br>
-  "They are <u>metal</u> then, <u>totes</u>.<br>
+  "They are <u>met</u>al then, <u>totes</u>.<br>
   "Or at <u>least</u> true for <u>most</u>.<br>
 
   "When a <u>storm</u> Christ made <u>dust</u>,<br>
