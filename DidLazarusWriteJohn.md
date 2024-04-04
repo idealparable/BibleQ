@@ -950,6 +950,28 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "A <u>piece</u> of the <u>boat</u>,<br>
   "Will <u>tot</u>ally <u>float</u>!"
 
+  NOTE: It's important to understand the difference between referring to all members of a set (and therefore any one member), versus referring to the set itself.
+
+  When I earlier converted the argument about Caiaphas to the version that let me use "is" and clearly label S and P in the Caiaphas argument, I was only ever referring to *members* of the set, despite the "*weird*" wording in English of "set of". That's a form of logic shorthand for referring to the members.
+
+  An example that might help clarify it is:
+
+  All water is wet.
+
+  Therefore this water is wet.
+
+  This is valid. You can argue from something that is true of all *members* of a set to it being true of *one* member of the set.
+
+  (As long as it's *true* that it applies to literally all members. Of course, for brevity, I didn't specify that I mean only liquid water etc. etc.)
+
+  But Division Fallacy would take something true of the set itself, and wrongly apply it to the members, such as:
+
+  All water puts out fire.
+
+  Oxygen is part of water.
+
+  Therefore all oxygen puts out fire.
+
 - **Hasty Generalization:** "One (or a few) cases prove a majority (or a universal)." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
 
   It's true that when you first encounter of an example of something within a set, it's most likely that you have encountered a typical example.
