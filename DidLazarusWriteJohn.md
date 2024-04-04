@@ -1047,7 +1047,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   So by the same token, I must accept then that I should ignore the likelihood when it comes to the Spirit.
 
-  I'll add too that some of their other premises require that this requires that Jesus has his own Personhood, because they say it makes him a separate person, yet with the Spirit they're also denying his Personhood.
+  I'll add too that some of their other premises require that Jesus has his own Personhood, because they say it makes him a separate being, and that "person" always equals "being," yet with the Spirit they're also denying his Personhood.
 
   Makes no sense.
 
