@@ -950,6 +950,16 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   "I've noticed metal boats tend to be used for work purposes like commercial fishing or shipping of goods. Probably this pattern extends back through all history, so the boat Peter wanted to go fishing on in John 21? Totes metal."
 
+   "I have <u>not</u>iced a <u>patt</u>ern,<br>
+   "So my <u>doubts</u> have been <u>scatt</u>erned,<br>
+   "For shipping <u>goods</u> or for <u>fish</u>ing,<br>
+   "For metal <u>boats</u> you'd be <u>wish</u>ing.
+
+   "Twenty-oneth <u>chap</u>ter of <u>John</u>,<br>
+   "When Peter a <u>boat</u> he went <u>on</u>,<br>
+   "It <u>prob</u>'ly wasn't <u>plast</u>ic,<br>
+   "Or <u>wood</u> or e<u>last</u>ic."
+
 - **Overgeneralization:** Whereas HastyGen argues from a potential minority (or very small minority) to a plurality (what approaches a majority) or a majority or universal, overgeneralization *might* argue from a *majority* (or a plurality) to a higher majority (such as a vast majority) or to a universal. **(More, to most or all.)**
 
   This one is essentially Backwards Statistics, but Backwards Statistics has a slightly different emphasis that's more relevant to why overgeneralization is wrong and shows that the specific type of use of it is actually self-refuting.
