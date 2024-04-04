@@ -908,6 +908,20 @@ Some fishermen are not known to Caiaphas.
 
 Therefore no fishermen are known to Caiaphas.
 
+Note: If that doesn't look equivalent to a setup with "S" and "P," the standard approach for formal logic (which can help you learn how to mentally do this informally too) is to convert all sentences with verbs other than "is" to sentences with "is" and a modified noun or noun-phrase, no matter how awkward, that means the same thing.
+
+Here we would have:
+
+Some fishermen are people not known to Caiaphas.
+
+Therefore no fishermen are people not known to Caiaphas.
+
+Or if you want to turn the plural to singular so we can turn "are" to "is":
+
+Some "set of fishermen" (S) is "set of people not known to Caiaphas" (P).
+
+Therefore all "set of fisherman" (S) is "set of people not known to Caiaphas" (P).
+
 (And then, since John is a fisherman, therefore John is not known to Caiaphas. Ignore the problem that DiLoved spent a whole night fishing in John 21.)
 
 Specifically it is a subtype of what I call "parts fallacy" -- the general category of fallacies that wrongly claim that what applies to a part of a whole applies to the whole, or vice versa. This subtype is which argues from a MOST to an ALL, or at least from a MOST to a LARGER MOST, without warrant.
