@@ -920,7 +920,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   Example:
 
-  "<u>Metal</u> doesn't <u>float</u>,<br>
+  "<u>Met</u>al doesn't <u>float</u>,<br>
   "<u>So</u> a metal <u>boat</u>,<br>
   "<u>Simply</u> doesn't <u>float</u>."
 
