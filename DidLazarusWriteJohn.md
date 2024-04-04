@@ -1275,7 +1275,7 @@ This may imply that while Nathanael might have known John Zebson, he didn't know
 
 ### Nathanael = Bartholomew?
 
-Now since scholars think Bartholomew = Nathanael, let's look at some evidence for that:
+Now since scholars think Bartholomew = Nathanael, let's see how at least the basic evidence lines up.
 
 Matthew 9:
 
@@ -1361,7 +1361,9 @@ James the son of Alphaeus; Lebbaeus, who was also called† Thaddaeus;
 
 4 Simon the Zealot; and Judas Iscariot, who also betrayed him./
 
-If you start from the end of the lists, the pairings are the same, until we get to Andrew -- and Philip and Bartholomew are listed together again. Thomas and Matthew's order within the pairing is flipped, and same with James and John, but other pairings aren't flipped. This makes it look like both are related to the pairing in the sendout in Matthew 10, with the Matthew 10 list being the actual pairs sent, and Mark's list being just a general order of the disciples that preserves some of that, but it makes sense he isn't necessarily implying the pairings here intentionally, he's just preserving a memory from Peter that these were often paired together, after first preserving the memory of the top three.
+If you start from the end of the lists, the pairings are the same, until we get to Andrew -- and Philip and Bartholomew are listed together again. Thomas and Matthew's order within the pairing is flipped, and same with James and John, but other pairings aren't flipped.
+
+This makes it look like both are related to the pairing in the sendout in Matthew 10, with the Matthew 10 list being the actual pairs sent, and Mark's list being just a general order of the disciples that preserves some of that, but it makes sense he isn't necessarily implying the pairings here intentionally, he's just preserving a memory from Peter that these were often paired together, after first preserving the memory of the top three.
 
 So once again, Philip looks like a likely candidate to be in the John 21 boat.
 
@@ -1672,6 +1674,7 @@ That said, it would make sense here as Lazarus too, since associating Lazarus wi
 /24 This is the disciple who testifies about these things, and wrote these things. We know that his witness is true. 25 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written./
 
 More about the "we know" part in a bit. But notice the first-person in "I suppose" and the phrasing of the first sentence (here) in verse 24.
+
 
 ## Who Wrote John?
 
