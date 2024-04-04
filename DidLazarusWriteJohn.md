@@ -473,7 +473,7 @@ There is nothing hidden in Jesus' parables but that it should come to light.
 
 He clearly *expects* you to be able to follow the rules to deduce what he meant, at least in general (do keep in mind nonliterall means not necessarily literally all poetic devices in the Bible will become crystal clear in this life, such as some in Revelation).
 
-I've seen people go way, way, way overboard with the idea that they're supposed to understand, to be fair. You know the types if you read online internet comments to long. But they get their crazy ideas because they aren't reading the whole thing in context, they make a claim, rather than TEST the hypothesis to see if it's really true. They just run with it, full of arrogance.
+I've seen people go way, way, way overboard with the idea that they're supposed to understand, to be fair. You know the types if you read online internet comments too long. But they get their crazy ideas because they aren't reading the whole thing in context, they make a claim, rather than TEST the hypothesis to see if it's really true. They just run with it, full of arrogance.
 
 There's all kinds of ways to err, but going too far in avoiding the errors of that type is itself an error, and throwing all poetry under the bus is a fool's errand.
 
