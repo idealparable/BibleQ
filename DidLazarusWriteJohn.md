@@ -938,7 +938,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   
   "I <u>saw</u> a metal <u>boat</u>.<br>
   "Of <u>this</u> I thus took <u>note</u>,<br>
-  "Though <u>it's</u> an anec<u>dote</u>,<br>
+  "Though <u>it's</u> an anec<u>dote</u>:<br>
 
   "When you <u>read</u> about <u>boats</u>,<br>
   "They are <u>met</u>al then, <u>totes</u>.<br>
