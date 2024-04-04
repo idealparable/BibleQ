@@ -919,14 +919,18 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 - **Composition fallacy:** "Something true of a part is true of the whole." **(Particular to universal.)** Backwards Statistics would be a subtype of this, as are the others below other than Division. This can include positive **(some, to all)** or negative **(some not, to none)**.
 
   Example:
-  
+
   "Metal doesn't float,<br>
   "So a metal boat,<br>
   "Simply doesn't float."
 
 - **Division fallacy:** "Something true of a whole is true of a part." **(Universal to particular.)**
 
-  Example: "The metal boat floats, so a piece of metal from the boat will float on its own too."
+  Example:
+  
+  "The metal boat floats;<br>
+  "A piece of the boat,<br>
+  "Will totally float!"
 
 - **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
 
