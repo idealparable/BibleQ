@@ -1113,7 +1113,7 @@ If we get a statement, we can ignore the above problems, but we still have the t
 
 First, it's unlikely he is always honest.
 
-We would be accepting that most likely the statement is honest in his case (depending on other evidence), but only because it was already unlikely that the high priest knows a fisherman of Galilee, which we accepted from the start.
+We would be accepting that most likely the statement is honest in this case (depending on other evidence), but only because it was already unlikely that the high priest knows a fisherman of Galilee, which we accepted from the start.
 
 Second, that even if it's honest, it isn't essentially hyperbole.
 
