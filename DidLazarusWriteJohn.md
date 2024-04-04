@@ -455,7 +455,7 @@ Beareth all things, believeth all things, hopeth all things, endureth all things
 
 ### Poetry Justifies No Such Thing
 
-One last point on that topic. A common modern objection to the idea that the Bible contains poetry (especially if it dares show its face in historical narrative, especially for we biblical creationists) is that poetry is intended to be unclear and opens it up to personal interpretation.
+One last point on non-literal all. A common modern objection to the idea that the Bible contains poetry (especially if it dares show its face in historical narrative, especially for we biblical creationists) is that poetry is intended to be unclear and opens it up to personal interpretation.
 
 The precise opposite is generally the case of Hebrew poetry, and the rules of Hebrew poetry are a way to often be as clear as, in some cases even more clear than, literal speech. It just depends on the situation.
 
