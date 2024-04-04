@@ -900,7 +900,7 @@ If we affirm a "particular" type of premise about a set (or "class"), typically 
 
 While "all S is P" (A-type; affirms) isn't taken as implying any S actually exist, but that if any did, P would apply.
 
-Our fallacy is arguing wrongly from O (Some S is not P) to E (No S is P.)
+Our fallacy is arguing wrongly from O (Some S is not P) to, or toward, E (No S is P.)
 
 That is:
 
