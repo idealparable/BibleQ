@@ -934,7 +934,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   The precise opposite is the case when it's the specific type of overgeneralization I'm talking about; they made an extremely weak argument, and it's best for the reply to make that initially very clear (politely if you can manage that).
 
-- **Backwards Statistics Error** (or Fallacy, but it's my term so you won't find this on populist fallacy lists... currently... most likely... as of 2024...). This is when someone makes an argument, the truth of which is itself highly unlikely, because some aspect of the argument is rightly identifying something highly unlikely, so self-refuting overgeneralization.
+- **Backwards Statistics Error** (**or Fallacy**, but it's my term so you won't find this on populist fallacy lists... currently... most likely... as of 2024...). This is when someone makes an argument, the truth of which is itself highly unlikely, because some aspect of the argument is rightly identifying something highly unlikely, so self-refuting overgeneralization.
 
   That is, in order for their argument to be accepted as true, once we properly understand the situation, we must admit that the argument is false.
 
