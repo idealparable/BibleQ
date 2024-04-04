@@ -932,7 +932,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "A <u>piece</u> of the <u>boat</u>,<br>
   "Will <u>tot</u>ally <u>float</u>!"
 
-- **Hasty Generalization:** "One, or a few, cases, prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
+- **Hasty Generalization:** "One, or a few, cases prove a majority, or a universal." Also *Anecdotal evidence* or *Faulty Generalization.* **(One or a few, to most or all.)** I call it **HastyGen** for short.
 
   Example of Hasty Generalization Fallacy: "I saw a metal boat. All boats have thus always been metal. Or at least most! So the boat Jesus was on when he calmed the storm? Probably metal."
   
