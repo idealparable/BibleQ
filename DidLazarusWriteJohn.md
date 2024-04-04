@@ -1139,8 +1139,8 @@ But if a human shows signs of intelligence, those who use that objection will cr
 
 Most analyses aren't thorough! They're short articles I can read in five minutes! You should write a book! Which I won't read!
 
-"You're <u>NOT</u> con<u>FORM</u>ing to our <u>PROB</u>lematic <u>CUL</u>ture.
-"So a<u>ROUND</u> you I <u>SEE</u> a lot of <u>CIRC</u>ling <u>VUL</u>ture."
+"You're <u>not</u> con<u>form</u>ing to our <u>prob</u>lematic <u>cul</u>ture.
+"So a<u>round</u> you I <u>see</u> a lot of <u>circ</u>ling <u>vul</u>ture."
 
 This is probably a rare reaction (let's not commit this error), but I see it often enough that it might need said.
 
@@ -1152,9 +1152,13 @@ The first reaction (from a different Unitarian) was literally a complaint about 
 
 Then my points were summarily ignored, for the most part, with a few bad arguments thrown in.
 
+Or, if you *don't* thoroughly debunk it, they accuse you of not understanding the topic thoroughly enough, and say you should have been more thorough.
+
+I've literally had atheists begging, begging, begging me desperately to re-re-repeat evidence for God that had been covered in countless past conversations, and I made them promise not to complain that the response would be long, and then only one bothered to read it, they all fled, and that one just spammed with a single argument, a bad one, and fled from then.
+
 It's a shell game.
 
-And the topic might seem irrelevant at first, but I happened to have focused on more obviously relevant topics for a long time enough to know instantly some key ones it does touch on.
+And this topic might seem irrelevant at first, but I happened to have focused on more obviously relevant topics for a long time enough to know instantly some key ones it does touch on.
 
 In any case, I find that most likely, following what we could call the Columbo rule, most likely the way we'll answer questions *accurately* (as we should) is by a thorough investigation, and most likely, some things that might seem trivial will most likely turn out not to be, and the only way to be sure is to check.
 
