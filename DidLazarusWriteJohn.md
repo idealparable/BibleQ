@@ -951,6 +951,36 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   You could also call this **Self-refuting Overgeneralization.**
 
+  **(Less, to None, despite a premise of Less but not therefore None.)**
+
+  **(Or, More, to All, despite a premise of More but not therefore All.)**
+
+  (And so forth.)
+
+  Those premises can be implied, or logically necessary, note. A common "cheat" by promoters of such fallacious views is to simply personally avoid drawing the conclusions that would logically follow from their arguments, and hope the rest of us do too.
+
+  We see this often for example when a less-than-reasonable evolutionist will complain about a creationist citing evolutionist sources (typically being up front that they're evolutionist, but that's not really relevant usually) to establish a premise, that they agree with or to do an internal consistency analysis.
+  
+  Then the less-than-reasonable objector will object that it doesn't matter because the cited source is still an evolutionist, therefore the premise must somehow not lead to the creationist's conclusion, and the objector can feel justified in ignoring the logic.
+
+  And many similar cases.
+  
+  I see it a lot with those who promote various heresies like Unitarianism too.
+  
+  For example, the argument that since Jesus says and does only what the Father does (which we would see as clear evidence he's the same being -- of what *different* beings can this be said of? None that I know of, but they make the bad argument nonetheless), Jesus must, they claim, be a lesser entity than God, not the same Being, and not literally God.
+
+  Yet the very same people usually admit that the Holy Spirit *is* God, although they will deny his personhood, yet fail to do their research, evidently, to notice that the Bible also says this same thing of the Spirit (in [John 16:13-15](https://www.blueletterbible.org/lsb/jhn/16/13)).
+
+  When I've confronted Unitarians with this point, who make the argument about Jesus, I've so far never even gotten an answer -- certainly not "I was aware of it, and such and such is why that one doesn't count" or anything like it.
+
+  To be clear, a variant on such an argument could perhaps be made logically if we find evidence that the phrasing means one thing in one case, and another in another, but that's not how the ones I see using the argument are presenting it.
+  
+  It's used as if simply quoting the verse about Jesus saying this of himself [John 5:19](https://www.blueletterbible.org/lsb/jhn/5/19) proves their case with no further thought or research required.
+
+  This is an implied likelihood argument, that you shouldn't need to think more about it to see that most likely it means Jesus is a lesser entity, a different entity, and thus not literally God (they do admit he's called God and they're correct that the term can mean authority; this is why God is named that; he's the ultimate authority, though they misuse this argument too in ways beyond the scope of this article).
+
+  So by the same token, I must accept then that I should ignore the likelihood when it comes to the Spirit.
+
 Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, are both default expectations highly likely in their culture, especially hyperbole.
 
 For the lying, this is so at least if we take the biblical data seriously about how the typical leader of the group he seems to have been part of (so not including Nicodemus for example), in that they don't seem concerned primarily with truth but with which words will play best politically for them.
