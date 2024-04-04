@@ -896,7 +896,7 @@ Mnemonic: O outlies.
 
 I and O (some and some not; mnemonic includes and outlies) are "particular" types of premises.
 
-If we affirm a "particular" type of premise about a set (or "class"), typically it is taken as confirming the real existence of at least one member. ("Some S is P" implies at least one member of S does exist.) While "all S is P" (A-type; affirms) is not taken as implying any S actually exist.
+If we affirm a "particular" type of premise about a set (or "class"), typically it is taken as confirming the real existence of at least one member. ("Some S is P" implies at least one member of S actually exists.) While "all S is P" (A-type; affirms) is not taken as implying any S actually exist.
 
 Our fallacy is arguing wrongly from O (Some S is not P) to E (No S is P.)
 
