@@ -941,7 +941,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   In this Caiaphas case, we can accept that it is indeed unlikely that Caiaphas knew the particular fisherman named John, in and of only his status as fisherman.
 
-  But we can't accept that the disciple known to Caiaphas "can't" be John simply because John is a fisherman, even if we grant that Caiaphas could only known him from his life prior to Jesus calling him, so back when he was just a random fisherman.
+  But we can't accept that the disciple known to Caiaphas "can't" be John simply because John is a fisherman, even if we grant that Caiaphas could only known him from his life prior to Jesus calling him or any such claim to near-fame, so back when he was just a random fisherman.
 
   Because to accept that, we must accept that Caiaphas is the rare type of person who has no connections to any non-elite.
   
@@ -965,7 +965,7 @@ Two of them are in an opposite category based on whether we have a statement to 
 
 The first is "Caiaphas doesn't know *any* fishermen."
 
-Absent a statement, we can't really ascertain how likely this is. We only know that most likely he *does* know many non-elites, that most likely he knows some non-elites from Galilee, and that most likely some of those non-elites have a variety of jobs, some of which include fishermen.
+Absent a statement, we can't know very precisely how likely this is. We only know that most likely he *does* know many non-elites, that most likely he knows some non-elites from Galilee, and that most likely some of those non-elites have a variety of jobs, some of which include fishermen.
 
 We know from this that while the specific job of fisherman is somewhat unlikely to be among the jobs of the non-elite Galileans Caiaphas most likely knows, we certainly can't rule it out.
 
@@ -1001,7 +1001,7 @@ It would be almost fine if so many of us weren't so hand-wringey about whenever 
 
 We create our own problem.
 
-And the topic might seem irrelevant at first, but I happened to have focused on more obviously relevant topics for a long time enough to know instantly some key ones it does touch on (mentioned briefly in intro; I'll explain later below).
+And the topic might seem irrelevant at first, but I happened to have focused on more obviously relevant topics for a long time enough to know instantly some key ones it does touch on.
 
 In any case, I find that most likely, following what we could call the Columbo rule, most likely the way we'll answer questions *accurately* (as we should) is by a thorough investigation, and most likely, some things that might seem trivial will most likely turn out not to be, and the only way to be sure is to check.
 
