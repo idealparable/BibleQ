@@ -27,3 +27,5 @@
 - **Lt** = Latin
 - **En** = English
 - **StAE** = Standard American English pronunciation dialect
+<br><br>
+- **BibleQ** = Bible question. Abbreviation for main topic of an article. And pun on barbecue.

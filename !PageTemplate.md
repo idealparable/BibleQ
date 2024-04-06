@@ -1,47 +1,24 @@
 {% include bibleseekheader.md %}
 # TitleGoesHere
 
-**Question(s):** QuestionGoesHere
+**Bible Question:** QuestionGoesHere
 
 {% include mustreadnotes.md %}
 
 ## Table of Contents
-
-(Not yet made)
+- [Question: Did Lazarus Write John? Is he the Disciple Jesus Loved?](#did-lazarus-write-john-is-he-the-disciple-jesus-loved)
+  - [Must-Read Notes](#must-read-notes)
+  - [Table of Contents](#table-of-contents)
+- [**Answer**](#answer) <----- Skip to answer
+(This part not yet made)
+- [End Notes](#end-notes)
+  - [Bible Citations](#bible-citations)
+  - [Abbreviations](#abbreviations)
+    - [For this page](#for-this-page)
+    - [Common Abbreviations](#common-abbreviations)
+  - [Cite or Contact Me?](#cite-or-contact-me)
 
 # Answer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
