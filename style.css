@@ -31,6 +31,6 @@ table td { border: 1px solid #e8e8e8; }
 table th, table td {
   color: rgb(255, 170, 67); /* Adjust color as needed */
 }
-blockquote { color: rgb(196, 163, 3); border-left: 4px solid #ec4300; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; border-right: 4px solid #ec4300; padding-right: 15px}
+blockquote { color: rgb(255, 74, 19); border-left: 4px solid #ec4300; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; border-right: 4px solid #ec4300; padding-right: 15px}
 blockquote > :last-child { margin-bottom: 0; }
 .bbq { color: rgb(160, 199, 2); }
