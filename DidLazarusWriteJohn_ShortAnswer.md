@@ -67,6 +67,12 @@ That is:
 
 35 By this everyone will know that you are my disciples, if you have love for one another.”/</span></blockquote>
 
+Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiLoved phrase. It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused.
+
+The Last Supper simply happens after the resurrection of Lazarus, so I find that argument to commit the false cause fallacy (that just because something happens later that it was caused by something earlier).
+
+There are other arguments, but first let's cover in more detail something that's crucial here so it's worth covering thoroughly even for a short answer.
+
 ## Why Authorial Avoidance?
 
 Biblical culture was honor/shame-based, not like our modern "Western" guilt/innocence culture.
