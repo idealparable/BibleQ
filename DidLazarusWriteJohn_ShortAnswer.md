@@ -153,6 +153,91 @@ Despite many Unitarians' strawmen, we expect to see Jesus and the Spirit looking
 
 So ultimate honor is depicted as belonging to the Father, without any implication of Christ being in any way a separate or lesser entity. He's a distinct Person and has distinct roles, however, and it makes sense that he would model focusing praise to the Father. The full reasons for this are beyond the scope of this short answer article but are covered essentially in the long version.
 
+John sees Christ as the Word, because he personifies (and always has; he is not a created entity; he has no beginning) God's thoughts and expressions of those thoughts.
+
+If we take as a hypothesis that Christ authored Genesis 1-2:4 and John noticed, and both used authorial avoidance, this explains why we get a different term used in 2:4 (a toledoth line, most likely a signature line) and onward in what I think is the account of Adam, the LORD God / Yahweh God, used interchangeably about who created humans with just "God" in Genesis 1, so there's some kind of distinction between the two, yet also some kind of equivalence.
+
+This fits distinct Personhood yet the same Being in biblical Trinitarianism.
+
+John sees creation as being performed through Christ.
+
+This is also explained if my hypothesis is correct; Genesis is hinting that the signer of the account is the one who did important actions that usually are phrased in a way that avoids mention of who did them.
+
+Even when it does say God made, to explain how "it was so," this is rare within the passage.
+
+And John sees Jesus as light and thinks to put this not just associated with heaven as Daniel does but with creation.
+
+In Genesis, the clearest parallel with light, though, is with the Spirit, not the Son.
+
+As I put it in the longer article:
+
+<blockquote>Notice also that the Spirit is stated, but then mysteriously seems to be missing.
+
+Notice how a Hebrew would understand the parallelisms in this section:
+
+Genesis 1:
+
+<blockquote><span class="bbq">/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.<br><br>
+
+3 God said, “Let there be light,” and there was light. 4 God saw the light, and saw that it was good. God divided the light from the darkness./</span></blockquote>
+
+Throughout the Bible, "deep" is a synonym for a large body of water such as the Mediterranean (the "deep" that Israelites primarily were around), and can refer to oceans.
+
+Note:
+
+Genesis 1:
+
+<blockquote><span class="bbq">/9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so./</span></blockquote>
+
+From this it's commonly thought (as the findings related to Dr. John Baumgardner's Flood model appear to clearly confirm) that there was originally a single supercontinent, broken up during the Flood, and thus a single super-ocean as well. Prior to land, it was just all water on the surface, thus "earth" (dry land per verse 10) was "formless and void" or empty.
+
+What was over the water? It's unclear if there was air yet; that may be what was primarily added on Day 2, but in any case, we do know two things above the water, as the parallelism shows:
+
+||darkness|was|on|the surface of|the deep|
+|(and)|God's Spirit|was|hovering over|the surface of|the waters|
+
+In other words, the Spirit was dark -- not shining, not making light yet.
+
+This in turn means that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!
+
+Now, again, the Spirit is said to have inspired all Scripture.
+
+...
+
+That means he had, as I say there, an implied authorial role in Genesis 1 through 2:4 as well.
+
+He doesn't need to sign the account, and it's more "okay" to put his name (or a name for him) within the account, unlike the Word, but there's still partial authorial avoidance by the Spirit.
+
+Notice also the "loud voice" is what John picks up on to reveal what Jesus said (it is finished). This according to a source I follow, Anthony Rogers, is actually referring to a title for the theophany of the Son in the garden; that it isn't just that they heard the audible voice of the theophany of God, but that the theophany was titled the Voice of God.
+
+This is likely a big part of where John (Philo, etc.) God the idea that the one we now know as the Son is the "Word" / Logos / Memra, and it further evidences that John is seeing the one who speaks as the Word. Yet the words in Genesis are attributed to the one called simply God (the NT also tends to prefer this term as a concise option for the Father, though at times it refers to the shared essence or being as when the Word IS God).
+
+So the idea here is that the Father was Breathing Out the Voice/Word, when he breathed out the voice/word of each instruction he said, and the Voice/Word then carried out those very instructions, through the Spirit.
+
+So, Father (unchanging God) constantly "emits" the radiance of his being, his intrinsic and beginningless wisdom and the ideas that can be expressed as words, which have always been personified, and his action principle (the Spirit). Carrying with Him, the Word/Wisdom/Son expresses specific instructions and carries them out, acting as a sort of directing agent for the direct creative action of the Spirit.
+
+This is what Genesis teaches, if SAUA, and it also just happens to be what the NT teaches in extreme levels of detail.
+
+And all of it directly supports that John saw these details and learned authorial avoidance.
+
+So it's very clear that John used the cases of avoidance as self-reference without the name, much like Christ did in his account of creation.
+
+In John's case, the phrase he picked as the self-reference appears to be based on the significant statement Jesus said during the first incident where in the account of it the author of the gospel of John uses the "disciple Jesus loved" phrase (DiLoved).
+
+Remember, in the <i>He</i>Loved section about Lazarus, there's nothing anonymous about it.
+
+I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiLoved is Lazarus.
+
+So, John is seeing, due to authorial avoidance and Christ's signed authorship of Genesis 1-2:4, that the <b>Son</b> is the Light that shone out through the Spirit over the waters.
+
+Without these premises, you don't naturally get to the conclusion John clearly reached that led him to phrase things as he did.
+
+It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.
+
+</blockquote>
+
+
+
 
 
 > <span class="bbq">//</span>
