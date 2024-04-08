@@ -63,7 +63,7 @@ This means that he was aware that humans at the time would think that Christ was
 
 This is also what Daniel, writing to an audience during the Babylonian exile that might include outsiders, gave the literal meaning of hell:
 
-> <span class="bbq">/Daniel 12:2 Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt./</span>
+> <span class="bbq">/Daniel 12:2 Many of those who sleep in the dust of the earth will awake, some to everlasting life, **and some to shame and everlasting contempt**./</span>
 
 A complication about the biblical-era view, at least in the perception of humans at the time, was that honor was a limited resource (limited good).
 
