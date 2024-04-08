@@ -12,3 +12,4 @@
 - LSB requires web pages that use quotes of LSB to include the following copyright notice:
 "Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc.  [LSBible.org](https://lsbible.org/){:target="_blank"} and [316publishing.com](https://316publishing.com/){:target="_blank"}."
 Note: "For web pages or apps the full copyright notice must be used with www.LSBible.org being a click-enabled web link."
+- Block quotes by default are reddish-orange font color, lime green if biblical quotes. Same may be added to inline quotes if I get around to it. Links are blue, or light teal if visited (except header / hub page link in footer which are green). Links other than to a place on the same page should normally open in a new tab (if I set that up per link).
