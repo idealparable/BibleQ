@@ -61,13 +61,17 @@ An example of the conflict between these two assigners of honor or shame is seen
 
 This means that he was aware that humans at the time would think that Christ was shamed, legitimately by man, and ultimately by God (or among Gentiles, they would think by gods), but he scorned that false perception (also that human sin, which he bore the punishment for, *is* legitimately shameful), and that the resurrection made it clear that the omniscience God doesn't agree with the condemnation of Christ.
 
-This is also what Daniel, writing to an audience during the Babylonian exile that might include outsiders, gave the literal meaning of hell:
+This is also what Daniel, writing to an audience during the Babylonian exile that might include outsiders who wouldn't necessarily be as likely to understand Hebrew figures of speech, gave as the literal meaning of hell:
 
 > <span class="bbq">/Daniel 12:2 Many of those who sleep in the dust of the earth will awake, some to everlasting life, **and some to shame and everlasting contempt**./</span>
 
-This is probably what Daniel means also in the next verse about "light" for those raised to everlasting life; that light here likely refers to honor, through the indwelling of the Holy Spirit, possible despite our sin due to Christ's atonement.
+In the Christian context, this means that God recognizes that these individuals haven't accepted Christ's atonement, so they must pay the price themselves.
+
+The honor/shame system is probably what Daniel means also in the next verse about "light" for those raised to everlasting life; that light here likely refers to honor, through the indwelling of the Holy Spirit, possible despite our sin due to Christ's atonement.
 
 > <span class="bbq">/Daniel 12:3 Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever./</span>
+
+Although this would mean this is figurative in Daniel, the literal explanation of one of the two sides of the coin would have clued Babylonian or other outsider readers in that this is talking about honor/shame, which was a key aspect of all ancient cultures.
 
 Note John identifies Christ with life and light:
 
