@@ -43,7 +43,31 @@ This is the short answer version of a longer groundwork article / study notes / 
   - [Cite or Contact Me?](#cite-or-contact-me)
 
 # Answer
-Let's start with what the "authorial avoidance" means -- why we see places where (at least) one person is mentioned and seems to have a major role (at times), yet isn't identified by name.
+Let's start with what the "authorial avoidance" means -- why we see places where (at least) one person is mentioned and seems to have a major role (at times), yet isn't identified by name, and why I think John embraces this more than other biblical authors.
+
+In short, I think it's clear he was following Christ's lead, and that this is the mark of authorship most likely to be associated with Christ's top disciples who would be traveling with him during his ministry, which means Peter, John, and James are strong candidates, while Lazarus isn't, as Lazarus seems to have largely stayed in Bethany and supported Christ's ministry financially.
+
+I think John may have gotten this from Mark's lead, following Peter, or both directly as the most central disciples, from Christ's focus on Genesis as foundational and his emphasis on avoiding too much direct credit as the Messiah.
+
+I think Mark and especially John paid very close attention in Genesis and noticed that the pre-Incarnate Christ signed the first section in 2:4 and avoided mention of himself within the body text, but that Genesis 1-2 together make it clear he was there and has personal distinction from both the Father and the Spirit (who also have personal distinctions).
+
+The longer groundwork articles goes through much more detail about that than I'll cover in this summary, but suffice to say, John echoes many of the details of Genesis, including some that might not be as obvious as "In the beginning," and this seems much more likely for John than Lazarus.
+
+Also, details around the final chapter of John make it clear that the author is the "disciple who Jesus loved" (DiLoved), and that this applies also at least to the Last Supper use.
+
+At least one promoter of the view that it's Lazarus instead has argued that the fact that the DiLoved phrase isn't used until after Lazarus' resurrection is evidence that it's Lazarus.
+
+I see, though, strong evidence in the same chapter as the first use (Last Supper), that a close friend of Peter's, who John is a much better candidate for, had reason to be very focused on a statement of Jesus in that same chapter and event about love.
+
+I see that he's using authorial avoidance all along, including one in John 1 who seems most likely to be either John or James since he was with Andrew, Peter's brother, and we know all four of them worked together as fishermen, and in the Last Supper chapter (as we divide it today), John developed the DiLoved version of the avoidance because now he was introducing why he coined the phrase.
+
+That is:
+
+<blockquote><span class="bbq">/John 13:34 A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.
+
+35 By this everyone will know that you are my disciples, if you have love for one another.”/</span></blockquote>
+
+## Why Authorial Avoidance?
 
 Biblical culture was honor/shame-based, not like our modern "Western" guilt/innocence culture.
 
