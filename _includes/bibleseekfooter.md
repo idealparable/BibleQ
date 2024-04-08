@@ -1,2 +1,2 @@
 ---
-<span class="homelink">[BibleSeek Hub Page](index)</span>
+<a href="index" class="homelink">BibleSeek Hub Page</a>
