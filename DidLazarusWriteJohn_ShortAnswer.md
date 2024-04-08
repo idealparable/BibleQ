@@ -69,6 +69,18 @@ This is probably what Daniel means also in the next verse about "light" for thos
 
 > <span class="bbq">/Daniel 12:3 Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever./</span>
 
+Note John identifies Christ with life and light:
+
+> <span class="bbq">/John 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made through him. Without him, nothing was made that has been made. 4 In him was life, and the life was the light of men. 5 The light shines in the darkness, and the darkness hasn’t overcome† it.
+
+6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the light, that all might believe through him. 8 He was not the light, but was sent that he might testify about the light. 9 The true light that enlightens everyone was coming into the world.
+
+10 He was in the world, and the world was made through him, and the world didn’t recognize him. 
+
+...
+
+14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth./</span>
+
 A complication about the biblical-era view, at least in the perception of humans at the time, was that honor was a limited resource (limited good).
 
 This made sense because honor would determine who others would give resources, which really were finite for mere humans, barring the rare miracle. While God doesn't have that limit, humans left to themselves do.
@@ -79,7 +91,27 @@ If you did, you would be perceived as unfairly robbing honor from others.
 
 Avoiding the perception of trying to claim too much personal honor was especially needed when you were authoring historical narrative about events you played a major role in.
 
+This is for example behind why Jesus typically ordered people not to tell others yet who he was (as Christ, the Son of God). JP Holding, a source I often use (see end notes), says:
 
+<blockquote>\|We may first note that there were social reasons why Jesus had to be circumspect in His proclamations of divinity:
+
+a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military; the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.
+
+By this line of thinking, as Charlesworth puts it, "Any self-designation only proves that the proclaimer cannot be the Messiah." Thus, <b>Jesus' relative silence on the issue "may well be an implicit indication that he thought of himself as the Messiah</b>." (ibid.) We have also noted that the Messianic secret theory misses the point that despite these admonitions to silence, Jesus' subjects did go out and tell the story anyway.
+
+But there was an even more primary social reason for <b>Jesus' hesitation for word to spread of himself and his work</b>. Pilch and Malina explain in the Handbook of Biblical Social Values [59ff] three social paradigms that come into play:
+
+Envy -- the begrudging of possession of some quality or object by another.
+
+Limited Good -- the ancient perception that all good things are limited and finite in quantity, including intangibles, like:
+
+Honor -- the accord given by a person to others, a value in the ancient world that they took as seriously as we today take paying the bills.
+
+Taken together, these factors tell us that Jesus' reticence is an example of what would have been regarded as honorable behavior in the ancient world. <b>For Jesus to have been plain about his divinity and Messianic nature in public would have aroused serious envy (as we do see it did, from his opponents, <i>especially in John</i>)</b> as he would have been claiming a high level of honor, and this would have been seen as drawing from the well of honor, which was a "limited good". Thus to make such claims would have been seen as taking honor from others.
+
+The society of Wrede's day was one of limitless good, and without such heavy concentration on honor; hence it is little wonder Wrede came up with the explanation of a "Messianic secret". In an individualist society with limitless good, the thing to do is go out and share what you have with others, and even brag about it. The world Jesus lived in would have found such behavior intolerable -- as did his opponents, and as did the residents of Nazareth.
+
+One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.\|</blockquote>
 
 > <span class="bbq">//</span>
 
