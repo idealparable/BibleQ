@@ -65,6 +65,10 @@ This is also what Daniel, writing to an audience during the Babylonian exile tha
 
 > <span class="bbq">/Daniel 12:2 Many of those who sleep in the dust of the earth will awake, some to everlasting life, **and some to shame and everlasting contempt**./</span>
 
+This is probably what Daniel means also in the next verse about "light" for those raised to everlasting life; that light here likely refers to honor, through the indwelling of the Holy Spirit, possible despite our sin due to Christ's atonement.
+
+> <span class="bbq">/Daniel 12:3 Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever./</span>
+
 A complication about the biblical-era view, at least in the perception of humans at the time, was that honor was a limited resource (limited good).
 
 This made sense because honor would determine who others would give resources, which really were finite for mere humans, barring the rare miracle. While God doesn't have that limit, humans left to themselves do.
