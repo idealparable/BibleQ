@@ -36,3 +36,4 @@ blockquote > :last-child { margin-bottom: 0; }
 .bbq { color: rgb(160, 199, 2); }
 .ebq { color: rgb(255, 74, 19); }
 .homelink { color: #2aa601; }
+homelink:visited { color: #2aa601; }
