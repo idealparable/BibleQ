@@ -33,4 +33,4 @@ table th, table td {
 }
 blockquote { color: rgb(196, 163, 3); border-left: 4px solid #ec4300; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; border-right: 4px solid #ec4300; padding-right: 15px}
 blockquote > :last-child { margin-bottom: 0; }
-.bbq { color:rgb(160, 199, 2);}
+.bbq { color:rgb(160, 199, 2); }
