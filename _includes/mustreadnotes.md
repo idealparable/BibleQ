@@ -7,13 +7,13 @@ Quotes from others may be in block quote format (examples below).
 
 Bible quotes may be from [World English Bible Public domain version (WEBP)](https://ebible.org/web/GEN01.htm){:target="_blank"}, which allows quoting in any amount, or [Legacy Standard Bible (LSB)](https://www.blueletterbible.org/lsb/gen/1/1){:target="_blank"} (links will usually be to LSB on Blue Letter Bible (BLB)).
 
-**Bible quotes may be enclosed in slashes** without spaces inline with text (e.g. /In the beginning.../), preserving existing quote marks, or in block quote format. They may (if I get around to it) be in lime-green font color. Example of biblical block quote:
+**Bible quotes may be enclosed in slashes** without spaces inline with text (e.g. <span class="bbq">/In the beginning.../</span>), preserving existing quote marks, or in block quote format. They may (if I get around to it) be in lime-green font color. Example of biblical block quote:
 
 > <span class="bbq">/In the beginning.../</span>
 
 Slashes with spaces may go between parallel quotes / fragments / cites / etc.
 
-Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example \|...the founder of the name...\|). Block quotes by default are in a reddish orange font color. I may (if I get around to it) format inline quotes of extrabiblical sources in reddish orange too. Extrabiblical block quote example:
+Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example <span class="ebq">\|...the founder of the name...\|</span>). Block quotes by default are in a reddish orange font color. I may (if I get around to it) format inline quotes of extrabiblical sources in reddish orange too. Extrabiblical block quote example:
 
 > \|...the founder of the name...\|
 
