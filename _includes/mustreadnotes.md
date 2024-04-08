@@ -9,7 +9,7 @@ Bible quotes may be from [World English Bible Public domain version (WEBP)](http
 
 **Bible quotes may be enclosed in slashes** without spaces inline with text (e.g. /In the beginning.../), preserving existing quote marks, or in block quote format. Example of biblical block quote:
 
-> /In the beginning.../
+> <span class="bbq">/In the beginning.../</span>
 
 Slashes with spaces may go between parallel quotes / fragments / cites / etc.
 
