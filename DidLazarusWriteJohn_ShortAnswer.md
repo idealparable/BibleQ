@@ -147,6 +147,8 @@ The society of Wrede's day was one of limitless good, and without such heavy con
 
 One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.|</blockquote>
 
+## Trinity in Genesis
+
 In biblical Trinitarianism, none of the three Persons of the Trinity have any intrinsic superiorities to others, but Christ and the Spirit are functionally subordinate to the Father as roles.
 
 Despite many Unitarians' strawmen, we expect to see Jesus and the Spirit looking to the Father as the ultimate authority.
@@ -204,11 +206,11 @@ Now, again, the Spirit is said to have inspired all Scripture.
 
 ...
 
-That means he had, as I say there, an implied authorial role in Genesis 1 through 2:4 as well.
+That means he had... an implied authorial role in Genesis 1 through 2:4 as well.
 
 He doesn't need to sign the account, and it's more "okay" to put his name (or a name for him) within the account, unlike the Word, but there's still partial authorial avoidance by the Spirit.
 
-Notice also the "loud voice" is what John picks up on to reveal what Jesus said (it is finished). This according to a source I follow, Anthony Rogers, is actually referring to a title for the theophany of the Son in the garden; that it isn't just that they heard the audible voice of the theophany of God, but that the theophany was titled the Voice of God.
+Notice also the "loud voice" is what John picks up on to reveal what Jesus said (it is finished) [see longer article for context; this is what Jesus says on the cross in John]. This according to a source I follow, Anthony Rogers, is actually referring to a title for the theophany of the Son in the garden; that it isn't just that they heard the audible voice of the theophany of God, but that the theophany was titled the Voice of God.
 
 This is likely a big part of where John (Philo, etc.) God the idea that the one we now know as the Son is the "Word" / Logos / Memra, and it further evidences that John is seeing the one who speaks as the Word. Yet the words in Genesis are attributed to the one called simply God (the NT also tends to prefer this term as a concise option for the Father, though at times it refers to the shared essence or being as when the Word IS God).
 
@@ -216,7 +218,7 @@ So the idea here is that the Father was Breathing Out the Voice/Word, when he br
 
 So, Father (unchanging God) constantly "emits" the radiance of his being, his intrinsic and beginningless wisdom and the ideas that can be expressed as words, which have always been personified, and his action principle (the Spirit). Carrying with Him, the Word/Wisdom/Son expresses specific instructions and carries them out, acting as a sort of directing agent for the direct creative action of the Spirit.
 
-This is what Genesis teaches, if SAUA, and it also just happens to be what the NT teaches in extreme levels of detail.
+This is what Genesis teaches, if [my Genesis authorship theory is right; Sig-After-Until-Abe (SAUA)], and it also just happens to be what the NT teaches in extreme levels of detail.
 
 And all of it directly supports that John saw these details and learned authorial avoidance.
 
@@ -232,68 +234,107 @@ So, John is seeing, due to authorial avoidance and Christ's signed authorship of
 
 Without these premises, you don't naturally get to the conclusion John clearly reached that led him to phrase things as he did.
 
-It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.
+It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.</blockquote>
 
-</blockquote>
+## HeLoved
 
+A major argument for Lazarus as DiLoved is that messengers tell Jesus that Lazarus is sick, and the wording in John is similar to the "disciple Jesus loved" phrase:
 
+> <span class="bbq">/John 11:3 The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”/</span>
 
+One proponent of Laz=DiLoved I found online even claiming this is here said to be the <i>disciple</i> Jesus loved.
 
+It really only says "he" whom you loved, hence my abbreviation HeLoved.
 
-> <span class="bbq">//</span>
+Also the argument backfires when you keep in mind that Greek had no quote marks, and in their culture they normally paraphrased content of what someone else said.
 
-> <span class="bbq">//</span>
+So this is the <i>author's</i> wording, most likely.
 
-> <span class="bbq">//</span>
+I see this actually as further evidence for John's authorship.
 
-> <span class="bbq">//</span>
+Both because he phrases it differently from DiLoved, and because this author who seems to be close to Peter both in John 21 (final chapter) and at the Last Supper paraphrases the messengers' message in this way.
 
-> <span class="bbq">//</span>
+The fact that this is shortly before the Last Supper intro of DiLoved only further supports that John is leading up to the introduction of that term in steps, clarifying up front that Jesus loved others, not only the author.
 
-> <span class="bbq">//</span>
+In the longer article I also noted abundant extrabiblical evidence that both the gospel of John and the three epistles of John were written by John, and listed many similar passages in John and 1/2/3 John, including an emphasis on love, and authorial avoidance.
 
-> <span class="bbq">//</span>
+John does self-identify within the body text for Revelation. I cover why I think that's not a problem in detail there; in short, it was mainly historical narrative that had the problem, not prophetic works or epistles, and Revelation is a mix of both (compare Isaiah's first-person in-text self-references and the many like it in Paul for example).
 
-> <span class="bbq">//</span>
+Third-person was also valid for historical narration.
 
-> <span class="bbq">//</span>
+This is the norm for the vast majority of the Bible.
 
-> <span class="bbq">//</span>
+I think if Lazarus was the author of John (to be fair, perhaps not all Laz=DiLoved proponents argue that, but that in itself would be a problem due to John 21), Lazarus would have likely chosen third-person and would have used his name at the Last Supper, at the cross, and in the final chapter, but might have been more hesitant to clearly say he's the author at the end than DiLoved is.
 
-> <span class="bbq">//</span>
+I think it's significant that the gospels attributed to Mark (top student of Peter's), and the one attributed to John, who worked with Peter and is often shown to be close to him throughout all four gospels, both appear to use authorial avoidance.
 
-> <span class="bbq">//</span>
+Yet Matthew uses the normal third-person in his gospel, and Luke uses weird (anonymous) first-person in his introductions (as if he mixed the epistle norm with the anonymity-in-body-text).
 
-> <span class="bbq">//</span>
+Mark has one anonymous young man fleeing at the arrest of Jesus, and John has many anonymous cases of third person, and closes by clarifying that that person is the author, self-referenced with first-person.
 
-> <span class="bbq">//</span>
+So it seems this practice is associated not just with the 12 or other top disciples, but specifically with Peter... and... Lazarus?
 
+It makes much more sense if it's a practice among the inner group (Peter, James, and John), or even just Peter and John, than that the practice skipped over Matthew, who traveled along for Jesus' ministry, yet then shows up with Lazarus, who evidently (normally?) didn't.
 
+## Disciple Known to Caiphas
 
+It's also argued that Caiaphas can't know a fisherman, but is likely to know someone from Bethany. I focused on this a lot in the long article.
 
+For here, suffice to say that most likely Caiphas knew John as one of the top disciples of Jesus -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiLoved at the cross, seemingly much closer to the cross than others.
 
+This disciple is also entrusted to take care of Mary, Jesus' mother, and given that John and Mary both normally live in Galilee, so the location argument works both ways, and even knowing a fisherman is hardly impossible, as I explored in great detail in the longer article.
 
-## Mark of John's Authorship
-### Peter's Friend is DiLoved (& Why DiLoved First Started Using DiLoved at the Last Supper)
+It's true that the unnamed disciple in John 1 is in Bethany at one point, which would make some sense if it's Lazarus, but is traveling with Andrew, evidently, and clearly isn't Peter since Andrew had to tell Peter about what he found out (Jesus=Christ). So it's most likely James or John.
 
+And given that he knew very specific details down to hour of the day for events in John 1, I think this is the author -- John.
 
+And we similar levels of perspective detail about who is where when in John, especially about who moved where in the courtyard where Peter denied Christ, and where Pilate walked.
 
-### Don't Quote the Messenger (Lazarus = "HeLoved", not DiLoved, & Why)
+Again, it makes much more sense if this is the DiLoved who is the author per John 21.
 
+## DiLoved = Fisherman and "Therefore it is the Lord"
 
+The objection that Caiaphas can't know a fisherman also backfires because the DiLoved in John 21 spends all night fishing, and we're even told that because Jesus gave them accurate fishing instructions, the DiLoved "therefore" said it was the Lord.
 
-### Mark Wrote Mark
+This is clearly mirroring a similar incident at their calling, and we're told, as I show in the long version, that this included Peter, Andrew, James, and John.
 
+Note that the next verse makes it clear they were much too far away for the "therefore" to be about recognizing Jesus' appearance.
 
+It clearly means someone present during the original call -- a fisherman -- was recognizing that Jesus was re-enacting that event.
 
-### Pre-Incarnate Christ Wrote Account of the LORD God in Genesis
+We're also told the names of three onboard -- Peter, Thomas, and Nathanael (who I showed in long version is likely Bartholomew), then "sons of Zebedee," then two unnamed others.
 
+I see a switch to authorial avoidance but with a strong hint, in changing to avoiding the direct names midway through this list.
 
+It could be argued that you don't really have to be a fisherman to go aboard a fisherman's boat (although the captain/owner of that boat might disagree), or you could at least help out, so maybe one of the two is Lazarus.
 
-## Arguments for Lazarus as DiLoved
+I showed, though, that most likely it's Andrew and Philip (associated with Bartholomew/Nathanael), and the reason they aren't named is for plausible deniability (not literally denying) so the authorial avoidance can be preserved.
 
-##
+(Plausible for a reader to think the author might be one of them instead of one of the sons of Zebedee -- but if it isn't John, why not just list James and John, and then say two others? So the author also hints that he's either James or John. And we see John associated with Peter much more often.)
 
+Also, since John the Baptist (Bap, for short) was often baptizing -- in water -- it makes more sense to me that a fisherman is likely to be among his closest disciples than some rich guy in Bethany.
+
+Again, admittedly Bap was in Bethany in John 1, but since he's the cousin of Jesus, and Jesus is friends with Lazarus, that isn't surprising.
+
+Another argument, by the way, is that Lazarus is only in John's gospel.
+
+Let's assume that's true for now.
+
+If so, this makes sense, and in a way that would connect John to the unnamed disciple in John 1, and further back up John as DiLoved in John 21, again because Bap was Jesus' cousin and John (son of Zebedee) seems to have been a top disciple of both of them. Basically, both Lazarus and John were close to Jesus.
+
+So it would make sense if John wrote John, and had no problem calling Lazarus by name within the book, but not himself, and focused on Lazarus while other gospel writers didn't.
+
+If, however, Lazarus is DiLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), not in so many others, and that he does seem to have a problem with mentioning John by name anywhere.
+
+## Miscellaneous
+
+I also covered in the long article that the author of John refers to Bap as simply John more than others, according to JPH.
+
+This makes sense if the author is also named John, and is accustomed to thinking of other people named John as simply John, not needing to clarify that it isn't himself as much as others would.
+
+I also noticed that he refers to Peter's father's name, John. In the long article I thought that was unique to the gospel of John due to a word search turning up no other results, though I noticed weirdly that WEBP translates it Jonah even though the word is the same as John. After writing that article I noticed that Matthew does have it, but fused as one word with the Aramaic "son of" bar at the front, when Jesus responds to Peter's confession of faith. Still, this only reduces the weight of the evidence; it remains so that John (gospel) has cases of emphasis on the name of Peter's father, which happens to be John.
+
+Also, this is Jesus' statement (paraphrase of it most likely), and so is the one in John 21 (well, the three). So it seems like Jesus was the one saying it, but it still seems like John made sure to include it possibly because he notices when people are named John.
 
 <br>
 <br>
