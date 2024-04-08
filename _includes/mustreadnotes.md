@@ -17,10 +17,10 @@ Extrabiblical quotes may be enclosed in "\|" (pipe) characters (example <span cl
 
 > \|...the founder of the name...\|
 
+Links are blue, or light teal for visited links. Most should open in a new tab automatically, unless linking to a location on the same page (such as from the table of contents), although the code for new tab has to be manually added; I might miss some.
+
 Keep in mind for brevity my wording may sound more definite than intended. This site is devoted to careful, open-minded truthseeking, building soundly from the ground up, and to helping anyone interested learn the current global state of knowledge. I'll try, though, to clarify what is less or more certain with clear word choice.
 
 I might refer to a particular Bible question that a topic page is about as a "BibleQ" for short.
-
-Links are blue, or light teal for visited links. Most should open in a new tab automatically, unless linking to a location on the same page (such as from the table of contents), although the code for new tab has to be manually added; I might miss some.
 
 See [end notes](#end-notes) for more about citation style, copyright notices, explanations of common abbreviations, and a little more about (ideally not) citing me or contacting me. Read those too when you finish reading the rest of this page, please, if you haven't before.
