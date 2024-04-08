@@ -35,7 +35,7 @@ NOTE: I'm unsure how many Lazarus = DiLoved proponents also think Lazarus would 
 
 Some may also argue for a cooperative authorship role of both, which is less problematic, but I think is unnecessary.
 
-> This is a test block quote.
+> /This is a test block quote./
 
 {% include mustreadnotes.md %}
 
