@@ -129,7 +129,7 @@ This is for example behind why Jesus typically ordered people not to tell others
 
 <blockquote>|We may first note that there were social reasons why Jesus had to be circumspect in His proclamations of divinity:<br><br>
 
-<blockquote>a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military; the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.</blockquote><br><br>
+<blockquote>a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military; the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.</blockquote>
 
 By this line of thinking, as Charlesworth puts it, "Any self-designation only proves that the proclaimer cannot be the Messiah." Thus, <b>Jesus' relative silence on the issue "may well be an implicit indication that he thought of himself as the Messiah</b>." (ibid.) We have also noted that the Messianic secret theory misses the point that despite these admonitions to silence, Jesus' subjects did go out and tell the story anyway.<br><br>
 
@@ -146,6 +146,14 @@ Taken together, these factors tell us that Jesus' reticence is an example of wha
 The society of Wrede's day was one of limitless good, and without such heavy concentration on honor; hence it is little wonder Wrede came up with the explanation of a "Messianic secret". In an individualist society with limitless good, the thing to do is go out and share what you have with others, and even brag about it. The world Jesus lived in would have found such behavior intolerable -- as did his opponents, and as did the residents of Nazareth.<br><br>
 
 One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.|</blockquote>
+
+In biblical Trinitarianism, none of the three Persons of the Trinity have any intrinsic superiorities to others, but Christ and the Spirit are functionally subordinate to the Father as roles.
+
+Despite many Unitarians' strawmen, we expect to see Jesus and the Spirit looking to the Father as the ultimate authority.
+
+So ultimate honor is depicted as belonging to the Father, without any implication of Christ being in any way a separate or lesser entity. He's a distinct Person and has distinct roles, however, and it makes sense that he would model focusing praise to the Father. The full reasons for this are beyond the scope of this short answer article but are covered essentially in the long version.
+
+
 
 > <span class="bbq">//</span>
 
