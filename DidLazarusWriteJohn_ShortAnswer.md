@@ -3,8 +3,6 @@
 
 **Bible Question:** Did Lazarus write the gospel of John? Or did John? Is Lazarus the "disciple Jesus Loved"? (DiLoved for short.) Does it matter?
 
-This is the short answer version of a longer groundwork article / study notes / draft attempt [here](DidLazarusWriteJohn).
-
 My answer will be that the author and DiLoved are both John, evidently, and it matters indirectly to some surprisingly important topics, including:
 
 - Trinity in Genesis.
@@ -35,7 +33,7 @@ NOTE: I'm unsure how many Lazarus = DiLoved proponents also think Lazarus would 
 
 Some may also argue for a cooperative authorship role of both, which is less problematic, but I think is unnecessary.
 
-> /This is a test block quote./
+This is the short answer version of a longer groundwork article / study notes / draft attempt [here](DidLazarusWriteJohn).
 
 {% include mustreadnotes.md %}
 
@@ -51,6 +49,30 @@ Some may also argue for a cooperative authorship role of both, which is less pro
     - [For this page](#for-this-page)
     - [Common Abbreviations](#common-abbreviations)
   - [Cite or Contact Me?](#cite-or-contact-me)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Answer
