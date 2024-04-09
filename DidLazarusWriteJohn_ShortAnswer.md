@@ -412,6 +412,22 @@ For example when Jesus told some negative parables and his opponents perceived t
 
 It's true that poetic devices are sometimes legitimately less clear than literal statements (like an intentionally cryptic prophecy), but then sometimes a literal statement is less effective at communication as people might pay less attention to a boring statement, and an apt analogy can help teach a principle in common with the thing being analogized.
 
+## Scroll Tags Not Optional
+
+In case you aren't aware, for longer ancient documents, especially historical narratives such as the gospels, it typically wouldn't be important to put the author or title in the body text itself.
+
+Since they used scrolls, it would do no good for seeing which text was which on the shelves. Taking it out each time to open it to check risks unnecessary damage to the scroll.
+
+They didn't have spines like books for titles; instead, the scrolls had the ends like our modern rollerpins, and a tag would be attached to one of the pins.
+
+If a work was anonymous or untitled, each library would typically make up a title based on something inside the body text such as the first word to name the scroll.
+
+The key there is that different libraries likely would make up different names.
+
+Yet for the four gospels, the titling is unanimous.
+
+This makes it most likely that the four titles are the authors' signatures, so John wrote John.
+
 ## Miscellaenous Mopup
 
 For this section I'll just cover any other argument not dealt with above for Lazarus as the Disciple Loved, including more obscure ones not covered in the longer article.
@@ -494,7 +510,7 @@ Either way, use of scribes was normal, and would be easily possible for the lead
 
 Acts 4 is also claimed by one proponent to say that Caiaphas didn't know who John was, but it looks to me like it's saying the exact opposite; that they recognize Peter and John as disciples of Jesus. A weird translation is appealed to in order to make it look vague enough that it might mean what's argued ("took knowledge of them"), but most say things like this from WEBP:
 
-> <span class=bbq">/Acts 4:13 Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus./</span>
+> <span class="bbq">/Acts 4:13 Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus./</span>
 
 It's argued that both DiLoved and Lazarus ate next to Jesus. So, too, might a top disciple like John.
 
