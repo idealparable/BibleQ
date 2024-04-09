@@ -1,9 +1,9 @@
 {% include bibleseekheader.md %}
 # Did Lazarus Write John? Is he the Disciple Jesus Loved?
 
-**Bible Question:** Did Lazarus write the gospel of John? Or did John? Is Lazarus the "disciple Jesus Loved"? (DiLoved for short.) Does it matter?
+**Bible Question:** Did Lazarus write the gospel of John? Or did John? Is Lazarus the "disciple Jesus Loved"? Does it matter?
 
-My answer will be that the author and DiLoved are both John, evidently, and it matters indirectly to some surprisingly important topics, including:
+My answer will be that the author and the disciple Jesus loved are both John, evidently, and it matters indirectly to some surprisingly important topics, including:
 
 - Trinity in Genesis.
 
@@ -21,7 +21,9 @@ My answer will be that the author and DiLoved are both John, evidently, and it m
 
 - How this makes John consistent with biblical-era Hebrew culture as understood by social scientists.
 
-NOTE: I'm unsure how many Lazarus = DiLoved proponents also think Lazarus would be the author of John, but the wording around three key uses of DiLoved, at the first use, at the cross, and in the final chapter of John, make it clear it's the author.
+For abbreviations of two major phrases relevant to this question, I'll use "DiscipleLoved" for the disciple whom Jesus loved, and "HeLoved" for Lazarus in the message that he was sick ("the one you love" or "he whom you love" but turned to third person). Too many have conflated the two phrasings, importing "disciple" to the Lazarus message (not there), or dropping the emphasis on "disciple" in the other case, even though those distinctions are probably important to this question.
+
+NOTE: I'm unsure how many Lazarus = DiscipleLoved proponents also think Lazarus would be the author of John, but the wording around three key uses of DiscipleLoved, at the first use, at the cross, and in the final chapter of John, make it clear it's the author.
 
 Some may also argue for a cooperative authorship role of both, which is less problematic, but I think is unnecessary.
 
@@ -38,7 +40,7 @@ This is the short answer version of a longer groundwork article / study notes / 
   - [Trinity in Genesis](#trinity-in-genesis)
   - [HeLoved](#heloved)
   - [Disciple Known to Caiaphas](#disciple-known-to-caiaphas)
-  - [DiLoved = Fisherman and “Therefore it is the Lord”](#diloved--fisherman-and-therefore-it-is-the-lord)
+  - [DiscipleLoved = Fisherman and “Therefore it is the Lord”](#DiscipleLoved--fisherman-and-therefore-it-is-the-lord)
   - [That Guy Named John](#that-guy-named-john)
   - [NonliterALL](#nonliterall)
   - [Scroll Tags Not Optional](#scroll-tags-not-optional)
@@ -62,13 +64,13 @@ I think Mark and especially John paid very close attention in Genesis and notice
 
 The longer groundwork articles goes through much more detail about that than I'll cover in this summary, but suffice to say, John echoes many of the details of Genesis, including some that might not be as obvious as "In the beginning," and this seems much more likely for John than Lazarus.
 
-Also, details around the final chapter of John make it clear that the author is the "disciple who Jesus loved" (DiLoved), and that this applies also at least to the Last Supper use.
+Also, details around the final chapter of John make it clear that the author is the "disciple who Jesus loved" (DiscipleLoved), and that this applies also at least to the Last Supper use.
 
-At least one promoter of the view that it's Lazarus instead has argued that the fact that the DiLoved phrase isn't used until after Lazarus' resurrection is evidence that it's Lazarus.
+At least one promoter of the view that it's Lazarus instead has argued that the fact that the DiscipleLoved phrase isn't used until after Lazarus' resurrection is evidence that it's Lazarus.
 
 I see, though, strong evidence in the same chapter as the first use (Last Supper), that a close friend of Peter's, who John is a much better candidate for, had reason to be very focused on a statement of Jesus in that same chapter and event about love.
 
-I see that he's using authorial avoidance all along, including one in John 1 who seems most likely to be either John or James since he was with Andrew, Peter's brother, and we know all four of them worked together as fishermen, and in the Last Supper chapter (as we divide it today), John developed the DiLoved version of the avoidance because now he was introducing why he coined the phrase.
+I see that he's using authorial avoidance all along, including one in John 1 who seems most likely to be either John or James since he was with Andrew, Peter's brother, and we know all four of them worked together as fishermen, and in the Last Supper chapter (as we divide it today), John developed the DiscipleLoved version of the avoidance because now he was introducing why he coined the phrase.
 
 That is:
 
@@ -76,7 +78,7 @@ That is:
 
 35 By this everyone will know that you are my disciples, if you have love for one another.”/</span></blockquote>
 
-Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiLoved phrase. It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused.
+Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiscipleLoved phrase. It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused.
 
 The Last Supper simply happens after the resurrection of Lazarus, so I find that argument to commit the false cause fallacy (that just because something happens later that it was caused by something earlier).
 
@@ -241,11 +243,11 @@ And all of it directly supports that John saw these details and learned authoria
 
 So it's very clear that John used the cases of avoidance as self-reference without the name, much like Christ did in his account of creation.<br><br>
 
-In John's case, the phrase he picked as the self-reference appears to be based on the significant statement Jesus said during the first incident where in the account of it the author of the gospel of John uses the "disciple Jesus loved" phrase (DiLoved).<br><br>
+In John's case, the phrase he picked as the self-reference appears to be based on the significant statement Jesus said during the first incident where in the account of it the author of the gospel of John uses the "disciple Jesus loved" phrase (DiscipleLoved).<br><br>
 
 Remember, in the <i>He</i>Loved section about Lazarus, there's nothing anonymous about it.<br><br>
 
-I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiLoved is Lazarus.<br><br>
+I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiscipleLoved is Lazarus.<br><br>
 
 So, John is seeing, due to authorial avoidance and Christ's signed authorship of Genesis 1-2:4, that the <b>Son</b> is the Light that shone out through the Spirit over the waters.<br><br>
 
@@ -253,19 +255,19 @@ Without these premises, you don't naturally get to the conclusion John clearly r
 
 It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.</blockquote>
 
-I then summarized other arguments that show that if we do take out the John=DiLoved premise, we can still argue for some kind of plurality within the Godhead in Genesis, but it wouldn't be so simple to see that it's three (and three Persons specifically). Some of it stands without NT at all, but it's strengthened by the John premise.
+I then summarized other arguments that show that if we do take out the John=DiscipleLoved premise, we can still argue for some kind of plurality within the Godhead in Genesis, but it wouldn't be so simple to see that it's three (and three Persons specifically). Some of it stands without NT at all, but it's strengthened by the John premise.
 
 So think twice before thinking it doesn't matter whether it's John or Lazarus.
 
-Also, in this case, given that Genesis is obviously the prior context, I'd say the evidential direction is the other way around to an extent, and it's this evidence that backs up that John is DiLoved. (Or at the least, it shows that to be more internally consistent than Laz=DiLoved.)
+Also, in this case, given that Genesis is obviously the prior context, I'd say the evidential direction is the other way around to an extent, and it's this evidence that backs up that John is DiscipleLoved. (Or at the least, it shows that to be more internally consistent than Laz=DiscipleLoved.)
 
 ## HeLoved
 
-A major argument for Lazarus as DiLoved is that messengers tell Jesus that Lazarus is sick, and the wording in John is similar to the "disciple Jesus loved" phrase:
+A major argument for Lazarus as DiscipleLoved is that messengers tell Jesus that Lazarus is sick, and the wording in John is similar to the "disciple Jesus loved" phrase:
 
 > <span class="bbq">/John 11:3 The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”/</span>
 
-One proponent of Laz=DiLoved I found online even claiming this is here said to be the <i>disciple</i> Jesus loved.
+One proponent of Laz=DiscipleLoved I found online even claiming this is here said to be the <i>disciple</i> Jesus loved.
 
 It really only says "he" whom you loved, hence my abbreviation HeLoved.
 
@@ -275,9 +277,9 @@ So this is the <i>author's</i> wording, most likely.
 
 I see this actually as further evidence for John's authorship.
 
-Both because he phrases it differently from DiLoved, and because this author who seems to be close to Peter both in John 21 (final chapter) and at the Last Supper paraphrases the messengers' message in this way.
+Both because he phrases it differently from DiscipleLoved, and because this author who seems to be close to Peter both in John 21 (final chapter) and at the Last Supper paraphrases the messengers' message in this way.
 
-The fact that this is shortly before the Last Supper intro of DiLoved only further supports that John is leading up to the introduction of that term in steps, clarifying up front that Jesus loved others, not only the author.
+The fact that this is shortly before the Last Supper intro of DiscipleLoved only further supports that John is leading up to the introduction of that term in steps, clarifying up front that Jesus loved others, not only the author.
 
 In the longer article I also noted abundant extrabiblical evidence that both the gospel of John and the three epistles of John were written by John, and listed many similar passages in John and 1/2/3 John, including an emphasis on love, and authorial avoidance.
 
@@ -287,7 +289,7 @@ Third-person was also valid for historical narration.
 
 This is the norm for the vast majority of the Bible.
 
-I think if Lazarus was the author of John (to be fair, perhaps not all Laz=DiLoved proponents argue that, but that in itself would be a problem due to John 21), Lazarus would have likely chosen third-person and would have used his name at the Last Supper, at the cross, and in the final chapter, but might have been more hesitant to clearly say he's the author at the end than DiLoved is.
+I think if Lazarus was the author of John (to be fair, perhaps not all Laz=DiscipleLoved proponents argue that, but that in itself would be a problem due to John 21), Lazarus would have likely chosen third-person and would have used his name at the Last Supper, at the cross, and in the final chapter, but might have been more hesitant to clearly say he's the author at the end than DiscipleLoved is.
 
 I think it's significant that the gospels attributed to Mark (top student of Peter's), and the one attributed to John, who worked with Peter and is often shown to be close to him throughout all four gospels, both appear to use authorial avoidance.
 
@@ -303,7 +305,7 @@ It makes much more sense if it's a practice among the inner group (Peter, James,
 
 It's also argued that Caiaphas can't know a fisherman, but is likely to know someone from Bethany. I focused on this a lot in the long article.
 
-For here, suffice to say that most likely Caiaphas knew John as one of the top disciples of Jesus -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiLoved at the cross, seemingly much closer to the cross than others.
+For here, suffice to say that most likely Caiaphas knew John as one of the top disciples of Jesus -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiscipleLoved at the cross, seemingly much closer to the cross than others.
 
 This disciple is also entrusted to take care of Mary, Jesus' mother, and given that John and Mary both normally live in Galilee, so the location argument works both ways, and even knowing a fisherman is hardly impossible, as I explored in great detail in the longer article.
 
@@ -313,11 +315,11 @@ And given that he knew very specific details down to hour of the day for events 
 
 And we similar levels of perspective detail about who is where when in John, especially about who moved where in the courtyard where Peter denied Christ, and where Pilate walked.
 
-Again, it makes much more sense if this is the DiLoved who is the author per John 21.
+Again, it makes much more sense if this is the DiscipleLoved who is the author per John 21.
 
-## DiLoved = Fisherman and "Therefore it is the Lord"
+## DiscipleLoved = Fisherman and "Therefore it is the Lord"
 
-The objection that Caiaphas can't know a fisherman also backfires because the DiLoved in John 21 spends all night fishing, and we're even told that because Jesus gave them accurate fishing instructions, the DiLoved "therefore" said it was the Lord.
+The objection that Caiaphas can't know a fisherman also backfires because the DiscipleLoved in John 21 spends all night fishing, and we're even told that because Jesus gave them accurate fishing instructions, the DiscipleLoved "therefore" said it was the Lord.
 
 This is clearly mirroring a similar incident at their calling, and we're told, as I show in the long version, that this included Peter, Andrew, James, and John.
 
@@ -343,11 +345,11 @@ Another argument, by the way, is that Lazarus is only in John's gospel.
 
 Let's assume that's true for now.
 
-If so, this makes sense, and in a way that would connect John to the unnamed disciple in John 1, and further back up John as DiLoved in John 21, again because Bap was Jesus' cousin and John (son of Zebedee) seems to have been a top disciple of both of them. Basically, both Lazarus and John were close to Jesus.
+If so, this makes sense, and in a way that would connect John to the unnamed disciple in John 1, and further back up John as DiscipleLoved in John 21, again because Bap was Jesus' cousin and John (son of Zebedee) seems to have been a top disciple of both of them. Basically, both Lazarus and John were close to Jesus.
 
 So it would make sense if John wrote John, and had no problem calling Lazarus by name within the book, but not himself, and focused on Lazarus while other gospel writers didn't.
 
-If, however, Lazarus is DiLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), not in so many others, and that he does seem to have a problem with mentioning John by name anywhere.
+If, however, Lazarus is DiscipleLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), not in so many others, and that he does seem to have a problem with mentioning John by name anywhere.
 
 I'm also not convinced Lazarus is only in John.
 
@@ -375,7 +377,89 @@ Also, John may have outlived Lazarus (the second time), and been more free to us
 
 ## That Guy Named John
 
-I also covered in the long article that the author of John refers to Bap as simply John more than others, according to JPH.
+I also covered in the long article that the author of John refers to Bap as simply John more than others, according to JPH. But let's show examples briefly. The following are the introductions to John the Baptist in all four gospels.
+
+<blockquote><span class="bbq">/Matthew 3:1 In those days, John the Baptizer came, preaching in the wilderness of Judea, saying, 2 “Repent, for the Kingdom of Heaven is at hand!”/</span></blockquote>
+
+So Matthew specifies John with the appellation "the Baptizer" or the Baptist.
+
+Mark doesn't, but does have a way to make it clear this is distinct from John ben Zebedee:
+
+<blockquote><span class="bbq">/4 John came baptizing‡ in the wilderness and preaching the baptism of repentance for forgiveness of sins. 5 All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins. 6 John was clothed with camel’s hair and a leather belt around his waist. He ate locusts and wild honey. 7 He preached, saying, “After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen. 8 I baptized you in§ water, but he will baptize you in the Holy Spirit.”<br><br>
+
+9 In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan. 10 Immediately coming up from the water, he saw the heavens parting and the Spirit descending on him like a dove. 11 A voice came out of the sky, “You are my beloved Son, in whom I am well pleased.”<br><br>
+
+12 Immediately the Spirit drove him out into the wilderness. 13 He was there in the wilderness forty days, tempted by Satan. He was with the wild animals; and the angels were serving him.<br><br>
+
+14 Now after John was taken into custody, Jesus came into Galilee, preaching the Good News of God’s Kingdom, 15 and saying, “The time is fulfilled, and God’s Kingdom is at hand! Repent, and believe in the Good News.”<br><br>
+
+16 Passing along by the sea of Galilee, he saw Simon and Andrew, the brother of Simon, casting a net into the sea, for they were fishermen. 17 Jesus said to them, “Come after me, and I will make you into fishers for men.”<br><br>
+
+18 Immediately they left their nets, and followed him.<br><br>
+
+19 Going on a little further from there, he saw James the son of Zebedee, and John his brother, who were also in the boat mending the nets. 20 Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him.<br><br>
+
+21 They went into Capernaum, and immediately on the Sabbath day he entered into the synagogue and taught. 22 They were astonished at his teaching, for he taught them as having authority, and not as the scribes. 23 Immediately there was in their synagogue a man with an unclean spirit, and he cried out, 24 saying, “Ha! What do we have to do with you, Jesus, you Nazarene? Have you come to destroy us? I know who you are: the Holy One of God!”<br><br>
+
+25 Jesus rebuked him, saying, “Be quiet, and come out of him!”<br><br>
+
+26 The unclean spirit, convulsing him and crying with a loud voice, came out of him. 27 They were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching? For with authority he commands even the unclean spirits, and they obey him!” 28 The report of him went out immediately everywhere into all the region of Galilee and its surrounding area.<br><br>
+
+29 Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and John. 30 Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her. 31 He came and took her by the hand and raised her up. The fever left her immediately,† and she served them./</span></blockquote>
+
+So Mark first calls Bap simply John, although he immediately (see what I did there) says he came baptizing, and makes it clear he died before Mark refers to the other John, and he then makes it clear who this John's father was so you would have another way to refer to him (John ben/bar Zebedee). Then he can refer to this new John simply by John, depending on the context when Bap is referred back to (such as in [2:18](https://www.blueletterbible.org/lsb/mar/2/18){:target="_blank"}).
+
+Luke first introduces us to the father of John the Baptist (BapDad):
+
+<blockquote><span class="bbq">/5 There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth. 6 They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord. 7 But they had no child, because Elizabeth was barren, and they both were well advanced in years.<br><br>
+
+...<br><br>
+
+13 But the angel said to him, “Don’t be afraid, Zacharias, because your request has been heard. Your wife, Elizabeth, will bear you a son, and you shall call his name John.<br><br>
+
+...<br><br>
+
+59 On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father. 60 His mother answered, “Not so; but he will be called John.”<br><br>
+
+...<br><br>
+
+15 As the people were in expectation, and all men reasoned in their hearts concerning John, whether perhaps he was the Christ, 16 John answered them all, “I indeed baptize you with water, but he comes who is mightier than I, the strap of whose sandals I am not worthy to loosen. He will baptize you in the Holy Spirit and fire...."<br><br>
+
+...<br><br>
+
+9 For he was amazed, and all who were with him, at the catch of fish which they had caught; 10 and so also were James and John, sons of Zebedee, who were partners with Simon.<br><br>
+
+...<br><br>
+
+33 They said to him, “Why do John’s disciples often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”/</span></blockquote>
+
+By contrast, as we know, John doesn't ever say that one of the sons of Zebedee is named John, and when he introduces the Baptist, he doesn't seem to be in a hurry to identify him as the Baptist:
+
+<blockquote><span class="bbq">/6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the light, that all might believe through him. 8 He was not the light, but was sent that he might testify about the light. 9 The true light that enlightens everyone was coming into the world.<br><br>
+
+10 He was in the world, and the world was made through him, and the world didn’t recognize him. 11 He came to his own, and those who were his own didn’t receive him. 12 But as many as received him, to them he gave the right to become God’s children, to those who believe in his name: 13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.<br><br>
+
+14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth. 15 John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’ ” 16 From his fullness we all received grace upon grace. 17 For the law was given through Moses. Grace and truth were realized through Jesus Christ.§ 18 No one has seen God at any time. The only born† Son,‡ who is in the bosom of the Father, has declared him.<br><br>
+
+19 This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”<br><br>
+
+20 He declared, and didn’t deny, but he declared, “I am not the Christ.”<br><br>
+
+21 They asked him, “What then? Are you Elijah?”<br><br>
+
+He said, “I am not.”<br><br>
+
+“Are you the prophet?”<br><br>
+
+He answered, “No.”<br><br>
+
+22 They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”<br><br>
+
+23 He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’* as Isaiah the prophet said.”<br><br>
+
+24 The ones who had been sent were from the Pharisees. 25 They asked him, “Why then do you baptize if you are not the Christ, nor Elijah, nor the prophet?”<br><br>
+
+26 John answered them, “I baptize in water, but among you stands one whom you don’t know. 27 He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.” 28 These things were done in Bethany beyond the Jordan, where John was baptizing./</span></blockquote>
 
 This makes sense if the author is also named John, and is accustomed to thinking of other people named John as simply John, not needing to clarify that it isn't himself as much as others would.
 
@@ -393,7 +477,7 @@ This was about Jesus and narrators saying that "all" the disciples scattered, ye
 
 This argument has immediate problems in that Peter is also a disciple (though he shortly denies it), and that obviously the "disciple" whom Jesus loved is a disciple.
 
-I find the former is a serious problem for Laz=DiLoved, the latter is questionable, but admittedly the word can be used in multiple senses.
+I find the former is a serious problem for Laz=DiscipleLoved, the latter is questionable, but admittedly the word can be used in multiple senses.
 
 But then, Lazarus could also be among those told that all of them would scatter, or among all disciples said to have scattered, and presumably would be if he was this unnamed disciple since we're told this one was with Peter.
 
@@ -413,7 +497,7 @@ This is important to the debunking of many claimed Bible contradictions, where o
 
 It also highlights the literal nature of Jesus' creation of "all things" that were made in the opening of John; this isn't hyperbole not including himself as Unitarians might argue.
 
-Presumably most arguing for Laz=DiLoved aren't intentionally trying to give leeway to Unitarianism, but they would unwittingly do so if some of the arguments I've found online in support of it are taken seriously, including this one.
+Presumably most arguing for Laz=DiscipleLoved aren't intentionally trying to give leeway to Unitarianism, but they would unwittingly do so if some of the arguments I've found online in support of it are taken seriously, including this one.
 
 I also gave examples against the more general related argument that poetic / nonliteral approaches are open to free interpretation or are generally unclear.
 
@@ -435,19 +519,19 @@ The key there is that different libraries likely would make up different names.
 
 Yet for the four gospels, the titling is unanimous.
 
-This makes it most likely that the four titles are the authors' signatures, so John wrote John. Appealing to the idea that someone else added the name erroneously later (which to be fair, some proponents of Laz=DiLoved didn't argue, but I found at least two who did) is not only theologically questionable at best, but highly unrealistic.
+This makes it most likely that the four titles are the authors' signatures, so John wrote John. Appealing to the idea that someone else added the name erroneously later (which to be fair, some proponents of Laz=DiscipleLoved didn't argue, but I found at least two who did) is not only theologically questionable at best, but highly unrealistic.
 
 ## Miscellaneous Mopup
 
 For this section I'll just cover any other argument not dealt with above for Lazarus as the Disciple Loved, including more obscure ones not covered in the longer article.
 
-Another argument is the DiLoved refraining from going in Jesus' tomb would make sense if it was Lazarus.
+Another argument is the DiscipleLoved refraining from going in Jesus' tomb would make sense if it was Lazarus.
 
 I find that questionable (maybe someone who walked out of a tomb would be less afraid of the things), but if we grant it, there's the problem that this disciple seems to be emphasizing competitiveness with Peter.
 
-This makes more sense if it's someone Peter has known a long time and often is with in travels during Jesus' ministry -- John or James (or in that case maybe Andrew, Peter's brother, but I see similar signs of competitiveness about who arrives where first around Jesus' arrest, and signs that that DiLoved case is likely John).
+This makes more sense if it's someone Peter has known a long time and often is with in travels during Jesus' ministry -- John or James (or in that case maybe Andrew, Peter's brother, but I see similar signs of competitiveness about who arrives where first around Jesus' arrest, and signs that that DiscipleLoved case is likely John).
 
-It's argued that Peter's question about "What about him?" (paraphrase) about DiLoved in John 21 makes sense if it's about Lazarus, since Jesus had just indicated the way Peter would die.
+It's argued that Peter's question about "What about him?" (paraphrase) about DiscipleLoved in John 21 makes sense if it's about Lazarus, since Jesus had just indicated the way Peter would die.
 
 But it also makes sense if Peter is again being competitive with John, or simply close friends with him, etc.
 
@@ -463,7 +547,7 @@ I think it's reasonable that Christians would be unlikely to neglect ensuring Ma
 
 I also pointed out that the argument that Caiaphas most likely doesn't know a particular fisherman (even if we grant that the reason he might know John isn't about John's disciple role or anything else at all) named John is a particularly weak kind of argument from statistics that I call Backwards Statistics Error, or self-refuting generalization.
 
-That is, it asks us to accept as evidence for Laz=DiLoved that an unlikely thing is probably false, but ignores at least one (and probably several) unlikely things in order to get Lazarus to be DiLoved.
+That is, it asks us to accept as evidence for Laz=DiscipleLoved that an unlikely thing is probably false, but ignores at least one (and probably several) unlikely things in order to get Lazarus to be DiscipleLoved.
 
 The thing I agree is unlikely is Caiaphas knowing John simply in John's status as a Galilean fisherman.
 
@@ -479,7 +563,7 @@ It's argued that Lazarus likely was with Jesus in his final week, since Lazarus 
 
 It's argued Lazarus would be likely to want to put the emphasis on Jesus to use authorial avoidance, but then he fails much more so than John, since Lazarus is named several times.
 
-Even the argument that HeLoved=DiLoved, which is used by at least one proponent who is also using this same argument, would, if it really implied that, be cluing the reader in likely too obviously that HeLoved=Author. So then Lazarus shouldn't have been named in any of the gospels.
+Even the argument that HeLoved=DiscipleLoved, which is used by at least one proponent who is also using this same argument, would, if it really implied that, be cluing the reader in likely too obviously that HeLoved=Author. So then Lazarus shouldn't have been named in any of the gospels.
 
 Or else, if he was so central as to write one of the gospels, it's odd that nobody else mentions him (except arguably Luke by implication).
 
@@ -487,7 +571,7 @@ And you wouldn't be able to use the protective anonymity premise to explain that
 
 Seems like a stretch.
 
-Also the implication seems to be that those who think John wrote John (and/or is the DiLoved) have speculated so much about why John would use this authorial avoidance, that therefore it's a problem that it's John.
+Also the implication seems to be that those who think John wrote John (and/or is the DiscipleLoved) have speculated so much about why John would use this authorial avoidance, that therefore it's a problem that it's John.
 
 But the proponent who's doing this is himself speculating a reason about Lazarus doing this.
 
@@ -499,13 +583,13 @@ While that's fine, and consistent with ancient writing approaches if Lazarus had
 
 As far as I can see, everything about Lazarus could have been known to John, without Lazarus needing to assist in writing it or being interviewed later, etc.
 
-Frankly, given so much overwhelming that DiLoved and the author are both John, I must wonder if the argument needs to instead be that Lazarus *is* John!
+Frankly, given so much overwhelming that DiscipleLoved and the author are both John, I must wonder if the argument needs to instead be that Lazarus *is* John!
 
 It's argued based on "we" know that his testinmony is true, in John 21:24, that this might be John and Lazarus.
 
 And, again, it certainly can include Lazarus, but this is more likely referring to everybody involved, and/or to top students of John like Polycarp who likely helped with the gospel. It seems a bit of a stretch to see Lazarus as specifically called out here, or even in view at all.
 
-It's asked why Peter asked DiLoved to pass on the question about who the traitor is at the Last Supper, and suggested that it's because the traitor is one of the twelve, and Lazarus isn't. But again, Peter's close friendship with John (or friendly rivalry) would also explain this, and without resorting to such roundabout reasoning.
+It's asked why Peter asked DiscipleLoved to pass on the question about who the traitor is at the Last Supper, and suggested that it's because the traitor is one of the twelve, and Lazarus isn't. But again, Peter's close friendship with John (or friendly rivalry) would also explain this, and without resorting to such roundabout reasoning.
 
 It's argued John couldn't write a gospel, as a fisherman.
 
@@ -521,7 +605,7 @@ Acts 4 is also claimed by one proponent to say that Caiaphas didn't know who Joh
 
 > <span class="bbq">/Acts 4:13 Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus./</span>
 
-It's argued that both DiLoved and Lazarus ate next to Jesus. So, too, might a top disciple like John.
+It's argued that both DiscipleLoved and Lazarus ate next to Jesus. So, too, might a top disciple like John.
 
 It's argued that after Lazarus was raised, he might switch to following Jesus around. But so might a known top-three student be following Jesus around.
 
@@ -578,7 +662,7 @@ There is some loose evidence that could be taken as arguing for Lazarus, but all
 
 Some of the evidence even seems to narrow it down to John specifically -- just looking at internal evidence and data from the other three gospels, and the three epistles of John, and Revelation (not looking at external attribution).
 
-Oddly I found that several proponents of Lazarus as the Disciple Loved are under a strange impression that John as author and DiLoved is supported mainly, or even only, by external tradition! It's difficult to square this claim with the text.
+Oddly I found that several proponents of Lazarus as the Disciple Loved are under a strange impression that John as author and DiscipleLoved is supported mainly, or even only, by external tradition! It's difficult to square this claim with the text.
 
 To me that looks like confirmation bias.
 
@@ -607,7 +691,10 @@ So I think we're justified in concluding that beyond reasonable doubt, as far as
 
 #### For this page:
 
-(None listed yet.)
+- **DiscipleLoved** = Disciple whom Jesus Loved.
+- **HeLoved** = He whom Jesus loved (we're told this is Lazarus). (He whom you love" or "One you love" in various translations of John 11:3, turned to third-person.)
+- **literall** = literal "all" (or a synonym), indicated in Hebrew "language culture" with repetition, the more the merrier.
+- **nonliterall** = non-literal "all" (or synonyms). A single use of an "all" word most likely just means "most" or "nearly all." Context, logic flow of it, etc. may also imply some individual "all" statements may be literal as well as shorthand, but don't assume a singular all is literal or absolute.
 
 {% include bibleseekcommonabbreviations.md %}
 

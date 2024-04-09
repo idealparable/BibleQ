@@ -5,7 +5,7 @@
 
 An obvious initial problem is that this disciple is said to be the author of the gospel of John, in the final chapter. So did Lazarus write John?
 
-My answer below will be no, that's highly unlikely. As I understand it, arguments for Lazarus as the "Disciple Loved," or DiLoved as I'll call it for short, are making some important misunderstandings related (hopefully unintentionally) to some core doctrine (especially Trinity), apologetics (debunking countless Bible contradictions), and proper interpretation (how to know when "all" is literal).
+My answer below will be no, that's highly unlikely. As I understand it, arguments for Lazarus as the "Disciple Loved," or DiscipleLoved as I'll call it for short, are making some important misunderstandings related (hopefully unintentionally) to some core doctrine (especially Trinity), apologetics (debunking countless Bible contradictions), and proper interpretation (how to know when "all" is literal).
 
 I'll try to walk through major arguments pro/con with Scriptural quotes backing it up, and explain why I think John phrased things this way.
 
@@ -77,9 +77,9 @@ Much about that is highly disputed by others, and isn't the primary focus of thi
 
 And I think we can see where and why John likely started to place personal importance on the word "love" as reflected throughout his writing style in both the gospel and his epistles -- even in his very report of the messengers about Lazarus.
 
-This is the mark of John's authorship and identity as the disciple Jesus loved (DiLoved)!
+This is the mark of John's authorship and identity as the disciple Jesus loved (DiscipleLoved)!
 
-One of Jesus' statements in John's version of the chapter where the DiLoved phrase is first used looks like it's the reason this was impressed on John -- note, right after Peter asked him (if it's him) to ask Jesus who was the betrayer; that would psychologically "wake John up" to pay even closer attention to everything surrounding this event than even anyone else:
+One of Jesus' statements in John's version of the chapter where the DiscipleLoved phrase is first used looks like it's the reason this was impressed on John -- note, right after Peter asked him (if it's him) to ask Jesus who was the betrayer; that would psychologically "wake John up" to pay even closer attention to everything surrounding this event than even anyone else:
 
 **John 13:**
 
@@ -91,7 +91,7 @@ John focuses on this -- if John is writing this gospel, as it seems crystal clea
 
 This would influence his common word choice.
 
-Note that the DiLoved phrase is first used in this chapter, right at the part where Peter asks him to ask Jesus.
+Note that the DiscipleLoved phrase is first used in this chapter, right at the part where Peter asks him to ask Jesus.
 
 This is a clear physchological connection between the phrase and this crucial statement by Jesus. Remember that John wrote this later -- long after this statement would have impressed itself on John's memory and heavily affected his typical wording style.
 
@@ -100,7 +100,7 @@ Let's start to look at specific arguments and evidence.
 
 ## Don't Quote the Messenger
 
-One error that may be being made by Laz=DiLoved proponents (arguments may vary, and I'm not assuming it's an error but hear me out) is based on seeing this passage as definitely *quoting* the messengers (the phrase in question I'll put in bold emphasis):
+One error that may be being made by Laz=DiscipleLoved proponents (arguments may vary, and I'm not assuming it's an error but hear me out) is based on seeing this passage as definitely *quoting* the messengers (the phrase in question I'll put in bold emphasis):
 
 John 11:
 
@@ -124,7 +124,7 @@ Let's sum up this phrase "he whom you love" or its meaning, 'he whom Jesus loved
 
 We know that "**HeLoved**" = Lazarus.
 
-Does HeLoved = DiLoved? (DiscipleLoved?)
+Does HeLoved = DiscipleLoved? (DiscipleLoved?)
 
 Note: This does mean that Jesus' statement in John 13 isn't necessarily quoted either. But it makes sense that John is passing on Jesus' statement on this. Jesus is paraphrased or potentially quoted as making similar statements in other gospels, such as this:
 
@@ -140,7 +140,7 @@ So this focus on the word love and relating it to commandments comes from Jesus 
 
 I'll try to walk through a lot of examples of similar wordings in John and 1/2/3 John later.
 
-First, let's focus on most of the pro-Lazarus-as-DiLoved arguments that I've been able to find from some promoters online.
+First, let's focus on most of the pro-Lazarus-as-DiscipleLoved arguments that I've been able to find from some promoters online.
 
 
 ## Non-LiterALL
@@ -155,7 +155,7 @@ John 16:
 
 First, although it's not my main point, how far do they need to be to qualify for "leave me alone"? I suggest they all scattered, and "left him alone," and perhaps eventually literally all went home separately (they may even have taken that part as instructions by that point), but in any case, my main argument allows for that this isn't literal.
 
-The pro-Lazarus-as-DiLoved argument (which may vary) in this case appears to assume that "all" means literally all, in all cases -- or, perhaps, implies an argument that if it doesn't, we have a problem.
+The pro-Lazarus-as-DiscipleLoved argument (which may vary) in this case appears to assume that "all" means literally all, in all cases -- or, perhaps, implies an argument that if it doesn't, we have a problem.
 
 Not so, as I understand it.
 
@@ -608,7 +608,7 @@ So the other disciple, who was known to the high priest, went out and spoke to h
 
 This doesn't include the "loved" part, but it does include the anonymity, oddness of the anonymity (occasional references to various unnamed disciples aren't necessarily surprising, but this one is emphasized and the wording used a few times here), and, obviously, the word "disciple."
 
-Parsimoniously, this is the same one referred to by the DiLoved phrase in the incident with the dipping of bread, and in the final chapter of John.
+Parsimoniously, this is the same one referred to by the DiscipleLoved phrase in the incident with the dipping of bread, and in the final chapter of John.
 
 Now I find this argument *somewhat plausible,* because there can be two senses of "disciple."
 
@@ -691,7 +691,7 @@ Far more likely it's a "lower target."
 
 But Peter shows that he "feels the heat" (so to speak, in the cold, while trying to stay warm by the fire), so all the more, Lazarus would, when Peter denies Christ three times (specifically denies being a "disciple" of him, ironically, in John's wording in John 18:17,25, then denies being in Gethsemane in 26-27), as Christ foretold he would.
 
-That this unnamed disciple who is known to the high priest is only mentioned in John (the gospel), and the identity of the fisherman DiLoved with the Last Supper DiLoved (read on) makes it clear that anonymity and the word "disciple" are the author's mark, and all the evidence that the author is John (again read on for deets), makes it highly likely that this is the author expressing his own perspective.
+That this unnamed disciple who is known to the high priest is only mentioned in John (the gospel), and the identity of the fisherman DiscipleLoved with the Last Supper DiscipleLoved (read on) makes it clear that anonymity and the word "disciple" are the author's mark, and all the evidence that the author is John (again read on for deets), makes it highly likely that this is the author expressing his own perspective.
 
 Note again how detailed it is about specifically who moved where when:
 
@@ -727,7 +727,7 @@ John 19:
 
 Note here that "the disciple whom he loved" is placed in parallel with "the disciple." That can be just normal shortening for the second reference, but it might also comment back on "the disciple" earlier who came with Peter to the courtyard, and this is almost certainly the same one here.
 
-Since DiLoved is, again almost certainly, the apostle John per logic from the final chapter of the gospel, this is John. And so the disciple who was known to the high priest, Caiaphas, is John.
+Since DiscipleLoved is, again almost certainly, the apostle John per logic from the final chapter of the gospel, this is John. And so the disciple who was known to the high priest, Caiaphas, is John.
 
 Why?
 
@@ -811,7 +811,7 @@ Life works by you work for food. You farm, or you fish, or you hunt, or you gath
 
 Or else, you work in some kind of indirect support work for this, or for providing shelter, or amenities, or else you're an elite, and you work at some unrelated task, and those who obtain money (the "certificate that you served your fellow man") get their food from someone else -- whether directly from a food producer, or from a food distribution worker or workers.
 
-If the idea is that a chief priest would not associate with a fisherman (which will be a problematic argument for saying DiLoved is Lazarus as it is, since the final chapter of John places DiLoved trying to fish all night with Peter etc.), or a farmer, or a hunter, or a gatherer... or a food distributor...
+If the idea is that a chief priest would not associate with a fisherman (which will be a problematic argument for saying DiscipleLoved is Lazarus as it is, since the final chapter of John places DiscipleLoved trying to fish all night with Peter etc.), or a farmer, or a hunter, or a gatherer... or a food distributor...
 
 That may very well be so in the sense of Caiaphas himself, but once we understand embedding, we understand that servants of Caiaphas, of the temple, etc., provide him and the other elites with food.
 
@@ -922,7 +922,7 @@ Some "set of fishermen" (S) is "set of people not known to Caiaphas" (P).
 
 Therefore all "set of fisherman" (S) is "set of people not known to Caiaphas" (P).
 
-(And then, since John is a fisherman, therefore John is not known to Caiaphas. Ignore the problem that DiLoved spent a whole night fishing in John 21.)
+(And then, since John is a fisherman, therefore John is not known to Caiaphas. Ignore the problem that DiscipleLoved spent a whole night fishing in John 21.)
 
 Specifically it's a subtype of what I call "parts fallacy" -- the general category of fallacies that wrongly claim that what applies to a part of a whole applies to the whole, or vice versa. This subtype argues from a MOST to an ALL, or at least from a MOST to a LARGER MOST, without warrant.
 
@@ -1222,14 +1222,14 @@ And as said at the start, I'm not assuming I'm right, despite how strongly-worde
 
 It could easily be that many people know some arguments I haven't been able to find, and that perhaps some of them would overturn all of this.
 
-The goal here is more to report what I already know and to do some of the groundwork in some of the more obviously relevant areas like John 21, or John 1, or the first use of DiLoved, as an initial default answer (not assuming it).
+The goal here is more to report what I already know and to do some of the groundwork in some of the more obviously relevant areas like John 21, or John 1, or the first use of DiscipleLoved, as an initial default answer (not assuming it).
 
 
 ## Fishy
 
 Let's look at the final chapter of John now, and see why it seems fishy to argue that the Unnamed Disciple who let Peter in can't be John because John as a fisherman can't know Caiaphas.
 
-That is that the DiLoved seems to be a fisherman.
+That is that the DiscipleLoved seems to be a fisherman.
 
 Here, we're *granting* the backwards statistics error, for sake of argument, just to see what would happen.
 
@@ -1237,17 +1237,17 @@ After all, the fact that it's an error of likelihoods doesn't rule out that Caia
 
 So now we're saying that Caiaphas essentially can't know fishermen.
 
-And we're wondering if there's evidence DiLoved is a fisherman.
+And we're wondering if there's evidence DiscipleLoved is a fisherman.
 
-Such that if one of the people called DiLoved is Lazarus, there would have to be multiple people given that "the disciple Jesus loved" appellation in the gospel of John, and it can't be the one in the final chapter, if that one is a fisherman.
+Such that if one of the people called DiscipleLoved is Lazarus, there would have to be multiple people given that "the disciple Jesus loved" appellation in the gospel of John, and it can't be the one in the final chapter, if that one is a fisherman.
 
 And as we'll see, it then also couldn't be the one the first time the phrase is used, at the Last Supper.
 
 On the premise of fisherman-association-free Caiaphas.
 
-(And as shown earlier above, the DiLoved seems to be the Unnamed Disciple.)
+(And as shown earlier above, the DiscipleLoved seems to be the Unnamed Disciple.)
 
-At the end of the chapter we'll also see that DiLoved is (very strongly apparently) the author of the gospel of John.
+At the end of the chapter we'll also see that DiscipleLoved is (very strongly apparently) the author of the gospel of John.
 
 John 21:
 
@@ -1792,7 +1792,7 @@ Jesus said to Simon, “Don’t be afraid. From now on you will be catching peop
 
 11 When they had brought their boats to land, they left everything, and followed him./
 
-Jesus is re-enacting this, in John 21. And notice that the DiLoved "therefore" said it's Jesus. Not that he looked closer and saw it was him, but because of the re-enactment of something *he was present for.*
+Jesus is re-enacting this, in John 21. And notice that the DiscipleLoved "therefore" said it's Jesus. Not that he looked closer and saw it was him, but because of the re-enactment of something *he was present for.*
 
 So... read the Luke passage *again.* We know the sons of Zebedee were there!
 
@@ -1800,7 +1800,7 @@ So... read the Luke passage *again.* We know the sons of Zebedee were there!
 
 Two hundred cubits is, as the footnote says: \|Approx. 100 yd. or 91 m, a cubit was approx. 18 in. or 45 cm\|.
 
-That confirms it's too far for them to have recognized Jesus. At least his face; perhaps if he still had familiar clothes. But I think it's pretty clear that the DiLoved is John connecting the dots to what Jesus did in the Luke passage.
+That confirms it's too far for them to have recognized Jesus. At least his face; perhaps if he still had familiar clothes. But I think it's pretty clear that the DiscipleLoved is John connecting the dots to what Jesus did in the Luke passage.
 
 /9 So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it. 10 Jesus said to them, “Bring some of the fish which you have just caught.”
 
@@ -1846,7 +1846,7 @@ Then there was this which I had no idea of:
 
 Probably this is a coincidence that the mother of someone I think we present at Jesus' arrest (Mark) happens to be named Mary (we do know John and Mary are common names, obviously), but based just on this snippet, it could be that the one told to take care of her at the cross is Mark. But... probably just a different Mary? Not sure if anything in the context makes it clear either way.
 
-But it made me wonder if in fact, DiLoved is Mark... I hope I'm joking? But yeah. Doesn't fit all of the evidence that it has to be the author of John, who apparently has to be John (son of Zebedee... not John called Mark). But that was a surprise.
+But it made me wonder if in fact, DiscipleLoved is Mark... I hope I'm joking? But yeah. Doesn't fit all of the evidence that it has to be the author of John, who apparently has to be John (son of Zebedee... not John called Mark). But that was a surprise.
 
 Back to John 21:
 
@@ -1866,7 +1866,7 @@ Jesus said to him, “Feed my sheep. 18  Most certainly I tell you, when you wer
 
 20 Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus loved, the one who had also leaned on Jesus’ chest at the supper and asked, “Lord, who is going to betray you?”/
 
-This is where we have our confirmation that Last Supper DiLoved = John 21 Boat DiLoved.
+This is where we have our confirmation that Last Supper DiscipleLoved = John 21 Boat DiscipleLoved.
 
 /21 Peter, seeing him, said to Jesus, “Lord, what about this man?”
 
@@ -2053,7 +2053,7 @@ Against the idea of contradictory chronologies, JPH writes:
 
 I'm quoting this more for the list of verses at the end. I haven't checked them, though I did note one of them earlier, but it supports that a very familiar eyewitness wrote it. Not sure it makes as much sense to put Lazarus in those early events listed here. Given that John the Baptist was hanging out in the wilderness and the Jordan, it makes more sense to me that a fisherman would be the unnamed disciple so close to John.
 
-Of course, we do have our weird, possibly unintentional implied argument that Lazarus might be a fisherman in John 21, if we presuppose the DiLoved there is Laz.
+Of course, we do have our weird, possibly unintentional implied argument that Lazarus might be a fisherman in John 21, if we presuppose the DiscipleLoved there is Laz.
 
 For the primary purpose of John, this is relevant:
 
@@ -2073,11 +2073,11 @@ This would help support that the same author may have written John and Revelatio
 
 
 ### Coop Mode
-What if both John and Lazarus wrote John, and Lazarus is sometimes the DiLoved, sometimes John?
+What if both John and Lazarus wrote John, and Lazarus is sometimes the DiscipleLoved, sometimes John?
 
 Or one wrote it but frequently used the other as a source?
 
-It's possible, at least the "coop" part of this idea, but it seems almost irrelevant to DiLoved's identity or identities re all the above overwhelming evidence. I think more likely John just knew more about Lazarus, and knew Lazarus through Jesus.
+It's possible, at least the "coop" part of this idea, but it seems almost irrelevant to DiscipleLoved's identity or identities re all the above overwhelming evidence. I think more likely John just knew more about Lazarus, and knew Lazarus through Jesus.
 
 But as mentioned earlier, the approach in writing ancient documents seems to have been largely cooperative anyway.
 
@@ -2694,11 +2694,11 @@ And all of it directly supports that John saw these details and learned authoria
 
 So it's very clear that John used the cases of avoidance as self-reference without the name, much like Christ did in his account of creation.
 
-In John's case, the phrase he picked as the self-reference appears to be based on the significant statement Jesus said during the first incident where in the account of it the author of the gospel of John uses the "disciple Jesus loved" phrase (DiLoved).
+In John's case, the phrase he picked as the self-reference appears to be based on the significant statement Jesus said during the first incident where in the account of it the author of the gospel of John uses the "disciple Jesus loved" phrase (DiscipleLoved).
 
 Remember, in the <i>He</i>Loved section about Lazarus, there's nothing anonymous about it.
 
-I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiLoved is Lazarus.
+I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiscipleLoved is Lazarus.
 
 So, John is seeing, due to authorial avoidance and Christ's signed authorship of Genesis 1-2:4, that the <b>Son</b> is the Light that shone out through the Spirit over the waters.
 
@@ -2885,7 +2885,7 @@ But if in fact the details of the opening, avoided self-referential naming, and 
 
 #### For this page:
 
-- **DiLoved** / **DiscipleLoved** = Disciple whom Jesus Loved.
+- **DiscipleLoved** = Disciple whom Jesus Loved.
 - **HeLoved** = He whom Jesus loved (we're told this is Lazarus).
 - **literall** = literal "all" (or a synonym), indicated in Hebrew "language culture" with repetition, the more the merrier.
 - **nonliterall** = non-literal "all" (or synonyms). A single use of an "all" word most likely just means "most" or "nearly all." Context, logic flow of it, etc. may also imply some individual "all" statements may be literal as well as shorthand, but don't assume a singular all is literal or absolute.
