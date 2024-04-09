@@ -1,7 +1,7 @@
 {% include bibleseekheader.md %}
 # Did Lazarus Write John? Is he the Disciple Jesus Loved?
 
-**Bible Question:** Did Lazarus write the gospel of John? Or did John? Is Lazarus the "disciple Jesus Loved"? Does it matter?
+**Bible Question:** Did Lazarus write the gospel of John? Or did John? Is Lazarus the "*disciple* whom Jesus loved"? Does it matter?
 
 My answer will be that the author and the disciple Jesus loved are both John, evidently, and it matters indirectly to some surprisingly important topics, including:
 
