@@ -167,7 +167,7 @@ This fits distinct Personhood yet the same Being in biblical Trinitarianism.
 
 John sees creation as being performed through Christ.
 
-This is also explained if my hypothesis is correct; Genesis is hinting that the signer of the account is the one who did important actions that usually are phrased in a way that avoids mention of who did them.
+This is also explained if my hypothesis is correct; Genesis is hinting that the signer of the account is the one who carried out, to some extent, the creative work usually is phrased in a way that avoids mention of who did it.
 
 Even when it does say God made, to explain how "it was so," this is rare within the passage.
 
