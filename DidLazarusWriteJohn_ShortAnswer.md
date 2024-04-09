@@ -174,7 +174,9 @@ The society of Wrede's day was one of limitless good, and without such heavy con
 
 One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.|</blockquote>
 
-So in short, <b>Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah</b>, as counterintuitive as that might seem to moderns used to literal language to a greater extent, or used to thinking that such devices are "unclear" (a societal "rule" that didn't develop until the Industrial Revolution because <span class="ebq">\|machines tolerate no imprecision\|</span> as one of JPH's social science sources puts it).
+So in short, <b>Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah</b>, as counterintuitive as that might seem to moderns used to literal language to a greater extent, or used to thinking that such devices are "unclear."
+
+That idea that such language constructions would be too unclear is a societal "rule" that didn't develop until the Industrial Revolution because <span class="ebq">\|machines tolerate no imprecision\|</span> as one of JPH's social science sources puts it (Malina, cited by JPH above but in a different book and with different co-author; Pilch and Malina in the Handbook of Biblical Social Values).
 
 In fact, in their culture there were "semantic contracts" similar to our sarcasm where a statement isn't taken as literal, thus isn't deceptive.
 
@@ -224,9 +226,9 @@ But since the Father is the ultimate authority in terms of functional role (not 
 
 John sees creation as being performed through Christ.
 
-This is also explained if my hypothesis is correct; Genesis is hinting that the signer of the account is the one who carried out, to some extent, the creative work usually is phrased in a way that avoids mention of who did it.
+This is also explained if my hypothesis is correct; Genesis is hinting that the signer of the account is the one who carried out, to some extent, the creative work that is usually phrased in a way that avoids mention of who did it.
 
-Even when it does say God made, to explain how "it was so," this is rare within the passage.
+Even when it does say God made, to explain how "it was so," this is rare within this section of Genesis.
 
 And **John sees Jesus as light and thinks to put this not just associated with heaven as Daniel does but with creation**.
 
@@ -295,17 +297,17 @@ Remember, in the <i>He</i>Loved section about Lazarus, there's nothing anonymous
 
 I see in this, as said near the start of this article, thus, John expressing his newfound style of phrasing, in paraphrasing the messengers, not a hint that DiscipleLoved is Lazarus.<br><br>
 
-So, John is seeing, due to authorial avoidance and Christ's signed authorship of Genesis 1-2:4, that the <b>Son</b> is the Light that shone out through the Spirit over the waters.<br><br>
+<b>So, John is seeing, due to authorial avoidance and Christ's signed authorship of Genesis 1-2:4, that the <i>Son</i> is the Light that shone out through the Spirit over the waters.</b><br><br>
 
 Without these premises, you don't naturally get to the conclusion John clearly reached that led him to phrase things as he did.<br><br>
 
 It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.</blockquote>
 
-I then summarized other arguments that show that if we do take out the John=DiscipleLoved premise, we can still argue for some kind of plurality within the Godhead in Genesis, but it wouldn't be so simple to see that it's three (and three Persons specifically). Some of it stands without NT at all, but it's strengthened by the John premise.
+I then summarized other arguments in the long article that show that if we do take out the John=DiscipleLoved premise, we can still argue for some kind of plurality within God in Genesis, but it wouldn't be so simple to see that it's three (and three Persons specifically). Some of it stands without NT at all, but it's strengthened by the John premise.
 
 So think twice before thinking it doesn't matter whether it's John or Lazarus.
 
-Also, in this case, given that Genesis is obviously the prior context, I'd say the evidential direction is the other way around to an extent, and it's this evidence that backs up that John is DiscipleLoved. (Or at the least, it shows that to be more internally consistent than Laz=DiscipleLoved.)
+Also, in this case, given that Genesis is obviously the prior context, I'd say the evidential direction is the other way around to an extent, and it's this evidence that backs up that John is DiscipleLoved and the author of John. (Or at the least, it shows that to be more internally consistent than Laz=DiscipleLoved.)
 
 ## HeLoved
 
@@ -313,7 +315,7 @@ A major argument for Lazarus as DiscipleLoved is that messengers tell Jesus that
 
 > <span class="bbq">/John 11:3 The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”/</span>
 
-One proponent of Laz=DiscipleLoved I found online even claiming this is here said to be the <i>disciple</i> Jesus loved.
+One proponent of Laz=DiscipleLoved I found online even claimed that this is here said to be the <i>disciple</i> Jesus loved.
 
 It really only says "he" whom you loved, hence my abbreviation HeLoved.
 
@@ -329,57 +331,63 @@ The fact that this is shortly before the Last Supper intro of DiscipleLoved only
 
 In the longer article I also noted abundant extrabiblical evidence that both the gospel of John and the three epistles of John were written by John, and listed many similar passages in John and 1/2/3 John, including an emphasis on love, and authorial avoidance.
 
-John does self-identify within the body text for Revelation. I cover why I think that's not a problem in detail there; in short, it was mainly historical narrative that had the problem, not prophetic works or epistles, and Revelation is a mix of both (compare Isaiah's first-person in-text self-references and the many like it in Paul for example).
+John does say his name within the body text for Revelation. I cover why I think that's not a problem in detail there; in short, it was mainly historical narrative that had the problem, not prophetic works or epistles, and Revelation is a mix of both (compare Isaiah's first-person in-text self-references and the many like it in Paul for example).
 
-Third-person was also valid for historical narration.
+<b>Third-person was also valid for historical narration.</b>
 
-This is the norm for the vast majority of the Bible.
+<b>This is the norm for the vast majority of the Bible.</b>
 
-I think if Lazarus was the author of John (to be fair, perhaps not all Laz=DiscipleLoved proponents argue that, but that in itself would be a problem due to John 21), Lazarus would have likely chosen third-person and would have used his name at the Last Supper, at the cross, and in the final chapter, but might have been more hesitant to clearly say he's the author at the end than DiscipleLoved is.
+I think **if Lazarus was the author of John** (to be fair, perhaps not all Laz=DiscipleLoved proponents argue that, but that in itself would be a problem due to John 21), **Lazarus would have likely chosen third-person and would have used his name at the Last Supper, at the cross, and in the final chapter, but might have been more hesitant to clearly say he's the author at the end than DiscipleLoved is**.
 
-I think it's significant that the gospels attributed to Mark (top student of Peter's), and the one attributed to John, who worked with Peter and is often shown to be close to him throughout all four gospels, both appear to use authorial avoidance.
+I think it's **significant that the gospels attributed to Mark (top student of Peter's), and the one attributed to John, who worked with Peter and is often shown to be close to him throughout all four gospels, both appear to use authorial avoidance**.
 
-Yet Matthew uses the normal third-person in his gospel, and Luke uses weird (anonymous) first-person in his introductions (as if he mixed the epistle norm with the anonymity-in-body-text).
+**Yet Matthew uses the normal third-person in his gospel**, and Luke uses weird (anonymous) first-person in his introductions (as if he mixed the epistle norm with the anonymity-in-body-text).
 
 Mark has one anonymous young man fleeing at the arrest of Jesus, and John has many anonymous cases of third person, and closes by clarifying that that person is the author, self-referenced with first-person.
 
 So it seems this practice is associated not just with the 12 or other top disciples, but specifically with Peter... and... Lazarus?
 
-It makes much more sense if it's a practice among the inner group (Peter, James, and John), or even just Peter and John, than that the practice skipped over Matthew, who traveled along for Jesus' ministry, yet then shows up with Lazarus, who evidently (normally?) didn't.
+It **makes much more sense if it's a practice among the inner group (Peter, James, and John), or even just Peter and John, than that the practice skipped over Matthew, who traveled along for Jesus' ministry, yet then shows up with Lazarus, who evidently (normally?) didn't**.
 
 ## Disciple Known to Caiaphas
 
 It's also argued that Caiaphas can't know a fisherman, but is likely to know someone from Bethany. I focused on this a lot in the long article.
 
-For here, suffice to say that most likely Caiaphas knew John as one of the top disciples of Jesus -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiscipleLoved at the cross, seemingly much closer to the cross than others.
+**Most likely Caiaphas knew John as one of the top disciples of Jesus** -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiscipleLoved at the cross, seemingly much closer to the cross than others.
 
 This disciple is also entrusted to take care of Mary, Jesus' mother, and given that John and Mary both normally live in Galilee, so the location argument works both ways, and even knowing a fisherman is hardly impossible, as I explored in great detail in the longer article.
 
-It's true that the unnamed disciple in John 1 is in Bethany at one point, which would make some sense if it's Lazarus, but is traveling with Andrew, evidently, and clearly isn't Peter since Andrew had to tell Peter about what he found out (Jesus=Christ). So it's most likely James or John.
+It's true that **the unnamed disciple in John 1** is in Bethany at one point, which would make some sense if it's Lazarus, but **is traveling with Andrew, evidently, and clearly isn't Peter since Andrew had to tell Peter about what he found out (Jesus=Christ). So it's most likely James or John.**
 
-And given that he knew very specific details down to hour of the day for events in John 1, I think this is the author -- John.
+**And given that he knew very specific details down to hour of the day for events in John 1, I think this is the author -- John.**
 
-And we similar levels of perspective detail about who is where when in John, especially about who moved where in the courtyard where Peter denied Christ, and where Pilate walked.
+And we see similar levels of perspective detail about who is where when in John, especially about who moved where in the courtyard where Peter denied Christ, and where Pilate walked.
 
 Again, it makes much more sense if this is the DiscipleLoved who is the author per John 21.
 
 ## DiscipleLoved = Fisherman and "Therefore it is the Lord"
 
-The objection that Caiaphas can't know a fisherman also backfires because the DiscipleLoved in John 21 spends all night fishing, and we're even told that because Jesus gave them accurate fishing instructions, the DiscipleLoved "therefore" said it was the Lord.
+**The objection that Caiaphas can't know a fisherman also backfires because the DiscipleLoved in John 21 spends all night fishing, and we're even told that because Jesus gave them accurate fishing instructions, the DiscipleLoved "therefore" said it was the Lord.**
 
-This is clearly mirroring a similar incident at their calling, and we're told, as I show in the long version, that this included Peter, Andrew, James, and John.
+This is **clearly mirroring a similar incident at their calling, and we're told, as I show in the long version, that this included Peter, Andrew, James, and *John*.**
 
-Note that the next verse makes it clear they were much too far away for the "therefore" to be about recognizing Jesus' appearance.
+Note that the **next verse makes it clear they were much too far away for the "therefore" to be about recognizing Jesus' appearance**.
 
-It clearly means someone present during the original call -- a fisherman -- was recognizing that Jesus was re-enacting that event.
+It **clearly means someone present during the original call -- a fisherman -- was recognizing that Jesus was re-enacting that event**.
 
-We're also told the names of three onboard -- Peter, Thomas, and Nathanael (who I showed in long version is likely Bartholomew), then "sons of Zebedee," then two unnamed others.
+We're also told the names of three of the seven onboard -- Peter, Thomas, and Nathanael (who I showed in long version is likely Bartholomew), then "sons of Zebedee," then two unnamed others.
 
 I see a switch to authorial avoidance but with a strong hint, in changing to avoiding the direct names midway through this list.
 
-It could be argued that you don't really have to be a fisherman to go aboard a fisherman's boat (although the captain/owner of that boat might disagree), or you could at least help out, so maybe one of the two is Lazarus.
+And in listing sons of Zebedee without explanation of who they are, which John might do, but would seem unnecessary for others.
 
-I showed, though, that most likely it's Andrew and Philip (associated with Bartholomew/Nathanael), and the reason they aren't named is for plausible deniability (not literally denying) so the authorial avoidance can be preserved.
+Of course, the author likely expected readers to know it from the other gospels, but many other things are knowable from them like the name of Peter's brother that we're told, yet otherwise the sons of Zebedee are conspicuously missing.
+
+It's difficult to see why Lazarus would do that.
+
+It could be argued that you don't really have to be a fisherman to go aboard a fisherman's boat (although the captain/owner of that boat might disagree), or you could at least help out with something like rowing, so maybe one of the two is Lazarus.
+
+I showed, though, in the long article that most likely it's Andrew and Philip (associated with Bartholomew/Nathanael), and the reason they aren't named is for plausible deniability (not literally denying) so the authorial avoidance can be preserved.
 
 (Plausible for a reader to think the author might be one of them instead of one of the sons of Zebedee -- but if it isn't John, why not just list James and John, and then say two others? So the author also hints that he's either James or John. And we see John associated with Peter much more often.)
 
@@ -419,31 +427,41 @@ It doesn't necessarily mean that; perhaps Lazarus as a leper was cut off from hi
 
 In any case, I think it's most likely that one of these is the case, I just have no idea which one.
 
-Also, John may have outlived Lazarus (the second time), and been more free to use his name more openly when he wrote his gospel than the other three.
+Some argue Lazarus is Simon the Leper, which might support the third option, but others dispute this. Some also argue both are Simon the Pharisee, which seems to be more often rejected, but would help explain why Lazarus knew Caiaphas, but it would be weird if a leper knows Caiaphas, former Pharisee or not, or at least would be allowed in the gate.
+
+I'm not sure what to think about that at time of writing. I'll say that another idea is possible that Simon is Lazarus' father. People were sometimes referred to by their father's name or their son's name, or a reference to one or the other might include the other in some contexts, like Noah cursing Canaan, son of Ham, in order to curse Ham.
+
+It's also even suggested that leprousy might be what Lazarus died of, but the timing there is weird if he was already friends with Jesus, who is known for healing lepers.
+
+Also, John may have outlived Lazarus (the second time), and been more free to use his name more openly when he wrote his gospel than the other three, although he makes it clear that many people already knew about his resurrection by Jesus, which Jesus seems to have intended (likely balancing that as far as he could go without having the authorities actually arrest Lazarus).
+
+It would make more sense to me if Lazarus was the father of Simon the Pharisee, and Simon was literally the leper, perhaps referred to in the Luke parable by the name of his father (Lazarus, likely a Greek version of Eleazar), and Lazarus originally died from other complications due to being older, but there are many factors so it's difficult to say for sure. If so, though, it would make Lazarus a poor candidate to write the latest gospel, and three epistles.
+
+In any case, the name Lazarus in the parable could also be unrelated or just loosely alluding to this Lazarus. Since Eleazar means God is my help (Godhelps or Godhelped), it would make sense to name the character that in the parable, as Lazarus received no help from the rich man in life.
 
 ## That Guy Named John
 
-I also covered in the long article that the author of John refers to Bap as simply John more than others, according to JPH. But let's show examples briefly. The following are the introductions to John the Baptist in all four gospels.
+I also covered in the long article that **the author of John refers to Bap as simply John more than others**, according to JPH, **consistent with being himself named John, so he habitually has less need to think of clarifying which John is meant in any given passage**. But let's show examples briefly. The following are the introductions to John the Baptist in all four gospels.
 
-<blockquote><span class="bbq">/Matthew 3:1 In those days, John the Baptizer came, preaching in the wilderness of Judea, saying, 2 “Repent, for the Kingdom of Heaven is at hand!”/</span></blockquote>
+<blockquote><span class="bbq">/Matthew 3:1 In those days, <b>John the Baptizer</b> came, preaching in the wilderness of Judea, saying, 2 “Repent, for the Kingdom of Heaven is at hand!”/</span></blockquote>
 
-So Matthew specifies John with the appellation "the Baptizer" or the Baptist.
+So Matthew originally specifies John with the appellation "the Baptizer" or the Baptist.
 
 Mark doesn't, but does have a way to make it clear this is distinct from John ben Zebedee:
 
-<blockquote><span class="bbq">/4 John came baptizing‡ in the wilderness and preaching the baptism of repentance for forgiveness of sins. 5 All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins. 6 John was clothed with camel’s hair and a leather belt around his waist. He ate locusts and wild honey. 7 He preached, saying, “After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen. 8 I baptized you in§ water, but he will baptize you in the Holy Spirit.”<br><br>
+<blockquote><span class="bbq">/4 <b>John came baptizing‡</b> in the wilderness and preaching the baptism of repentance for forgiveness of sins. 5 All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins. 6 <b>John</b> was clothed with camel’s hair and a leather belt around his waist. He ate locusts and wild honey. 7 He preached, saying, “After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen. 8 I baptized you in§ water, but he will baptize you in the Holy Spirit.”<br><br>
 
-9 In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan. 10 Immediately coming up from the water, he saw the heavens parting and the Spirit descending on him like a dove. 11 A voice came out of the sky, “You are my beloved Son, in whom I am well pleased.”<br><br>
+9 In those days, Jesus came from Nazareth of Galilee, and <b>was baptized by John in the Jordan</b>. 10 Immediately coming up from the water, he saw the heavens parting and the Spirit descending on him like a dove. 11 A voice came out of the sky, “You are my beloved Son, in whom I am well pleased.”<br><br>
 
 12 Immediately the Spirit drove him out into the wilderness. 13 He was there in the wilderness forty days, tempted by Satan. He was with the wild animals; and the angels were serving him.<br><br>
 
-14 Now after John was taken into custody, Jesus came into Galilee, preaching the Good News of God’s Kingdom, 15 and saying, “The time is fulfilled, and God’s Kingdom is at hand! Repent, and believe in the Good News.”<br><br>
+14 Now <i>after <b>John</b> was taken into custody</i>, Jesus came into Galilee, preaching the Good News of God’s Kingdom, 15 and saying, “The time is fulfilled, and God’s Kingdom is at hand! Repent, and believe in the Good News.”<br><br>
 
 16 Passing along by the sea of Galilee, he saw Simon and Andrew, the brother of Simon, casting a net into the sea, for they were fishermen. 17 Jesus said to them, “Come after me, and I will make you into fishers for men.”<br><br>
 
 18 Immediately they left their nets, and followed him.<br><br>
 
-19 Going on a little further from there, he saw James the son of Zebedee, and John his brother, who were also in the boat mending the nets. 20 Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him.<br><br>
+19 Going on a little further from there, he saw <b>James the son of Zebedee, and John his brother</b>, who were also in the boat mending the nets. 20 Immediately he called them, and <b>they left their father, Zebedee</b>, in the boat with the hired servants, and went after him.<br><br>
 
 21 They went into Capernaum, and immediately on the Sabbath day he entered into the synagogue and taught. 22 They were astonished at his teaching, for he taught them as having authority, and not as the scribes. 23 Immediately there was in their synagogue a man with an unclean spirit, and he cried out, 24 saying, “Ha! What do we have to do with you, Jesus, you Nazarene? Have you come to destroy us? I know who you are: the Holy One of God!”<br><br>
 
@@ -451,43 +469,43 @@ Mark doesn't, but does have a way to make it clear this is distinct from John be
 
 26 The unclean spirit, convulsing him and crying with a loud voice, came out of him. 27 They were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching? For with authority he commands even the unclean spirits, and they obey him!” 28 The report of him went out immediately everywhere into all the region of Galilee and its surrounding area.<br><br>
 
-29 Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and John. 30 Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her. 31 He came and took her by the hand and raised her up. The fever left her immediately,† and she served them./</span></blockquote>
+29 Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and <b>John</b>. 30 Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her. 31 He came and took her by the hand and raised her up. The fever left her immediately,† and she served them./</span></blockquote>
 
 So Mark first calls Bap simply John, although he immediately (see what I did there) says he came baptizing, and makes it clear he died before Mark refers to the other John, and he then makes it clear who this John's father was so you would have another way to refer to him (John ben/bar Zebedee). Then he can refer to this new John simply by John, depending on the context when Bap is referred back to (such as in [2:18](https://www.blueletterbible.org/lsb/mar/2/18){:target="_blank"}).
 
 Luke first introduces us to the father of John the Baptist (BapDad):
 
-<blockquote><span class="bbq">/5 There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth. 6 They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord. 7 But they had no child, because Elizabeth was barren, and they both were well advanced in years.<br><br>
+<blockquote><span class="bbq">/5 There was in the days of Herod, the king of Judea, <b>a certain priest named Zacharias</b>, of the priestly division of Abijah. <b>He had a wife</b> of the daughters of Aaron, <b>and her name was Elizabeth</b>. 6 They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord. 7 But they had no child, because Elizabeth was barren, and they both were well advanced in years.<br><br>
 
 ...<br><br>
 
-13 But the angel said to him, “Don’t be afraid, Zacharias, because your request has been heard. Your wife, Elizabeth, will bear you a son, and you shall call his name John.<br><br>
+13 But the angel said to him, “Don’t be afraid, <b>Zacharias</b>, because your request has been heard. <b>Your wife, Elizabeth, will bear you a son, and you shall call his name John</b>.<br><br>
 
 ...<br><br>
 
-59 On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father. 60 His mother answered, “Not so; but he will be called John.”<br><br>
+59 On the eighth day, they came to circumcise the child; and <b>they would have called him Zacharias, after the name of his father. 60 His mother answered, “Not so; but he will be called John.”</b><br><br>
 
 ...<br><br>
 
-15 As the people were in expectation, and all men reasoned in their hearts concerning John, whether perhaps he was the Christ, 16 John answered them all, “I indeed baptize you with water, but he comes who is mightier than I, the strap of whose sandals I am not worthy to loosen. He will baptize you in the Holy Spirit and fire...."<br><br>
+15 As the people were in expectation, and all men reasoned in their hearts concerning <b>John</b>, whether perhaps he was the Christ, 16 <b>John</b> answered them all, <i>“<b>I indeed baptize you with water</b>, <b>but</b> <b>he comes who</b> is mightier than I, the strap of whose sandals I am not worthy to loosen. He <b>will baptize you in the Holy Spirit and fire</b>...."</i><br><br>
 
 ...<br><br>
 
-9 For he was amazed, and all who were with him, at the catch of fish which they had caught; 10 and so also were James and John, sons of Zebedee, who were partners with Simon.<br><br>
+9 <b>For he was amazed, and all who were with him, at the catch of fish which they had caught; 10 and so also were James and John, sons of Zebedee, who were partners with Simon.</b><br><br>
 
 ...<br><br>
 
-33 They said to him, “Why do John’s disciples often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”/</span></blockquote>
+33 They said to him, “Why do <b>John’s disciples</b> often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”/</span></blockquote>
 
 By contrast, as we know, John doesn't ever say that one of the sons of Zebedee is named John, and when he introduces the Baptist, he doesn't seem to be in a hurry to identify him as the Baptist:
 
-<blockquote><span class="bbq">/6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the light, that all might believe through him. 8 He was not the light, but was sent that he might testify about the light. 9 The true light that enlightens everyone was coming into the world.<br><br>
+<blockquote><span class="bbq">/6 There came <b>a man sent from God, whose name was John</b>. 7 The same came as <b>a witness, that he might testify</b> about the light, that all might believe through him. 8 <b>He was not the light</b>, but was sent that he might <b>testify about the light</b>. 9 The true light that enlightens everyone was coming into the world.<br><br>
 
 10 He was in the world, and the world was made through him, and the world didn’t recognize him. 11 He came to his own, and those who were his own didn’t receive him. 12 But as many as received him, to them he gave the right to become God’s children, to those who believe in his name: 13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.<br><br>
 
-14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth. 15 John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’ ” 16 From his fullness we all received grace upon grace. 17 For the law was given through Moses. Grace and truth were realized through Jesus Christ.§ 18 No one has seen God at any time. The only born† Son,‡ who is in the bosom of the Father, has declared him.<br><br>
+14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth. 15 <b>John testified</b> about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’ ” 16 From his fullness we all received grace upon grace. 17 For the law was given through Moses. Grace and truth were realized through Jesus Christ.§ 18 No one has seen God at any time. The only born† Son,‡ who is in the bosom of the Father, has declared him.<br><br>
 
-19 This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”<br><br>
+19 This is <b>John’s testimony</b>, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”<br><br>
 
 20 He declared, and didn’t deny, but he declared, “I am not the Christ.”<br><br>
 
@@ -503,9 +521,9 @@ He answered, “No.”<br><br>
 
 23 He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’* as Isaiah the prophet said.”<br><br>
 
-24 The ones who had been sent were from the Pharisees. 25 They asked him, “Why then do you baptize if you are not the Christ, nor Elijah, nor the prophet?”<br><br>
+24 The ones who had been sent were from the Pharisees. 25 <b>They asked him, “Why then do you baptize</b> if you are not the Christ, nor Elijah, nor the prophet?”<br><br>
 
-26 John answered them, “I baptize in water, but among you stands one whom you don’t know. 27 He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.” 28 These things were done in Bethany beyond the Jordan, where John was baptizing./</span></blockquote>
+26 <b>John answered them, “I baptize in water</b>, but among you stands one whom you don’t know. 27 He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.” 28 <b>These things were done in Bethany beyond the Jordan, where John was baptizing</b>./</span></blockquote>
 
 This makes sense if the author is also named John, and is accustomed to thinking of other people named John as simply John, not needing to clarify that it isn't himself as much as others would.
 
@@ -688,6 +706,8 @@ It also seems to be only with the Twelve. Here's the passage:
 See also [Mark 14:12-17](https://www.blueletterbible.org/lsb/mar/14/12){:target="_blank"}, [Matthew 26:17-20](https://www.blueletterbible.org/lsb/mat/26/17){:target="_blank"}. They also mention "the city" and that he would recline at the table with the twelve, not with the owner of the house. The message to the owner seems to clearly explain that it would just be Jesus and the Twelve. It's possible others were present, including the owner, though. But it seems clear it's in Jerusalem, and that the disciples would be next to Jesus, not others.
 
 John also says in 18:1 that they went to the "other side" of the Kidron Valley, to the garden. Checking a map quickly, Kidron is between Jerusalem and Gethsemane. It isn't between Bethany and Gethsemane.
+
+(Also, per John 1:28, it seems Bethany may be across the Jordan, or there are two Bethanies or it might be on both sides? I'm unclear on that at time of writing, but it seems like two locations or two parts of one larger area, or perhaps baptizing "beyond the Jordan" just means the part of the Jorden nearest to Bethany, and on the other side opposite Bethany? Unsure, but one google result claims Bethany beyond the Jordan is actually much further north, within one day's journey of Galilee; if true this would further make John son of Zebedee more likely and Lazarus less so.)
 
 So yes, it was Jerusalem, not Bethany, so whoever the host was, it seems it can't have been Lazarus. And if the host was there, whoever it was could have been on Jesus' other side from John.
 
