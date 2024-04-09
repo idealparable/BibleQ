@@ -130,8 +130,9 @@ This is for example behind why Jesus typically ordered people not to tell others
 <blockquote>|We may first note that there were social reasons why Jesus had to be circumspect in His proclamations of divinity:<br><br>
 
 <blockquote>
-<ul>a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military;</ul>
-<ul>the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.</u>
+* a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military;
+
+* the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.
 </blockquote>
 
 By this line of thinking, as Charlesworth puts it, "Any self-designation only proves that the proclaimer cannot be the Messiah." Thus, <b>Jesus' relative silence on the issue "may well be an implicit indication that he thought of himself as the Messiah</b>." (ibid.) We have also noted that the Messianic secret theory misses the point that despite these admonitions to silence, Jesus' subjects did go out and tell the story anyway.<br><br>
