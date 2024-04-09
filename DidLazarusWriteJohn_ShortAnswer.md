@@ -43,6 +43,7 @@ This is the short answer version of a longer groundwork article / study notes / 
   - [NonliterALL](#nonliterall)
   - [Scroll Tags Not Optional](#scroll-tags-not-optional)
   - [Miscellaneous Mopup](#miscellaneous-mopup)
+  - [Conclusion](#conclusion)
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
   - [Abbreviations](#abbreviations)
@@ -434,7 +435,7 @@ The key there is that different libraries likely would make up different names.
 
 Yet for the four gospels, the titling is unanimous.
 
-This makes it most likely that the four titles are the authors' signatures, so John wrote John.
+This makes it most likely that the four titles are the authors' signatures, so John wrote John. Appealing to the idea that someone else added the name erroneously later (which to be fair, some proponents of Laz=DiLoved didn't argue, but I found at least two who did) is not only theologically questionable at best, but highly unrealistic.
 
 ## Miscellaneous Mopup
 
