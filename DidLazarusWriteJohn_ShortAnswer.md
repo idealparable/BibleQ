@@ -290,11 +290,11 @@ So it seems this practice is associated not just with the 12 or other top discip
 
 It makes much more sense if it's a practice among the inner group (Peter, James, and John), or even just Peter and John, than that the practice skipped over Matthew, who traveled along for Jesus' ministry, yet then shows up with Lazarus, who evidently (normally?) didn't.
 
-## Disciple Known to Caiphas
+## Disciple Known to Caiaphas
 
 It's also argued that Caiaphas can't know a fisherman, but is likely to know someone from Bethany. I focused on this a lot in the long article.
 
-For here, suffice to say that most likely Caiphas knew John as one of the top disciples of Jesus -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiLoved at the cross, seemingly much closer to the cross than others.
+For here, suffice to say that most likely Caiaphas knew John as one of the top disciples of Jesus -- a face often spotted near when Jesus was causing trouble for the leadership -- and this disciple is associated with Peter as well, and seems to be the same one identified as the DiLoved at the cross, seemingly much closer to the cross than others.
 
 This disciple is also entrusted to take care of Mary, Jesus' mother, and given that John and Mary both normally live in Galilee, so the location argument works both ways, and even knowing a fisherman is hardly impossible, as I explored in great detail in the longer article.
 

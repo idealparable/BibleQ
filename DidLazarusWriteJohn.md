@@ -647,7 +647,7 @@ John was "just" a fisherman.
 
 True, although to use this as an argument seems dubious; even if we grant for sake of argument that he's just as normal a mere fisherman as every other fisherman, and that this would mean that in that status alone, he can't be known to the high priest, why can't he become known to him in some sense later like knowing he's one of Jesus' inner circle?
 
-But let's grant it all for now, for sake of argument. Caiphas is simply hopelessly uninformed, and he only knows Lazarus because connections and Lazarus lived nearby, we'll say.
+But let's grant it all for now, for sake of argument. Caiaphas is simply hopelessly uninformed, and he only knows Lazarus because connections and Lazarus lived nearby, we'll say.
 
 Then there's a bit of a problem:
 
@@ -741,7 +741,7 @@ In a worst-case scenario where the only explanation can be tied to John as he wa
 
 First, John and James were of a fisherman family. This makes it possible they were a somewhat successful one. Any success at all is possible to open up connections to elites like Caiaphas. The same idea is used to suggest how Lazarus might be known to him, although Lazarus lived much closer.
 
-Second, we can't rule out a family connection without data to the contrary. Some uncle of John's might be a local synagogue leader who might have some connection to Caiphas, or to the Jerusalem leadership in general.
+Second, we can't rule out a family connection without data to the contrary. Some uncle of John's might be a local synagogue leader who might have some connection to Caiaphas, or to the Jerusalem leadership in general.
 
 Third, what does "known to the high priest" mean specifically and how do we know?
 
@@ -1393,7 +1393,7 @@ Imagine for a moment that this is John, of Galilee, and he was in Bethany, with 
 
 Who is John the Baptist to Caiaphas?
 
-Well, is he totally unknown? No, he's at the very least someone that Caiphas probably had to know about. I don't know who was high priest at this particular time, but Caiaphas still would likely know about John the Baptist. If he somehow escaped knowing who Jesus' inner circle was, it becomes even more implausible that he escaped knowing who John's inner circle was.
+Well, is he totally unknown? No, he's at the very least someone that Caiaphas probably had to know about. I don't know who was high priest at this particular time, but Caiaphas still would likely know about John the Baptist. If he somehow escaped knowing who Jesus' inner circle was, it becomes even more implausible that he escaped knowing who John's inner circle was.
 
 Lazarus very well might already be involved; like I said at the start of this absurdly long Answer main section, it isn't surprising if John and Lazarus knew each other. Jesus may have called John not entirely out of the blue, even if John didn't know Bap. And if he did, Bap is Jesus' cousin.
 
@@ -1838,7 +1838,7 @@ There were some interesting finds in Acts.
 
 In Acts 4, after (in 3) Peter and John were preaching, they're arrested and we're told in 4:5-6 that rulers/elders/scribes were gathered, and Annas the high priest, Caiaphas, and John and Alexander, /and all who were of high-priestly descent./ (LSB)
 
-Really doesn't matter, but it's interesting that evidently someone of high-priestly descent (I think that last phrase is meant to modify all four of these names) is listed right after Caiaphas, and we know of two people named John tied to Galilee, and there's also John the Baptist and yeah. Potentially two people named John were known to Caiphas. It's totally irrelevant probably, but hey.
+Really doesn't matter, but it's interesting that evidently someone of high-priestly descent (I think that last phrase is meant to modify all four of these names) is listed right after Caiaphas, and we know of two people named John tied to Galilee, and there's also John the Baptist and yeah. Potentially two people named John were known to Caiaphas. It's totally irrelevant probably, but hey.
 
 Then there was this which I had no idea of:
 
