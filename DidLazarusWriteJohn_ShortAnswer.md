@@ -129,17 +129,18 @@ This is for example behind why Jesus typically ordered people not to tell others
 
 <blockquote>|We may first note that there were social reasons why Jesus had to be circumspect in His proclamations of divinity:<br><br>
 
-<blockquote>a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military; the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.</blockquote>
+<blockquote>- a need for Jesus to avoid the loaded term "Messiah" which might be assumed to be military; 
+- the social constraint of Jewish apocryphal texts, including the Psalms of Solomon and 4 Ezra, which said that only God could declare who the Messiah was.</blockquote>
 
 By this line of thinking, as Charlesworth puts it, "Any self-designation only proves that the proclaimer cannot be the Messiah." Thus, <b>Jesus' relative silence on the issue "may well be an implicit indication that he thought of himself as the Messiah</b>." (ibid.) We have also noted that the Messianic secret theory misses the point that despite these admonitions to silence, Jesus' subjects did go out and tell the story anyway.<br><br>
 
 But there was an even more primary social reason for <b>Jesus' hesitation for word to spread of himself and his work</b>. Pilch and Malina explain in the Handbook of Biblical Social Values [59ff] three social paradigms that come into play:<br><br>
 
-Envy -- the begrudging of possession of some quality or object by another.<br><br>
+<blockquote>1. Envy -- the begrudging of possession of some quality or object by another.<br><br>
 
-Limited Good -- the ancient perception that all good things are limited and finite in quantity, including intangibles, like:<br><br>
+2. Limited Good -- the ancient perception that all good things are limited and finite in quantity, including intangibles, like:<br><br>
 
-Honor -- the accord given by a person to others, a value in the ancient world that they took as seriously as we today take paying the bills.<br><br>
+3. Honor -- the accord given by a person to others, a value in the ancient world that they took as seriously as we today take paying the bills.</blockquote>
 
 Taken together, these factors tell us that Jesus' reticence is an example of what would have been regarded as honorable behavior in the ancient world. <b>For Jesus to have been plain about his divinity and Messianic nature in public would have aroused serious envy (as we do see it did, from his opponents, <i>especially in John</i>)</b> as he would have been claiming a high level of honor, and this would have been seen as drawing from the well of honor, which was a "limited good". Thus to make such claims would have been seen as taking honor from others.<br><br>
 
