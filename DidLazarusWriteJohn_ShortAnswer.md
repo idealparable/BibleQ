@@ -326,19 +326,59 @@ So it would make sense if John wrote John, and had no problem calling Lazarus by
 
 If, however, Lazarus is DiLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), not in so many others, and that he does seem to have a problem with mentioning John by name anywhere.
 
+I'm also not convinced Lazarus is only in John.
+
+Luke also has Jesus using a name for a person in a parable, which is very odd for Jesus (and Luke, and any of the gospels), and it's also about someone who dies, and there's even someone who wants him to come back to life.
+
+I see three likely explanations.
+
+Jesus may have been alluding to Lazarus' resurrection.
+
+Regardless of whether the parable came first, or the raising of Lazarus, this works. In the one case, a prophetic hint, in the other, people would see it as alluding to the themes of what he demonstrated with Lazarus and making it more memorable (and that value would also work later with the prophetic case).
+
+That's two of the main options.
+
+The third is that Jesus is passing on a true story about Lazarus.
+
+He may have done this at times in some of his parables. After all, he's omniscient; he can easily use true stories in his metaphors, seeing how something that he saw as happening that fits common events that people will be familiar with, for example, related to the thing he's teaching.
+
+This one seems a bit unlikely due to the Lazarus in the parable seemingly having been poor and afflicted all the way to death.
+
+It doesn't necessarily mean that; perhaps Lazarus as a leper was cut off from his family's wealth and restored if Jesus healed him, and Jesus is just skipping over those details irrelevant to the parable.
+
+In any case, I think it's most likely that one of these is the case, I just have no idea which one.
+
+Also, John may have outlived Lazarus (the second time), and been more free to use his name more openly when he wrote his gospel than the other three.
+
 ## That Guy Named John
 
 I also covered in the long article that the author of John refers to Bap as simply John more than others, according to JPH.
 
 This makes sense if the author is also named John, and is accustomed to thinking of other people named John as simply John, not needing to clarify that it isn't himself as much as others would.
 
-I also noticed that he refers to Peter's father's name, John. In the long article I thought that was unique to the gospel of John due to a word search turning up no other results, though I noticed weirdly that WEBP translates it Jonah even though the word is the same as John. After writing that article I noticed that Matthew does have it, but fused as one word with the Aramaic "son of" bar at the front, when Jesus responds to Peter's confession of faith. Still, this only reduces the weight of the evidence; it remains so that John (gospel) has cases of emphasis on the name of Peter's father, which happens to be John.
+I also noticed that he refers to Peter's father's name, John. In the long article I thought that was unique to the gospel of John due to a word search turning up no other results, though I noticed weirdly that WEBP translates it Jonah even though the word is the same as John.
+
+After writing that article I noticed that Matthew does have it, but fused as one word with the Aramaic "son of" bar at the front, when Jesus responds to Peter's confession of faith, as "baryona" (Barjona; Bar Jona). This might be where WEBP got the idea that it's Jonah. But from what I found, it does look like in Hebrew Jonah and John are essentially the same thing.
+
+Still, this only reduces the weight of the evidence; it remains so that John (gospel) has cases of emphasis on the name of Peter's father, which happens to be John.
 
 Also, this is Jesus' statement (paraphrase of it most likely), and so is the one in John 21 (well, the three). So it seems like Jesus was the one saying it, but it still seems like John made sure to include it possibly because he notices when people are named John.
 
 ## NonliterALL
 
-I covered in detail in the long article also about how to know when "all" (or synonyms) is (most likely) literal versus when it's at least somewhat likely to be what we would call hyperbole.
+This was about Jesus and narrators saying that "all" the disciples scattered, yet the unnamed disciple who Caiaphas knew (or a servant of his may have known, etc. -- see section on embedding in the longer article) didn't scatter, so it's argued, so must not be a disciple.
+
+This argument has immediate problems in that Peter is also a disciple (though he shortly denies it), and that obviously the "disciple" whom Jesus loved is a disciple.
+
+I find the former is a serious problem for Laz=DiLoved, the latter is questionable, but admittedly the word can be used in multiple senses.
+
+But then, Lazarus could also be among those told that all of them would scatter, or among all disciples said to have scattered, and presumably would be if he was this unnamed disciple since we're told this one was with Peter.
+
+That aside, let's grant that "disciples scattered" can be a smaller group than disciples in general, and ignore the Peter problem. And I granted and cited in the long article that "disciple" can indeed have as wide a meaning as any Christian.
+
+On those premises, they could argue that "all" has to be a literal all (of the type of disciple that doesn't include Lazarus), or that if it doesn't we have a problem as you wouldn't be able to tell when all wasn't literal.
+
+I covered in detail in the long article about how to know when "all" (or synonyms) is (most likely) literal versus when it's at least somewhat likely to be what we would call hyperbole.
 
 Basically a single use is likely hyperbole, just cluing the reader in that a large majority / group / percentage is involved.
 
@@ -346,7 +386,155 @@ Two or more uses push toward literal.
 
 I showed a standard example of "literALL" (literal all) in Genesis about the Flood's extent, with many repetitions.
 
-A good example of nonliterall
+This is important to the debunking of many claimed Bible contradictions, where one passage will say all of something is such and such, and another will show an exception.
+
+It also highlights the literal nature of Jesus' creation of "all things" that were made in the opening of John; this isn't hyperbole not including himself as Unitarians might argue.
+
+Presumably most arguing for Laz=DiLoved aren't intentionally trying to give leeway to Unitarianism, but they would unwittingly do so if some of the arguments I've found online in support of it are taken seriously, including this one.
+
+I also gave examples against the more general related argument that poetic / nonliteral approaches are open to free interpretation or are generally unclear.
+
+For example when Jesus told some negative parables and his opponents perceived that he was speaking about them, or Nathan's metaphor about the sheep when confronting David about his sin with Bathsheba and against Uriah.
+
+It's true that poetic devices are sometimes legitimately less clear than literal statements (like an intentionally cryptic prophecy), but then sometimes a literal statement is less effective at communication as people might pay less attention to a boring statement, and an apt analogy can help teach a principle in common with the thing being analogized.
+
+## Miscellaenous Mopup
+
+For this section I'll just cover any other argument not dealt with above for Lazarus as the Disciple Loved, including more obscure ones not covered in the longer article.
+
+Another argument is the DiLoved refraining from going in Jesus' tomb would make sense if it was Lazarus.
+
+I find that questionable (maybe someone who walked out of a tomb would be less afraid of the things), but if we grant it, there's the problem that this disciple seems to be emphasizing competitiveness with Peter.
+
+This makes more sense if it's someone Peter has known a long time and often is with in travels during Jesus' ministry -- John or James (or in that case maybe Andrew, Peter's brother, but I see similar signs of competitiveness about who arrives where first around Jesus' arrest, and signs that that DiLoved case is likely John).
+
+It's argued that Peter's question about "What about him?" (paraphrase) about DiLoved in John 21 makes sense if it's about Lazarus, since Jesus had just indicated the way Peter would die.
+
+But it also makes sense if Peter is again being competitive with John, or simply close friends with him, etc.
+
+It's argued that Lazarus, who along with Mary and Martha seems to be wealthy (given the expensiveness of the gift Judas complained about), would be better able to support Mary than John.
+
+But John took her into his own home, so if it was in Bethany, she would have had to move there, whereas John also lived in Galilee.
+
+Lazarus may have fled since he was targeted for execution as well, but then that might not be as safe for Mary. Similarly, Lazarus would not likely go right into the courtyard of the high priest, the very people trying to kill him. On both counts, a "lower target" like John seems a better candidate.
+
+And aside from John possibly being on the wealthier side as a fisherman than others (which would also help explain why Caiaphas might know him), there's also Christian charity, even if we don't factor in that the apostles might have had authority to direct funds where needed.
+
+I think it's reasonable that Christians would be unlikely to neglect ensuring Mary, the mother of Christ himself, was well taken care of, no matter whose home she was in.
+
+I also pointed out that the argument that Caiaphas most likely doesn't know a particular fisherman (even if we grant that the reason he might know John isn't about John's disciple role or anything else at all) named John is a particularly weak kind of argument from statistics that I call Backwards Statistics Error, or self-refuting generalization.
+
+That is, it asks us to accept as evidence for Laz=DiLoved that an unlikely thing is probably false, but ignores at least one (and probably several) unlikely things in order to get Lazarus to be DiLoved.
+
+The thing I agree is unlikely is Caiaphas knowing John simply in John's status as a Galilean fisherman.
+
+But it's also unlikely that even the elite of elites knows no non-elites.
+
+Non-elites can easily include fishermen, even fishermen from Galilee. They could have both been invited to some event, perhaps John as representative of his fishing family (as they seem to be), and the son of thunder was noticeable in his speech... or any such thing, like a distant relative in common, or a relative who's a synagogue leader who has connections to Caiaphas.
+
+Each particular such explanation is by itself unlikely, but it's actually very likely that at least one of them could happen with some fisherman.
+
+Put another way, it's likely Caiaphas doesn't know any one particular fisherman, but highly unlikely that Caiaphas doesn't know ANY Galilean fishermen in any of these ways.
+
+It's argued that Lazarus likely was with Jesus in his final week, since Lazarus lived in Bethany, but so was John, as a close disciple -- and all the more so that he would be actually with him, not just living nearby.
+
+It's argued Lazarus would be likely to want to put the emphasis on Jesus to use authorial avoidance, but then he fails much more so than John, since Lazarus is named several times.
+
+Even the argument that HeLoved=DiLoved, which is used by at least one proponent who is also using this same argument, would, if it really implied that, be cluing the reader in likely too obviously that HeLoved=Author. So then Lazarus shouldn't have been named in any of the gospels.
+
+Or else, if he was so central as to write one of the gospels, it's odd that nobody else mentions him (except arguably Luke by implication).
+
+And you wouldn't be able to use the protective anonymity premise to explain that anymore, unless Lazarus only had his gospel released at his death?
+
+Seems like a stretch.
+
+Also the implication seems to be that those who think John wrote John (and/or is the DiLoved) have speculated so much about why John would use this authorial avoidance, that therefore it's a problem that it's John.
+
+But the proponent who's doing this is himself speculating a reason about Lazarus doing this.
+
+And even if he hadn't, that many people will be less informed or attentive to figure out why John did isn't really an argument. Of course some will do that for virtually anything.
+
+It's argued they both wrote it.
+
+While that's fine, and consistent with ancient writing approaches if Lazarus had been around (they were usually cooperative with anybody near you, within your "community", and in their type of culture, that could be anyone at any time) this is basically just conceding everything (or some unclear amount of it), yet wanting to have the cake too. It's just as easy for John to have simply wrote about people Jesus was close to from what John knew.
+
+As far as I can see, everything about Lazarus could have been known to John, without Lazarus needing to assist in writing it or being interviewed later, etc.
+
+Frankly, given so much overwhelming that DiLoved and the author are both John, I must wonder if the argument needs to instead be that Lazarus *is* John!
+
+It's argued based on "we" know that his testinmony is true, in John 21:24, that this might be John and Lazarus.
+
+And, again, it certainly can include Lazarus, but this is more likely referring to everybody involved, and/or to top students of John like Polycarp who likely helped with the gospel. It seems a bit of a stretch to see Lazarus as specifically called out here, or even in view at all.
+
+It's asked why Peter asked DiLoved to pass on the question about who the traitor is at the Last Supper, and suggested that it's because the traitor is one of the twelve, and Lazarus isn't. But again, Peter's close friendship with John (or friendly rivalry) would also explain this, and without resorting to such roundabout reasoning.
+
+It's argued John couldn't write a gospel, as a fisherman.
+
+In one case because he supposedly wouldn't know Greek, but Greek was the official language per GM (see end notes) of trade for fishermen.
+
+In another case because Peter and John are supposedly said to be illiterate in Acts 4.
+
+But it really just says unlearned and ignorant, from the perspective of their opponents. Even if illiterate, they could easily dictate to a scribe. I showed possible evidence that Peter did this for 1st, and likely 2nd Peter, although it's argued by others that this might refer to a messenger (Silvanus/Silas) rather than a scribe per se.
+
+Either way, use of scribes was normal, and would be easily possible for the leaders of the Christian movement.
+
+Acts 4 is also claimed by one proponent to say that Caiaphas didn't know who John was, but it looks to me like it's saying the exact opposite; that they recognize Peter and John as disciples of Jesus. A weird translation is appealed to in order to make it look vague enough that it might mean what's argued ("took knowledge of them"), but most say things like this from WEBP:
+
+> <span class=bbq">/Acts 4:13 Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus./</span>
+
+It's argued that both DiLoved and Lazarus ate next to Jesus. So, too, might a top disciple like John.
+
+It's argued that after Lazarus was raised, he might switch to following Jesus around. But so might a known top-three student be following Jesus around.
+
+Incredibly, one source argues based on the lack of "Zebedee stories."
+
+I'd counter that, first, the book is bookended by two major self-referencing Zebedee stories that make it very clear the author is John, and second, this source doesn't seem to be aware that a general avoidance of many of the incidents involving John ben Zebedee that other gospels freely report is a big part of exactly what we would expect if it was written by John in their culture.
+
+It's really that the book tells *different* "Zebedee stories" (instances of association with Peter especially) from the other gospels, which makes sense if the author is one son of Zebedee.
+
+It's argued that the host would sit next to the chief guest (Jesus) at the Last Supper, but this was evidently in Jerusalem, not Bethany; why would Lazarus be the host in Jerusalem?
+
+It's then argued it wasn't Jerusalem after all, but Bethany, but then why did Jesus go so far to the garden of Gethsemane, which is thought to be right next to Jerusalem, while Bethany is much further away?
+
+We're told in John 12 that Jesus was in Bethany, and then comes to Jerusalem, with the triumphal entry, then the Last Supper begins. Is Judas expected to travel all the way at night from Bethany to Jerusalem, and Jesus and his disciples nearly all the way, then Judas first checks Gethsemane? Or did the arresting crowd go all the way to Bethany, and then, failing to find Jesus, all the way to Gethsemane?
+
+It makes much more sense to me if Jesus is in Jerusalem, and Judas and the arresting crowd go first to where in Jerusalem Jesus had been when Judas left, and then Judas has them check Gethsemane, while Bethany would be the last priority to check, and a moot point once they found them in Gethsemane.
+
+Luke 22:8-10 also seems to clearly say it was in Jerusalem, although it only says "the city," so is Bethany "the city"? That seems unlikely when Jerusalem itself is an option.
+
+And why all this wording that seems like the arrangement for the upper room is some place they aren't already familiar with, if in fact it's Lazarus' home in Bethany?
+
+It also seems to be only with the Twelve. Here's the passage:
+
+<blockquote><span class="bbq">/Luke 22:8 Jesus sent Peter and John, saying, “Go and prepare the Passover for us, that we may eat.”<br><br>
+
+9 They said to him, “Where do you want us to prepare?”<br><br>
+
+10 He said to them, “Behold, when you have entered into the city, a man carrying a pitcher of water will meet you. Follow him into the house which he enters. 11  Tell the master of the house, ‘The Teacher says to you, “Where is the guest room, where I may eat the Passover with my disciples?” ’ 12  He will show you a large, furnished upper room. Make preparations there.”<br><br>
+
+13 They went, found things as Jesus had told them, and they prepared the Passover.<br><br>
+
+14 When the hour had come, he sat down with the twelve apostles.</span></blockquote>
+
+See also [Mark 14:12-17](https://www.blueletterbible.org/lsb/mar/14/12){:target="_blank"}, [Matthew 26:17-20](https://www.blueletterbible.org/lsb/mat/26/17){:target="_blank"}. They also mention "the city" and that he would recline at the table with the twelve, not with the owner of the house. The message to the owner seems to clearly explain that it would just be Jesus and the Twelve. It's possible others were present, including the owner, though. But it seems clear it's in Jerusalem, and that the disciples would be next to Jesus, not others.
+
+John also says in 18:1 that they went to the "other side" of the Kidron Valley, to the garden. Checking a map quickly, Kidron is between Jerusalem and Gethsemane. It isn't between Bethany and Gethsemane.
+
+So yes, it was Jerusalem, not Bethany, so whoever the host was, it seems it can't have been Lazarus. And if the host was there, whoever it was could have been on Jesus' other side from John.
+
+It's argued that John doesn't include the prayer at Gethsemane, because only Peter, James, and John, supposedly, were there.
+
+But this assumes that listing a group means that only that group is present, which contradicts the previous argument (ironically made by the same person), and would prevent Lazarus from being the unnamed disciple who was at the arrest in Gethsemane and went with Peter to the trial and is the one who was known to the high priest. This argument would require that this could only be James or John.
+
+And it seems clear that more than just those three were there. Mark likely was, and I think probably the twelve (minus Judas). (Though this arguer may have meant that others were there but not as close, which does seem to be intended by Mark 14:32-33.)
+
+As for why John doesn't repeat the prayer, if he's writing a supplemental gospel, why should he repeat it?
+
+It's already covered in Mark, which JPH says there's evidence John was especially intended to write a supplement to. (Which in turn is evidence for John, as one of the other top disciples long-term in addition to Peter, who Mark was a student of.) So John would especially not likely see a need to rehash it, and the author of John would already know it from Mark, even if he hadn't personally witnesses it, so could have included it. If the author is Lazarus, he already had to include many things he didn't likely witness.
+
+
+
+
 
 <br>
 <br>
