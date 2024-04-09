@@ -66,7 +66,7 @@ I think **John may have gotten this** from Mark's lead, following Peter, or both
 
 7 They asked him, “Why then did Moses command us to give her a certificate of divorce and divorce her?”<br><br>
 
-8 He said to them, “Moses, **because of the hardness of your hearts**, allowed you to divorce your wives, <b>but <i><u>FROM THE BEGINNING</u></i> it has not been so</b>./</span></blockquote>
+8 He said to them, “Moses, <b>because of the hardness of your hearts</b>, allowed you to divorce your wives, <b>but <i><u>FROM THE BEGINNING</u></i> it has not been so</b>./</span></blockquote>
 
 I think Mark and especially **John then paid very close attention to Genesis and noticed that the pre-Incarnate Christ signed the first section in 2:4** (this is disputed but strongly supported) **and avoided mention of himself within the body text (Genesis 1-2:3)**, but that Genesis 1-2 together make it clear he was there and has personal distinction from both the Father and the Spirit (who also have personal distinctions).
 
