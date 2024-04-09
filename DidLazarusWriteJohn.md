@@ -71,7 +71,9 @@ So we know far beyond a reasonable doubt that John authored the gospel by his na
 
 And other context makes it clear that (and why) John was referring to himself anonymously within the body text of his gospel.
 
-In short, it was at least almost-definitely to follow an authorial avoidance strategy that Jesus pointed his closest disciples to, evidently, by his focus on "from the beginning" as an interpretive key, when in his Pre-Incarnate nature authored (I think, and will explain some of why below) Genesis 1-2:4, signing it in 2:4 as "the LORD God" (Yahweh God in LSB, WEBP) but avoiding mention of himself as the Person of the Son by that name within the body text of that initial account.
+It was probably to follow an "authorial avoidance" strategy that Jesus pointed his closest disciples to by his focus on "from the beginning" as an interpretive key.
+
+This focused the disciples on Genesis, which I think bears clues that Jesus in his Pre-Incarnate nature authored (I think, and will explain some of why below) Genesis 1-2:4, signing it in 2:4 as "the LORD God" (Yahweh God in LSB, WEBP) but avoiding mention of himself as the Person of the Son by that name within the body text of that initial account.
 
 Much about that is highly disputed by others, and isn't the primary focus of this article but I've found their arguments extremely wanting, and I may cover it later.
 
@@ -170,7 +172,7 @@ By default, this then should be seen as probably not absolute/literal, but that 
 
 It's true that we have more than one statement like this, but how close by do they need to be to indicate a literal-all?
 
-(Or as I call it, a "literall".)
+(Or as I call it, a "literall.")
 
 As we clearly see, "each to his own home" can't mean a literal all in this case (or at least not right away), at least not in any sense that would forbid this unnamed disciple from being John since John is one of the twelve, since Peter is also a disciple, by both the general definition and in the sense of one of the 12, and he also followed. In addition to this being said in John, it's said in Matthew too:
 
@@ -372,7 +374,7 @@ JPH has more material on this including historical evidence that this is how it 
 
 This rule about how "all"-language works in Hebrew language culture (including when expressed in Greek) is part of why we know Jesus had no beginning.
 
-This is contary to a popular Unitarian view (of some variants I've seen, though some seem to vary on this) that Jesus was simply the first created being, otherwise very similar to the Trinitarian view but just as a lesser being, like a super-angel.
+This is contary to a popular Unitarian view (of some variants I've seen) that Jesus was simply the first created being, otherwise very similar to the Trinitarian view but just as a lesser being, like a super-angel.
 
 Since we're focusing on John here, let's just restrict this to the early examples there.
 
@@ -657,7 +659,7 @@ John 12:
 
 10 But the chief priests conspired to put Lazarus to death also, 11 because on account of him many of the Jews went away and believed in Jesus./
 
-Let's assume that Lazarus didnt flee Judea due to this, although I've heard it said that extrabiblical sources may claim or imply he did.
+Let's presume that Lazarus didn't flee Judea due to this, although I've heard it said that extrabiblical sources may claim or imply he did.
 
 Even if not, he probably knew this, so would hardly risk going even within a guarded gate right to the very people trying to kill him.
 
@@ -733,7 +735,7 @@ Why?
 
 Why would Caiaphas know a fisherman?
 
-Well, for a moment, let's drop our earlier for-sake-of-argument concession that somehow Caiaphas doesn't know who the inner circle of disciples are who are always there when this Jesus guy is being a thorn in his side. He could simply know that John has interest in what happens to Jesus. And that Nicodemus has no influence here, or any of the others like him.
+Well, for a moment, let's drop our earlier for-sake-of-argument concession that somehow Caiaphas doesn't know who the inner circle of disciples are who are always there when this Jesus guy is being a thorn in his side. He could simply know that John has interest in what happens to Jesus. And that Nicodemus/etc. have no influence here, or any of the others like him.
 
 Now let's pick up that odd concession we made, though.
 
@@ -862,7 +864,7 @@ In logic, we have something crucial called the Square of Opposition.
 
 We have four types of corners to the Square:
 
-1: "All" of some thing (let's call it S, for the subject of a sentence, as is standard) is some other thing (P for predicate of the sentence)
+1: "All" of some thing (let's call it S, for the subject of a sentence, as is standard) is some other thing (P for predicate of the sentence).
 
 Any type of statement that can be legitimately paraphrased as "All S is P" (using S and P a bit like algebra variables, plugging in other things in place of them) is called an "A" type of premise.
 
@@ -1020,7 +1022,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
 
   This one is essentially Backwards Statistics, but Backwards Statistics has a slightly different emphasis that's more relevant to why overgeneralization is wrong and shows that the specific type of use of it is actually self-refuting.
   
-  Overgeneralization can be plausible evidentially as a likelihood argument, but is fallacious if it's treated as a guarantee, and even likelihood arguments can push to far.
+  Overgeneralization can be plausible evidentially as a likelihood argument, but is fallacious if it's treated as a guarantee, and even likelihood arguments can push too far.
 
   The reason I like to have a specific term for the self-refuting type of overgeneralization is that if you just reply to the use of the self-refuting type with "that's an overgeneralization," people will emotionally (often) assume it's a weak response to a strong argument they made, while acknowledging that their argument isn't absolutely proven.
 
@@ -1123,7 +1125,7 @@ Here's the list of main examples I see a lot or otherwise are important main cat
   "If <u>wrong</u> are Glenn <u>Mor</u>ton,<br>
   "And the <u>N</u>CS<u>E</u>."
 
-Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, would both default expectations highly likely, especially hyperbole.
+Just to be crystal clear and thorough, Caiaphas lying about not knowing any non-elites, or specifically any fishermen, and Caiaphas using hyperbole, would both be default expectations highly likely, especially hyperbole.
 
 For the lying, this is so at least if we take the biblical data seriously about how the typical leader of the group he seems to have been part of (so not including Nicodemus for example) usually behaved, in that they don't seem concerned primarily with truth but with which words will play best politically for them.
 
@@ -1319,7 +1321,7 @@ John the Baptist, that is.
 
 The fact that John the Baptist (Bap) is simply referred to as John, often, is probably evidence for identifying the apostle John as the author of the gospel by that name for two reasons.
 
-First that it implies the apostle John is less likely than others to feel the need to think of Bap by a more clarified name habitually. He know who he is, and while the name John is a common name, for him he would be used to simply referring to the Baptist as simply John.
+First that it implies the apostle John is less likely than others to feel the need to think of Bap by a more clarified name habitually. He knows who he is, and while the name John is a common name, for him he would be used to simply referring to the Baptist as simply John.
 
 I saw this at a place I worked who had two people with the same name, and two other people with a different same name. They would simply refer to each other by their own names, when referring to the other who had the same first name. The rest of us had to constantly have ways to clarify which ones we meant.
 
@@ -1500,7 +1502,7 @@ Matthew 9:
 
 His instructions continue, but the key is that if you divide the group of twelve, in the order listed here, into groups of two, you see that Philip gets listed with Bartholomew. Here that is again, with paragraph breaks added this way:
 
-2 Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother;
+/2 Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother;
 
 James the son of Zebedee; John, his brother;
 
@@ -1512,9 +1514,7 @@ James the son of Alphaeus; Lebbaeus, who was also called† Thaddaeus;
 
 4 Simon the Zealot; and Judas Iscariot, who also betrayed him./
 
-Relevant because although nothing in the instructions or narration in Matthew (so I've been told) says that they were sent out in pairs (although Jesus does make an analogy of two birds, which might imply it, in 10:29, but I don't see anything else, at least not in close proximity).
-
-We get that it was pairs from the parallel passage in:
+Relevant because although nothing in the instructions or narration in Matthew (so I've been told) says that they were sent out in pairs (although Jesus does make an analogy of two birds, which might imply it, in 10:29, but I don't see anything else, at least not in close proximity), we get that it was pairs from the parallel passage in:
 
 Mark 6:
 
@@ -1528,7 +1528,7 @@ Of course it's no surprise that Andrew is listed with his brother Peter, and Jam
 
 (In the parallel in Luke 9:1-6 for this particular sending, neither the pairings nor the listing are included.)
 
-It seems that that sendout was later than the following, since in both Mark and Luke, the following is listed first, although we have extrabiblical attestation that Mark didn't necessarily write in chronological order, which could be true of all four gospels as far as I know in some cases. I'm listing these in the order of results of "Bartholomew" and since the name isn't used earlier in Matthew, the other sendout came up first since Matthew is listed first.
+It seems that that sendout was later than the calling, since in both Mark and Luke, the following is listed first, although we have extrabiblical attestation that Mark didn't necessarily write in chronological order, which could be true of all four gospels as far as I know in some cases. I'm listing these in the order of results of "Bartholomew" and since the name isn't used earlier in Matthew, the other sendout came up first since Matthew is listed first.
 
 I would need to study more / review more and I have so many tabs open trying to be thorough by Columbo rules right now I can't open more at the moment; my computer isn't handling it well, but it looks like Matthew may be condensing two incidents, while Mark and Luke tell the calling first, and then the later sendout. LSB, or at least BLB for LSB, puts Matthew 10, which we already saw, listed as parallel to Mark 3 and Luke 6, the ones I'll show below, yet for Matthew 10, it lists Mark 6 and Luke 9 as the parallel.
 
@@ -1660,6 +1660,8 @@ Maybe Matthias has nicknames, although it would be a bit weird if his nickname o
 #### Rabbit: Names
 
 Let's look at the name meanings per BLB. Be aware, this is going to be quite a diversion. If you want, click this link to skip to the conclusion: [Skip Rabbit: Names](#skip-rabbit-names)
+
+See end notes about what "Lingua" is, and link to full explanation.
 
 - Joseph, Greek Ἰωσήφ, in Lingua (Ln) Ee'oh'SEYF / Iy'ohSEYF / Ioseyf (single apostrophe in Lingua is a silent sound-separator, in this case of Ee'oh'SEYF also happening to go where dash as optional syllable separator could go; Ee-oh-SEYF, with the halfway-capitalization of Ee indicating perhaps a middle emphasis, all-caps SEYF being the syllable BLB marks as emphasized, Ioseyf would be a version for capitalizing it like a normal English name)) = <b>\|"let him add"\|</b>; Hebrew יוֹסֵף Ln yohSEYF / Yoseyf = \|"Jehovah has added"\|
 
@@ -1844,7 +1846,7 @@ Then there was this which I had no idea of:
 
 /[Act 12:11-12 LSB] 11 When Peter came to himself, he said, "Now truly I know that the Lord has sent His angel and rescued me from the hand of Herod and from all that the Jewish people were expecting." 12 And when he realized [this], he went to the house of Mary, the mother of John who was also called Mark, where many were gathered together and were praying./
 
-Probably this is a coincidence that the mother of someone I think we present at Jesus' arrest (Mark) happens to be named Mary (we do know John and Mary are common names, obviously), but based just on this snippet, it could be that the one told to take care of her at the cross is Mark. But... probably just a different Mary? Not sure if anything in the context makes it clear either way.
+Probably this is a coincidence that the mother of someone I think was present at Jesus' arrest (Mark) happens to be named Mary (we do know John and Mary are common names, obviously), but based just on this snippet, it could be that the one told to take care of her at the cross is Mark. But... probably just a different Mary? Not sure if anything in the context makes it clear either way.
 
 But it made me wonder if in fact, DiscipleLoved is Mark... I hope I'm joking? But yeah. Doesn't fit all of the evidence that it has to be the author of John, who apparently has to be John (son of Zebedee... not John called Mark). But that was a surprise.
 
@@ -1991,7 +1993,7 @@ The page has this in italics, in a section titled "citing Dionysius of Alexandri
 
 As for it supposedly being a problem in Revelation, the problem is Revelation is written much later in John's life, during exile on Patmos, when he is already severely persecuted, and there has been a long history of epistles with open signatures within the body text.
 
-Plus Revelation opens with letters to the churches, dictated by Jesus, so there would be a need to distinguish clearly between the words of Christ and those of the human writing them down. Anonymity within body text is not an absolute rule, and he could even be helping to clarify it by eventually using it, when the window for the need for it had closed, and he felt more comfortable that it was embraced as still a valid option within Christianity.
+Plus Revelation opens with letters to the churches, dictated by Jesus, so there would be a need to distinguish clearly between the words of Christ and those of the human writing them down. Anonymity within body text is not an absolute rule, and he could even be helping to clarify it by eventually using it, when the window for the need for it had closed, and he felt more comfortable that first-person-with-name was embraced as a valid option within Christianity.
 
 He did also come close, if my theory is right, to a signature within the body text by naming the sons of Zebedee. There is an association of lessening the anonymity near an end, similar to keeping it through his own epistles but dropping the rule in the later apocalypse that contains epistles from Christ.
 
@@ -2043,7 +2045,7 @@ This is worth quoting as it directly supports my authorial avoidance theory abou
 
 He reports the use of "professional fisherman's terms." Specifically, at least, the "distinct technical name for cooked fish."
 
-Next JPH cites abundant evidence John was written specifically to complement and be read after Mark. I won't cite it here but much of it looks plausible. This would also help evidence that this is John, since Mark is Peter's top student and John and Peter are obviously often put together. Though note that I think both Luke and John intended their readers to read all two, and then three, previous gospels anyway.
+Next JPH cites abundant evidence John was written specifically to complement and be read after Mark. I won't cite it here but much of it looks plausible. This would also help evidence that this is John, since Mark is Peter's top student and John and Peter are obviously often put together. Though note that I think both Luke and John intended their readers to read both, and then all three, previous gospels anyway.
 
 (And if Matthean priority is right, it's quite possible Mark intended them to read Matthew first too, or vice versa if wrong, but I think the evidence best fits, following JPH elsewhere, that Matthew was likely writing live notes already even during Jesus' ministry as his official scribe, similar to the role of Baruch for Jeremiah, and that Matthew's notes were often of what all the apostles verbally repeated often, so in a sense Matthew is composed of both notes and memorized units likely accessible to all three of the other gospel writers.)
 
@@ -2061,7 +2063,7 @@ For the primary purpose of John, this is relevant:
 
 This again would be a natural purpose for one of the three most in-group disciples, Peter, James, or... John. It would seem a little more strange for Lazarus, who clearly didn't normally travel with Jesus, even if he might have been present whenever Jesus was in Bethany, etc.
 
-His comment next at the article's end about "Kingdom of God" being onlyused once in John also implies an in-group focus, consistent with John.
+His comment next at the article's end about "Kingdom of God" being used just once in John also implies an in-group focus, consistent with John.
 
 I don't see JPH pages, at least not in the index, for 1/2/3 John. For Revelation, he does link to a GM page that says this in answer to how peasant John wrote in Greek:
 
@@ -2179,7 +2181,7 @@ Exodus 20:
 
 You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; 11 <b><i><u>FOR</u></i></b> in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; <b><i><u>THEREFORE</u></i></b> Yahweh blessed the Sabbath day, and made it holy./
 
-What all of this means is that from the beginning of creation, the Sabbath was for man, but as part of the ceremonial law for signing onto the Mosaic covenant, you were to take it to what might otherwise be an "extreme," unless there was a legitimate reason for an exception -- and that one the Mosaic covenant ended when John prepared the way for the Lord, we return to how it originally was to be.
+What all of this means is that from the beginning of creation, the Sabbath was for man, but as part of the ceremonial law for signing onto the Mosaic covenant, you were to take it to what might otherwise be an "extreme," unless there was a legitimate reason for an exception -- and that once the Mosaic covenant ended when John prepared the way for the Lord, we return to how it originally was to be.
 
 Luke 16:
 
