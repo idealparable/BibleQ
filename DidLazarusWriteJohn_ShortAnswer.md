@@ -326,7 +326,7 @@ So it would make sense if John wrote John, and had no problem calling Lazarus by
 
 If, however, Lazarus is DiLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), not in so many others, and that he does seem to have a problem with mentioning John by name anywhere.
 
-## Miscellaneous
+## That Guy Named John
 
 I also covered in the long article that the author of John refers to Bap as simply John more than others, according to JPH.
 
@@ -335,6 +335,18 @@ This makes sense if the author is also named John, and is accustomed to thinking
 I also noticed that he refers to Peter's father's name, John. In the long article I thought that was unique to the gospel of John due to a word search turning up no other results, though I noticed weirdly that WEBP translates it Jonah even though the word is the same as John. After writing that article I noticed that Matthew does have it, but fused as one word with the Aramaic "son of" bar at the front, when Jesus responds to Peter's confession of faith. Still, this only reduces the weight of the evidence; it remains so that John (gospel) has cases of emphasis on the name of Peter's father, which happens to be John.
 
 Also, this is Jesus' statement (paraphrase of it most likely), and so is the one in John 21 (well, the three). So it seems like Jesus was the one saying it, but it still seems like John made sure to include it possibly because he notices when people are named John.
+
+## NonliterALL
+
+I covered in detail in the long article also about how to know when "all" (or synonyms) is (most likely) literal versus when it's at least somewhat likely to be what we would call hyperbole.
+
+Basically a single use is likely hyperbole, just cluing the reader in that a large majority / group / percentage is involved.
+
+Two or more uses push toward literal.
+
+I showed a standard example of "literALL" (literal all) in Genesis about the Flood's extent, with many repetitions.
+
+A good example of nonliterall
 
 <br>
 <br>
