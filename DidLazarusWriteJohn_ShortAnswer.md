@@ -120,11 +120,11 @@ In the Christian context, this means that God recognizes that these individuals 
 
 The honor/shame system is probably what Daniel means also in the next verse about "light" for those raised to everlasting life; that light here likely refers to honor, through the indwelling of the Holy Spirit, possible despite our sin due to Christ's atonement.
 
-> <span class="bbq">/Daniel 12:3 Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever./</span>
+> <span class="bbq">/Daniel 12:3 Those who are <b>wise</b> will <b>shine</b> as the <b>brightness</b> of the expanse. Those who turn many to righteousness will <b>shine</b> as the stars forever and ever./</span>
 
 Although this would mean this is figurative in Daniel, **the literal explanation of one of the two sides of the coin (shame)** would have clued Babylonian or other outsider readers in that this is talking about honor/shame, which was a key aspect of all ancient cultures, which **would then help them realize that the other side of the coin must be what Daniel means by light (honor)**.
 
-Note John identifies Christ with life and light:
+Note **John identifies Christ with life and light**:
 
 <blockquote><span class="bbq">/John 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made through him. Without him, nothing was made that has been made. 4 <b>In him was life, and the life was the light of men</b>. 5 The <b>light</b> shines in the darkness, and the darkness hasn’t overcome† it.<br><br>
 
@@ -136,7 +136,7 @@ Note John identifies Christ with life and light:
 
 14 The Word became flesh and lived among us. We <b>saw</b> his <b>glory</b>, such glory as of the only born‡ Son of the Father, full of grace and truth./</span></blockquote>
 
-The NT also identifies Jesus / the Son / the Word/Logos/Memra as God's Wisdom, and Daniel's mention of "the wise" may imply the indwelling Spirit passing on Christ's wisdom to believers.
+The **NT also identifies Jesus / the Son / the Word/Logos/Memra as God's Wisdom** with many parallel phrasings to Proverbs or inter-testamental literature about Wisdom replaced with Christ in the NT versions of the phrasings (as JPH lists; see end notes), and **Daniel's mention of "the wise" likely implies the indwelling Spirit passing on Christ's wisdom to believers**.
 
 A key complication about the biblical-era view, at least in the perception of humans at the time, was that **honor was a limited resource (limited good)**.
 
@@ -174,7 +174,7 @@ The society of Wrede's day was one of limitless good, and without such heavy con
 
 One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.|</blockquote>
 
-So in short, <b>Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah</b>, as counterintuitive as that might seem to moderns used to literal language to a greater extent, or used to thinking that such devices are "unclear."
+So in short, <b>Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah</b>, as counterintuitive as that might seem to moderns used to literal language to a greater extent, or used to thinking that such devices are "unclear" (a societal "rule" that didn't develop until the Industrial Revolution because <span class="ebq">\|machines tolerate no imprecision\|</span> as one of JPH's social science sources puts it).
 
 In fact, in their culture there were "semantic contracts" similar to our sarcasm where a statement isn't taken as literal, thus isn't deceptive.
 

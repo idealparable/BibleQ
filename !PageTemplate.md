@@ -27,6 +27,12 @@
 
 Code snippets:
 
+Inline:
+Bible:
+<span class="bbq">//</span>
+Other:
+<span class="ebq">\|\|</span>
+
 One-para:
 Bible:
 > <span class="bbq">//</span>
