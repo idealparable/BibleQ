@@ -126,17 +126,17 @@ Although this would mean this is figurative in Daniel, **the literal explanation
 
 Note John identifies Christ with life and light:
 
-<blockquote><span class="bbq">/John 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made through him. Without him, nothing was made that has been made. 4 In him was life, and the life was the light of men. 5 The light shines in the darkness, and the darkness hasn’t overcome† it.<br><br>
+<blockquote><span class="bbq">/John 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made through him. Without him, nothing was made that has been made. 4 <b>In him was life, and the life was the light of men</b>. 5 The <b>light</b> shines in the darkness, and the darkness hasn’t overcome† it.<br><br>
 
-6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the light, that all might believe through him. 8 He was not the light, but was sent that he might testify about the light. 9 The true light that enlightens everyone was coming into the world.<br><br>
+6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the <b>light</b>, that all might believe through him. 8 He was not the <b>light</b>, but was sent that he might testify about the <b>light</b>. 9 The <b>true light</b> that <b>enlightens</b> everyone was coming into the world.<br><br>
 
-10 He was in the world, and the world was made through him, and the world didn’t recognize him.<br><br>
+10 <b>He</b> was in the world, and the world was made through him, and the world didn’t recognize him.<br><br>
 
 ...<br><br>
 
-14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth./</span></blockquote>
+14 The Word became flesh and lived among us. We <b>saw</b> his <b>glory</b>, such glory as of the only born‡ Son of the Father, full of grace and truth./</span></blockquote>
 
-The NT also identifies Jesus / the Son / the Word/Logos/Memra as God's Wisdom, and Daniel's mention of "the wise" may imply the indwelling Spirit passing on Christ's Wisdom to believers.
+The NT also identifies Jesus / the Son / the Word/Logos/Memra as God's Wisdom, and Daniel's mention of "the wise" may imply the indwelling Spirit passing on Christ's wisdom to believers.
 
 A key complication about the biblical-era view, at least in the perception of humans at the time, was that **honor was a limited resource (limited good)**.
 
@@ -174,7 +174,7 @@ The society of Wrede's day was one of limitless good, and without such heavy con
 
 One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.|</blockquote>
 
-So in short, Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah, as counterintuitive as that might seem to moderns used to literalism to a greater extent, or used to thinking that such devices are "unclear."
+So in short, <b>Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah</b>, as counterintuitive as that might seem to moderns used to literal language to a greater extent, or used to thinking that such devices are "unclear."
 
 In fact, in their culture there were "semantic contracts" similar to our sarcasm where a statement isn't taken as literal, thus isn't deceptive.
 
@@ -186,17 +186,41 @@ Thus he needs to "strictly" order it (likely using repetition to try to clue the
 
 ## Trinity in Genesis
 
-In biblical Trinitarianism, none of the three Persons of the Trinity have any intrinsic superiorities to others, but Christ and the Spirit are functionally subordinate to the Father as roles.
+In biblical Trinitarianism, none of the three Persons of the one Being of the Trinity have any intrinsic superiorities to others, but Christ and the Spirit are functionally subordinate to the Father as roles.
 
-Despite many Unitarians' strawmen, we expect to see Jesus and the Spirit looking to the Father as the ultimate authority.
+Despite many Unitarians' strawmen, **we expect to see Jesus and the Spirit looking to the Father as the ultimate authority** and even that the Father would be the one most naturally fitting to call simply "God" (Hebrew Elohim) more often than the others, with no implication that Jesus and the Spirit aren't God in the sense of the same Being.
 
-So ultimate honor is depicted as belonging to the Father, without any implication of Christ being in any way a separate or lesser entity. He's a distinct Person and has distinct roles, however, and it makes sense that he would model focusing praise to the Father. The full reasons for this are beyond the scope of this short answer article but are covered essentially in the long version.
+So **ultimate honor is depicted as belonging to the Father, without any implication of Christ being in any way a separate or lesser entity**.
+
+He's a distinct Person and has distinct roles, however, and it makes sense that he would model focusing praise to the Father as an example for us to follow -- that the same one who was always planned to Incarnate would especially do this, the one we more naturally relate to, as he became one of us.
 
 John sees Christ as the Word, because he personifies (and always has; he is not a created entity; he has no beginning) God's thoughts and expressions of those thoughts.
 
 If we take as a hypothesis that Christ authored Genesis 1-2:4 and John noticed, and both used authorial avoidance, this explains why we get a different term used in 2:4 (a toledoth line, most likely a signature line) and onward in what I think is the account of Adam, the LORD God / Yahweh God, used interchangeably about who created humans with just "God" in Genesis 1, so there's some kind of distinction between the two, yet also some kind of equivalence.
 
-This fits distinct Personhood yet the same Being in biblical Trinitarianism.
+So this **implies that Christ carried out the "Let us" orders -- that Christ is the Creator**.
+
+The fact that we're told that "God" made man also implies that Christ is also God in some sense, and it would be blasphemous if it means he was a created servant without explicitly clarifying so, as readers would read it as saying Christ is the same entity as the one called simply God.
+
+So, **"Yahweh God" *is* God**, in the sense of not being a separate created being (a "creature"), yet directs *personal* honor to another called simply God.
+
+In other words, this teaches that God has a plurality to his *inner* nature, but not his *external* nature. Thus "God is one" in the Shema, always understood in light of this prior context that this has to mean his external nature, and doesn't override what Moses wrote/compiled first that God is "God", "Yahweh God," and "the Spirit of God" internally.
+
+Instead, the Shema is echoing the aspects of this where Yahweh God is used interchangeably for simply "God" -- fitting a being/entity or substantial identity or individual nature.
+
+That is, fitting the aspects of being the same type of "thing" as God other than the aspects related to *personhood*, so that directing personal honor to one of the internal three is not a problem, while seeming to claim too much of it for the one in a functionally subordinate role would be a problem.
+
+**"In the beginning" both in Hebrew in Genesis 1 and in Greek in John 1 means an absolute beginning.**
+
+Thus, Christ as God (not just the Father) existed before the absolute beginning.
+
+**Christ thus had no beginning.**
+
+But since the Father is the ultimate authority in terms of functional role (not "ontological" role; not intrinsically superior), the pre-Incarnate Christ only subtly hints at his own actions in his own account and then signs the account, while Adam is free to write about him by the term he was told in the signature for the account. (Likely memorized, perhaps some form of early pictoral/symbolic mnemonic aids might be used in "writing" / drawing too.)
+
+**This is about avoiding seeming to claim too much *personal* honor for the author of Genesis 1-2:4.**
+
+**This fits distinct Personhood yet the same Being in biblical Trinitarianism.**
 
 John sees creation as being performed through Christ.
 
@@ -204,7 +228,7 @@ This is also explained if my hypothesis is correct; Genesis is hinting that the 
 
 Even when it does say God made, to explain how "it was so," this is rare within the passage.
 
-And John sees Jesus as light and thinks to put this not just associated with heaven as Daniel does but with creation.
+And **John sees Jesus as light and thinks to put this not just associated with heaven as Daniel does but with creation**.
 
 In Genesis, the clearest parallel with light, though, is with the Spirit, not the Son.
 
