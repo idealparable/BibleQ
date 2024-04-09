@@ -136,15 +136,17 @@ Note John identifies Christ with life and light:
 
 14 The Word became flesh and lived among us. We saw his glory, such glory as of the only born‡ Son of the Father, full of grace and truth./</span></blockquote>
 
-A complication about the biblical-era view, at least in the perception of humans at the time, was that honor was a limited resource (limited good).
+The NT also identifies Jesus / the Son / the Word/Logos/Memra as God's Wisdom, and Daniel's mention of "the wise" may imply the indwelling Spirit passing on Christ's Wisdom to believers.
 
-This made sense because honor would determine who others would give resources, which really were finite for mere humans, barring the rare miracle. While God doesn't have that limit, humans left to themselves do.
+A key complication about the biblical-era view, at least in the perception of humans at the time, was that **honor was a limited resource (limited good)**.
 
-So a major rule in their culture was to avoid seeming to try to claim too much honor for yourself.
+This made sense because **honor would determine who would be given resources by others**, which really were finite for mere humans, barring the rare miracle. While God doesn't have that limit, humans left to themselves do.
 
-If you did, you would be perceived as unfairly robbing honor from others.
+So **a major rule in their culture was to avoid seeming to try to claim too much honor for yourself.**
 
-Avoiding the perception of trying to claim too much personal honor was especially needed when you were authoring historical narrative about events you played a major role in.
+**If you did, you would be perceived as unfairly robbing honor from others.**
+
+Avoiding the perception of trying to claim too much personal honor was **especially needed when you were authoring historical narrative about events you played a major role in or referring to highly honorable aspects of your roles or identity**.
 
 This is for example behind why Jesus typically ordered people not to tell others yet who he was (as Christ, the Son of God). JP Holding, a source I often use (see end notes), says:
 
