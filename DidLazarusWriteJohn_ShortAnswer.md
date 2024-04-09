@@ -244,7 +244,7 @@ Without these premises, you don't naturally get to the conclusion John clearly r
 
 It's certainly possible John was revealing new information, but let's give God the grace of the ability to speak clearly using the rules of the initial target "language culture" -- the rules that *do* lead to these conclusions, even if they might not seem immediately obvious if you aren't paying close attention, as John would.</blockquote>
 
-I then summarized other arguments that show that if we do take out the John=DiLoved premise, we can still argue for some kind of plurality within the Godhead in Genesis, but it wouldn't be so simple to see that it's three. Some of it stands without NT at all, but it's strengthened by the John premise.
+I then summarized other arguments that show that if we do take out the John=DiLoved premise, we can still argue for some kind of plurality within the Godhead in Genesis, but it wouldn't be so simple to see that it's three (and three Persons specifically). Some of it stands without NT at all, but it's strengthened by the John premise.
 
 So think twice before thinking it doesn't matter whether it's John or Lazarus.
 
