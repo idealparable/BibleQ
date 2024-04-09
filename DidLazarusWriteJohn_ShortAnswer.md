@@ -3,17 +3,17 @@
 
 **Bible Question:** Did Lazarus write the gospel of John? Or did John? Is Lazarus the "*disciple* whom Jesus loved"? Does it matter?
 
-My answer will be that the author and the disciple Jesus loved are both John, evidently, and it matters indirectly to some surprisingly important topics, including:
+My answer will be that **the author and the disciple Jesus loved are both John**, evidently, and it **matters indirectly to some surprisingly important topics, including:**
 
-- Trinity in Genesis.
+- **Trinity in Genesis.**
 
-- Authorship of sections of Genesis evidently compiled by Moses.
+- **Authorship** of sections of **Genesis** evidently compiled by Moses.
 
-- How to tell when "all" is literal ("literall") and similar hermeneutic rules of proper exegesis.
+- How to tell **when "all" is literal** ("literall"), **Christ's deity** and identity as **uncreated Creator** in the opening few verses of John and **extent of the Noahic Flood** in Genesis.
 
-- Debunking countless supposed Bible contradictions.
+- **Debunking** countless supposed Bible **contradictions** also related to literal/nonliteral all.
 
-- Why Jesus ordered some to keep his messianic and divine nature secret for a time.
+- Why Jesus ordered some to keep his messianic and divine nature secret for a time (and why they didn't).
 
 - Why John's opening is so "odd" and some of his teachings might seem out of the blue yet weren't controversial.
 
@@ -21,13 +21,13 @@ My answer will be that the author and the disciple Jesus loved are both John, ev
 
 - How this makes John consistent with biblical-era Hebrew culture as understood by social scientists.
 
-For abbreviations of two major phrases relevant to this question, I'll use "DiscipleLoved" for the disciple whom Jesus loved, and "HeLoved" for Lazarus in the message that he was sick ("the one you love" or "he whom you love" but turned to third person). Too many have conflated the two phrasings, importing "disciple" to the Lazarus message (not there), or dropping the emphasis on "disciple" in the other case, even though those distinctions are probably important to this question.
+For abbreviations of two major phrases relevant to this question, I'll use **"DiscipleLoved" for the disciple whom Jesus loved**, and **"HeLoved" for Lazarus in the message that he was sick ("the one you love" or "he whom you love" but turned to third person)**. Too many have conflated the two phrasings, importing "disciple" to the Lazarus message (not there), or dropping the emphasis on "disciple" in the other case, even though those distinctions are probably important to this question.
 
 NOTE: I'm unsure how many Lazarus = DiscipleLoved proponents also think Lazarus would be the author of John, but the wording around three key uses of DiscipleLoved, at the first use, at the cross, and in the final chapter of John, make it clear it's the author.
 
 Some may also argue for a cooperative authorship role of both, which is less problematic, but I think is unnecessary.
 
-This is the short answer version of a longer groundwork article / study notes / draft attempt [here](DidLazarusWriteJohn).
+This is the short answer version of a much longer groundwork article / study notes / draft attempt [here](DidLazarusWriteJohn).
 
 {% include mustreadnotes.md %}
 
@@ -161,6 +161,16 @@ Taken together, these factors tell us that Jesus' reticence is an example of wha
 The society of Wrede's day was one of limitless good, and without such heavy concentration on honor; hence it is little wonder Wrede came up with the explanation of a "Messianic secret". In an individualist society with limitless good, the thing to do is go out and share what you have with others, and even brag about it. The world Jesus lived in would have found such behavior intolerable -- as did his opponents, and as did the residents of Nazareth.<br><br>
 
 One more point needs to be noted: Why is it that Jesus often stopped demons from speaking of him? This has been appealed to as part of the Messianic secret theme, but in fact it is not, and the reason for it is different than the above. Malina and Rohrbaugh (Social Science commentary, 183) note that the demons were seeking to protect themselves by "magically using" the "true identity" of Jesus. A desperate move, yes, but deserving of a rebuke, and not an element of Messianic secrecy.|</blockquote>
+
+So in short, Jesus was perceived as needing to avoid overt declarations that he was the Messiah and this was in fact a way to make his hints that he *is* the Messiah even more qualifying as the Messiah, as counterintuitive as that might seem to moderns used to literalism to a greater extent, or used to thinking that such devices are "unclear."
+
+In fact, in their culture there were "semantic contracts" similar to our sarcasm where a statement isn't taken as literal, thus isn't deceptive.
+
+This is especially common around honor/shame issues, where they wouldn't say what they meant (such as when Jesus would reply to questions with "you have said so" which might look weird to us since we would see them as really not having said so but asked if so).
+
+So it likely wasn't that big a deal that we see so many of the people Jesus tells not to tell others who do go and tell them.
+
+Thus he needs to "strictly" order it (likely using repetition to try to clue them in that he's being more literal, or closer to absolute), and even then knows that they will still resist that and will presume he is trying to say "but go tell them, but I can't say it myself" without saying that. (Though undoubtedly some simple human impatience and the like are involved, as they were still prone to sin.)
 
 ## Trinity in Genesis
 
