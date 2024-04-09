@@ -54,31 +54,41 @@ This is the short answer version of a much longer groundwork article / study not
   - [Cite or Contact Me?](#cite-or-contact-me)
 
 # Answer
-Let's start with what the "authorial avoidance" means -- why we see places where (at least) one person is mentioned and seems to have a major role (at times), yet isn't identified by name, and why I think John embraces this more than other biblical authors.
+Let's start with **what the "authorial avoidance" means** -- why we see places where (at least) **one person is mentioned and seems to have a major role** (at times), **yet isn't identified by name, and why I think John embraces this more than other biblical authors**.
 
-In short, I think it's clear he was following Christ's lead, and that this is the mark of authorship most likely to be associated with Christ's top disciples who would be traveling with him during his ministry, which means Peter, John, and James are strong candidates, while Lazarus isn't, as Lazarus seems to have largely stayed in Bethany and supported Christ's ministry financially.
+In short, I think it's clear **he was following Christ's lead**, and that this is the **mark of authorship most likely to be associated with Christ's top disciples who would be traveling with him during his ministry**, which means **Peter, John, and James would be strong candidates**, while Lazarus isn't, as Lazarus seems to have largely stayed in Bethany and supported Christ's ministry financially.
 
-I think John may have gotten this from Mark's lead, following Peter, or both directly as the most central disciples, from Christ's focus on Genesis as foundational and his emphasis on avoiding too much direct credit as the Messiah.
+I think **John may have gotten this** from Mark's lead, following Peter, or both directly as the most central disciples, **from Christ's focus on Genesis as foundational and his emphasis on avoiding too much direct credit as the Messiah**.
 
-I think Mark and especially John paid very close attention in Genesis and noticed that the pre-Incarnate Christ signed the first section in 2:4 and avoided mention of himself within the body text, but that Genesis 1-2 together make it clear he was there and has personal distinction from both the Father and the Spirit (who also have personal distinctions).
+<blockquote><span class="bbq">/Matthew 19:3 Pharisees came to him, testing him and saying, “Is it lawful for a man to divorce his wife for any reason?”<br><br>
 
-The longer groundwork articles goes through much more detail about that than I'll cover in this summary, but suffice to say, John echoes many of the details of Genesis, including some that might not be as obvious as "In the beginning," and this seems much more likely for John than Lazarus.
+4 He answered, “Haven’t you read that he who made them <b><i><u>FROM THE BEGINNING</u></i></b> made them male and female,* 5  and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh’?* 6  So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”<br><br>
 
-Also, details around the final chapter of John make it clear that the author is the "disciple who Jesus loved" (DiscipleLoved), and that this applies also at least to the Last Supper use.
+7 They asked him, “Why then did Moses command us to give her a certificate of divorce and divorce her?”<br><br>
 
-At least one promoter of the view that it's Lazarus instead has argued that the fact that the DiscipleLoved phrase isn't used until after Lazarus' resurrection is evidence that it's Lazarus.
+8 He said to them, “Moses, **because of the hardness of your hearts**, allowed you to divorce your wives, <b>but <i><u>FROM THE BEGINNING</u></i> it has not been so</b>./</span></blockquote>
 
-I see, though, strong evidence in the same chapter as the first use (Last Supper), that a close friend of Peter's, who John is a much better candidate for, had reason to be very focused on a statement of Jesus in that same chapter and event about love.
+I think Mark and especially **John then paid very close attention to Genesis and noticed that the pre-Incarnate Christ signed the first section in 2:4** (this is disputed but strongly supported) **and avoided mention of himself within the body text (Genesis 1-2:3)**, but that Genesis 1-2 together make it clear he was there and has personal distinction from both the Father and the Spirit (who also have personal distinctions).
 
-I see that he's using authorial avoidance all along, including one in John 1 who seems most likely to be either John or James since he was with Andrew, Peter's brother, and we know all four of them worked together as fishermen, and in the Last Supper chapter (as we divide it today), John developed the DiscipleLoved version of the avoidance because now he was introducing why he coined the phrase.
+Note this is never argument from silence, as these texts aren't silent about clearly identifying who the author is, giving clear hints and using open declarations in signature lines (or the titles in the case of Mark and John). They just "avoid" beating the reader over the head with it.
 
-That is:
+The longer groundwork article goes through much more detail about that than I'll cover in this summary (see the [Sig-After-Until-Abe (SAUA) section](DidLazarusWriteJohn#sig-after-until-abe---genesis-toledoth-lines-theory-saua) and related sections under [From the Beginning](DidLazarusWriteJohn#from-the-beginning) through to the end of the article -- be warned, it's extremely long), but suffice to say, **John echoes many of the details of Genesis**, including some that might not be as obvious as "In the beginning," and this seems much more likely for John than Lazarus.
 
-<blockquote><span class="bbq">/John 13:34 A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.
+Also, **details around the final chapter of John make it clear that the author is the "disciple who Jesus loved" (DiscipleLoved), and that this applies also at least to the Last Supper case**.
 
-35 By this everyone will know that you are my disciples, if you have love for one another.”/</span></blockquote>
+Several online promoters of the view that it's Lazarus instead have argued that the fact that the DiscipleLoved phrase isn't used until after Lazarus' resurrection is evidence that it's Lazarus.
 
-Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiscipleLoved phrase. It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused.
+I see, though, strong evidence **in the same chapter as the first use (Last Supper), that a close friend of Peter's, who John is a much better candidate for, had reason to be very focused on a statement of Jesus in that same chapter and event about love.**
+
+I see that **he's using authorial avoidance all along, including one in John 1 who seems most likely to be either John or James since he was with Andrew, Peter's brother, and we know all four of them worked together as fishermen**, and **in the Last Supper chapter (as we divide it today), John developed the DiscipleLoved version of the avoidance because now he was introducing why he coined the phrase**.
+
+**That key statement by Jesus is:**
+
+<blockquote><span class="bbq">/John 13:34 "...<b>A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.</b>
+
+35 **By this everyone will know that you are my disciples, if you have love for one another.**”/</span></blockquote>
+
+Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiscipleLoved phrase. **It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused**.
 
 The Last Supper simply happens after the resurrection of Lazarus, so I find that argument to commit the false cause fallacy (that just because something happens later that it was caused by something earlier).
 
@@ -86,15 +96,15 @@ There are other arguments, but first let's cover in more detail something that's
 
 ## Why Authorial Avoidance?
 
-Biblical culture was honor/shame-based, not like our modern "Western" guilt/innocence culture.
+**Biblical culture was honor/shame-based**, not like our modern "Western" guilt/innocence culture.
 
-Honor/shame is about how people other than you see you.
+**Honor/shame is about how people other than you see you.**
 
 Guilt/innocence is about how you see you.
 
 Biblical honor/shame includes the idea that the omniscient God will judge everyone at the end of the fallen era, and in some ways at each person's death. So ultimately committing any sin earns shame -- God declaring that you have done wrong, whether you admit it or not -- and honor -- God recognizing something good about you, whether you recognize it or not.
 
-Among humans there was also honor/shame -- what your society saw as good or bad.
+Among humans there was also honor/shame -- **what your society saw as good or bad**.
 
 An example of the conflict between these two assigners of honor or shame is seen crucially at the resurrection of Christ:
 
