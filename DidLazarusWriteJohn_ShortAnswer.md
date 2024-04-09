@@ -315,6 +315,8 @@ A major argument for Lazarus as DiscipleLoved is that messengers tell Jesus that
 
 > <span class="bbq">/John 11:3 The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”/</span>
 
+LSB <span class="bbq">/"Lord, behold, **he whom You love** is sick."/</span>
+
 One proponent of Laz=DiscipleLoved I found online even claimed that this is here said to be the <i>disciple</i> Jesus loved.
 
 It really only says "he" whom you loved, hence my abbreviation HeLoved.
