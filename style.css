@@ -37,7 +37,7 @@ blockquote > :last-child { margin-bottom: 0;
   background-color: #300;
   color: rgb(255, 170, 67);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
-  font-size: 16px; font-style: normal; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; flex-direction: column;
+  font-size: 16px; font-style: normal; 
 }
 .bbq { color: rgb(160, 199, 2); }
 .ebq { color: rgb(255, 74, 19); }
