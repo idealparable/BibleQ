@@ -122,7 +122,7 @@ The honor/shame system is probably what Daniel means also in the next verse abou
 
 > <span class="bbq">/Daniel 12:3 Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever./</span>
 
-Although this would mean this is figurative in Daniel, the literal explanation of one of the two sides of the coin would have clued Babylonian or other outsider readers in that this is talking about honor/shame, which was a key aspect of all ancient cultures.
+Although this would mean this is figurative in Daniel, **the literal explanation of one of the two sides of the coin (shame)** would have clued Babylonian or other outsider readers in that this is talking about honor/shame, which was a key aspect of all ancient cultures, which **would then help them realize that the other side of the coin must be what Daniel means by light (honor)**.
 
 Note John identifies Christ with life and light:
 
