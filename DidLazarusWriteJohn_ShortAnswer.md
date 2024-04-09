@@ -126,7 +126,7 @@ Although this would mean this is figurative in Daniel, **the literal explanation
 
 Note **John identifies Christ with life and light**:
 
-<blockquote><span class="bbq">/John 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made through him. Without him, nothing was made that has been made. 4 <b>In him was life, and the life was the light of men</b>. 5 The <b>light</b> shines in the darkness, and the darkness hasn’t overcome† it.<br><br>
+<blockquote><span class="bbq">/John 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made through him. Without him, nothing was made that has been made. 4 <b>In him was life, and the life was the light of men</b>. 5 The <i><b>light</b> shines in the darkness</i>, and the <i>darkness hasn’t overcome† <b>it</b></i>.<br><br>
 
 6 There came a man sent from God, whose name was John. 7 The same came as a witness, that he might testify about the <b>light</b>, that all might believe through him. 8 He was not the <b>light</b>, but was sent that he might testify about the <b>light</b>. 9 The <b>true light</b> that <b>enlightens</b> everyone was coming into the world.<br><br>
 
