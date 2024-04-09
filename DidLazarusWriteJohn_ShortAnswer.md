@@ -90,7 +90,7 @@ I see that **he's using authorial avoidance all along, including one in John 1 w
 
 Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiscipleLoved phrase. **It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused**.
 
-The Last Supper simply happens after the resurrection of Lazarus, so I find that argument to commit the false cause fallacy (that just because something happens later that it was caused by something earlier).
+The Last Supper simply happens after the resurrection of Lazarus, so I find that argument to commit the false cause fallacy (**just because something happens later doesn't necessarily imply that it was caused by something earlier**).
 
 There are other arguments, but first let's cover in more detail something that's crucial here so it's worth covering thoroughly even for a short answer.
 
