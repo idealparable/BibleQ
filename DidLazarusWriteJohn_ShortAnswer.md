@@ -317,21 +317,23 @@ A major argument for Lazarus as DiscipleLoved is that messengers tell Jesus that
 
 LSB <span class="bbq">/"Lord, behold, **he whom You love** is sick."/</span>
 
-One proponent of Laz=DiscipleLoved I found online even claimed that this is here said to be the <i>disciple</i> Jesus loved.
+**One proponent of Laz=DiscipleLoved I found online even claimed that this is here said to be the <i>disciple</i> Jesus loved.**
 
-It really only says "he" whom you loved, hence my abbreviation HeLoved.
+**It really only says "he" whom you loved**, hence my abbreviation HeLoved. That is, **it's actually Laz=HeLoved**.
 
-Also the argument backfires when you keep in mind that Greek had no quote marks, and in their culture they normally paraphrased content of what someone else said.
+Also the **argument backfires when you keep in mind that Greek had no quote marks, and in their culture they normally paraphrased content of what someone else said** unless it was often-repeated as a teaching.
 
-So this is the <i>author's</i> wording, most likely.
+**So this is the <i>author's</i> wording, most likely.**
 
-I see this actually as further evidence for John's authorship.
+**I see this actually as further evidence for John's authorship.**
 
-Both because he phrases it differently from DiscipleLoved, and because this author who seems to be close to Peter both in John 21 (final chapter) and at the Last Supper paraphrases the messengers' message in this way.
+Both **because he phrases it differently from DiscipleLoved**, *and because this author who seems to be close to Peter both in John 21 (final chapter) and at the Last Supper paraphrases the messengers' message in this way*.
 
-The fact that this is shortly before the Last Supper intro of DiscipleLoved only further supports that John is leading up to the introduction of that term in steps, clarifying up front that Jesus loved others, not only the author.
+The fact **that this is shortly before the Last Supper intro of DiscipleLoved only further supports that John is leading up to the introduction of that term in steps, clarifying up front that Jesus loved others, not only the author**.
 
-In the longer article I also noted abundant extrabiblical evidence that both the gospel of John and the three epistles of John were written by John, and listed many similar passages in John and 1/2/3 John, including an emphasis on love, and authorial avoidance.
+So *if it's John, he has properly clarified that this is a statement of humility, but if it's Lazarus it looks quite the opposite*.
+
+In the longer article I also noted *abundant extrabiblical evidence that both the gospel of John and the three epistles of John were written by John, and listed many similar passages in John and 1/2/3 John, including an emphasis on love, and authorial avoidance*.
 
 John does say his name within the body text for Revelation. I cover why I think that's not a problem in detail there; in short, it was mainly historical narrative that had the problem, not prophetic works or epistles, and Revelation is a mix of both (compare Isaiah's first-person in-text self-references and the many like it in Paul for example).
 
@@ -381,31 +383,33 @@ We're also told the names of three of the seven onboard -- Peter, Thomas, and Na
 
 I see a switch to authorial avoidance but with a strong hint, in changing to avoiding the direct names midway through this list.
 
-And in listing sons of Zebedee without explanation of who they are, which John might do, but would seem unnecessary for others.
+And in **listing sons of Zebedee without explanation of who they are, which John might do, but would seem unnecessary for others**.
 
 Of course, the author likely expected readers to know it from the other gospels, but many other things are knowable from them like the name of Peter's brother that we're told, yet otherwise the sons of Zebedee are conspicuously missing.
 
-It's difficult to see why Lazarus would do that.
+It's **difficult to see why Lazarus would do that**.
 
 It could be argued that you don't really have to be a fisherman to go aboard a fisherman's boat (although the captain/owner of that boat might disagree), or you could at least help out with something like rowing, so maybe one of the two is Lazarus.
 
-I showed, though, in the long article that most likely it's Andrew and Philip (associated with Bartholomew/Nathanael), and the reason they aren't named is for plausible deniability (not literally denying) so the authorial avoidance can be preserved.
+I showed, though, in the long article that **most likely the two unnamed disciples in John 21 are Andrew and Philip** (associated with Bartholomew/Nathanael), and the reason they aren't named is for plausible deniability (not literally denying) so the authorial avoidance can be preserved.
 
-(Plausible for a reader to think the author might be one of them instead of one of the sons of Zebedee -- but if it isn't John, why not just list James and John, and then say two others? So the author also hints that he's either James or John. And we see John associated with Peter much more often.)
+Plausible for a reader to think the author might be one of them instead of one of the sons of Zebedee -- but **if it isn't John, why not just list James and John, and then say 'and two others'?**
+
+So the author also hints that he's either James or John. And we see John associated with Peter much more often.
 
 Also, since John the Baptist (Bap, for short) was often baptizing -- in water -- it makes more sense to me that a fisherman is likely to be among his closest disciples than some rich guy in Bethany.
 
-Again, admittedly Bap was in Bethany in John 1, but since he's the cousin of Jesus, and Jesus is friends with Lazarus, that isn't surprising.
+Again, admittedly Bap was in Bethany in John 1 [Update after draft: Elsewhere in this article I mention that I later found a claim that this is a different Bethany], but since he's the cousin of Jesus, and Jesus is friends with Lazarus, that isn't surprising.
 
 Another argument, by the way, is that Lazarus is only in John's gospel.
 
 Let's assume that's true for now.
 
-If so, this makes sense, and in a way that would connect John to the unnamed disciple in John 1, and further back up John as DiscipleLoved in John 21, again because Bap was Jesus' cousin and John (son of Zebedee) seems to have been a top disciple of both of them. Basically, both Lazarus and John were close to Jesus.
+If so, this makes sense, and in a way that would connect John to the unnamed disciple in John 1, and further back up John as DiscipleLoved in John 21, again because Bap was Jesus' cousin and John (son of Zebedee) seems to have been a top disciple of both of them. Basically, **both Lazarus and John were close to Jesus**.
 
-So it would make sense if John wrote John, and had no problem calling Lazarus by name within the book, but not himself, and focused on Lazarus while other gospel writers didn't.
+So it **would make sense if John wrote John, and had no problem calling Lazarus by name within the book, but not himself, and focused on Lazarus while other gospel writers didn't**.
 
-If, however, Lazarus is DiscipleLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), not in so many others, and that he does seem to have a problem with mentioning John by name anywhere.
+**If, however, Lazarus is DiscipleLoved (and thus apparently has to be the -- or an -- author of John), it's weird that he's named in one place** (and even one that would put him in a highly honored position as friends with Jesus and resurrected early by him), *not in so many others*, **and that he <i>does</i> seem to have a problem with mentioning John by name anywhere**.
 
 I'm also not convinced Lazarus is only in John.
 
@@ -435,7 +439,7 @@ I'm not sure what to think about that at time of writing. I'll say that another 
 
 It's also even suggested that leprousy might be what Lazarus died of, but the timing there is weird if he was already friends with Jesus, who is known for healing lepers.
 
-Also, John may have outlived Lazarus (the second time), and been more free to use his name more openly when he wrote his gospel than the other three, although he makes it clear that many people already knew about his resurrection by Jesus, which Jesus seems to have intended (likely balancing that as far as he could go without having the authorities actually arrest Lazarus).
+Also, **John may have outlived Lazarus (the second time), and been more free to use his name more openly when he wrote his gospel than the other three**, although he makes it clear that many people already knew about his resurrection by Jesus, which Jesus seems to have intended (likely balancing that as far as he could go without having the authorities actually arrest Lazarus).
 
 It would make more sense to me if Lazarus was the father of Simon the Pharisee, and Simon was literally the leper, perhaps referred to in the Luke parable by the name of his father (Lazarus, likely a Greek version of Eleazar), and Lazarus originally died from other complications due to being older, but there are many factors so it's difficult to say for sure. If so, though, it would make Lazarus a poor candidate to write the latest gospel, and three epistles.
 
@@ -473,7 +477,7 @@ Mark doesn't, but does have a way to make it clear this is distinct from John be
 
 29 Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and <b>John</b>. 30 Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her. 31 He came and took her by the hand and raised her up. The fever left her immediately,† and she served them./</span></blockquote>
 
-So Mark first calls Bap simply John, although he immediately (see what I did there) says he came baptizing, and makes it clear he died before Mark refers to the other John, and he then makes it clear who this John's father was so you would have another way to refer to him (John ben/bar Zebedee). Then he can refer to this new John simply by John, depending on the context when Bap is referred back to (such as in [2:18](https://www.blueletterbible.org/lsb/mar/2/18){:target="_blank"}).
+So Mark first calls Bap simply John, although he immediately (see what I did there) says he came baptizing, and makes it clear he was arrested before Mark refers to the other John, and he then makes it clear who this John's father was so you would have another way to refer to him (John ben/bar Zebedee). Then he can refer to this new John simply by John, depending on the context when Bap is referred back to (such as in [2:18](https://www.blueletterbible.org/lsb/mar/2/18){:target="_blank"}).
 
 Luke first introduces us to the father of John the Baptist (BapDad):
 
@@ -499,7 +503,7 @@ Luke first introduces us to the father of John the Baptist (BapDad):
 
 33 They said to him, “Why do <b>John’s disciples</b> often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”/</span></blockquote>
 
-By contrast, as we know, John doesn't ever say that one of the sons of Zebedee is named John, and when he introduces the Baptist, he doesn't seem to be in a hurry to identify him as the Baptist:
+By contrast, as we know, **John** (author of the gospel by that name, whoever it really is) doesn't ever say that one of the sons of Zebedee is named John, and when he introduces the Baptist, he **doesn't seem to be in a hurry to identify him as the Baptist**:
 
 <blockquote><span class="bbq">/6 There came <b>a man sent from God, whose name was John</b>. 7 The same came as <b>a witness, that he might testify</b> about the light, that all might believe through him. 8 <b>He was not the light</b>, but was sent that he might <b>testify about the light</b>. 9 The true light that enlightens everyone was coming into the world.<br><br>
 
@@ -527,7 +531,7 @@ He answered, “No.”<br><br>
 
 26 <b>John answered them, “I baptize in water</b>, but among you stands one whom you don’t know. 27 He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.” 28 <b>These things were done in Bethany beyond the Jordan, where John was baptizing</b>./</span></blockquote>
 
-This makes sense if the author is also named John, and is accustomed to thinking of other people named John as simply John, not needing to clarify that it isn't himself as much as others would.
+This **makes sense if the author is also named John**, and is accustomed to thinking of other people named John as simply John, not needing to clarify that it isn't himself as much as others would.
 
 I also noticed that he refers to Peter's father's name, John. In the long article I thought that was unique to the gospel of John due to a word search turning up no other results, though I noticed weirdly that WEBP translates it Jonah even though the word is the same as John.
 
@@ -539,23 +543,37 @@ Also, this is Jesus' statement (paraphrase of it most likely), and so is the one
 
 ## NonliterALL
 
-This was about Jesus and narrators saying that "all" the disciples scattered, yet the unnamed disciple who Caiaphas knew (or a servant of his may have known, etc. -- see section on embedding in the longer article) didn't scatter, so it's argued, so must not be a disciple.
+This was **about Jesus and narrators saying that "all" the disciples scattered, yet the unnamed disciple who Caiaphas knew** (or a servant of his may have known, etc. -- see [section on embedding in the longer article](DidLazarusWriteJohn#embodying-embedding-in-body)) didn't scatter, so it's argued, so must not be a disciple.
 
-This argument has immediate problems in that Peter is also a disciple (though he shortly denies it), and that obviously the "disciple" whom Jesus loved is a disciple.
+This argument has **immediate problems in that Peter is also a disciple** (though he shortly denies it), and is with this unnamed disciple, and that obviously the "disciple" whom Jesus loved is a disciple.
 
 I find the former is a serious problem for Laz=DiscipleLoved, the latter is questionable, but admittedly the word can be used in multiple senses.
 
 But then, Lazarus could also be among those told that all of them would scatter, or among all disciples said to have scattered, and presumably would be if he was this unnamed disciple since we're told this one was with Peter.
 
-That aside, let's grant that "disciples scattered" can be a smaller group than disciples in general, and ignore the Peter problem. And I granted and cited in the long article that "disciple" can indeed have as wide a meaning as any Christian.
+That aside, **let's grant for sake of argument** that "disciples scattered" can be a smaller group than disciples in general, and ignore the Peter problem. And I granted and cited in the long article that "disciple" can indeed have as wide a meaning as any Christian.
 
-On those premises, they could argue that "all" has to be a literal all (of the type of disciple that doesn't include Lazarus), or that if it doesn't we have a problem as you wouldn't be able to tell when all wasn't literal.
+So we're granting for sake of argument **that the disciple with Peter isn't a "disciple"** in the sense of those who **scattered**, yet **is** a "disciple" in a wider sense and, we'll say, the wider sense is the one relevant to DiscipleLoved.
+
+So, we're considering the possibility that:
+
+- Posit: Number of DisciplesScattered < (is less than) Num of DisciplesInGeneral
+
+- Posit: DiscipleCaiaphasKnows = (equals) a DiscipleInGeneral
+
+- Posit: DiscipleCaiaphasKnows =/= (does not equal) a DiscipleScattered
+
+On those premises, they could argue that "all" disciples scattered has to be a literal all (of the type of disciple that doesn't include Lazarus), or that if it doesn't we have a problem as you wouldn't be able to tell when all wasn't literal.
+
+Nevermind the problem that we're now saying "disciple" is not a strict term itself, yet "all" must be.
+
+Just go with it, to see where it leads, and I think you'll see it still wouldn't work even if we granted all of that.
 
 I covered in detail in the long article about how to know when "all" (or synonyms) is (most likely) literal versus when it's at least somewhat likely to be what we would call hyperbole.
 
-Basically a single use is likely hyperbole, just cluing the reader in that a large majority / group / percentage is involved.
+Basically **a single use of "all" (or synonym) is likely "hyperbole"**, just cluing the reader in that a large majority / group / percentage is involved.
 
-Two or more uses push toward literal.
+**Two or more uses *push toward* literal**.
 
 I showed a standard example of "literALL" (literal all) in Genesis about the Flood's extent, with many repetitions.
 
@@ -571,21 +589,45 @@ For example when Jesus told some negative parables and his opponents perceived t
 
 It's true that poetic devices are sometimes legitimately less clear than literal statements (like an intentionally cryptic prophecy), but then sometimes a literal statement is less effective at communication as people might pay less attention to a boring statement, and an apt analogy can help teach a principle in common with the thing being analogized.
 
+I also noted that to tell whether two "alls" that are close by are modifying each other, you need to look at the logic flow and grammar surrounding them, to identify if they're modifying the same thing and meant to be part of the same statement or a same section functioning like a long single statement.
+
+For example, Matthew says in narration that "all" scattered, and John quotes Jesus saying that "each" of them would, but these are clearly not the same statement; in this case not even the same author.
+
+The Flood account is clearly all part of the same statement. In my toledoths theory, it's all within the same account (same subsection within Genesis), and either way, it's all consecutive (although moderns split it across two chapters), and all talking about the same things (all land flesh dying, and extent of Floodwaters in general).
+
+Plus those parallel "destroy them with the earth" and other phrases that clearly mean destroy both the land creatures and (flood and likely significantly alter) the land surface.
+
+An example of two different topics/statements in very close proximity that don't add "alls" is found here:
+
+> <span class="bbq">/Mark 1:4 John came baptizing‡ in the wilderness and preaching the baptism of repentance for forgiveness of sins. 5 All the country of Judea and all those of Jerusalem went out to him./</span>
+
+You might think the "all" for Jerusalem is repeated, but ironically the debunking of another claimed contradiction shows this not to be the case; that in their culture you could think of the surrounding countryside (as we would phrase it) as "Judea" as a separate place than "Jerusalem" even though in modern Western culture we would typically see Jerusalem as "in" Judea, and at times ancients could phrase it that way too. This is shown here:
+
+> <span class="bbq">/John 3:22 After these things, Jesus came with his disciples into the land of Judea. He stayed there with them and baptized./</span>
+
+The skeptic's objection in this case is that prior context shows that Jesus was in Jerusalem, so he was going from Jerusalem to Judea. This does seem to be the case, as Nicodemus just met with him, and nothing states that he had left Jerusalem, while 2:23 says that he had been in Jerusalem for the Passover.
+
+[Update after draft: This also backs up that Jesus seems to spend Passover in Jerusalem, not in Bethany, relevant to another argument mentioned elsewhere on this page about the Last Supper, where a Laz=DiscipleLoved proponent tried to argue that it happened at Lazarus' house in Bethany, in order to make Lazarus the host and thus to be the one eating next to Jesus. I haven't checked on every such case but it seems consistent so far that Jesus celebrates Passover in Jerusalem, not Bethany. This would also back up that he was in Jerusalem here, to go "into the land" of Judea.]
+
+This in turn means that the "whole" and "all" of Judea and Jerusalem in Matthew are two separate ideas, and the two alls there don't modify each other.
+
 ## Scroll Tags Not Optional
 
-In case you aren't aware, for longer ancient documents, especially historical narratives such as the gospels, it typically wouldn't be important to put the author or title in the body text itself.
+In case you aren't aware, **for longer ancient documents, especially historical narratives such as the gospels, it typically wouldn't be important to put the author or title in the body text itself**.
 
-Since they used scrolls, it would do no good for seeing which text was which on the shelves. Taking it out each time to open it to check risks unnecessary damage to the scroll.
+**Since they used scrolls, it would do no good for seeing which text was which on the shelves. Taking it out each time to open it to check risks unnecessary damage to the scroll.**
 
-They didn't have spines like books for titles; instead, the scrolls had the ends like our modern rollerpins, and a tag would be attached to one of the pins.
+They didn't have spines like books for titles; instead, **the scrolls had the ends like our modern rollerpins, and a tag would be attached to one of the pins**.
 
-If a work was anonymous or untitled, each library would typically make up a title based on something inside the body text such as the first word to name the scroll.
+**If a work was anonymous or untitled**, each library would typically make up a title based on something inside the body text such as the first word to name the scroll.
 
-The key there is that different libraries likely would make up different names.
+The key there is that **different libraries likely would make up different names for the tags**.
 
-Yet for the four gospels, the titling is unanimous.
+**Yet for the four gospels, the titling is unanimous.**
 
-This makes it most likely that the four titles are the authors' signatures, so John wrote John. Appealing to the idea that someone else added the name erroneously later (which to be fair, some proponents of Laz=DiscipleLoved didn't argue, but I found at least two who did) is not only theologically questionable at best, but highly unrealistic.
+This makes it **extremely likely that the four titles are the authors' signatures, so John wrote John.**
+
+Appealing to the idea that someone else added the name erroneously later (which to be fair, some proponents of Laz=DiscipleLoved didn't argue, but I found at least two who did) is not only theologically questionable at best, but highly unrealistic.
 
 ## Miscellaneous Mopup
 
