@@ -201,8 +201,8 @@ What was over the water? It's unclear if there was air yet; that may be what was
 
 A table was then shown, which is easier to format outside of the block quote:
 
-||darkness|was|on|the surface of|the deep|<br>
-|(and)|God's Spirit|was|hovering over|the surface of|the waters|<br><br>
+||darkness|was|on|the surface of|the deep|
+|(and)|God's Spirit|was|hovering over|the surface of|the waters|
 
 Continuing:
 
