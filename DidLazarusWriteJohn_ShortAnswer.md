@@ -86,7 +86,7 @@ I see that **he's using authorial avoidance all along, including one in John 1 w
 
 <blockquote><span class="bbq">/John 13:34 "...<b>A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.</b>
 
-35 **By this everyone will know that you are my disciples, if you have love for one another.**”/</span></blockquote>
+35 <b>By this everyone will know that you are my disciples, if you have love for one another.</b>”/</span></blockquote>
 
 Then the author of the gospel of John continues to self-reference both with more generalized avoidance, and sometimes interchangeably with the DiscipleLoved phrase. **It makes sense that he wouldn't use the phrase earlier so the attentive, normal reader (who reads in order, and looks to immediate context to understand why something is phrased how it is) wouldn't be confused**.
 
