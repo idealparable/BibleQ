@@ -34,7 +34,15 @@ This is the short answer version of a longer groundwork article / study notes / 
   - [Must-Read Notes](#must-read-notes)
   - [Table of Contents](#table-of-contents)
 - [**Answer**](#answer) <----- Skip to answer
-
+  - [Why Authorial Avoidance?](#why-authorial-avoidance)
+  - [Trinity in Genesis](#trinity-in-genesis)
+  - [HeLoved](#heloved)
+  - [Disciple Known to Caiaphas](#disciple-known-to-caiaphas)
+  - [DiLoved = Fisherman and “Therefore it is the Lord”](#diloved--fisherman-and-therefore-it-is-the-lord)
+  - [That Guy Named John](#that-guy-named-john)
+  - [NonliterALL](#nonliterall)
+  - [Scroll Tags Not Optional](#scroll-tags-not-optional)
+  - [Miscellaneous Mopup](#miscellaneous-mopup)
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
   - [Abbreviations](#abbreviations)
@@ -428,7 +436,7 @@ Yet for the four gospels, the titling is unanimous.
 
 This makes it most likely that the four titles are the authors' signatures, so John wrote John.
 
-## Miscellaenous Mopup
+## Miscellaneous Mopup
 
 For this section I'll just cover any other argument not dealt with above for Lazarus as the Disciple Loved, including more obscure ones not covered in the longer article.
 
@@ -562,7 +570,24 @@ As for why John doesn't repeat the prayer, if he's writing a supplemental gospel
 
 It's already covered in Mark, which JPH says there's evidence John was especially intended to write a supplement to. (Which in turn is evidence for John, as one of the other top disciples long-term in addition to Peter, who Mark was a student of.) So John would especially not likely see a need to rehash it, and the author of John would already know it from Mark, even if he hadn't personally witnesses it, so could have included it. If the author is Lazarus, he already had to include many things he didn't likely witness.
 
+## Conclusion
+I found that the argument that Lazarus is "the disciple Jesus loved" is highly unlikely, and it's extremely likely that it's John, and that the same person wrote the gospel of John.
 
+There is some loose evidence that could be taken as arguing for Lazarus, but all of that seems to work as well or better for John, and much besides seems to work against the Lazarus identification.
+
+Some of the evidence even seems to narrow it down to John specifically -- just looking at internal evidence and data from the other three gospels, and the three epistles of John, and Revelation (not looking at external attribution).
+
+Oddly I found that several proponents of Lazarus as the Disciple Loved are under a strange impression that John as author and DiLoved is supported mainly, or even only, by external tradition! It's difficult to square this claim with the text.
+
+To me that looks like confirmation bias.
+
+Slightly better are arguments from external sources against other external sources, that it was a different John who wrote John, etc.
+
+But the internal evidence is extremely strong that it was the same John who was in the inner three disciples -- John son of Zebedee, so these arguments still don't seem to have much power, to me, currently.
+
+Even how the author apparently came to think of this phrase for himself seems clearly associated with John the fisherman who worked with Peter, and likewise in the final chapter, where the same person is said to be the author.
+
+So I think we're justified in concluding that beyond reasonable doubt, as far as I can tell right now, it's John.
 
 
 
