@@ -2672,7 +2672,7 @@ What was over the water? It's unclear if there was air yet; that may be what was
 
 In other words, the Spirit was dark -- not shining, not making light yet.
 
-This in turns mean that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!
+This in turn means that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!
 
 Now, again, the Spirit is said to have inspired all Scripture. Cites to that end are in the next section (SAUA section).
 
