@@ -40,7 +40,7 @@ This is the short answer version of a longer groundwork article / study notes / 
   - [Trinity in Genesis](#trinity-in-genesis)
   - [HeLoved](#heloved)
   - [Disciple Known to Caiaphas](#disciple-known-to-caiaphas)
-  - [DiscipleLoved = Fisherman and “Therefore it is the Lord”](#DiscipleLoved--fisherman-and-therefore-it-is-the-lord)
+  - [DiscipleLoved = Fisherman and “Therefore it is the Lord”](#discipleloved--fisherman-and-therefore-it-is-the-lord)
   - [That Guy Named John](#that-guy-named-john)
   - [NonliterALL](#nonliterall)
   - [Scroll Tags Not Optional](#scroll-tags-not-optional)
