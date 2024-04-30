@@ -7,7 +7,7 @@ This subject is relevant to biblical apologetics and proper biblical interpretat
 
 In some cases it's clear how a modern in a different culture might genuinely be confused. In other cases the attempted exegesis of Flatteners is very tortured.
 
-Since both skeptics, who don't believe Earth is flat, and self-described Christians both claim it teaches a Flat-Earth (and some like Michael Heiser who are Christian and don't accept a FE in reality have argued for a version of accommodationism that claims the Bible does portray beliefs in it), we need a term for those who try to argue for the Bible teaching a Flat Earth.
+Since both skeptics, who don't believe Earth is flat, and self-described Christians both claim it teaches a Flat-Earth (and some who are Christian and don't accept a FE in reality have argued for a version of accommodationism that claims the Bible does portray beliefs in it), we need a term for those who try to argue for the Bible teaching a Flat Earth.
 
 I call them Flatteners (or Flatters for short).
 
