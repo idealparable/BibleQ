@@ -62,7 +62,7 @@ Unfortunately, they don't seem to notice the many cases that show it can mean dr
 
 Examples:
 
-
+> <span class="bbq">/Genesis 1:9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 <b>God called the dry land “earth”</b>, and the gathering together of the waters he called “seas”. God saw that it was good./</span>
 
 
 <!--
