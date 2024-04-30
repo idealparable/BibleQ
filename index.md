@@ -3,7 +3,7 @@
 
 ## Recent topics:
 
-- [Flatteners Fail to Flatten the Bible's Earth or Sky](FlattenerFail). Arguments examined from those who want to make the Bible seem to teach a Flat Earth, whether biblioskeptics or professing Christian.
+- [Flatteners Fail to Flatten the Bible's Earth or Sky](FlattenerFail). Arguments examined from those who want to make the Bible seem to teach a Flat Earth, whether biblioskeptics or professing Christians.
 - [Did Lazarus Write John? Is he the Disciple Jesus Loved?](DidLazarusWriteJohn_ShortAnswer) Why I think answer's no to both. [[Long Answer](DidLazarusWriteJohn) draft form complete (typo list collected, not yet fixed), short answer version is work in progress (WIP)].
 - [Lingua](Lingua) & [Cipher](Cipher) (some language systems, Lingua is the main one useful here, for pronunciation guides). WIP.
 ## Foundational topics:
