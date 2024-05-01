@@ -153,12 +153,336 @@ Some are also "land of Israel" with a different Strong's number, like in Ezekiel
 
 So, the exact phrase "erets of Israel" ("land H776 of Israel") by my count is only eleven uses. The majority of the rest of the uses have land and Israel in the same verse but not in that specific phrase.
 
+Of the others, I'll try to count and list just the citations of the ones that I think count. But this article is, I know up front because I know this topic, going to be extremely extremely long, so I won't be quoting all of them. I'll skip ones that refer to the land of Israel as the land of Canaan even though they really are still the same basic thing in some cases. Ones that say it's the land Yahweh will give them, or has given them, are counted.
 
+Exodus 32:13.
 
+Leviticus 20:2; 23:10; 25:2.
 
+Num 13:26.
 
+That one's worth showing:
+
+Num 13:26 - and went H1980 and came H935 to Moses H4872 and Aaron H175 and to all H3605 the congregation H5712 of the sons H1121 of Israel H3478 [fn]in the wilderness H4057 of Paran H6290, at Kadesh H6946; and they brought H7725 back H7725 word H1697 to them and to all H3605 the congregation H5712 and showed H7200 them the fruit H6529 of the land H776.
+
+So, they went, and then brought back fruit of the earth. Does this mean they came from some other place that wasn't in world-Earth and brought back fruit from world-Earth? Clearly it means the scouts of the land that would become the land of Israel.
+
+Cases like this are important as they tell us that the Bible can use "the earth" without qualification, and yet it still clearly refers to the land of Israel (or some other land depending on the context).
+
+Thus, in cases where the context may be unclear, we can't leap to the assumption that it means all dry land. (Or especially to something it never means, world-Earth. But some of the FE arguments can work if it does refer to all dry land, like the Neb dream.)
+
+Num 14:7 same, used twice.
+
+15:2,18; 20:12,24; 27:12; 32:7;9,17,22; 34:13; probably 35:34; I think 36:2.
+
+Deuteronomy 2:12; 3:18; 4:1; 6:3; 31:7,23; 32:52; I think 33:28.
+
+Joshua 1:2; 2:2; 5:6;  I think 14:5; 18:3,10; 19:49,51.
+
+Judges 2:6.
+
+I think 2nd Samuel 19:9.
+
+1st Kings 8:36. After that we have the Israel/Judah split. Instances of Judah or Israel will both be included. 14:24; 20:7.
+
+Here we have an especially clear example:
+
+2Ki 15:17 -
+In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king over Israel and reigned ten years in Samaria.
+
+Tools
+
+Unchecked Copy Box2Ki 15:18 - And he did what was evil in the sight of Yahweh; he did not depart all his days from the sins of Jeroboam the son of Nebat, which he made Israel sin.
+Tools
+
+Unchecked Copy Box2Ki 15:19 -
+Pul, king of Assyria, came against the land, and Menahem gave Pul one thousand [fn]talents of silver so that his hand might be with him to strengthen the kingdom in his hand.
+
+Tools
+
+Unchecked Copy Box2Ki 15:20 - Then Menahem exacted the money from Israel, even from all the mighty men of valor, from each man fifty [fn]shekels of silver to pay the king of Assyria. So the king of Assyria returned and did not stay there in the land.
+Tools
+
+2Ki 15:20 - Then Menahem H4505 exacted H3318 the money H3701 from Israel H3478, even from all H3605 the mighty H1368 men H1368 of valor H2428, from each H259 man H376 fifty H2572 [fn]shekels H8255 of silver H3701 to pay H5414 the king H4428 of Assyria H804. So the king H4428 of Assyria H804 returned H7725 and did not stay H5975 there H8033 in the land H776.
+
+Imagine if our translations always said "earth" for erets!
+
+The King of Assyria did not stay in the earth? If this means all dry land, does it mean he went out to sea? And don't get me started about world-Earth.
+
+1st Chronicles 21:12; 28:8 (I think).
+
+2nd Chronicles 6:27. Worth showing:
+
+2Ch 6:27 - then listen H8085 in heaven H8064 and forgive H5545 the sin H2403 of Your slaves H5650 and of Your people H5971 Israel H3478; indeed H3588, teach H3384 them the good H2896 way H1870 in which H834 they should walk H1980. And give H5414 rain H4306 on Your land H776, which H834 You have given H5414 to Your people H5971 for an inheritance H5159.
+
+That last sentence says give rain on your earth, which you have given to your people for an inheritance. We know the bounds of that earth. The earth is the Lord's -- all dry land belongs to him, all everything does, but here "Your" land/earth is more limited in scope.
+
+20:7.
+
+We're now up to Isaiah. No hits for that phrase equivalent in it (presumably looking for both land and Israel in the same verse).
+
+Let's stop there. We now have the groundwork (so to speak), to look at one of the most-cited Flattener verses:
 
 ## Isaiah's Circle and a Sphere-Formation Army Surrounding a Camp?
+
+w/Isaiah 40:22 It is he who sits above the circle of the earth,
+and its inhabitants are like grasshoppers;
+who stretches out the heavens like a curtain,
+and spreads them out like a tent to dwell in,
+23 who brings princes to nothing,
+who makes the judges of the earth meaningless.
+24 They are planted scarcely.
+They are sown scarcely.
+Their stock has scarcely taken root in the ground.
+He merely blows on them, and they wither,
+and the whirlwind takes them away as stubble./
+
+I've seen Flatteners use this verse in four main ways.
+
+First, they'll say that "earth" is planet Earth / world-Earth, and thus the meaning of circle, if it's a planet, would have to be sphere.
+
+We've already seen that by default this is false.
+
+Many Spherical Earthers who respond to Flattener use of this verse, however, are or behave as if they're unaware of it in their responses, and will accept the premise.
+
+Then the Flatteners will argue that we need "circle" to mean sphere, and it's very common to add that if Isaiah had meant sphere, he would used the word "duwr" (which I'll spell dur; in Ln would be due'r), what they claim is the word that always means a sphere, instead of khug, which he did use here (Ln khue'g but I"ll just spell it khug).
+
+The fourth argument works with the "tent" language about the heavens.
+
+The problem with the dur (Strong's H1754) argument is instant when you look through the other uses. There are only three, and the second, also in Isaiah, is:
+
+Isa 29:3 -
+And I will camp against you [fn]encircling H1754 you,
+
+And I will fortify siegeworks against you,
+
+And I will raise up fortifications against you.
+
+Clearly dur is a flat (irregular) circuit here.
+
+The FE argument is that Isaiah "knew" the meaning of dur is always sphere, because he uses it in what's translated "ball" here:
+
+Isa 22:18 -
+And He will surely roll you tightly like a ball H1754,
+
+To be cast into a vast country;
+
+There you will die,
+
+And there your glorious chariots will be,
+
+You disgrace of your master’s house.’
+
+Of course, this assumes this is translated correctly, but even if it is, Isaiah also clearly knew that dur can mean circle, or irregular circuit, since he used it that way.
+
+So far the commonality is a tight surrounding, whether 2D or 3D.
+
+The last usage is outside Isaiah, here:
+
+Eze 24:5 -
+“Take the choicest of the flock,
+
+And also pile H1754 [fn]wood under [fn]the pot.
+
+Make it seethe vigorously.
+
+Also boil its bones in it.”
+
+This one is pretty ambiguous, but it probably conveys that the wood under the pot is evenly distributed, with no gaps, and close to it so that the water that is boiled "seethes vigorously". So again, full surrounding or coverage, and closeness seem to be in view, and this is also clearly not a sphere.
+
+What that means is, the only direct way to "know" that dur means a ball, from Scripture alone, is to read the meaning of "ball" into the very verse they're claiming is their argument! Two out of the three times it's used, it means a flat circle!
+
+But it gets worse. From uses outside the Bible, Brown-Driver-Briggs says that it means cordon, related to Assyrian kuduru, which fits both the circular (not spherical) and tight surrounding sense.
+
+It's also listed as from a root with a different Strong's number, H1752, but that would be pronounced the same and is listed as spelled the same in Hebrew, meaning to heap up, pile, or dwell, nothing about sphericity in the word.
+
+However, this one is used only once, here:
+
+Psa 84:10 -
+For better is a day in Your courts than a thousand elsewhere.
+
+I would choose to stand at the threshold of the house of my God
+Than dwell H1752 in the tents of wickedness.
+
+This has no sphericity connotation either, And Gesenius, which ironically some Flatteners treat as inerrant practically because it sometimes portrays their view as that of the biblical Hebrews, says means "to go around, to go in a circle."
+
+Let's be real. If Isaiah had used dur, the very same Flat-Earthers would be insisting that dur is the word for circle, dismissing the "ball" case, focusing on the army and all of this, and saying it usually means a flat circle, therefore Earth is flat.
+
+You know they would.
+
+This is what they do with everything they can.
+
+As for khug, I'll look at it, but keep in mind it's irrelevant if erets (earth) here means something like Israel or just one area of land, or even all land if "above" means "at higher altitude than" (not that God is only limited to a theophany that might be higher than).
+
+Job 22:14 -
+‘Clouds are a hiding place for Him, so that He cannot see;
+
+And He walks on the [fn]vault H2329 of heaven.’
+
+Instantly we have an intractable problem for Flat-Earthers.
+
+In their model, clouds are not like a dome or a vault. Their arguments often use verses translated as "vault" of the sky to argue that it's a dome. Some have even used this very verse. But if khug (H2329) only means a flat circle, then this has to mean the "vault" of heaven is a flat circle too, not a dome shape.
+
+The parallelism with clouds is probably in view here, though. Especially in Job, in the later chapters, we see that strong clouds have moved in, and God speaks out of a whirlwind (tornado). The speakers of Job often refer to things they're seeing around them as their object lessons for their figurative points.
+
+Eliphaz here refers to stars, seemingly visible at the time, so this appears to be as the clouds were moving in.
+
+Job 22:12 -
+“Is not God in the height of heaven?
+
+Look also at the [fn]distant stars, how high they are!
+
+By the way, that is especially true in our cosmological model, but I disgress; the point is, he's explicitly using something they can see as his object lesson, and this is two verses before the clouds case, so he's clearly referring to actual clouds they can see.
+
+Eliphaz is saying that God is walking on the clouds, not on a sky-dome far above it, consistent with God speaking through the whirlwind later, and very similar to the Lord being in the pillar of cloud in Exodus and so on.
+
+He goes on to make it clear he's ascribing to Job the idea that God can't see through the clouds, but disagreeing with the idea.
+
+Now, if I accept standard Flat-Earth methods of interpretation, of course, I must believe that clouds are solid, and flat circles.
+
+Their model would indeed have clouds as flat, rather than ever wrapping around a globe, more or less.
+
+But they want to say that the solidity in this verse applies NOT to clouds, but to the vault of stars etc. above it, so they would want vault of heaven to be a DIFFERENT thing:
+
+Job 37:18 -
+“Can you, with Him, spread out the skies,
+
+Strong as a molten mirror?
+
+So, Flat-Earthers must choose whether clouds are solid and flat, with the rest of the heavens being any other shape with no solidity connotation, or else it's the rest of the heavens, not clouds, which are solid and flat, ruining their dome model... or else khug can refer to a dome.
+
+And if khug can refer to a dome, then it could also refer to two domes placed together; two hemispheres, a sphere.
+
+Khug also has only three uses. The second is this:
+
+Pro 8:27 -
+“When He established the heavens, I was there,
+
+When He marked out a circle H2329 on the face of the deep,
+
+This is another Flatteners use in another capacity, but for now all we need to know is this is indeed talking about a 2D circle shape. The question is, how? How did God mark this circle? What is it?
+
+Unchecked Copy BoxPro 8:25 -
+“Before the mountains were settled,
+
+Before the hills I was [fn]brought forth;
+
+Unchecked Copy BoxPro 8:26 -
+While He had not yet made the earth and the fields outside,
+
+Nor the first dust of the world.
+
+Tools
+
+Unchecked Copy BoxPro 8:27 -
+“When He established the heavens, I was there,
+
+When He marked out a circle on the face of the deep,
+
+Tools
+
+Unchecked Copy BoxPro 8:28 -
+When He made firm the skies above,
+
+When the springs of the deep became strong,
+
+Tools
+
+Unchecked Copy BoxPro 8:29 -
+When He set for the sea its boundary
+So that the water would not pass over His [fn]command,
+
+When He marked out the foundations of the earth;
+
+Pro 8:30 -
+Then I was beside Him, as a master workman;
+
+And I was a daily delight,
+
+[fn]Rejoicing always before Him,
+
+Tools
+
+Unchecked Copy BoxPro 8:31 -
+[fn]Rejoicing in the world, His earth,
+
+My delight is in the sons of men.
+
+
+So the "circle" here (circuit) is the edge of LAND as it was raised; this is talking about the process of raiding up the lands, the 'earth' on which men would live. Before he had made the dry land, there was no bounds for the waters.
+
+This works in the Spherical Earth model.
+
+It doesn't work in the new Flat-Earth model; there is supposed to be the land border of Antarctica around the seas, and Day 3 is just supposed to be about raising up dry land inside that giant circular ocean. So that ocean is supposed to already have outer bounds.
+
+So what this means is, khug isn't "circle" in the sense of having a radius in all directions equidistant from a center!
+
+It just means a circuit -- ANY irregular circuit.
+
+Remember that in Genesis 1, the waters were gathered into one place.
+
+Parsimoniously this in turn means (aside from suggesting a spherical world-Earth since we then have a simple single super-ocean whereas the new FE model would have a ring-ocean around, an odd thing to call "one" place) that the lands were in one place too; a single giant supercontinent.
+
+The way Hebrew uses "all"-language means that this doesn't imply there were no smaller islands necessarily, but that for the most part, there was one large landmass, so this earth had one single border of coast where it met the sea.
+
+Although in Isaiah it's after the Flood, thus after the continents divided, so the seas aren't in only one place anymore, by default even if all dry land is implied, it would be the land Isaiah knows about, and he just knows that there is water around Israel in the Mediterranean, the Atlantic, and the Indian Oceans. He probably presumes that the land continues around something similar to what we know it does, the further north and east. He need not know about Australia or the Americas and their existence wouldn't contradict that God is over (again, possibly with a manifestation literally hovering over, but figuratively superior to) all the land connected to Eurasia-Africa.
+
+This does have an irregular circuit around it.
+
+And nothing about how wrapped around a globe it may be is denied here.
+
+If anything, it's suggested by the "vault" translation of the other passage.
+
+Also this seems to say that you can look at the waters as just as "centric" as the land if you want. That is, you can look at the waters as a single thing surrounded by land, as much as you can look at land as a single thing surrounded by water. This only works on the spherical model.
+
+I'm again not saying it proves it, but it MAY suggest it.
+
+And to be fair, again, since this is post-Flood, and we do know that there are three other continents, it wouldn't be quite that simple, but the Bible need not comment on that to be accurate here. The Pacific is much larger even today than the other oceans, so on a globe it's very easy to look at the waters as more bounded by land, as it is to look at the lands as more bounded by water.
+
+The only other usage is the Isaiah "circle of the earth" passage itself.
+
+This khug was H2329. Like dur, it also has a root spelled the same but with a different Strong's number, H2328.
+
+And just like dur, this root only has one use:
+
+Job 26:10 -
+“He has marked H2328 a circle H2328 on the surface of the waters
+At the boundary of light and darkness.
+
+This is the other verse that MAY suggest a spherical world-Earth.
+
+It's often suggested that all of these circles mean the horizon, and although that meaning isn't compatible with the Proverbs 8 usage we just saw (because it's the irregular circuit of the land in view there), and it could in a sense be argued here, but it may refer to the world-Earth's surface itself where the waters are lit on one side, and dark on the other. Since ancients knew this boundary moves toward the west, this describes only a sphere, if this root-khug means a circle.
+
+A Flattener could still hope that they didn't know this boundary moves, but this would ascribe error to the Scriptures.
+
+Keep in mind also that it's only the *old* FE model that had the edge of the world-Earth as the boundary of day and night.
+
+This is incompatible with the new model where the sun never really sets, they just have light distortion miracles constantly in use (or magic or something) that conveniently makes the sky look identical to the sky around a spherical Earth, because their idea of God is evidently deceptive, or Satan is too powerful, or some such excuse. The new model also has a moving boundary of night and day, and it wouldn't be a circle.
+
+Sometimes it would approach an oval, but during southern summer, when the Antarctic Circle area has no night, the new FE model has the day area stretched out into a wild shape that hits the entire border of their flat world-Earth, all of the Antarctica, yet misses places closer than the far end of it, in a shape something like a ring that's fat on one side.
+
+Of course, the night side would approach a bounded oval-like shape in that case, so they could really complicate this interpretation by saying it just trades between a yin/yang like circle... ish... ish area of day and of night for somewhere approaching half and then half of the year.
+
+Mhm.
+
+Now, I've focused on the khug versus dur argument, the third of the four and by far their most favored argument, but what if we take that out? Can Flatteners still use Isaiah 40:22?
+
+Well, let's go through the other arguments one at a time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
