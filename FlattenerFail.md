@@ -3,7 +3,9 @@
 
 **Bible Question:** Does the Bible teach a cosmology? Does it teach a flat world-Earth with a capital E? Does it teach a solid firmament (raqia / expanse)?
 
-This subject is relevant to biblical apologetics and proper biblical interpretation (and simply attentiveness of readers). We'll see that passages and terms taken out of context don't support the FE (Flat Earth) worldview.
+This subject is relevant to biblical apologetics and proper biblical interpretation (and simply attentiveness of readers).
+
+We'll see that **often-cited passages and terms don't support the FE (Flat Earth) worldview**.
 
 In some cases it's clear how a modern in a different culture might genuinely be confused. In other cases the attempted exegesis of Flatteners is very tortured.
 
