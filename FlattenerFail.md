@@ -108,7 +108,7 @@ Some other major examples where erets / earth refer to a specific region or nati
 
 <blockquote><span class="bbq">/Gen 12:5 - So Abram took Sarai his wife and Lot his brother’s son, and all their possessions which they had accumulated, and the [fn]persons which they had acquired in Haran, and they departed to go forth to the land H776 of Canaan; thus they came to the land H776 of Canaan./</span></blockquote>
 
-Land (earth) of Canaan is repeated many times, not shown here. Go where I said in BLB to see all uses yourself./</span></blockquote>
+Land (earth) of Canaan is repeated many times, not shown here. Go where I said in BLB to see all uses yourself.
 
 <blockquote><span class="bbq">/Gen 12:7 - Then Yahweh appeared to Abram and said, “To your seed I will give this land H776.” So he built an altar there to Yahweh who had appeared to him./</span></blockquote>
 
