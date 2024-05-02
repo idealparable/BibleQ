@@ -9,11 +9,13 @@ We'll see that **often-cited passages and terms don't support the FE (Flat Earth
 
 In some cases it's clear how a modern in a different culture might genuinely be confused. In other cases the attempted exegesis of Flatteners is very tortured.
 
-Since both skeptics, who don't believe Earth is flat, and self-described Christians both claim it teaches a Flat-Earth (and some who are Christian and don't accept a FE in reality have argued for a version of accommodationism that claims the Bible does portray beliefs in it), we need a term for those who try to argue for the Bible teaching a Flat Earth.
+Since both skeptics, who don't believe Earth is flat, and self-described Christians both claim it teaches a Flat-Earth (and some who are Christian and don't accept a FE in reality have argued for a version of accommodationism that claims the Bible does portray beliefs in it), we need **a term for those who try to argue for the Bible teaching a Flat Earth**.
 
-I call them Flatteners.
+I call them **Flatteners**.
 
-This includes both views of a 2-D circular world-Earth and of a depthless sky-dome or sky-sphere (so flat sky in that sense; solid sky). Many geocentrists teach or have taught a spherical world-Earth under a depthless, solid sky-sphere. Passages claimed to teach both will be examined.
+(Flatteners aren't necessarily Flat-Earthers, since many biblioskeptics accept the Spherical Earth but claim the Bible is against it, in order to invent more bad arguments against the Bible.)
+
+This **includes both views of a 2-D circular world-Earth and of a depthless sky-dome or sky-sphere (so flat sky in that sense; solid sky)**. Many geocentrists teach or have taught a spherical world-Earth under a depthless, solid sky-sphere. Passages claimed to teach both will be examined.
 
 This is an initial-findings article, although much of this is from study over many years before, but by that I mean I'll try to also track down any loose end I hadn't before, and use this page as notes of all the results. As such it may turn into an extremely long article, likely to be followed by a short version. If so it will be linked here.
 
@@ -36,41 +38,53 @@ This is an initial-findings article, although much of this is from study over ma
 
 Summary of results:
 
-It's generally thought by Spherical Earthers (those of us who accept that world-Earth is an oblate spheroid) that the Bible doesn't teach a cosmology at all. It simply has higher priorities; the salvation message and the key history related to it, and as it happens, cosmology was not one of the details it touched on among other lower priorities it does sometimes comment on.
+It's generally thought by Spherical Earthers (those of us who accept that world-Earth is an oblate spheroid) that **the Bible doesn't teach a cosmology at all. It simply has higher priorities; the salvation message and the key history related to it,** and as it happens, cosmology was not one of the details it touched on among other lower priorities it does sometimes comment on.
 
 Which by the way makes much more sense in the SE model; the Flat-Earthers, if consistent, would have to believe in a massive global deception involving wide-scale apparently miraculous power making Earth appear to be a sphere with a non-solid sky in several ways I'll also go over later. If this is true, it's strange even from their perspective when they think many passages to teach their cosmology piecemeal that there is no one section that talks about this massive world-deception. It seems to depict a deceptive God, or a much too powerful devil, or perhaps a much too-powerful evil humanity. None of that is biblical.
 
-I do not see solid proof that it does teach a cosmology, so I think this is a good default answer.
+**I do not see solid proof that it does teach a cosmology,** so I think this is a good default answer.
 
-However, there are at least two possible hints that it may imply a spherical Earth, that in Genesis 1 waters are gathered into one place (not a ring around land gathered in one place) in the original supercontinent / super-ocean setup, and one in Job that may depict a moving circular boundary of the day/night edge, which would describe a sphere. I would, though, caution against treating this as biblical proof of a spherical world-Earth.
+**However, there are at least two possible hints that it may imply a spherical Earth**, that **in Genesis 1 waters are gathered into one place** (not a ring around land gathered in one place) in the original supercontinent / super-ocean setup, **and one in Job that may depict a moving circular boundary of the day/night edge, which would describe a sphere**.
 
-It definitely doesn't teach a flat world-Earth.
+**I would, though, caution against treating this as biblical proof of a spherical world-Earth.**
 
-And as regards a solid sky, it not only doesn't teach that the raqia / raqiya (expanse, sometimes mistranslated firmament) is a solid surface such as a dome, it forbids that meaning for the raqia since it teaches that birds fly in it according to Genesis 1.
+**It definitely doesn't teach a flat world-Earth.**
+
+And **as regards a solid sky, it not only doesn't teach that the raqia** / raqiya (**expanse**, sometimes mistranslated firmament) **is a solid surface such as a dome, it forbids that meaning for the raqia since it teaches that birds fly in it according to Genesis 1**.
 
 If there is a solid sky in the view of the biblical authors, Flatteners must look to a different word or argument to try to support it.
 
 Nor has any other attempt that I've found worked to that end.
 
-I find that in every case, if we obey the Bible's command to test everything, to search the Scriptures to see if claims about them are really true, including claims from scholars and those who write manmade views of definitions, those pushing a Flat Earth reading of the Bible are never grounding it in sound logic from Scripture, but always have hidden manmade assumptions their reasoning rests on -- the usual error of eisegesis (reading man's ideas into the text, as opposed to the proper approach, exegesis; following the hermeneutical rules of the source languages to let the text tell us what it means).
+I find that **in every case, if we obey the Bible's command to test everything, to search the Scriptures to see if claims about them are really true, including claims from scholars and those who write manmade views of definitions, those pushing a Flat Earth reading of the Bible are never grounding it in sound logic from Scripture, but always have hidden manmade assumptions their reasoning rests on** -- the usual error of **eisegesis (reading man's ideas into the text, as opposed to the proper approach, exegesis; following the hermeneutical rules of the source languages to let the text tell us what it means)**.
 
-I'll focus on the Bible first as that's generally my own focus, and the focus of this site. Sources are generally direct study in Blue Letter Bible (BLB) checking full biblical usage of terms to test assumptions that require the words to only have a limited range of meaning the Flattener wants (when I find they don't), and much of it I know because of JP Holding's (JPH) work on this (see end notes).
+I'll focus on the Bible first as that's generally my own focus, and the focus of this site.
+
+Sources are generally direct study in Blue Letter Bible (BLB) checking full biblical usage of terms to test assumptions that require the words to only have a limited range of meaning the Flattener wants (when I find they don't), and much of it I know because of JP Holding's (JPH) work on this (see end notes).
 
 Dr. Danny Faulkner (DF), a scientist with Answers in Genesis, is also heavily relied on for scientific topics, and his views of biblical passages will be acknowledged where relevant. He does unfortunately seem not to know one of the key findings pointed out by JP Holding, especially what "earth" means. He may realize this but he skips over the explanation that uses this in several cases.
 
-I'm going to start with that -- the meaning of earth -- and then start with the Flattener argument that uses it with Isaiah 40:22 and the one that uses it with Daniel 4.
+I'm going to start with that -- the meaning of earth -- and then start with the Flattener argument that uses it with Isaiah 40:22 and the one that uses it with Daniel 4, then Genesis 1 about birds, more details about Genesis 1, an argument about clay seals, and from there I'll go through miscellaneous arguments in no particular order.
+
+Please keep in mind this article should ideally be read in order in all parts, as it will be very long so I can't be repeating foundational points too much.
 
 ## World-Earth Wasn't Named Earth Yet
 
-"Earth" as in planet Earth, or world Earth for Flat-Earthers, wasn't named "Earth" in the biblical usage. This anachronistic error (confusing how language, in this case, was used in a different time) is one of the more understandable error. This fact isn't usually taught, so many people think they can just search for the word "earth" (lowercase e... unless starting a sentence etc.) and find the Bible's "cosmology" about the shape of world-Earth.
+**"Earth" as in planet Earth, or world Earth for Flat-Earthers, wasn't named "Earth" in the biblical usage.**
 
-Unfortunately, they don't seem to notice the many cases that show it can mean dry land or a land, as in a nation, the land of Israel, the land of Babylon, etc.
+This anachronistic error (confusing how language, in this case, was used in a different time) is one of the more understandable error. This fact isn't usually taught, so many people think they can just search for the word "earth" (lowercase e... unless starting a sentence etc.) and find the Bible's "cosmology" about the shape of world-Earth.
+
+Unfortunately, they don't seem to notice the many cases that show that **"earth" (erets) means dry land or a land, as in a nation, the land of Israel, the land of Babylon, etc.** as well as *sometimes soil, local land near a speaker/writer, or the materials that would make up dry land when mixed in water*.
 
 Examples:
 
-<blockquote><span class="bbq">/Genesis 1:9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 <b>God called the dry land “earth”</b>, and the gathering together of the waters he called “seas”. God saw that it was good./</span></blockquote>
+<blockquote><span class="bbq">/Genesis 1:9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so.
 
-This directly states that it's only talking about dry land. Some argue that in verse 1:1 it does mean the planet, but this is incorrect as I'll show later.
+10 <b>God called the dry land “earth”</b>, and the gathering together of the waters he called “seas”. God saw that it was good./</span></blockquote>
+
+This directly states that it's only talking about dry land.
+
+Some argue that in verse 1:1 it does mean the planet, but this is incorrect as I'll show later.
 
 The word is erets, pronounced in my Lingua (Ln) system (see end notes) as EH-rehts according to BLB.
 
