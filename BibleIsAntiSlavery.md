@@ -50,7 +50,25 @@ Also note: Format options described in the must-read-notes below won't be used (
   - [Must-Read Notes](#must-read-notes)
   - [Table of Contents](#table-of-contents)
 - [**Answer**](#answer) <----- Skip to answer
-(No subcategory headers have been written for this.)
+  - [Leviticus 25; Hebrews Already Treated Foreigners Well](#leviticus-25-hebrews-already-treated-foreigners-well)
+  - [Uncautious Good Intentions Backfire Disastrously](#uncautious-good-intentions-backfire-disastrously)
+  - [Death to Enslavers](#death-to-enslavers)
+    - [True Statement Fallacy/Error](#true-statement-fallacyerror)
+  - [False Cause Fallacy](#false-cause-fallacy)
+    - [Is/Ought Fallacy](#isought-fallacy)
+  - [Endured](#endured)
+  - [Projection: Excusegetics = This Skeptic's Approach](#projection-excusegetics--this-skeptics-approach)
+  - [Crusades Fallacy/Error Repackaged](#crusades-fallacyerror-repackaged)
+  - ["Trust Me; I'm A Human!"](#trust-me-im-a-human)
+  - [Ancient Times Strawmanning](#ancient-times-strawmanning)
+  - [Skeptic Retreat](#skeptic-retreat)
+  - [Skeptic Says Pancakes Cost Zero Dollars Everywhere](#skeptic-says-pancakes-cost-zero-dollars-everywhere)
+  - [Being Under Authority is Being Under Authority](#being-under-authority-is-being-under-authority)
+    - [It Wouldn't Be A Skeptic Without Dunning-Kruger](#it-wouldnt-be-a-skeptic-without-dunning-kruger)
+    - [Demanding More Demands Besides the Ten Commands](#demanding-more-demands-besides-the-ten-commands)
+  - [Diagnostic Features of Slavery](#diagnostic-features-of-slavery)
+    - [Summary of Features](#summary-of-features)
+    - [Further-Condensed Summary](#further-condensed-summary)
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
   - [Abbreviations](#abbreviations)
@@ -671,9 +689,11 @@ Of course, if we did that, without first clarifying we don't literally think tha
 
 And if we instead build a proper case like this, they can just cherrypick parts of it. "GASP! THIS GUY IS PRO-SLAVERY! HE SAID SOME SENSES OF SLAVERY ARE GOOD!"
 
-And the skeptic can carefully refrain from every bothering to build a proper case, and use a cheat of shirking answering reductio ad absurdum challenge questions like "Tell me, is it ever okay for someone to be under authority of someone else in any sense? Slaves are under authority in a sense, so being under authority is being under authority! Don't play word games to get out of it! That's lame!"
+And the skeptic can carefully refrain from ever bothering to build a proper case, and use a cheat of shirking answering reductio ad absurdum challenge questions like "Tell me, is it ever okay for someone to be under authority of someone else in any sense? Slaves are under authority in a sense, so being under authority is being under authority! Don't play word games to get out of it! That's lame!"
 
-We have hope if we can just keep holding their feet to the fire and force them to either ignore or answer and try to defend their horrible arguments though. Of course, this is why many want to just resort to being the authority on who is supposedly bad and "protect society" from us by not letting us speak freely, wherever they can, limit reach, guilt by association with others who really are bad, etc. Oh the games they play.
+There's hope for them yet if we can just keep holding their feet to the fire and force them to either ignore or answer and try to defend their horrible arguments though.
+
+Of course, this is why many want to just resort to being the authority on who is supposedly bad and "protect society" from us by not letting us speak freely, wherever they can, limit reach, guilt by association with others who really are bad, etc. Oh the games they play.
 
 
 
@@ -702,9 +722,9 @@ We would realize our CAREFUL and ACTUALLY EMPATHETIC (not "pathetic") concern fo
 
 It would be CRAZY given the history of how constantly full of flagrant sin Israel was that God could add things on top of his existing demands and that this wouldn't be too much.
 
-We would be horrified at what would result if the skeptic's advise had actually been followed.
+We would be horrified at what would result if the skeptic's advice had actually been followed.
 
-The skeptic's advise would, on these premises, have led to MORE SLAVERY.
+The skeptic's advice would, on these premises, have led to MORE SLAVERY.
 
 AND to doubling down on the abuses!
 
@@ -733,15 +753,15 @@ This would suggest automatically that it might expand to other gender issues -- 
 
 Skeptics may be conflating in their mind modern race-based slavery and seeing all identity issues as the same, but in ancient times, slavery wasn't inherently about race anyways, and their own arguments here depend on conceding that, although to be fair, the later Egyptian treatment of Israel was very much an us vs. them thing.
 
+### Demanding More Demands Besides the Ten Commands
 
 What about the OTHER things God demanded?
 
-Let's start with the 10Cs.
+Let's just focus on the 10Cs, since otherwise there's so much else in the Mosaic Law this article would never end.
 
 1: God just led them OUT from slavery. He says:
 
-/Exo 20:2 -
-“I am Yahweh your God, who brought you out of the land of Egypt, out of the house of [fn]slavery. 3 - “You shall have no other gods [fn]before Me./
+<blockquote><span class="bbq">/Exo 20:2 - “I am Yahweh your God, who brought you out of the land of Egypt, out of the house of [fn]slavery. 3 - “You shall have no other gods [fn]before Me./</span></blockquote>
 
 We haven't even gotten past the VERY FIRST THOU SHALT NOT (KJV bomb there), and we ALREADY see a suggestion that slavery is bad!
 
@@ -779,8 +799,8 @@ Don't bear false witness against your neighbor. This is more likely to be an imp
 
 Don't covet. I'll quote it in a bit since "slave" is in it. But this one is a serious imposition, but also internal and difficult to prove. They might be annoyed by it, if they really like them some coveting, but if they don't act on it by stealing and so on, they could tolerate it being in the rules and trying to hide their coveting.
 
-/Exo 20:17 -
-“You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife or his male slave or his female slave or his ox or his donkey or anything that belongs to your neighbor.”/
+<blockquote><span class="bbq">/Exo 20:17 -
+“You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife or his male slave or his female slave or his ox or his donkey or anything that belongs to your neighbor.”/</span></blockquote>
 
 This one our typical skeptics like to use to try to claim that women and ebeds and amahs are "things" or "livestock" (as THIS skeptic DID use!). Of course, this just begs the question.
 
@@ -793,7 +813,7 @@ How is this comparable?
 I'm not saying Israel DID love them some slavery, again. But EVEN IF I'm wrong that they were generally easily anti-slavery (anti chattel slavery, anti any other negative sense etc.), the skeptic STILL has no legitimate argument here.
 
 
-
+## Diagnostic Features of Slavery
 
 Okay, now let's finish setting up the definition in Miller.
 
@@ -813,97 +833,97 @@ I'll try to limit what I quote from the rest just to what clarifies the "diagnos
 
 I won't worry about ANE slavery here, just to list the fullest idea of what can count as negative slavery, or closer to the fullest for not spending a ton of time on this.
 
-But all should read that (go to GM's place on the global weblike thingy, slash, q no slave, without spaces).
+But all should read [that (go to GM's place on the global weblike thingy, slash, q no slave, without spaces).](https://www.christian-thinktank.com/qnoslave.html){:target="_blank"}
 
 He does show that the norm in the region wasn't much like at least some of these features (so it wouldn't be weird that Israel's "ebed" and "amah" systems weren't either). I'll include a bit about that, some of his summaries, but not the extensive work he shows to back it up lest I just end up reproducing his entire article basically.
 
-(quote)· Motive: Slavery was motivated by the economic advantage of the elite.
+<blockquote>|(quote)· Motive: Slavery was motivated by the economic advantage of the elite.<br><br>
 
-So, [NS:ECA:4:1190] point this out: "New World slavery was a unique conjunction of features. Its use of slaves was strikingly specialized as unfree labor-producing commodities, such as cotton and sugar, for a world market." and Britannica: "By 1850 nearly two-thirds of the plantation slaves were engaged in the production of cotton...the South was totally transformed by the presences of slavery. Slavery generated profits comparable to those from other investments and was only ended as a consequence of the War Between the States." (s.v. "Slavery")
+So, [NS:ECA:4:1190] point this out: "New World slavery was a unique conjunction of features. Its use of slaves was strikingly specialized as unfree labor-producing commodities, such as cotton and sugar, for a world market." and Britannica: "By 1850 nearly two-thirds of the plantation slaves were engaged in the production of cotton...the South was totally transformed by the presences of slavery. Slavery generated profits comparable to those from other investments and was only ended as a consequence of the War Between the States." (s.v. "Slavery")<br><br>
 
-In the ANE (and OT), this was NOT the case. The dominant (statistically) motivation was economic relief of poverty (i.e., 'slavery' was initiated by the slave--NOT by the owner--and the primary uses were purely domestic (except in cases of State slavery, where individuals were used for building projects).(end quote)
+In the ANE (and OT), this was NOT the case. The dominant (statistically) motivation was economic relief of poverty (i.e., 'slavery' was initiated by the slave--NOT by the owner--and the primary uses were purely domestic (except in cases of State slavery, where individuals were used for building projects).(end quote)|</blockquote>
 
-(quote)· Entry: Slavery was overwhelmingly involuntary. Humans were captured by force and sold via slave-traders.
+<blockquote>|(quote)· Entry: Slavery was overwhelmingly involuntary. Humans were captured by force and sold via slave-traders.<br><br>
 
-This was true both for the Islamic slave trade and the European trade. [...]
+This was true both for the Islamic slave trade and the European trade. [...]<br><br>
 
-In the ANE (and especially the OT), the opposite was the case. This should be obvious from the MOTIVE aspect--these were choices by the impoverished to enter this dependency state, in return for economic security and protection. Some slavery contracts actually emphasized this voluntary aspect!(end quote)
+In the ANE (and especially the OT), the opposite was the case. This should be obvious from the MOTIVE aspect--these were choices by the impoverished to enter this dependency state, in return for economic security and protection. Some slavery contracts actually emphasized this voluntary aspect!(end quote)|</blockquote>
 
 The "[...]" is and will be my own ellipsis. Other uses of square brackets and/or ellipses are in GM's article like one below. If I have notes to add I'll instead end the quote or pause it, as I'm also doing after each feature.
 
-(quote)· Treatment : Slaves were frequently mistreated by modern standards, and punishments were extreme.
+<blockquote>|(quote)· Treatment : Slaves were frequently mistreated by modern standards, and punishments were extreme.<br><br>
 
-The images we have of the Old American South are filled with mistreatments, and we need no documentation of that here.
+The images we have of the Old American South are filled with mistreatments, and we need no documentation of that here.<br><br>
 
-The ANE, on the other hand, was much less severe, due largely to the differences in the attitudes of the 'master' to the 'slave'. Slavery in the ANE was much more an 'in-house' and 'in-family' thing, with closer emotional attachment.
+The ANE, on the other hand, was much less severe, due largely to the differences in the attitudes of the 'master' to the 'slave'. Slavery in the ANE was much more an 'in-house' and 'in-family' thing, with closer emotional attachment.<br><br>
 
-However, there were still some extreme punishments in the ANE, but the biblical witness is of a decidedly better environment for slaves than even the ANE.
+However, there were still some extreme punishments in the ANE, but the biblical witness is of a decidedly better environment for slaves than even the ANE.<br><br>
 
-Exodus 21, for example, is considered by many to be unparalleled in respect to humanitarianism toward slaves, and we shall return to this in detail below.
+Exodus 21, for example, is considered by many to be unparalleled in respect to humanitarianism toward slaves, and we shall return to this in detail below.<br><br>
 
-[Suffice it to mention here that Ex 21.21 restricts the treatment of the slave to be no more severe than what the community/elders could do with a regular, free citizen. This restriction on an owner should make one ponder what in the world the word 'property' might mean in such a context! But more on this in a minute…(end quote)
+[Suffice it to mention here that Ex 21.21 restricts the treatment of the slave to be no more severe than what the community/elders could do with a regular, free citizen. This restriction on an owner should make one ponder what in the world the word 'property' might mean in such a context! But more on this in a minute…(end quote)|</blockquote>
 
-(quote)· Treatment : As a matter of course, slaves lived in radical separation from their owners and did not participate in many of the 'benefits' of the owners' fortunes.
+<blockquote>|(quote)· Treatment : As a matter of course, slaves lived in radical separation from their owners and did not participate in many of the 'benefits' of the owners' fortunes.<br><br>
 
-We have already noted that in New World slavery at least two-thirds of plantation slaves would have lived in barracks (field-slaves), and not in intimacy with owners (domestics), whereas in the ANE/OT, the vast majority of the slaves were domestics under the same roof. In the ANE/OT, we don’t have the 'gangs' of agricultural workers we will see later in Republican Rome and in the New World(end quote)
+We have already noted that in New World slavery at least two-thirds of plantation slaves would have lived in barracks (field-slaves), and not in intimacy with owners (domestics), whereas in the ANE/OT, the vast majority of the slaves were domestics under the same roof. In the ANE/OT, we don’t have the 'gangs' of agricultural workers we will see later in Republican Rome and in the New World(end quote)|</blockquote>
 
 GM says treatment twice as a bulletpoint, unsure if that's meant to be two separate features or elaborating. They're both left-aligned the same way as the other bulletpointed features. He might have copypasted the format and forgot to edit?
 
 The second could be called instead Habitation.
 
-(quote)· Legal Status : Slaves were considered 'property' in exclusion to their humanity.
+<blockquote>|(quote)· Legal Status : Slaves were considered 'property' in exclusion to their humanity.<br><br>
 
-That is, to fire a bullet into a slave was like firing a bullet into a pumpkin, not like firing a bullet into a human.
+That is, to fire a bullet into a slave was like firing a bullet into a pumpkin, not like firing a bullet into a human.<br><br>
 
-There were no legal or ethical demands upon owners' as to how they treated their 'property'. Other than with the occasional benevolent master, only economic value was a main deterrent to abusive treatment.
+There were no legal or ethical demands upon owners' as to how they treated their 'property'. Other than with the occasional benevolent master, only economic value was a main deterrent to abusive treatment.<br><br>
 
-Theoretically, some expressions of New World slavery had some protection from outright murder of a slave, but this was not very widely accepted:
+Theoretically, some expressions of New World slavery had some protection from outright murder of a slave, but this was not very widely accepted:<br><br>
 
-"In the American South, 10 codes prescribed forced sale to another owner or emancipation for maltreated slaves. Nevertheless, cases such as State v. Hoover (North Carolina, 1839) and State v. Jones (Alabama, 1843) were considered sensational because slave owners were punished for savagely 'correcting' their slaves to death." [Britannica] [...]
+"In the American South, 10 codes prescribed forced sale to another owner or emancipation for maltreated slaves. Nevertheless, cases such as State v. Hoover (North Carolina, 1839) and State v. Jones (Alabama, 1843) were considered sensational because slave owners were punished for savagely 'correcting' their slaves to death." [Britannica] [...]<br><br>
 
-Now, this restriction on an owner as to what he/she could do with their personal 'property' should make us wonder about how the word 'property' is being used there. And indeed, the definition of 'property'--in the context of slavery--gives Anthropologists pause:
+Now, this restriction on an owner as to what he/she could do with their personal 'property' should make us wonder about how the word 'property' is being used there. And indeed, the definition of 'property'--in the context of slavery--gives Anthropologists pause:<br><br>
 
-"The definition of slaves as property runs into conceptual as well as empirical problems. 'Property' is a shorthand and abstract term for a bundle of very specific and relatively exclusive rights held by a person (or group) relative to a thing (or person).
+"The definition of slaves as property runs into conceptual as well as empirical problems. 'Property' is a shorthand and abstract term for a bundle of very specific and relatively exclusive rights held by a person (or group) relative to a thing (or person).<br><br>
 
-To say that in any given society, something (say, a person) is 'property' has meaning only to the extent that the rights involved are specified and understood in the context of other rights prevalent in the society.
+To say that in any given society, something (say, a person) is 'property' has meaning only to the extent that the rights involved are specified and understood in the context of other rights prevalent in the society.<br><br>
 
-For example, in many precolonial African societies, the kin group had the right to sell equally its slave and nonslave members, it had equal control over the wealth acquired by either of them, it extracted (or failed to extract) as much labor from one as from the other, and the majority of slaves were quasi-relatives or actual relatives, and, if prosperous enough, could acquire slaves of their own.
+For example, in many precolonial African societies, the kin group had the right to sell equally its slave and nonslave members, it had equal control over the wealth acquired by either of them, it extracted (or failed to extract) as much labor from one as from the other, and the majority of slaves were quasi-relatives or actual relatives, and, if prosperous enough, could acquire slaves of their own.<br><br>
 
-Here, obviously, one must look at other features to find the difference between the slave and the 'free'." [NS:ECA:4:1191, s.v. "Slavery"] [...]
+Here, obviously, one must look at other features to find the difference between the slave and the 'free'." [NS:ECA:4:1191, s.v. "Slavery"] [...]<br><br>
 
-And this implied range of freedom/slavery can be seen all over the ANE. Buying and Selling, for example, can be the contractual terminology for child adoption:
+And this implied range of freedom/slavery can be seen all over the ANE. Buying and Selling, for example, can be the contractual terminology for child adoption:<br><br>
 
-"Older children were adopted by reimbursing their parents for the expenses of feeding and raising them. These transactions were recorded as if they were sales." [HI:DLAM:131]
+"Older children were adopted by reimbursing their parents for the expenses of feeding and raising them. These transactions were recorded as if they were sales." [HI:DLAM:131]<br><br>
 
-and slaves had very specific legal rights (can real 'chattel property' have such?):
+and slaves had very specific legal rights (can real 'chattel property' have such?):<br><br>
 
-"Slaves had certain legal rights: they could take part in business, borrow money, and buy their freedom." [HI:DLAM:118]
+"Slaves had certain legal rights: they could take part in business, borrow money, and buy their freedom." [HI:DLAM:118]<br><br>
 
-"Guterbock refers to 'slaves in the strict sense,' apparently referring to chattel slaves such as those of classical antiquity.
+"Guterbock refers to 'slaves in the strict sense,' apparently referring to chattel slaves such as those of classical antiquity.<br><br>
 
-This characterization may have been valid for house slaves whose master could treat them as he wished when they were at fault, but it is less suitable when they were capable of owning property and could pay betrothal money or fines.
+This characterization may have been valid for house slaves whose master could treat them as he wished when they were at fault, but it is less suitable when they were capable of owning property and could pay betrothal money or fines.<br><br>
 
-The meaning 'servant' seems more appropriate, or perhaps the designation 'semi-free'.
+The meaning 'servant' seems more appropriate, or perhaps the designation 'semi-free'.<br><br>
 
-It comprises every person who is subject to orders or dependent on another but nonetheless has a certain independence within his own sphere of active." [HI:HANEL:1632]
+It comprises every person who is subject to orders or dependent on another but nonetheless has a certain independence within his own sphere of active." [HI:HANEL:1632]<br><br>
 
-"However, the idea of a slave as exclusively the object of rights and as a person outside regular society was apparently alien to the laws of the ANE." [REF:ABD, s.v. "Slavery, Ancient Near East"]
+"However, the idea of a slave as exclusively the object of rights and as a person outside regular society was apparently alien to the laws of the ANE." [REF:ABD, s.v. "Slavery, Ancient Near East"]<br><br>
 
-One other important distinction has to do with how 'comprehensive' or exclusive was the 'property' aspect. In other words, to what extent was a slave only property, and not also, a human, a family member, a contracting agent. In the ANE at least, slavery was generally a mixture of these aspects--they were not ONLY property per se [HI:HANEL:1.40]: [...]
+One other important distinction has to do with how 'comprehensive' or exclusive was the 'property' aspect. In other words, to what extent was a slave only property, and not also, a human, a family member, a contracting agent. In the ANE at least, slavery was generally a mixture of these aspects--they were not ONLY property per se [HI:HANEL:1.40]: [...]<br><br>
 
-A less dramatic illustration of this might be in a modern acquisition of one business by another business.
+A less dramatic illustration of this might be in a modern acquisition of one business by another business.<br><br>
 
-I the employee--a 'bundle' of all my workplace obligations, the contract under which I work, the values I am supposed to uphold, the relationships I have with co-workers at the office, my skills, my organizational knowledge, and my career path in the firm--is 'sold' to other owning group (e.g., competitor, private investor, Wall Street, etc).
+I the employee--a 'bundle' of all my workplace obligations, the contract under which I work, the values I am supposed to uphold, the relationships I have with co-workers at the office, my skills, my organizational knowledge, and my career path in the firm--is 'sold' to other owning group (e.g., competitor, private investor, Wall Street, etc).<br><br>
 
-There is, in this case, a 'property' aspect to my life-at-the-office.
+There is, in this case, a 'property' aspect to my life-at-the-office.<br><br>
 
-This does not mean, of course, that my family status as a dad is changed, or that I cannot vote in my country.
+This does not mean, of course, that my family status as a dad is changed, or that I cannot vote in my country.<br><br>
 
-My role and/or identity as a worker could thus be 'sold', 'transferred', and even 'inherited' (e.g., if the firm was privately owned, and the owner died with a successor).
+My role and/or identity as a worker could thus be 'sold', 'transferred', and even 'inherited' (e.g., if the firm was privately owned, and the owner died with a successor).<br><br>
 
-Our legal system recognizes this in many, many contracts under the heading "Successors and Assigns".
+Our legal system recognizes this in many, many contracts under the heading "Successors and Assigns".<br><br>
 
-But wherever I went, the state would still see me as a human, and prevent--as in the ANE-- my 'owner' from killing me.(end quote)
+But wherever I went, the state would still see me as a human, and prevent--as in the ANE-- my 'owner' from killing me.(end quote)|</blockquote>
 
 I quoted a lot of that, some crucial points there, especially near the end, starting with "A less dramatic", which I have split to several paragraphs but was all GM's last paragraph in that section.
 
@@ -915,35 +935,35 @@ The below one I'm having more time thinking of a single word for. I just ran it 
 
 This one is about, for example, if the "slave" can accumulate money, can the owner spend it? That could be relevant if there's a society where you CAN buy your freedom, so if your stuff is your master's stuff, the master can game the system by spending your money if it's ever getting too close to the amount that can buy your freedom.
 
-(quote)· Legal Status : Slaves could not have their own property--all they had belonged to their 'owner'.
+<blockquote>|(quote)· Legal Status : Slaves could not have their own property--all they had belonged to their 'owner'.<br><br>
 
-"In North America, India, Rome, Muscovy, most of the Islamic world, and among the Tuareg a fundamental principle was that the slave could not own property because the master owned not only his slave's body but everything that body might accumulated. This did not mean, however, that slaves could not possess and accumulate property but only that their owners had legal title to whatever the slaves had. In a host of other societies, such as ancient and Roman Egypt, Babylonia, Assyria, Talmudic Palestine, Gortyn, much of medieval German, Thailand, Mongol and Ch'ing China, medieval Spain, and the northern Nigerian emirates, slaves had the right of property ownership. Some places, such as Rome, allowed slaves to accumulate, manage, and use property in a peculium that was legally revocable but could be used to purchase their freedom." [Britannica]
+"In North America, India, Rome, Muscovy, most of the Islamic world, and among the Tuareg a fundamental principle was that the slave could not own property because the master owned not only his slave's body but everything that body might accumulated. This did not mean, however, that slaves could not possess and accumulate property but only that their owners had legal title to whatever the slaves had. In a host of other societies, such as ancient and Roman Egypt, Babylonia, Assyria, Talmudic Palestine, Gortyn, much of medieval German, Thailand, Mongol and Ch'ing China, medieval Spain, and the northern Nigerian emirates, slaves had the right of property ownership. Some places, such as Rome, allowed slaves to accumulate, manage, and use property in a peculium that was legally revocable but could be used to purchase their freedom." [Britannica]<br><br>
 
-[Note: As pointed out in the quote about the fuzziness of 'property' above (by the Cultural Anthropologists), there is a little 'play' in this word, But a strict delineation of what was and what was not 'property', and/or what was and was not 'owned', was established and determined by the governing body of the specific situation. For example, in the ante-bellum South, it would have been the law courts in that time and in that geographical jurisdiction which decided, and they would have invariably sided with the slave owner instead of the slave as to whether, for example, the bed the slave slept on belonged to him or to his owner. [...]
+[Note: As pointed out in the quote about the fuzziness of 'property' above (by the Cultural Anthropologists), there is a little 'play' in this word, But a strict delineation of what was and what was not 'property', and/or what was and was not 'owned', was established and determined by the governing body of the specific situation. For example, in the ante-bellum South, it would have been the law courts in that time and in that geographical jurisdiction which decided, and they would have invariably sided with the slave owner instead of the slave as to whether, for example, the bed the slave slept on belonged to him or to his owner. [...]<br><br>
 
-"Sometimes slaves [in the ANE] were permitted to possess various kinds of property (peculium). Naturally, a slave received the right to a peculium only in those cases when the master took an interest in this.
+"Sometimes slaves [in the ANE] were permitted to possess various kinds of property (peculium). Naturally, a slave received the right to a peculium only in those cases when the master took an interest in this.<br><br>
 
-Such slaves were left to themselves with the payment of a fixed quitrent [tanknote: a 'quitrent' is a fee paid by the slave to the owner, so that the slave doesn’t have to work any more for the owner, during the period covered by this 'rent to quit working'. It's like a substitution of money for labor].
+Such slaves were left to themselves with the payment of a fixed quitrent [tanknote: a 'quitrent' is a fee paid by the slave to the owner, so that the slave doesn’t have to work any more for the owner, during the period covered by this 'rent to quit working'. It's like a substitution of money for labor].<br><br>
 
 The size of the quitrent fluctuated depending on the property of the slave, and in 1st-millennium Babylonia, on average, when calculated in money, amounted to twelve shekels of silver a year. [...]
-.(end quote)
+.(end quote)|</blockquote>
 
 Next I'll quote the last one in its entirety, as well as the short section starting with "Garnsey identifies" that closed out GM's build of the feature list, then I'll again summarize the features with my terms for the topics/questions and again quote just the header summaries GM had for each, and then try to build an even shorter list of terms for the possible negatives.
 
-(quote)· Exit : Slavery was forever. There were never any means of obtaining freedom stipulated in the arrangement. In the cases of an owner granting freedom, it was generally a 'bare bones' release--no property went with the freedman.
+<blockquote>|(quote)· Exit : Slavery was forever. There were never any means of obtaining freedom stipulated in the arrangement. In the cases of an owner granting freedom, it was generally a 'bare bones' release--no property went with the freedman.<br><br>
 
-"…in the American South manumission was comparatively difficult and almost never happened after the prohibition on importing new slaves…manumission was even forbidden in South Carolina in 1820, Mississippi in 1822, Arkansas in 1858, and Maryland and Alabama in 1860…" [Britannica]
+"…in the American South manumission was comparatively difficult and almost never happened after the prohibition on importing new slaves…manumission was even forbidden in South Carolina in 1820, Mississippi in 1822, Arkansas in 1858, and Maryland and Alabama in 1860…" [Britannica]<br><br>
 
-In the ANE, although some cultures had pre-built "debt-payoff-periods" (like Israel's 6 years), "chattel" manumission was rare because it wasn’t sought after--the issues of economic security and the quasi-family relationships that developed within the household unit created little incentive to become 'independent':
+In the ANE, although some cultures had pre-built "debt-payoff-periods" (like Israel's 6 years), "chattel" manumission was rare because it wasn’t sought after--the issues of economic security and the quasi-family relationships that developed within the household unit created little incentive to become 'independent':<br><br>
 
-"More usually, individual autonomy has meant exposure to danger and predation; safety lay precisely in the protection afforded by the bondage of dependence on groups and patrons. What was desirable was not freedom but belongingness." [NS:ECA:4.1191]
+"More usually, individual autonomy has meant exposure to danger and predation; safety lay precisely in the protection afforded by the bondage of dependence on groups and patrons. What was desirable was not freedom but belongingness." [NS:ECA:4.1191]<br><br>
 
-[We will be semi-shocked below when we discover that manumission in Israel was either pre-scheduled (in the case of Hebrew slaves) or anytime-you-want-it (in the case of foreign slaves)…!]
+[We will be semi-shocked below when we discover that manumission in Israel was either pre-scheduled (in the case of Hebrew slaves) or anytime-you-want-it (in the case of foreign slaves)…!]<br><br>
  
 
-Garnsey identifies many of these elements in his understanding of what he terms 'chattel slavery' [HI:ISAA:1]:
+Garnsey identifies many of these elements in his understanding of what he terms 'chattel slavery' [HI:ISAA:1]:<br><br>
 
-"A slave was property. The slaveowner's rights over his slave-property were total, covering the person as well as the labor of the slave. The slave was kinless, stripped of his or her old social identity in the process of capture, sale and deracination, and denied to capacity to forge new bonds of kinship through marriage alliance. These are the three basic components of slavery."(end quote)
+"A slave was property. The slaveowner's rights over his slave-property were total, covering the person as well as the labor of the slave. The slave was kinless, stripped of his or her old social identity in the process of capture, sale and deracination, and denied to capacity to forge new bonds of kinship through marriage alliance. These are the three basic components of slavery."(end quote)|</blockquote>
 
 
 After that Miller gets into how the Bible structured what is often called "slavery". I'm not sure if I'll go over his work on that here or not, for now I'm not planning to. Let's just work on the list of features.
@@ -951,7 +971,7 @@ After that Miller gets into how the Bible structured what is often called "slave
 Here square brackets will be for my replacements in three of his duplicated terms (for the themes/questions). I can switch to just using quote marks since his use of them for his block quotes (the only part of that preserved in my copypastes from his article) aren't used in his section-header paragraphs per feature.
 
 
-
+### Summary of Features
 
 Diagnostic feature categories of slavery:
 
@@ -1010,6 +1030,7 @@ Above is the list of theme questions, with the theme terms (not inherently negat
 
 I'm not claiming that list is exhaustive or that every sub-question is reflected in the summary. But this moves us toward a working list.
 
+### Further-Condensed Summary
 
 Let's try to condense it even further now.
 
