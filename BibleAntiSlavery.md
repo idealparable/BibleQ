@@ -804,7 +804,8 @@ This one is about, for example, if the "slave" can accumulate money, can the own
 
 Such slaves were left to themselves with the payment of a fixed quitrent [tanknote: a 'quitrent' is a fee paid by the slave to the owner, so that the slave doesn’t have to work any more for the owner, during the period covered by this 'rent to quit working'. It's like a substitution of money for labor].
 
-The size of the quitrent fluctuated depending on the property of the slave, and in 1st-millennium Babylonia, on average, when calculated in money, amounted to twelve shekels of silver a year. [...](end quote)
+The size of the quitrent fluctuated depending on the property of the slave, and in 1st-millennium Babylonia, on average, when calculated in money, amounted to twelve shekels of silver a year. [...]
+.(end quote)
 
 Next I'll quote the last one in its entirety, as well as the short section starting with "Garnsey identifies" that closed out GM's build of the feature list, then I'll again summarize the features with my terms for the topics/questions and again quote just the header summaries GM had for each, and then try to build an even shorter list of terms for the possible negatives.
 
