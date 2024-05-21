@@ -69,40 +69,61 @@ Basically this simply blindly rejects what Jesus says about concessions to the h
 
 Or rejects its possible application here. But a whole-Law study (Sinai to Moses' death) shows that claims of what that section teaches are wildly off by skeptics in the first place. In fact in effect, Deuteronomy in effect DOES precisely what this skeptic demands!
 
-LSB: /Deu 23:15 - “You shall not hand over to his master a slave who has [fn]escaped from his master to you. Deu 23:16 - “He shall live with you in your midst, in the place which he shall choose in one of your gates of the towns where it pleases him; you shall not mistreat him./
+> <span class="bbq">LSB: /Deu 23:15 - “You shall not hand over to his master a slave who has [fn]escaped from his master to you. Deu 23:16 - “He shall live with you in your midst, in the place which he shall choose in one of your gates of the towns where it pleases him; you shall not mistreat him./</span>
 
-Other translation examples "You shall not wrong him" ESV "you must not oppress him" NET.
+Other translation examples <span class="bbq">/You shall not wrong him/</span> ESV, <span class="bbq">/you must not oppress him/</span> NET.
 
-What would be the oppression or wronging here? It explicitly says it would be forcing an "ebed" (slave or servant, the term is categorical and skeptics have, some I've seen at least, like Digital Hammurabi, been forced to admit this applies to even foreign slaves -- not just servants) to stay with a master they don't want to.
+What would be the oppression or wronging here?
 
-That in essence is the modern sense of slavery that skeptics say God should declare to be wrong -- right here Moses is doing so in his speech (and document of it), reflecting what he believes is God's view based on what he knows from his abundant talks with God. (Hopefully we're all aware of the many passages say the latter.)
+It explicitly says it would be forcing an "ebed" (slave or servant, the term is categorical and skeptics have, some I've seen at least, like Digital Hammurabi, been forced to admit this applies to even foreign slaves -- not just servants or Hebrews) to stay with a master they don't want to.
 
-The skeptics who claim Sinai to MoDeath Law of Moses don't ban "slavery" are cheating by pretending other uses that ARE clearly only servants aren't banned. But since these aren't morally objectionable (not legitimately), it SHOULD NOT have banned those!
+That in essence is the modern sense of slavery that skeptics say God should declare to be wrong -- right here Moses is doing so in his speech (and document of it), reflecting what he believes is God's view based on what he knows from his abundant talks with God. (Hopefully we're all aware of the many passages saying the latter.)
 
-Again "ebed" simply means anybody under authority. So this just says, don't force ANYONE under authority (male version at least; ebed is male) to be what the modern term "slave" means.
+The skeptics who claim Sinai to MoDeath Law of Moses doesn't ban "slavery" are cheating by pretending other uses that ARE clearly only servants aren't banned. But since these aren't morally objectionable (not legitimately), it SHOULD NOT have banned those!
+
+Again "ebed" simply means anybody under authority.
+
+So this just says, don't force ANYONE under authority (male version at least; ebed is male) to be what the modern term "slave" means.
 
 Not that this talks about every aspect that was bad, like beating, and there are some arguments there as well, or the "you're like a pumpkin mere object property" thing. But it would COVER anything like that or more, since for WHATEVER reason the "male under authority" of any ethnicity or situation at all wants to leave the "master", they have the Law's support here.
 
 In other words, skeptics are committing equivocation fallacy there.
 
-One thing this doesn't address is why it allows buying of slaves from foreigners, but if that was banned, it would just leave those foreigners to be bought by other foreigners and stuck in slavery. So this is buy to free.
+One thing this doesn't address is why it allows buying of slaves from foreigners, but if that was banned, it would just leave those foreigners to be bought by other foreigners and stuck in slavery.
 
-Also doesn't address why harsher "slavery" for war criminals, other criminals, may be allowed. (I would need to review passages on that off the top of my head but pretty sure it allows those somewhere.) But many skeptics also agree this one isn't as objectionable, and it's covered largely by how more difficult it was to have as reliable prisons like modern ones, and even today we often have prisoners do work. The harder work kept them tired so less likely to rebel.
+So this is buy to free.
 
-One argument can be why does Moses wait until Deuteronomy to explicitly ban slavery. (I'll be here using JPH's definition of "slavery" but keep in mind we can figuratively use it of anyone under authority without endorsing any actual bad kind of being under authority. So Abraham can be a "slave" or "servant" to God, etc. Also some interesting things if anyone wants to look into it to see what I'm alluding to here about how LSB handles translation of ebed.)
+Also doesn't address why harsher "slavery" for war criminals, other criminals, may be allowed. (I would need to review passages on that off the top of my head but pretty sure it allows those somewhere.)
+
+But many skeptics also agree this one isn't as objectionable, and it's covered largely by how more difficult it was to have as reliable prisons like modern ones, and even today we often have prisoners do work.
+
+The harder work kept them tired so less likely to rebel violently.
+
+One argument can be why does Moses wait until Deuteronomy to explicitly ban slavery.
+
+(I'll be here using JPH's definition of "slavery" but keep in mind we can figuratively use it of anyone under authority without endorsing any actual bad kind of being under authority. So Abraham can be a "slave" or "servant" to God, etc. Also some interesting things if anyone wants to look into it to see what I'm alluding to here about how LSB handles translation of ebed.)
 
 However, the argument would backfire, because if slavery was okay, why would Moses ever ban it at all, and if it was wrong AND commonly PRACTICED (the latter two are in the skeptics' claim! we agree it's wrong but dispute the second of these two) by Israel (this is where things get complicated), then if he bans it at all, wouldn't it make more sense that he bans it right in Exodus?
 
 Incidentally, he MIGHT! In Exodus 21. But if we grant for sake of argument that he doesn't -- and to be fair, this one is much clearer to a decontextualist, not that they are fair -- it makes much more sense that it wasn't as common in Israel (read on), so Moses knew the generations at that time didn't need it, but now that he was doing his speech sending them off knowing he was soon to die and they would found the nation, he needed to make it clear just in case future generations might not realize it's wrong which the former generations didn't need spelled out for them.
 
-I said read on, for this: Would it have likely been common in Israel? Was it? Whether it WAS is beyond my ken. I originally thought it MIGHT have been likely due to a sort of "my enemies did this to me, I'll do this to my enemies in return" thing (enemies as "anybody not Israelite" in response to Egypt). However, it seems possibly just as likely that since they didn't like slavery themselves, if they generally treat foreigners well, that they would be very unlikely to do it. Obviously they didn't like slavery, and we have this:
+I said read on, for this: Would it have likely been common in Israel? Was it?
 
-/Lev 25:35 - ‘Now if a *brother* of yours becomes poor and his [fn]means with regard to you falter, then *you are to* sustain him, *LIKE a sojourner or a foreign resident,* that he may live with you./ Brother here likely means fellow Hebrew. (Probably extending to women too.) Bold and all-cap emphasis mine.
+Whether it WAS is beyond my ken. I originally thought it MIGHT have been likely due to a sort of "my enemies did this to me, I'll do this to my enemies in return" thing (enemies as "anybody not Israelite" in response to Egypt).
+
+However, it seems possibly just as likely that since they didn't like slavery themselves, if they generally treat foreigners well, that they would be very unlikely to do it.
+
+Obviously they didn't like slavery, and we have this:
+
+> <span class="bbq">/Lev 25:35 - ‘Now if a *brother* of yours becomes poor and his [fn]means with regard to you falter, then *you are to* sustain him, *LIKE a sojourner or a foreign resident,* that he may live with you./</span>
+
+Brother here likely means fellow Hebrew. (Probably extending to women too.) Bold and all-cap emphasis mine.
 
 Read also through verse 48. (I'm looking at LSB here, which is free on Blue Letter Bible place on the global weblike thingy.) I'll copypaste it next. Sorry for how many comments that will make it.
 
-/Lev 25:36 - ‘Do not take [fn]usurious interest from him, but fear your God, that your brother may live with you.
-37 - ‘You shall not give him your silver at interest nor your food for gain./
+<blockquote><span class="bbq">/Lev 25:36 - ‘Do not take [fn]usurious interest from him, but fear your God, that your brother may live with you.<br><br>
+
+37 - ‘You shall not give him your silver at interest nor your food for gain./</span></blockquote>
 
 At first we would think this means foreigners and Hebrews are to be treated exactly the same. However, we'll see that an exception on interest is spelled out. Skeptics will blindly assume that for something to be the SAME it must be spelled out, versus that everything is the same UNLESS it's spelled out, but we see tons of passages that make it clear the default is the same.
 
