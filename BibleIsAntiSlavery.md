@@ -129,38 +129,51 @@ Read also through verse 48. (I'm looking at LSB here, which is free on Blue Lett
 
 At first we would think this means foreigners and Hebrews are to be treated exactly the same. However, we'll see that an exception on interest is spelled out. Skeptics will blindly assume that for something to be the SAME it must be spelled out, versus that everything is the same UNLESS it's spelled out, but we see tons of passages that make it clear the default is the same.
 
-/Lev 25:38 - ‘I am Yahweh your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.
+<blockquote><span class="bbq">/Lev 25:38 - ‘I am Yahweh your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.<br><br>
 
-39 - ‘If a *brother* of yours *becomes so poor* with regard to you that he sells himself to you, *you shall not subject him to a slave’s service.*
-40 - *‘He shall be* with you as a hired man, *as if he were a foreign resident;* he shall serve with you until the year of jubilee./
+39 - ‘If a *brother* of yours *becomes so poor* with regard to you that he sells himself to you, *you shall not subject him to a slave’s service.*<br><br>
 
-So twice we're told that treatment in general (at least in some way) of fellow Hebrews and foreigners is to be the same. There have been discussions on here in the past about the extent of the foreigners mentioned here. To keep this short, just keep that in mind. But it COULD suggest foreigners are in general treated the same. Exceptions are likely perks for signing onto the covenant, not justification of treating others wrongly.
+40 - *‘He shall be* with you as a hired man, *as if he were a foreign resident;* he shall serve with you until the year of jubilee./</span></blockquote>
 
-So, I think that MUCH MORE likely, slavery was NOT common or maybe not even done among Israel, by modern definition. Continuing for full context:
+So twice we're told that treatment in general (at least in some way) of fellow Hebrews and foreigners is to be the same.
 
-/41 - ‘He shall then go out from you, he and his sons with him, and shall return to his family, that he may return to the possession of the land of his fathers.
+There have been discussions on here in the past about the extent of the foreigners mentioned here. To keep this short, just keep that in mind.
 
-42 - ‘For they are My slaves whom I brought out from the land of Egypt; they shall not be sold in a slave sale./
+But it COULD suggest foreigners are in general treated the same. Exceptions are likely perks for signing onto the covenant, not justification of treating others wrongly.
 
-NOTE: A LOT of discussion, such as in Glenn Miller's work on this, is about whether the Jubilee freeing applies to foreigners. Based on findings supported above here, this is most likely a moot point.
+So, I think that MUCH MORE likely, slavery was NOT common or maybe not even done among Israel, by modern definition.
+
+Continuing for full context:
+
+<blockquote><span class="bbq">/41 - ‘He shall then go out from you, he and his sons with him, and shall return to his family, that he may return to the possession of the land of his fathers.<br><br>
+
+42 - ‘For they are My slaves whom I brought out from the land of Egypt; they shall not be sold in a slave sale./</span></blockquote>
+
+NOTE: A LOT of discussion, such as in Glenn Miller's work on this, is about whether the Jubilee freeing applies to foreigners.
+
+Based on findings supported above here, this is most likely a moot point.
 
 It's not saying that the Jubilee is the sole hope for freedom from modernlike slavery, but that modernlike slavery is wrong for all, and all can leave their employers at will (not counting criminals) anyways, but Jubilee is a RITUAL tradition, a loyalty sign for signing onto the Mosaic covenant, that signing Hebrews did by convention where they would leave ANYWAYS even if they liked their bosses.
 
-If a foreigner wanted to leave ANYWAYS (or a Hebrew) at any time, they already could, though. If anything this would be an imposition on the ebed or amah (female version of ebed in many passages, I think generally meant to be implied in those that as shorthand just say ebed, but perhaps not all per se, especially not where exceptions are spelled out) if they still were struggling financially and wanted to remain in the ebed relationship.
+If a foreigner wanted to leave ANYWAYS (or a Hebrew) at any time, they already could, though.
 
-So most likely, no, Jubilee is a way they indicate they're in the covenant, and wouldn't apply to foreigners, but I did find that a lot of the time-based traditions did also include foreigners (presumably not in the covenant), so it's kind of unclear. Either way, it doesn't seem to be relevant to any kind of moral issue.
+If anything this would be an imposition on the ebed or amah (female version of ebed in many passages, I think generally meant to be implied in those that as shorthand just say ebed, but perhaps not all per se, especially not where exceptions are spelled out) if they still were struggling financially and wanted to remain in the ebed relationship.
 
-/43 - ‘You shall not have dominion over him with brutality, but you shall fear your God./
+So most likely, no, Jubilee is a way they indicate they're in the covenant, and wouldn't apply to foreigners, but I did find that a lot of the time-based traditions did also include foreigners (presumably not in the covenant), so it's kind of unclear.
+
+Either way, it doesn't seem to be relevant to any kind of moral issue.
+
+<blockquote><span class="bbq">/43 - ‘You shall not have dominion over him with brutality, but you shall fear your God./
 
 Here of course the rabid skeptic will eisegetically assume that you SHALL be brutal to the non-Hebrew! But the verses we just saw twice implied the opposite.
 
-/44 - ‘As for your male and female slaves whom you may have—you may acquire male and female slaves from the nations that are around you./
+<blockquote><span class="bbq">/44 - ‘As for your male and female slaves whom you may have—you may acquire male and female slaves from the nations that are around you./
 
 Notice the Hebrew can sell HIMSELF (or presumably herself), but is still treated as if he isn't a slave (in other words, it's work for room and board plus an initial payment rather than work simply for an ongoing paycheck), while the foreigners cannot be sold BY Hebrews (this is banned in Exodus 21:16 though that's disputed. I could show that below but let's get through this Lev section first) but can be bought from outsiders (who the law for Israel can hardly have jurisdiction over in their eyes). And we'll see below this can include themselves:
 
-/45 - ‘And also you may acquire from the sons of the foreign residents who sojourn among you, from them and their families who are with you; as for those whom they have begotten in your land, they also may become your possession.
+<blockquote><span class="bbq">/45 - ‘And also you may acquire from the sons of the foreign residents who sojourn among you, from them and their families who are with you; as for those whom they have begotten in your land, they also may become your possession.<br><br>
 
-46 - ‘You may even give them as an inheritance to your sons after you, to receive as a possession; you can use them as permanent slaves. But in respect to your brothers, the sons of Israel, you shall not have dominion over one another with brutality./
+46 - ‘You may even give them as an inheritance to your sons after you, to receive as a possession; you can use them as permanent slaves. But in respect to your brothers, the sons of Israel, you shall not have dominion over one another with brutality./</span></blockquote>
 
 Notice it doesn't say anything like, about the non-Hebrew slaves "totes fine to be cruel to them tho!"
 
@@ -170,59 +183,84 @@ It LOOKS like it's saying it was ALREADY unthinkable basically for them to mistr
 
 This would support a reason why Moses would wait until his sendoff speech to ban 'slavery' most clearly.
 
-Notice we have TWO positive statements that push toward this (we have evidence, this is NOT an argument from silence!), and against this skeptics generally only offer arguments from silence, that it doesn't also say "oh and don't mistreat foreigners, but ironically the Sinai to MoDeath is NOT silent on that, at least in GENERAL (pardon all this allcaps emphasis for my Notepad copy of this but it's important to notice!). I won't try to here show them but they're all over it.
+Notice we have TWO positive statements that push toward this (we have evidence, this is NOT an argument from silence!), and against this skeptics generally only offer arguments from silence, that it doesn't also say "oh and don't mistreat foreigners", but ironically the Sinai to MoDeath is NOT silent on that, at least in GENERAL (pardon all this allcaps emphasis for my Notepad copy of this but it's important to notice!). I won't try to here show them but they're all over it.
 
 Many say explicitly that just like they didn't like what Egypt did to them, they should be kind to foreigners -- which seems to imply they shouldn't enslave foreigners or at least shouldn't mistreat them when in a role like that in any way.
 
-/47 - ‘Now if the [fn]means of a sojourner or of a foreign resident with you becomes sufficient, and a brother of yours becomes so poor with regard to him as to sell himself to a sojourner who resides with you or to the descendants of a sojourner’s family,
+<blockquote><span class="bbq">/47 - ‘Now if the [fn]means of a sojourner or of a foreign resident with you becomes sufficient, and a brother of yours becomes so poor with regard to him as to sell himself to a sojourner who resides with you or to the descendants of a sojourner’s family,<br><br>
 
-48 - then he shall have redemption right after he has been sold. One of his brothers may redeem him,/ Then some verses about calculating for jubilee stuff for these Hebrew slaves of non-Hebrews, then continuing:
+48 - then he shall have redemption right after he has been sold. One of his brothers may redeem him,/ </span></blockquote>
 
-/Lev 25:53 - ‘Like a man hired year by year he shall be with him; he shall not have dominion over him with brutality in your sight.
+Then some verses about calculating for jubilee stuff for these Hebrew slaves of non-Hebrews, then continuing:
 
-54 - ‘Even if he is not redeemed by [fn]these means, he shall still go out in the year of jubilee, he and his sons with him.
+<blockquote><span class="bbq">/Lev 25:53 - ‘Like a man hired year by year he shall be with him; he shall not have dominion over him with brutality in your sight.<br><br>
 
-55 - ‘For the sons of Israel are My slaves; they are My slaves whom I brought out from the land of Egypt. I am Yahweh your God./
+54 - ‘Even if he is not redeemed by [fn]these means, he shall still go out in the year of jubilee, he and his sons with him.<br><br>
+
+55 - ‘For the sons of Israel are My slaves; they are My slaves whom I brought out from the land of Egypt. I am Yahweh your God./</span></blockquote>
 
 
 In light of all that, claims like this from the skeptic here are patently ABSURD: "without the slightest hint of divine displeasure[.]" Come on!
 
+## Uncautious Good Intentions Backfire Disastrously
 
-3: "why is the almight, all-knowing deity required to accommodate his commands to the preferences of this little group of people?" Because he can't do wrong and it's wrong to violate freewill and if he demands too much, the hardhearted Jesus talked about at the time of Moses would have rejected signing onto the covenant more likely and then God has let the situation be even WORSE. Not rocket science here, but don't expect a brain to function in a skeptic.
+3: "why is the almight, all-knowing deity required to accommodate his commands to the preferences of this little group of people?"
+
+Because he can't do wrong and it's wrong to violate freewill and if he demands too much, the hardhearted who Jesus talked about at the time of Moses would have rejected signing onto the covenant more likely and then God has let the situation be even WORSE. Not rocket science here, but don't expect a brain to function in a skeptic.
 
 (quote)He fearlessly bellows the mighty “THOU SHALT NOT”(end quote) LOL
 
-(quote)things that did no harm to anyone (worshiping idols, religious freedom(end) WOW. Just wow. Worshipping pagan gods that like human sacrifice never hurt a fly! (Get it? Jephthah... Anywho).
+(quote)things that did no harm to anyone (worshiping idols, religious freedom(end) WOW. Just wow.
 
-By relfree he probably is trying to imply accusing it of being against but since he didn't say it clearly, he might actually be sneaking in a hint that he'd like to rob us of it and hates where it guaranteed it and implying he wouldn't be hurting us by taking it away. (It did allow relfree. Didn't condone and strongly condemned going back on your word after you promised to serve God though by signing onto the covenant; that's not anti relfree.)
+Worshipping pagan gods that like human sacrifice never hurt a fly! (Get it? [Jephthah...](https://www.youtube.com/watch?v=OpPk4WLBcTM){:target="_blank"} Anywho).
+
+By relfree he probably is trying to imply accusing it of being against but since he didn't say it clearly, he might actually be sneaking in a hint that he'd like to rob us of it and hates where it guaranteed it and implying he wouldn't be hurting us by taking it away.
+
+(It did allow relfree. Didn't condone and strongly condemned going back on your word after you promised to serve God though by signing onto the covenant; that's not anti relfree.)
 
 4: Skeptic is the one playing around with words slave vs servant and dodging. It's a fact ebed and amah had a wide range of meaning whether skepticbrain finds that inconvenient for him or not.
 
+## Death to Enslavers
+
 "People could be kidnapped and sold," Not by people under the law! That got the death penalty! Okay, let's show it now.
 
-/Exo 21:16 - “He who [fn]kidnaps a man, whether he sells him or he is found in his hand, shall surely be put to death./
+<blockquote><span class="bbq">/Exo 21:16 - “He who [fn]kidnaps a man, whether he sells him or he is found in his hand, shall surely be put to death./</span></blockquote>
 
-Some claim this only refers to kidnapping someone else's slave, etc. but the same guys will try to argue based on decontextualist seeming face value in other places (he just did with the whole "dodge = ebed might mean servant in some uses" crap. They should admit this APPEARS not just to BAN what he just claimed, but to treat it in the most serious way it's POSSIBLE for the law to treat it!
+Some claim this only refers to kidnapping someone else's slave, etc. but the same guys will try to argue based on decontextualist seeming face value in other places (he just did with the whole "dodge = ebed might mean servant in some uses" nonsense).
 
-This would at least SUGGEST that kidnapping of people NOT slaves would be all the worse! Or if somehow not as bad, at least illegal! (Remember it's didactic law. These are examples teaching principles, not merely saying the rules would apply only in these examples per se.)
+They should admit this APPEARS not just to BAN what he just claimed, but to treat it in the most serious way it's POSSIBLE for the law to treat it!
 
-However, the skeptic is using a debate cheat I call True Statement fallacy or error here. He (if it's a he) likely is using weasel wording on purpose by not saying WHO "could" kidnap (as in, a foreigner outside of Israel "could" do this, and if the law actually said Israel should invade those other countries to put such enslavers to death, the skeptic would be the first to whine about it for sure!) -- using the weasel wording to get a technically true statement because he was shamefully, almost certainly intentionally deceptively vague about who.
+This would at least SUGGEST that kidnapping of people NOT slaves would be all the worse! Or if somehow not as bad, at least illegal!
+
+(Remember it's didactic law. These are examples teaching principles, not merely saying the rules would apply only in these examples per se.)
+
+### True Statement Fallacy/Error
+
+However, the skeptic is using a debate cheat I call True Statement fallacy or error here.
+
+He (if it's a he) likely is using weasel wording on purpose by not saying WHO "could" kidnap (as in, a foreigner outside of Israel "could" do this, and if the law actually said Israel should invade those other countries to put such enslavers to death, the skeptic would be the first to whine about it for sure!) -- using the weasel wording to get a technically true statement because he was shamefully, almost certainly intentionally deceptively vague about who.
 
 I wrote this about this error just yesterday for an unrelated reason:
 
-(quoting me)For lack of a better term, I've called this the "True Statement Fallacy" or "Error" since I try to use "error" for fallacious reasoning I give a label of convenience but that isn't a label you'll find from others but it's a fallacy really.
+<blockquote>|(quoting me)For lack of a better term, I've called this the "True Statement Fallacy" or "Error" since I try to use "error" for fallacious reasoning I give a label of convenience but that isn't a label you'll find from others but it's a fallacy really.<br><br>
 
-Basically, try to find some way that you can get a true statement that is true both of the actual situation and of a situation you want to argue for instead of the actual situation, and then ignore all the evidence for the actual situation, and just build your case by whatever stretch you can for your proposed alternative, and act like the fact that you got a true statement we were forced to agree with means we should accept however much of a stretch you have to bridge.
+Basically, try to find some way that you can get a true statement that is true both of the actual situation and of a situation you want to argue for instead of the actual situation, and then ignore all the evidence for the actual situation, and just build your case by whatever stretch you can for your proposed alternative, and act like the fact that you got a true statement we were forced to agree with means we should accept however much of a stretch you have to bridge.<br><br>
 
-(Which is a form of Politician's fallacy; we must do something (in this case, the truth must be something), this is something, let's do this (or you must conclude this). Or more specifically in this case, "The truth is something that fits this true statement. This is a thing that fits that true statement, so the truth is this.")
+(Which is a form of Politician's fallacy; we must do something (in this case, the truth must be something), this is something, let's do this (or you must conclude this). Or more specifically in this case, "The truth is something that fits this true statement. This is a thing that fits that true statement, so the truth is this.")<br><br>
 
-... This is a common debate cheat; getting a true statement by making something sound so vague it can hardly fail to accurately describe the specific situation we know, and then acting like that means he could ignore all of what shows why we know how to describe it more specifically in one way, to then act like he has justified some other specific "how".
+... This is a common debate cheat; getting a true statement by making something sound so vague it can hardly fail to accurately describe the specific situation we know, and then acting like that means he could ignore all of what shows why we know how to describe it more specifically in one way, to then act like he has justified some other specific "how".<br><br>
 
-To be fair, that debate cheat can happen by accident a lot, and I'm not arguing guilt by association.(end quoting me)
+To be fair, that debate cheat can happen by accident a lot, and I'm not arguing guilt by association.(end quoting me)|</blockquote>
 
-"taken in war and sold" So evidently this one DOES object to that! Of course some of these loons actually think Israel is commanded to go around raiding neighboring cities for no self-defense reason to collect slaves (seriously). But if another nation does attack them, the alternative is to kill them all. A 'careful what you wish for' situation.
+"taken in war and sold" So evidently this one DOES object to that!
 
-"forced into debt and then sold" LOL, yes that's another "true statement" that someone could be forced into debt (passive voice... forced by humans? That could even happen too!) and then (a lot in that "and then" he's skipping over curiously!) sold (by themselves ONLY if within Israel! He ignores that part, and sold into WHAT? Not anything like objectionable SLAVERY -- only like servanthood! True statements abound here!
+Of course some of these loons actually think Israel is commanded to go around raiding neighboring cities for no self-defense reason to collect slaves (seriously).
+
+But if another nation does attack them, the alternative is to kill them all.
+
+A 'careful what you wish for' situation.
+
+"forced into debt and then sold" LOL, yes that's another "true statement" that someone could be forced into debt (passive voice... forced by humans? That could even happen too! But forced by circumstances would also make this "true") and then (a lot in that "and then" he's skipping over curiously!) sold (by themselves ONLY if within Israel! He ignores that part, and sold into WHAT? Not anything like objectionable SLAVERY -- only like servanthood! True statements abound here!
 
 "Stop dodging." And there's the punchline of the true statement debate cheat, and the red flag that it is that, not an honest truthseeker who wants to be careful not to assume things uncharitably.
 
@@ -233,6 +271,8 @@ Skeptic's priorities are backwards and ironically counterproductive for his own 
 Important here too to understand that Jesus in Matthew 19 was telling Christians WHICH aspects of the Mosaic law do still apply in the Christian covenant; in essense, the ones that teach God's desires based on the original pattern.
 
 This at least strongly suggests Christian-led abolition was in accord with God's desires and implications biblically (I dunno if we have actual statements that they consciously noticed this, but either way it backs up what they did); the Deuteronomy statement, that slavery (modernlike def) is "wronging" the one under authority, would still apply and is context the NT didn't need to exlicitly repeat, since the NT DOES lay the groundwork to notice it applies.
+
+## False Cause Fallacy
 
 Since he repeats enlightenment, let's look at it a bit more.
 
@@ -246,7 +286,9 @@ But this works just as much for us!
 
 Luther's work, and others, to get the Bible more into the hands of the everyday people increases the likelihood that they more often notice all of these admonitions and other details that push STRONGLY against modern-def slavery, while allowing things called "slavery" in some translations (possibly motivated by PRO modern-def slavery translators! And/or by people who just used the word "slavery" in English in wider senses including servanthood) that on close examination don't seem objectionable at all and in fact provide social safety nets for debt life emergencies, and handling of violent criminals in a safer way, etc.
 
-So we could just as easily argue Luther then abolition, so Luther caused abolition. And Luther (and others) were providing access to the Bible... so this is akin to Bible access happened, then abolition happened, therefore Bible access caused abolition!
+So we could just as easily argue Luther then abolition, so Luther caused abolition.
+
+And Luther (and others) were providing access to the Bible... so this is akin to Bible access happened, then abolition happened, therefore Bible access caused abolition!
 
 In fact, we can actually SUPPORT that from all these passages that DO push against slavery and from the well-known fact that abolitionists are said (by those who do say they study this) to have based their arguments mainly on the Bible, while opponents were a mix, more often appealing to general secular concepts, sometimes twisting the Bible, but demonstrably so.
 
@@ -261,9 +303,13 @@ US abolition: 1865. Britain 1833.
 Quick google result for some initial context: (quote)What are the factors that led to the abolition of slavery?
 According to historians, the relatively rapid abolition of the trans-Atlantic slave trade is explained by ideological, religious, and economic change in Europe and the Americas. There is much debate about which factor was most important.(end quote)
 
+### Is/Ought Fallacy
+
 Again, we would need much more study to support that, but all of this is based on a basic is/ought fallacy anyways, that if it is that people who were anti-Bible contributed to abolitionism, that being anti-Bible "ought" to inherently be against abolitionism and or that in reverse, someone obeying the Bible "ought" to be pro-slavery on those grounds.
 
-It is indeed much more likely that Christianity created the climate in the West toward equality, within which an anti-Bible movement was forced to operate, and that of course ALL factors at the time led to abolition. All of this is obviously consistent with am omniscient Creator using a long chess strategy to defeat the reign of sin despite the rule against violating freewill.
+It is indeed much more likely that Christianity created the climate in the West toward equality, within which an anti-Bible movement was forced to operate, and that of course ALL factors at the time led to abolition.
+
+All of this is obviously consistent with am omniscient Creator using a long chess strategy to defeat the reign of sin despite the rule against violating freewill.
 
 God can influence history through Christ to trap even anti-biblicists into being used by Him to advance His cause.
 
@@ -271,7 +317,11 @@ God can influence history through Christ to trap even anti-biblicists into being
 
 6: Point 6 is entirely refuted above already.
 
-7: Interestingly, the skeptic in point 7 appears to CONCEDE that abolition "has a huge debt to Christian influence"! Then just repeats the same errors like potency error in reply to blindly assume what God's "job" is (I guess this skeptic is God's boss!). And falsely claiming "condoning" "it" (ebed? Or modern-sense slaverY? He BANNED the latter!)
+7: Interestingly, the skeptic in point 7 appears to CONCEDE that abolition "has a huge debt to Christian influence"! Then just repeats the same errors like potency error in reply to blindly assume what God's "job" is (I guess this skeptic is God's boss!).
+
+And falsely claiming "condoning" "it" (ebed? Or modern-sense slaverY? He BANNED the latter!)
+
+## Endured
 
 Then "merrily" allowed it. This goes to the common error debunked by Romans 9 that if evil happens God WANTS it.
 
@@ -279,7 +329,9 @@ I've shown before in the debunking of the Problem of Evil bad argument that inst
 
 This isn't about merely something like balance of good or the like, but that to choose the worse "history designs" (original setup knowing all it would lead to by domino effect plus setup of when/where/how he intervenes and all butterfly effect from that) would be a sin and God can't sin and can't do the logically impossible so he had no choice, in a way that doesn't make him weak, doesn't contradict any of his omni traits, etc.
 
-So objections to "soul-making" or "greater good" theodicies are irrelevant here. Those can also play a role in this, and that there is no greater good is related here, but the point is it shows that God is morally obligated to take the least evil route, and that more importantly it's proven that no non-evil route can exist.
+So objections to "soul-making" or "greater good" theodicies are irrelevant here.
+
+Those can also play a role in this, and that there is no greater good is related here, but the point is it shows that God is morally obligated to take the least evil route, and that more importantly it's proven that no non-evil route can exist.
 
 Long story short. I do this by testing all of the most basic possible history designs and show that ALL the most basic alternatives including the one skeptics normally advise when making the PoE bad argument are WORSE.
 
@@ -299,7 +351,9 @@ Obviously it isn't saying God would irresponsibly do whatever he wanted even tho
 
 So no, he didn't condone it (slavery), yes he said it's (slavery is) "wronging," and no, when he allowed "it" (NON-slavery, by any objectionable sense, just things ALSO about being under authority in OTHER ways) he didn't do so "merrily".
 
-He didn't want debt "slavery" or even servanthood! He wanted us not to sin in the first place and have food easily accessed everywhere with easy fun gardening work and the like, no curse, no fall, no death, and obviously no need for slavery or servanthood.
+He didn't want debt "slavery" or even servanthood!
+
+He wanted us not to sin in the first place and have food easily accessed everywhere with easy fun gardening work and the like, no curse, no fall, no death, and obviously no need for slavery or servanthood.
 
 I mean I guess people could have taken on other tasks on their own like a scientific study and others could have, if people hadn't sinned and humanity expanded beyond two etc., volunteered to help, so serving in a sense. But this wouldn't be much at all like what I'm talking about that was allowed in Law of Moses.
 
@@ -317,15 +371,17 @@ I mean I guess people could have taken on other tasks on their own like a scient
 
 
 
+## Projection: Excusegetics = This Skeptic's Approach
 
-
-Comment 2: I like the term excusegetics. Describes what the skeptic is doing well!
+Comment 2: I like the term excusegetics. Describes what the skeptic is doing well! So, projection.
 
 1: Strawmans God as human.
 
-Against the rest, just acts as if his bald assertions of "lame" and "no" (legitimate) "excuse" are.. arguments. They're just folly on the skeptic's part as far as he has supported so far. They often act like their assurances should be taken seriously. They really shouldn't. Wherever testable they pretty much fail miserably.
+Against the rest, just acts as if his bald assertions of "lame" and "no" (legitimate) "excuse" are.. arguments.
 
-We can't (on crywolf principle) blindly assume each is false... but the onus is very much, very heavily on the skeptic, and the whole careless, biased attitude it is telling.
+They're just folly on the skeptic's part as far as he has supported so far. They often act like their assurances should be taken seriously. They really shouldn't. Wherever testable they pretty much fail miserably.
+
+We can't (on crywolf principle) blindly assume each is false... but the onus is very much, very heavily on the skeptic, and the whole careless, biased attitude is telling.
 
 2: Falsely assumes God's "followers" (as if they're actually in this being obedient when it's proven this is DISobedience) were slavers.
 
@@ -334,6 +390,8 @@ Probably some implied true statement fallacy there too; it's POSSIBLE some of th
 Racial divides can be excused by antibiblicists, especially atheists with no objective moral grounding against it. Bible provides the OBJECTIVE ground to condemn it!
 
 And has a track record of healing historically-seemingly unhealable wounds.
+
+## Crusades Fallacy/Error Repackaged
 
 3: "Christians did not even consider taking it that way for 1,700 years." Whoa there, that's a massive black swan fallacy.
 
@@ -349,15 +407,37 @@ Still-heavily-pagan-influenced Europe was MUCH more resistant -- the very groups
 
 With yet another black swan fallacy thrown in at the end for good measure. I see implications of it in Philemon and Deuteronomy, possibly others among the NT cases too (offhand I forget which and trying to get through this after now a few hours of work on it so let's just move on for now; I've posted about it to past convos on comment sections of this channel in the past).
 
+[Updated for Bible Seek after draft: Also as I pointed out in a later comment to one last snippet that hadn't originally been included of a quote from this skeptic, this is really just dressing up what I've called the Crusades Fallacy/error in a slavery context.
+
+That is forgetting that within the limits of freewill, we should EXPECT it to take a VERY long time for the heart-based reform of Christianity to reform the former pagan ways of the West.
+
+Skeptics act with these objections like Europe just popped into existence anew as soon as it was largely Christianized -- that it had no former stubbornly entrenched attitudes that took time to make progress against.
+
+But of course it did. Warlike ways, or here insistence on slavery, WERE demonstrably entrenched.
+
+In fact, in the case of the abuses during the Crusades, there are explicit condemnations of such behavior in the Bible that even skeptics are forced to admit are there, both throughout the Mosaic Law and the NT, and many others in the rest of the OT as well, and they were disobeyed for a very long time by the formerly pagan society (which, as well, wasn't instantly Christian 100% anyways).
+
+So even if the NT had also been extremely clear on its own in isolation from the OT's clearer ban of slavery, this clearly wouldn't necessarily be obeyed at the very least. Even if we were wrong that it wouldn't be counterproductive. Which it seems it would have to be.
+
+Also, that's because Christianity needed to first pass the hurdle of being embraced by most in the West i nthe first place.
+
+The skeptic might be implying that the NT could ban slavery very clearly (again) because that then would be obeyed once Christians did rise to power, but he's missing that if it had done that, quite possibly not enough people would have become Christian in the first place to allow that rise to power -- so the only option was to make it somewhat more cryptic, which is exactly what it did, but still DOES teach it!]
+
 "Mr. Ortlund, like most excusegeticists, is sitting in the present day and reverse-engineering his bible" Ironically that's what the skeptic is doing, projecting modern definitions of "slavery" onto passages not about it, etc.
 
-4: Sure the old "humans do what's right" excuse, accidentally undermining all of that "it took so loooooong!" crap. Humans on their own didn't undo slavery -- only with God's heart-based reform through the successful biblical strategy did that finally get actually accomplished.
+## "Trust Me; I'm A Human!"
+
+4: Sure the old "humans do what's right" excuse, accidentally undermining all of that "it took so loooooong!" excusegetics.
+
+Humans on their own didn't undo slavery -- only with God's heart-based reform through the successful biblical strategy did that finally get actually accomplished.
 
 He "knows" slavery is wrong because he grew up in a Christianized society that got this from God. Irony.
 
 "it stands to reason that what harms me as a human would be harmful to others as a human, so I should not do it." "Should". And yet so many other humans think they "should" look out for number one, compete to be the fittest, etc.
 
 "This is how the Enlightenment thinkers came up with the idea that slavery is wrong...an idea that had NEVER occurred to any christian thinker in 1,700 years." It's the golden rule, popularized in Christianized societies more than it had before. Treat others how you want to be treated. Pure coincidence!
+
+## Ancient Times Strawmanning
 
 5: "The fact that christians today claim to believe that slavery is wrong (but it wasn't in the good old days, right?)" Important misconception (or intentional distortion but whatever) -- EBED in general, doing work for someone else, possibly with room and board as the pay (with or without an allowance, though one often was given) instead of a salary, is what was allowed in the "good old days".
 
@@ -369,12 +449,13 @@ Skeptics like to use cheats like this (or possibly innocent misunderstandings bu
 
 "freedom of religion (grudgingly, it's anti-biblical after all)" There he weighs in on what he meant by that. Obviously this is false. Acts especially demonstrates this. I'm sure it's pure coincidence the most biblical Christians led the charge on it and somehow purely the Enlightenment's doing with that in turn of course having absolutely zero influence from... "god" LOL.
 
-
-
+## Skeptic Retreat
 
 Comment 3 (of RB101, still just in your comment 1). "Saying that Christianity is a force against slavery seems to me like a gross distortion of the truth." This is a significant reversal giving ground back to Christianity. Now instead of zero cause at all, it's merely a distortion.
 
-"A claim that US slavery was abolished due to Christians completely discounts that there were Christians on both sides" Excuses excuses. It doesn't; this is talked about by those of us who say that. And debunked as relevant. Of course both sides will claim it supports them; that tells you nothing about which side it does support, and changes nothing about the fact that slavery was A-okay to all those humans all that time until CHRISTIANITY led the reform.
+"A claim that US slavery was abolished due to Christians completely discounts that there were Christians on both sides" Excuses excuses.
+
+It doesn't; this is talked about by those of us who say that. And debunked as relevant. Of course both sides will claim it supports them; that tells you nothing about which side it does support, and changes nothing about the fact that slavery was A-okay to all those humans all that time until CHRISTIANITY led the reform.
 
 "the side against slavery didn't primarily use the bible to defend their position" Needs proven, and oh so they DID use it. Ground given back to us once again. And how is it measured? We need only that it was the foundational cause, and the most demonstrated.
 
@@ -386,8 +467,9 @@ Amount of arguments wouldn't be relevant as they would be motivated to engage th
 
 And if we wanted to look there to Persia, how do I know it wasn't incluenced by God in various ways? But we're NOT saying it was ALWAYS allowed by all against God, which would be black swan fallacy anyways, but that we KNOW positively it was present in a LOT of places that were against God and on the whole global society never experience such a widespread reform (to what I think would be the Genesis pattern against slavery).
 
-Besides, for such a late thing, if in fact, that really was a ban on slavery which I can't assume because an unreliable skeptic says it, how could we ever rule out any direct influence from Moses? That wouldn't be "Christian" (true statement error risk again), but loyal to the same God, happening before the other, and we were told before should lead us to think caused. (It shouldn't lead us to assume that, but it does open the door for it possibly!)
+Besides, for such a late thing, if in fact, that really was a ban on slavery which I can't assume because an unreliable skeptic says it, how could we ever rule out any indirect influence from Moses? That wouldn't be "Christian" (true statement error risk again), but loyal to the same God, happening before the other, and we were told "before" should lead us to think "caused". (It shouldn't lead us to assume that, but it does open the door for it possibly!)
 
+## Skeptic Says Pancakes Cost Zero Dollars Everywhere
 
 "There are different ways to read the Bible." There are different ways to read the skeptic's claim too. I think it means pancakes are free in every restaurant that sells pancakes.
 
@@ -451,43 +533,47 @@ Interesting that he went from true statement fallacy earlier about buying slaves
 
 LOL, "like any other livestock" ! Wow.
 
+## Being Under Authority is Being Under Authority
+
 And some "slavery is slavery" scamming thrown in. Nice. Classic red flag. Is ebed always slavery? Hm? Is ebed always the definition of slavery that Glenn Miller defined?
 
 Let's put that here to be direct. I see (and had forgotten offhand) he uses chattel slavery for it.
 
-(quoting Glenn Miller, with added paragraph breaks)1.     Introductory remarks
+<blockquote>|(quoting Glenn Miller, with added paragraph breaks)1. Introductory remarks<br><br>
 
-I am a child of the Western World, and a native of the rural American South. The word 'slavery' is such a powerful vortex of images, meanings, cries, and grief to me. Any technical discussion of any type of forced labor or corvee becomes immediately inflamed when the word 'slavery' is attached to it, and I suspect that many others share this association.
+I am a child of the Western World, and a native of the rural American South. The word 'slavery' is such a powerful vortex of images, meanings, cries, and grief to me. Any technical discussion of any type of forced labor or corvee becomes immediately inflamed when the word 'slavery' is attached to it, and I suspect that many others share this association.<br><br>
 
-Scholars in the ANE have often abandoned the use of the general term 'slavery' in descriptions of the many diverse forms of master-servant that are manifest in the ancient world. There are very few 'true' slave societies in the world (with Rome and Greek being two of the major ones!), and ancient Israel will be seen to be outside this classification as well (in legislation, not practice).
+Scholars in the ANE have often abandoned the use of the general term 'slavery' in descriptions of the many diverse forms of master-servant that are manifest in the ancient world. There are very few 'true' slave societies in the world (with Rome and Greek being two of the major ones!), and ancient Israel will be seen to be outside this classification as well (in legislation, not practice).<br><br>
 
-A recent example of this comes from the discussion of the Hittite culture in [HI:HANEL:1.632]:
+A recent example of this comes from the discussion of the Hittite culture in [HI:HANEL:1.632]:<br><br>
 
-"Guterbock refers to 'slaves in the strict sense,' apparently referring to chattel slaves such as those of classical antiquity. This characterization may have been valid for house slaves whose master could treat them as he wished when they were at fault, but it is less suitable when they were capable of owning property and could pay betrothal money or fines.
+"Guterbock refers to 'slaves in the strict sense,' apparently referring to chattel slaves such as those of classical antiquity. This characterization may have been valid for house slaves whose master could treat them as he wished when they were at fault, but it is less suitable when they were capable of owning property and could pay betrothal money or fines.<br><br>
 
-The meaning 'servant' seems more appropriate, or perhaps the designation 'semi-free'. It comprises every person who is subject to orders or dependent on another but nonetheless has a certain independence within his own sphere of active."
+The meaning 'servant' seems more appropriate, or perhaps the designation 'semi-free'. It comprises every person who is subject to orders or dependent on another but nonetheless has a certain independence within his own sphere of active."<br><br>
 
-Scholars in Cultural Anthropology are sensitive to this as well, and point out that New World slavery was quite unique, historically:
+Scholars in Cultural Anthropology are sensitive to this as well, and point out that New World slavery was quite unique, historically:<br><br>
 
-"Scholars do not agree on a definition of "slavery." The term has been used at various times for a wide range of institutions, including plantation slavery, forced labor, the drudgery of factories and sweatshops, child labor, semivoluntary prostitution, bride-price marriage, child adoption for payment, and paid-for surrogate motherhood.
+"Scholars do not agree on a definition of "slavery." The term has been used at various times for a wide range of institutions, including plantation slavery, forced labor, the drudgery of factories and sweatshops, child labor, semivoluntary prostitution, bride-price marriage, child adoption for payment, and paid-for surrogate motherhood.<br><br>
 
-Somewhere within this range, the literal meaning of "slavery" shifts into metaphorical meaning, but it is not entirely clear at what point. A similar problem arises when we look at other cultures.
+Somewhere within this range, the literal meaning of "slavery" shifts into metaphorical meaning, but it is not entirely clear at what point. A similar problem arises when we look at other cultures.<br><br>
 
-The reason is that the term "Slavery" is evocative rather than analytical, calling to mind a loose bundle of diagnostic features.
+The reason is that the term "Slavery" is evocative rather than analytical, calling to mind a loose bundle of diagnostic features.<br><br>
 
-These features are mainly derived from the most recent direct Western experience with slavery, that of the southern United States, the Caribbean, and Latin America.
+These features are mainly derived from the most recent direct Western experience with slavery, that of the southern United States, the Caribbean, and Latin America.<br><br>
 
-The present Western image of slavery has been haphazardly constructed out of the representations of that experience in nineteenth-century abolitionist literature, and later novels, textbooks, and films...From a global cross-cultural and historical perspective, however, New World slavery was a unique conjunction of features...
+The present Western image of slavery has been haphazardly constructed out of the representations of that experience in nineteenth-century abolitionist literature, and later novels, textbooks, and films...From a global cross-cultural and historical perspective, however, New World slavery was a unique conjunction of features...<br><br>
 
-In brief, most varieties of slavery did not exhibit the three elements that were dominant in the New World: slaves as property and commodities; their use exclusively as labor; and their lack of freedom..." [NS:ECA:4:1190f]
+In brief, most varieties of slavery did not exhibit the three elements that were dominant in the New World: slaves as property and commodities; their use exclusively as labor; and their lack of freedom..." [NS:ECA:4:1190f]<br><br>
 
-Generally, in the ANE, these 'fuzzy' boundaries obtain as well. "Slavery" is a very relative word in our time period, and we have to be very carefully in no auto-associating it with more 'vivid' New World examples.
+Generally, in the ANE, these 'fuzzy' boundaries obtain as well. "Slavery" is a very relative word in our time period, and we have to be very carefully in no auto-associating it with more 'vivid' New World examples.<br><br>
 
-For example, in the West we would never say that the American President's Cabinet members were his 'slaves', but this term would have been applied to them in the ANE kingdoms.
+For example, in the West we would never say that the American President's Cabinet members were his 'slaves', but this term would have been applied to them in the ANE kingdoms.<br><br>
 
-And, in the ANE, even though children/family could be bought and sold, they were never actually referred to as 'slaves'--the property aspect (for such transactions) did NOT define explicitly the notion of 'slavery':(pause quote)
+And, in the ANE, even though children/family could be bought and sold, they were never actually referred to as 'slaves'--the property aspect (for such transactions) did NOT define explicitly the notion of 'slavery':(pause quote)|</blockquote>
 
-He goes on with more; I won't be quoting the whole article obviously, but this is important foundational context. Against this I have seen one skeptic whine that "slavery is slavery" let's him insist his criticism isn't about the modern idea at all -- which is rather naive to assume he hasn't been influenced by it psychologically in any way -- but even if we granted that, it's demonstrable fact that:
+He goes on with more; I won't be quoting the whole article obviously, but this is important foundational context.
+
+Against this I have seen one skeptic whine that "slavery is slavery" lets him insist his criticism isn't about the modern idea at all -- which is rather naive to assume he hasn't been influenced by it psychologically in any way -- but even if we granted that, it's demonstrable fact that:
 
 1) Words CAN have ranges of meanings, and it's extremely irresponsible to act like this stops when one of the ranges is extremely emotionally charged.
 
@@ -519,19 +605,25 @@ For example, "slavery is slavery" -- thus on HIS OWN PREMISE we can point to "SL
 
 When we point out Deut. 23:15-16, the skeptics trip all over themselves running this way and that way desperate to defang it.
 
-"IT DOESN'T MEAN 'SLAVE' IN GENERAL!" they scream, foaming at the mouth. "ITSH JUST FOREIGN SLAVES.... Wait... ummmmmmm.... ITSH JUST FOREIGN SLAVES who escaped FOREIGN slave masters... f-from OUTSIDE Israel!"
+"IT DOESN'T MEAN 'SLAVE' IN GENERAL!" they scream, foaming at the mouth.
 
-Oh but it doesn't say that. "Slavery is slavery!" we can point out.
+"ITSH JUST FOREIGN SLAVES.... Wait... ummmmmmm.... ITSH JUST FOREIGN SLAVES who escaped FOREIGN slave masters... f-from OUTSIDE Israel!"
+
+Oh but it doesn't say that.
+
+"Slavery is slavery!" we can point out.
 
 Of course, then they'll go for "ITSH A CONTRADICTION!" LOL. Or they would if they were smart. Usually they're eager to do so; it's telling that here they try to avoid it (in my experience).
 
 4) "Slavery is slavery" shirks the duty to objectively prove that something is wrong handling words carefully according to the rules of logic. This kind of shoddy thinking, especially on moral issues, is dangerous and can backfire and lead ironically to allowing legitimately bad things with similar word games. ("Slavery is slavery" used seriously, rather than as a reductio ad absurdum as I did above, is shameful word games, period. I'll show why next.)
 
-Objectively, we COULD define words any way we want in logic. We generally SHOULDN'T, but the principles for why are strongly against this skeptic's approach here in "slavery is slavery" (which is a blatant equivocation fallacy).
+Objectively, we COULD define words any way we want in logic. We generally SHOULDN'T, but the principles for why are strongly against this skeptic's approach here in "slavery is slavery" (which is a blatant equivocation fallacy, and as we all know, equivocation fallacy is equivocation fallacy).
 
 If not for the principles for why we generally shouldn't, someone CAN assign any definition to any jumble of words, as long as it's defined somewhere.
 
-When we're pointing to the context, this isn't excuses. It's showing the ACTUAL definition of words like ebed, and the senses that were actually intended in each specific usage, so far as we can determine (not saying all will have enough context to crystal clearly narrow that down 100% though, to be fair).
+When we're pointing to the context, this isn't excuses.
+
+It's showing the ACTUAL definition of words like ebed, and the senses that were actually intended in each specific usage, so far as we can determine (not saying all will have enough context to crystal clearly narrow that down 100% though, to be fair).
 
 The principles for why we generally shouldn't are ONLY about what senses of the words exist in the target language!
 
@@ -539,7 +631,9 @@ So when we have a wide swath of society that is the first to say that slavery as
 
 An argument they shouldn't can be fairly considered on the same principle as well-known senses are reduced over time as less-known ones fade from public awareness, but it's never responsible to then retcon this back over history.
 
-That's what the skeptic is doing here. Even if English originally had ONLY negative connotations of "slavery", even if (which is difficult to test) all translators who picked that word for things in the Bible ever allowed were pro-"slavery" in these negative sense we're about to define per Glenn Miller, or even others we could objectively show to be morally wrong, those of us who prove the Bible itself did NOT endorse anything bad can still say things like "slave, in this passage, in the sense of what the Hebrew sense of this word in view here by the author as proven by such and such a consideration like Deut 23" rather than saying "it says slave here but it should be servant" in every case.
+That's what the skeptic is doing here.
+
+Even if English originally had ONLY negative connotations of "slavery", even if (which is difficult to test) all translators who picked that word for things in the Bible ever allowed were pro-"slavery" in these negative sense we're about to define per Glenn Miller, or even others we could objectively show to be morally wrong, those of us who prove the Bible itself did NOT endorse anything bad can still say things like "slave, in this passage, in the sense of what the Hebrew sense of this word in view here by the author as proven by such and such a consideration like Deut 23" rather than saying "it says slave here but it should be servant" in every case.
 
 So English would have TAKEN ON multiple meanings including one that's good at least, IF the Bible was against anything bad and EVEN IF English ORIGINALLY had solely negative uses of "slavery!"
 
@@ -551,7 +645,7 @@ They revel in when they can do this in a way that would require such a long answ
 
 They have ready "if it takes that long to reply I must be right", on the moral high horse.
 
-
+### It Wouldn't Be A Skeptic Without Dunning-Kruger
 
 Let's look at the whole sentence and the next to see yet another rather idiotic problem, likely also designed to set up the same "long reply bad" trap-defense against showing why it unravels.
 
@@ -569,11 +663,13 @@ But that's... I mean, patently silly.
 
 Even today we can have categorical ways in English to describe that, like what I said right there; "anyone under any sense of authority, whether right or wrong" to expand it a bit.
 
-So now I can say "ANYONE UNDER AUTHORITY IS ANYONE UNDER AUTHORITY! Do you, Mr. Skeptic, condone any cases of anyone being under authority in any sense? HMMMM? If you do, you must be EEEEEEEVIL! AND if you whine that there are different senses, it's excusegesis and excusegetics!"
+So now I can say "ANYONE UNDER AUTHORITY IS ANYONE UNDER AUTHORITY!
+
+Do you, Mr. Skeptic, condone any cases of anyone being under authority in any sense? HMMMM? If you do, you must be EEEEEEEVIL! AND if you whine that there are different senses, it's excusegesis and excusegetics!"
 
 Of course, if we did that, without first clarifying we don't literally think that's a good argument (other than that it IS a valid reductio ad absurdum of this foolish skeptic's argument), they could attack us for that.
 
-And if we instead build a proper case like this, they can just cherrypick parts of it. "GASP! LOGICIANBONES IS PRO-SLAVERY! HE SAID SOME SENSES OF SLAVERY ARE GOOD!"
+And if we instead build a proper case like this, they can just cherrypick parts of it. "GASP! THIS GUY IS PRO-SLAVERY! HE SAID SOME SENSES OF SLAVERY ARE GOOD!"
 
 And the skeptic can carefully refrain from every bothering to build a proper case, and use a cheat of shirking answering reductio ad absurdum challenge questions like "Tell me, is it ever okay for someone to be under authority of someone else in any sense? Slaves are under authority in a sense, so being under authority is being under authority! Don't play word games to get out of it! That's lame!"
 
