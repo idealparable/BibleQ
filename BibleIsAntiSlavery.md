@@ -165,7 +165,7 @@ Many say explicitly that just like they didn't like what Egypt did to them, they
 In light of all that, claims like this from the skeptic here are patently ABSURD: "without the slightest hint of divine displeasure[.]" Come on!
 
 
-3. "why is the almight, all-knowing deity required to accommodate his commands to the preferences of this little group of people?" Because he can't do wrong and it's wrong to violate freewill and if he demands too much, the hardhearted Jesus talked about at the time of Moses would have rejected signing onto the covenant more likely and then God has let the situation be even WORSE. Not rocket science here, but don't expect a brain to function in a skeptic.
+3: "why is the almight, all-knowing deity required to accommodate his commands to the preferences of this little group of people?" Because he can't do wrong and it's wrong to violate freewill and if he demands too much, the hardhearted Jesus talked about at the time of Moses would have rejected signing onto the covenant more likely and then God has let the situation be even WORSE. Not rocket science here, but don't expect a brain to function in a skeptic.
 
 (quote)He fearlessly bellows the mighty “THOU SHALT NOT”(end quote) LOL
 
@@ -173,7 +173,7 @@ In light of all that, claims like this from the skeptic here are patently ABSURD
 
 By relfree he probably is trying to imply accusing it of being against but since he didn't say it clearly, he might actually be sneaking in a hint that he'd like to rob us of it and hates where it guaranteed it and implying he wouldn't be hurting us by taking it away. (It did allow relfree. Didn't condone and strongly condemned going back on your word after you promised to serve God though by signing onto the covenant; that's not anti relfree.)
 
-4. Skeptic is the one playing around with words slave vs servant and dodging. It's a fact ebed and amah had a wide range of meaning whether skepticbrain finds that inconvenient for him or not.
+4: Skeptic is the one playing around with words slave vs servant and dodging. It's a fact ebed and amah had a wide range of meaning whether skepticbrain finds that inconvenient for him or not.
 
 "People could be kidnapped and sold," Not by people under the law! That got the death penalty! Okay, let's show it now.
 
