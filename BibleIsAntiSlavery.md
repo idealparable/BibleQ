@@ -59,11 +59,11 @@ Also note: Format options described in the must-read-notes below won't be used f
   - [Cite or Contact Me?](#cite-or-contact-me)
 
 # Answer
-1. Dunno about arguing from image to God against slavery, I don't think we would need that argument, but it would certainly make sense (certainly goes against the whole pumpkin insult of many historical slavers). If alluding to the idea that the Genesis pattern is instructive, Jesus teaches that, of course, and we at least don't see slaves there.
+1: Dunno about arguing from image to God against slavery, I don't think we would need that argument, but it would certainly make sense (certainly goes against the whole pumpkin insult of many historical slavers). If alluding to the idea that the Genesis pattern is instructive, Jesus teaches that, of course, and we at least don't see slaves there.
 
 About Enlightenment I haven't studied that enough to be sure but I've seen many people claim they have and that it's really from the Bible, so the slow march of Christian reform etc.
 
-2. Would have known so "could have" stopped it does absolutely nothing against arguments like what JP has argued that it would have been pushed against too much, making God's word even more often rejected -- which God would ALSO know even if the critic doesn't. ("Could have therefore should" is what I call potency error.)
+2: Would have known so "could have" stopped it does absolutely nothing against arguments like what JP has argued that it would have been pushed against too much, making God's word even more often rejected -- which God would ALSO know even if the critic doesn't. ("Could have therefore should" is what I call potency error.)
 
 Basically this simply blindly rejects what Jesus says about concessions to the hardhearted.
 
