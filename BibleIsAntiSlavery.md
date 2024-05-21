@@ -3,7 +3,7 @@
 
 **Bible Question:** Does the OT condone or allow slavery? What does "slavery" mean? What about NT? What's the objectively right strategy the Bible should use, why, and does it?
 
-This is a save of what I typed up originally in Notepad, at first hoping to be merely posted as comments answering when a Christian asked me to review a bunch of (the usual) bad arguments by a particular skeptic (the typical type parroting the well-known modern "fundy atheist" talking points on slavery).
+This is a save of what I typed up originally in Notepad, at first hoping to be merely posted as comments answering when a Christian asked me to review a bunch of (the usual) bad arguments by a particular skeptic (the typical type parroting the well-known modern "fundy atheist" talking points on slavery). (Passed on from someone else who was also asking about and originally quoting the skeptic.)
 
 It quickly grew very long and the site where I would have tried to post it has a lot of problems with long comments. I could have tried to split it into many, but it doesn't handle that well.
 
@@ -41,7 +41,7 @@ When I have time I like to TRY to just cover EVERYTHING and demonstrate a PROPER
 
 (If I do future examples like this, I won't, though, be over-explaining what this kind of page is and isn't like I am now in this intro. Just trying to be crystal clear for this first one; in my experience it may be wisest to do so at least once somewhere.)
 
-Also note: Format options described in the must-read-notes below won't be used for the most part, other than that I'll delimit Bible quotes generally in slashes. Oh, and Bible version quoted is LSB in this case unless stated otherwise, not WEBP.
+Also note: Format options described in the must-read-notes below won't be used (at first; I might later) for the most part, other than that I'll delimit Bible quotes generally in slashes. Oh, and Bible version quoted is LSB in this case unless stated otherwise, not WEBP.
 
 {% include mustreadnotes.md %}
 
@@ -203,7 +203,7 @@ To be fair, that debate cheat can happen by accident a lot, and I'm not arguing 
 
 "Stop dodging." And there's the punchline of the true statement debate cheat, and the red flag that it is that, not an honest truthseeker who wants to be careful not to assume things uncharitably.
 
-5. We aren't ignoring passages he cited. We're showing why they didn't immediately ban it and had an even higher priority, everybody's death due to sin, solving this FIRST as widely as possible, THEN addressing other crucial issues more subtly, rather than just causing instant biased rejection by those hardened into assumptions that slavery is okay BEFORE they have experienced that heart reform.
+5: We aren't ignoring passages he cited. We're showing why they didn't immediately ban it and had an even higher priority, everybody's death due to sin, solving this FIRST as widely as possible, THEN addressing other crucial issues more subtly, rather than just causing instant biased rejection by those hardened into assumptions that slavery is okay BEFORE they have experienced that heart reform.
 
 Skeptic's priorities are backwards and ironically counterproductive for his own (claimed) goal of wanting slavery to stop. Christianity by this means ACTUALLY ACCOMPLISHED THAT GOAL (pardon cap emph).
 
@@ -246,7 +246,9 @@ God can influence history through Christ to trap even anti-biblicists into being
 
 (So, this "by pure coincidence" thing is pure strawman.)
 
-Point 6 is entirely refuted above already. 7. Interestingly, the skeptic in point 7 appears to CONCEDE that abolition "has a huge debt to Christian influence"! Then just repeats the same errors like potency error in reply to blindly assume what God's "job" is (I guess this skeptic is God's boss!). And falsely claiming "condoning" "it" (ebed? Or modern-sense slaverY? He BANNED the latter!)
+6: Point 6 is entirely refuted above already.
+
+7: Interestingly, the skeptic in point 7 appears to CONCEDE that abolition "has a huge debt to Christian influence"! Then just repeats the same errors like potency error in reply to blindly assume what God's "job" is (I guess this skeptic is God's boss!). And falsely claiming "condoning" "it" (ebed? Or modern-sense slaverY? He BANNED the latter!)
 
 Then "merrily" allowed it. This goes to the common error debunked by Romans 9 that if evil happens God WANTS it.
 
@@ -278,7 +280,7 @@ He didn't want debt "slavery" or even servanthood! He wanted us not to sin in th
 
 I mean I guess people could have taken on other tasks on their own like a scientific study and others could have, if people hadn't sinned and humanity expanded beyond two etc., volunteered to help, so serving in a sense. But this wouldn't be much at all like what I'm talking about that was allowed in Law of Moses.
 
-8. The skeptic's claim here is evidently unsupported that Christianity owes its debt to the Enlightenment for abolition. No attempt at support is offered here at least, so no further reply would be needed until he or someone does. That said, see what I said earlier about God using all of this, so any positive influence would be THROUGH the Enlightenment by God! So this would hardly work as an anti-Bible point. Just a very confused skeptic.
+8: The skeptic's claim here is evidently unsupported that Christianity owes its debt to the Enlightenment for abolition. No attempt at support is offered here at least, so no further reply would be needed until he or someone does. That said, see what I said earlier about God using all of this, so any positive influence would be THROUGH the Enlightenment by God! So this would hardly work as an anti-Bible point. Just a very confused skeptic.
 
 
 
@@ -296,13 +298,13 @@ I mean I guess people could have taken on other tasks on their own like a scient
 
 Comment 2: I like the term excusegetics. Describes what the skeptic is doing well!
 
-1. Strawmans God as human.
+1: Strawmans God as human.
 
 Against the rest, just acts as if his bald assertions of "lame" and "no" (legitimate) "excuse" are.. arguments. They're just folly on the skeptic's part as far as he has supported so far. They often act like their assurances should be taken seriously. They really shouldn't. Wherever testable they pretty much fail miserably.
 
 We can't (on crywolf principle) blindly assume each is false... but the onus is very much, very heavily on the skeptic, and the whole careless, biased attitude it is telling.
 
-2. Falsely assumes God's "followers" (as if they're actually in this being obedient when it's proven this is DISobedience) were slavers.
+2: Falsely assumes God's "followers" (as if they're actually in this being obedient when it's proven this is DISobedience) were slavers.
 
 Probably some implied true statement fallacy there too; it's POSSIBLE some of them are allowed into heaven, really thought it was okay at the time somehow, didn't know enough about the Bible to see where it condemns it etc., so he could say that they were saved, so "followers" in that sense (which we don't even know) to sneak in an insinuation that God must have approved of the slavery they committed. Doesn't work that way.
 
@@ -310,7 +312,7 @@ Racial divides can be excused by antibiblicists, especially atheists with no obj
 
 And has a track record of healing historically-seemingly unhealable wounds.
 
-3. "Christians did not even consider taking it that way for 1,700 years." Whoa there, that's a massive black swan fallacy.
+3: "Christians did not even consider taking it that way for 1,700 years." Whoa there, that's a massive black swan fallacy.
 
 And acting like they generally even had the power to change it politically. That's not so easy! The point where highly BIBLICAL Christians actually finally largely GAINED power -- in the US -- went RAPIDLY to abolition!
 
@@ -326,7 +328,7 @@ With yet another black swan fallacy thrown in at the end for good measure. I see
 
 "Mr. Ortlund, like most excusegeticists, is sitting in the present day and reverse-engineering his bible" Ironically that's what the skeptic is doing, projecting modern definitions of "slavery" onto passages not about it, etc.
 
-4. Sure the old "humans do what's right" excuse, accidentally undermining all of that "it took so loooooong!" crap. Humans on their own didn't undo slavery -- only with God's heart-based reform through the successful biblical strategy did that finally get actually accomplished.
+4: Sure the old "humans do what's right" excuse, accidentally undermining all of that "it took so loooooong!" crap. Humans on their own didn't undo slavery -- only with God's heart-based reform through the successful biblical strategy did that finally get actually accomplished.
 
 He "knows" slavery is wrong because he grew up in a Christianized society that got this from God. Irony.
 
@@ -334,7 +336,7 @@ He "knows" slavery is wrong because he grew up in a Christianized society that g
 
 "This is how the Enlightenment thinkers came up with the idea that slavery is wrong...an idea that had NEVER occurred to any christian thinker in 1,700 years." It's the golden rule, popularized in Christianized societies more than it had before. Treat others how you want to be treated. Pure coincidence!
 
-5. "The fact that christians today claim to believe that slavery is wrong (but it wasn't in the good old days, right?)" Important misconception (or intentional distortion but whatever) -- EBED in general, doing work for someone else, possibly with room and board as the pay (with or without an allowance, though one often was given) instead of a salary, is what was allowed in the "good old days".
+5: "The fact that christians today claim to believe that slavery is wrong (but it wasn't in the good old days, right?)" Important misconception (or intentional distortion but whatever) -- EBED in general, doing work for someone else, possibly with room and board as the pay (with or without an allowance, though one often was given) instead of a salary, is what was allowed in the "good old days".
 
 SLAVERY (as defined, see Glenn Miller for the full rigorous definition) wasn't GOOD in the old days, and it was the Bible that made that clear and worked against it.
 
