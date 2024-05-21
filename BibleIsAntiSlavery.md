@@ -181,11 +181,11 @@ So most likely, no, Jubilee is a way they indicate they're in the covenant, and 
 
 Either way, it doesn't seem to be relevant to any kind of moral issue.
 
-<blockquote><span class="bbq">/43 - ‘You shall not have dominion over him with brutality, but you shall fear your God./
+<blockquote><span class="bbq">/43 - ‘You shall not have dominion over him with brutality, but you shall fear your God./</span></blockquote>
 
 Here of course the rabid skeptic will eisegetically assume that you SHALL be brutal to the non-Hebrew! But the verses we just saw twice implied the opposite.
 
-<blockquote><span class="bbq">/44 - ‘As for your male and female slaves whom you may have—you may acquire male and female slaves from the nations that are around you./
+<blockquote><span class="bbq">/44 - ‘As for your male and female slaves whom you may have—you may acquire male and female slaves from the nations that are around you./</span></blockquote>
 
 Notice the Hebrew can sell HIMSELF (or presumably herself), but is still treated as if he isn't a slave (in other words, it's work for room and board plus an initial payment rather than work simply for an ongoing paycheck), while the foreigners cannot be sold BY Hebrews (this is banned in Exodus 21:16 though that's disputed. I could show that below but let's get through this Lev section first) but can be bought from outsiders (who the law for Israel can hardly have jurisdiction over in their eyes). And we'll see below this can include themselves:
 
