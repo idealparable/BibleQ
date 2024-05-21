@@ -113,6 +113,8 @@ Whether it WAS is beyond my ken. I originally thought it MIGHT have been likely 
 
 However, it seems possibly just as likely that since they didn't like slavery themselves, if they generally treat foreigners well, that they would be very unlikely to do it.
 
+## Leviticus 25; Hebrews Already Treated Foreigners Well
+
 Obviously they didn't like slavery, and we have this:
 
 > <span class="bbq">/Lev 25:35 - ‘Now if a *brother* of yours becomes poor and his [fn]means with regard to you falter, then *you are to* sustain him, *LIKE a sojourner or a foreign resident,* that he may live with you./</span>
