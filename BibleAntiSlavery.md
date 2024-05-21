@@ -41,6 +41,8 @@ When I have time I like to TRY to just cover EVERYTHING and demonstrate a PROPER
 
 (If I do future examples like this, I won't, though, be over-explaining what this kind of page is and isn't like I am now in this intro. Just trying to be crystal clear for this first one; in my experience it may be wisest to do so at least once somewhere.)
 
+Also note: Format options described in the must-read-notes below won't be used for the most part, other than that I'll delimit Bible quotes generally in slashes.
+
 {% include mustreadnotes.md %}
 
 ## Table of Contents
