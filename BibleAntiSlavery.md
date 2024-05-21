@@ -720,7 +720,9 @@ However, there were still some extreme punishments in the ANE, but the biblical 
 
 Exodus 21, for example, is considered by many to be unparalleled in respect to humanitarianism toward slaves, and we shall return to this in detail below.
 
-[Suffice it to mention here that Ex 21.21 restricts the treatment of the slave to be no more severe than what the community/elders could do with a regular, free citizen. This restriction on an owner should make one ponder what in the world the word 'property' might mean in such a context! But more on this in a minute…] (end quote)
+[Suffice it to mention here that Ex 21.21 restricts the treatment of the slave to be no more severe than what the community/elders could do with a regular, free citizen. This restriction on an owner should make one ponder what in the world the word 'property' might mean in such a context! But more on this in a minute…]
+
+(end quote)
 
 (quote)· Treatment : As a matter of course, slaves lived in radical separation from their owners and did not participate in many of the 'benefits' of the owners' fortunes.
 
