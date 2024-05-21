@@ -46,7 +46,7 @@ Also note: Format options described in the must-read-notes below won't be used f
 {% include mustreadnotes.md %}
 
 ## Table of Contents
-- [Question: Did Lazarus Write John? Is he the Disciple Jesus Loved?](#bible-is-anti-slavery)
+- [Question: Bible is Anti-Slavery](#bible-is-anti-slavery)
   - [Must-Read Notes](#must-read-notes)
   - [Table of Contents](#table-of-contents)
 - [**Answer**](#answer) <----- Skip to answer
