@@ -29,7 +29,7 @@ After the usual must-read section below, under answer, I'll start immediately wi
 
 The format is designed for posting on that other site, not for here, since at first I hoped (in vain) that it would be short enough to easily just post there. There will be some markers for bold there that turn into italics here, or just won't work right maybe. I might reformat later.
 
-FOR READERS DIRECTED HERE FROM THERE: Other pages and links on this site are almost entirely works in progress. There's really no other value to it yet for MOST topics other than a place I can put long replies on like this that the site where questions were raised doesn't work so well for a properly handling of in response.
+FOR READERS DIRECTED HERE FROM THERE: Other pages and links on this site are almost entirely works in progress. There's really no other value to it yet for MOST topics other than a place I can put long replies on like this that the site where questions were raised doesn't work so well for a proper handling of in response.
 
 Also note this isn't really a blog or anything else. More like my notes when they might help others who might miraculously have a vast reservoir of patience.
 
