@@ -1059,7 +1059,7 @@ We could also add these:
 
 - Allowances: (I didn't notice if he commented for the worst cases but we'll say no. ANE generally yes.)
 
-- Salaries: not given these. (This is true of OT ebeds evidently. On this point, the definition does legitimately overlap the OT.
+- Salaries: not given these. (This is true of OT ebeds evidently. On this point, the definition does legitimately overlap the OT.)
 
 - Sellers (as in, was the person paid for selling themselves into "slavery"? Or was someone else being paid? And if so, who was that? Family? Someone whose job is to sell slaves?)
 
