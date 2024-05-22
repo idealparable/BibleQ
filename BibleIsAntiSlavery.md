@@ -1086,7 +1086,7 @@ That could be done for:
 
 4) NT, whatever it gives advice to slaves and to masters about, if discernible.
 
-Though in the NT case it isn't about setting up a system but about how to behave since the system is enforced by Rome/etc.; this isn't Christians in charge and defining an ideal, even if the OT would have been, which I don't think it was intended to do, even with the evidence that our diagnostic feature definition of slavery was NOT desired for the most part or allowed in OT law (other than in a sense for criminals but for more obviously justified reasons that we sitll use today to an extent and most don't object to).
+Though in the NT case it isn't about setting up a system but about how to behave since the system is enforced by Rome/etc.; this isn't Christians in charge and defining an ideal, even if the OT would have been, which I don't think it was intended to do, even with the evidence that our diagnostic feature definition of slavery was NOT desired for the most part or allowed in OT law (other than in a sense for criminals but for more obviously justified reasons that we still use today to an extent and most don't object to).
 
 It could also be used to chart basics for things like the Babylonian system, the Roman system itself, Egyptian at time of Moses, or modern jobs, the example of the modern company merger, things like modern prison systems or the military even, etc.
 
