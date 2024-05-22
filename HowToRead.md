@@ -3,7 +3,7 @@
 
 **Bible Question:** What does the Bible itself say about how it should be read? What patterns does it use? What are the rules of the source "language culture" in context?
 
-This is obviously a vast subject, and we can't cover everything, and it's something we all are continually learning more about. Keep in mind the cautions in template sections on this page, I'm not an expert. Experts undoubtedly have many observations I'm not yet aware of, and some of those might render some of my thoughts on this incorrect.
+This is obviously a vast subject, and we can't cover everything, and it's something we all are continually learning more about. Keep in mind I'm not an expert. Experts undoubtedly have many observations I'm not yet aware of, and some of those might render some of my thoughts on this incorrect.
 
 So take everything as tentative but with an observation that as far as I've found so far, following the Bible's own rules, as far as we can attempt to discern the statements (which is an iterative process involving all past translations and translators of the languages involved, of course, to even get us to a point that APPEARS to be understandable) -- that the body of interpretations that logically follow from these rules "just happen" to naturally fit best with all other observations when carefully determined by sound logic.
 
@@ -19,7 +19,11 @@ Then (after much other study, and other "seek" studies as well as other whole-Bi
 
 As well as adding the options now of word searches (though it's a mistake to rely on these as your FIRST approach for a careful understanding, although often these are all we have time for), and many other tools, especially the tools at BLB.
 
-And now again starting from the start in LSB, though usually recording here in WEBP since "seek" studies may quote vast numbers of verses.
+And now again starting from the start in LSB, because it gives more tools directly in the English text than others, with generally less problems than others, though usually recording here in WEBP since "seek" studies may quote vast numbers of verses. I recommend reading the LSB in splitscreen or on another device or paper as you read along as that will reflect what I'm looking at. (My original studies, I forget how early I switched to ESV, but my earliest Bible was an NIV, so it would have been in one of those, probably NIV. Those two are attempted thought for thought, while LSB is attempted word for word.)
+
+This study will necessarily have to put off some studies still relevant to interpretation, such as a seek study on use of "all" language I would like to do (see [here](DidLazarusWriteJohn#non-literall){:target="_blank"}; this was a pattern I didn't know about on my own and learned from scholarship findings collated by JPH and others), or the planned article about Proverbs. And likely countless other patterns.
+
+
 
 {% include mustreadnotes.md %}
 
@@ -40,7 +44,7 @@ And now again starting from the start in LSB, though usually recording here in W
 
 [/test/]
 
-[|test|]
+[[test]]
 
 
 <!--
