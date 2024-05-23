@@ -25,4 +25,4 @@ WIPs; unmade or drafted but unposted:
 
 
 ---
-[TEMPLATE](!PageTemplate) 
+[PAGE TEMPLATE](!PageTemplate) | [SEEK STUDY PAGE TEMPLATE](SeekStudy_PageTemplate)

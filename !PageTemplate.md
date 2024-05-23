@@ -41,8 +41,14 @@ Other:
 
 Multi-para:
 Bible:
+Type as:
+[/test/]
+Find and Replace as:
 <blockquote><span class="bbq">//</span></blockquote>
 Other:
+Type as:
+[[test]]
+Find and Replace as:
 <blockquote>||</blockquote>
 
 (And use <br><br> after paras. Remember to check output generated for these; they glitchalot.)
@@ -55,6 +61,36 @@ Other:
 
 Table of Contents link:
 [Section Title](#section-title)
+
+
+
+
+For Seek studies:
+
+For the table of contents:
+
+
+
+
+For the body text:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -->
 

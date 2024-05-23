@@ -117,7 +117,7 @@ This page may be updated at any time.
 
 Navigation note: The Table of Contents (TOC) above has the Bible books list links to each book section below. Then each section has links to the sections for the chapters in that book. The ends of each section have links back to the TOC.
 
-This page uses a template structure I can duplicate for other "Seek" whole-Bible studies. For that reason and so that I can always easily add observations later, the entire structure is here for all chapters in the Bible.
+This page uses a template structure I can duplicate for other "Seek" whole-Bible studies. For that reason and so that I can always easily add observations later, the structure is here for all chapters in the Bible.
 
 So as you scroll down you'll likely see long stretches with nothing but blank sections. Keep scrolling; don't assume it's all blank.
 
@@ -138,101 +138,6 @@ Or you can use a Find search if your browser has it (unsure if all options on to
 
 [^^ Back to Table of Contents](#table-of-contents)
 #### Genesis 1
-- [1:1 God, Uncreated, Creates Time & Everything Else](#11-god-uncreated-creates-time--everything-else)
-- [1:2-3 Dark Hovering Parallelism](#12-dark-hovering-parallelism)
-
-##### 1:1 God, Uncreated, Creates Time & Everything Else
-
-[/1 In the beginning, God† created the heavens and the earth./]
-
-It's said that Hebrew grammarians say that the word for "beginning" here means an absolute beginning, so no room for beliefs in pre-existent matter. This is the beginning of time and only God began before it.
-
-This would be a good example of where reading beyond the Bible, albeit cautiously, would be wise in case others' perspectives can help understand the source language more correctly than an English translation would suggest.
-
-It's also said that the phrase "the heavens and the earth" is a merism, a type of synecdoche (read on), a phrase functioning much the same way as a word would, for the Hebrews' way to say "all creation" (literally everything created, anywhere, ever).
-
-A synecdoche, in case you don't know what that is (I had no idea for either of these terms when I first heard them on the topic, suggesting others might not know either), is an example from within a set, used as a term for the set.
-
-Synecdoches can be more memorable than trying to invent technical names for categories, and they are (thought to be) used often in the Bible.
-
-It's pronounced, by the way, in what I call the Standard American English accent (StAE), often called General American, as sih-NEHK-d(uh)-Kee (using my Lingua (Ln) transliteration system; see [here](Lingua)).
-
-A merism uses two synecdoches, in this case the two opposite ends of a possible spectrum, from the nearest to the furthest.
-
-They use contrasting or complementing pairs to express a whole, including everything between them not stated.
-
-Earth doesn't mean the planet; it means soil primarily and things closely related to it like bedrock (and we still have meanings like that today for the English word earth, not just the name of the planet, such as in earthenware), but not the seas or the atmosphere.
-
-It's defined a little later in this first chapter as dry land, in all later cases.
-
-Here it probably means the materials that would soon be shaped into dry land (whether still water that was transmuted into other materials, a common view, or already the materials not shaped yet until Day 3.
-
-Note that it's been said that our world was not yet named Earth (or equivalent terms in the directly relevant cultures to the Bible or to modern English) until after the Bible was written.
-
-It was named that, though, likely for similar reasons that the word is used here; humans are land-dwelling beings, so to us, the nearest home is the land, not the seas (not most naturally at least), or the air, or outer space or anything beyond the nearest regions of that.
-
-So here we see evidence that (unsurprisingly), we have a focus on human perspective.
-
-However, I see this (and many other considerations, some of which I'll be covering soon) as evidence that this is likely an account written by the Pre-Incarnate Christ, likely with a manifestation present in some form as soon as he had created timespace to manifest within.
-
-This implies the time here is the time perspective on Earth, and Jesus was directly observing everything.
-
-This would put some perspective for us (if you'll pardon re-using the word so soon), on things like Jesus walking on water. Since in his omniscience, he foreknows what humans will be created like, he might have already manifested as one here. We see that he does when he visits Abraham shortly before the destruction of Sodom and Gomorrah, so the Incarnation was not the first time. In the Garden of Eden he may have as well. Or he may be in the "Angel of the Lord" form.
-
-So although he isn't named, it seems likely implied already that he's here, though part of why I suspect so is due to later evidence.
-
-I think the account from 1:1 to 2:3, at least, is authored most likely by Jesus directly, and likely was told early on to Adam, who either memorized it and passed it on verbally, adding his own perspective for his own orally "authored" account later, or written if there was in fact some early form of writing already. (Or a mix of both, if there might have been mnemonic symbols that would later be developed into early pictographs, perhaps.) And I think 2:4 is the signature line saying this.
-
-Another aspect of this I think is key for interpretation purposes at least in Genesis 1 is that this shows the perspective is written so that human hearers/readers would understand, in defining "earth" as the nearest, and "heavens" as the furthest (which could include places beyond our 3 dimensions of space and 1 of time, perhaps; everything "out there" beyond our focus on earth -- on land.)
-
-This tells us several things.
-
-First, the temporal perspective will probably be ours. More context shown shortly will confirm that (within the rules of the language culture -- note that all known testable arguments against this are debunked; see for example CMI and AiG; see [end notes](#end-notes) about them).
-
-Second, humans in early history, understandably, saw the surface of land as the place from which they look out at everything else.
-
-This implies in turn a third observation, that the seas and the atmosphere have something in common, their "out-there"-ness, to the earliest humans.
-
-It's thought that this persisted throughout ancient times, with it being said that even in the time of Jesus, there was a fear of the sea, even for those whose livelihoods involved boats on it such as fishermen, explaining the terror they often felt during sea storms. Yet Jesus could sleep calmly during such a storm.
-
-This makes sense, as land doesn't (normally) rock, and if it does, it can be deadly if structures or large tree branches collapse on you. The sensation of high waves rocking a boat during a downpour could be unsettling, plus the human understanding of how they could be dashed against rocks they couldn't see right while steering might be difficult, perhaps rocks too far from actual survivable land to reach it alive.
-
-Of course, I'm describing a post-Fall perspective, but God of course foreknew that would happen, and in any case, the sense of land as the most "here" to humans makes sense.
-
-This suggests that the air is seen in a way comparable to the waters, and indeed, the Hebrew word for the heavens, shamayim (Ln shah-MAI-yeem), is said to be a combination of, or meant to resemble, the word for fire.
-
-At the very least, the word for water, seen shortly, is indeed mayim (Ln MAI-yeem; literally waters; -im (Ln eem) is the masculine plural suffix).
-
-The word for fire is esh (Ln EHSH), not exactly the same although it could be transformed into it since the consonant is the same and Hebrew is (or originally was) a consonantal language, and the actual etymology of shamayim may be something else instead.
-
-In any case, the waters term resemblance MIGHT help suggest already even as early as this verse that waters are not part of "earth" so that that term isn't talking about world-Earth. Though, here it probably is talking about all the materials of world-Earth other than air and water.
-
-It also suggests that there is no implication that we are in the exact center of the universe per se, yet it's also possible we were originally and that motions of our sun and our galaxy over time might have moved us slightly away from that, if in fact the universe does have an edge and therefore center.
-
-It also might suggest that the heavier materials that are under our feet are the center of our planet, rather than land floating atop water.
-
-This would also be easy for people to verify; simply wade into any stream and you can see that earthen materials are heavier than water.
-
-This all repudiates Flat-Earth models and geocentric ones. The center in view here is where humans are, but not directly the center of the earth, and yet the "earth" (not world-Earth with a capital E) has nothing underneath it, and all the stars all around (if "heavens" includes them, and much later context implies it does) are "up" and "out there" in all directions, thus the gravitational center has to be a point inside a sphere (as we can observe by shape and turning across each night, and year, that the sky appears as a sphere, not a flat surface above or even a literal dome).
-
-It hasn't yet provided insight on solid-sky models (some do have Earth as a sphere with a spherical solid sky around it), though it might also suggest against them, since they would indeed put the center more obviously down below us rather than any place where a human is on our world-Earth's lands being the "here-center" in this perspective.
-
-Beyond all of that (literally), this passage also tells us that God is beyond even linear time, as this is the absolute beginning of everything created ever, and yet God has no origin; he simply is.
-
-In line with my findings in my proof of God as the single fully-infinite pattern of existence of all infinities in that one single pattern, with no limits at all, this God is necessary to exist, in a way that is naturally intuitive. I'll be explaining that in articles eventually, God willing, on this site.
-
-This verse is written in a way that appeals to that soundly-proven intuition, and as such it passes all tests that could be applied for a most foundational verse as that of a genuine message from the most ultimate divine being who can possibly exist.
-
-This is unlikely by chance, to put it mildly.
-
-And beyond apologetics purposes, many of these factors will help us interpret the rest of the Bible properly, including the rest of Genesis 1.
-
-##### 1:2-3 Dark Hovering Parallelism
-
-[/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
-3 God said, “Let there be light,” and there was light./]
-
-
 
 [^^ Back to Table of Contents](#table-of-contents)
 #### Genesis 2
