@@ -139,7 +139,7 @@ Or you can use a Find search if your browser has it (unsure if all options on to
 [^^ Back to Table of Contents](#table-of-contents)
 #### Genesis 1
 - [1:1 God, Uncreated, Creates Time & Everything Else](#11-god-uncreated-creates-time--everything-else)
-- [1:2-3 Dark Hovering Parallelism](#12-dark-hovering-parallelism)
+- [1:2-3 Dark Hovering Parallelism](#12-3-dark-hovering-parallelism)
 
 ##### 1:1 God, Uncreated, Creates Time & Everything Else
 
