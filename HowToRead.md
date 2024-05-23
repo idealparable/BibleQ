@@ -140,6 +140,8 @@ Or you can use a Find search if your browser has it (unsure if all options on to
 #### Genesis 1
 - [1:1 God, Uncreated, Creates Time & Everything Else](#11-god-uncreated-creates-time--everything-else)
 - [1:2-3 Dark Hovering Parallelism](#12-3-dark-hovering-parallelism)
+- [1:4-5 See One Day](#14-5-see-one-day)
+- [1:6-8 Expansive Sky](#16-8-expansive-sky)
 
 ##### 1:1 God, Uncreated, Creates Time & Everything Else
 
@@ -240,9 +242,11 @@ Since so much in science has now confirmed a YE, though currently few have been 
 [/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 3 God said, “Let there be light,” and there was light./]
 
-Formless and empty (tohu and bohu; Ln TOH-hue and BOH-hue (hue is Ln pronounced hoo/who, not like the English word hue pronounced HYUE)) is much-debated.
+Formless and empty (tohu and bohu; Ln TOH-hue and BOH-hue (hue in Ln is pronounced like who, not like the English word hue pronounced HYUE)) is much-debated.
 
 Given that the dry land isn't shaped (or transmuted and shaped?) yet until Day 3, though, phrasing like this would make sense. It implies at least that mass that would become the dry land already exists.
+
+But translations like "waste" that make it sound like the result of a past disaster are unwarranted (if at the time the term "waste" implied that, but shouldn't be taken in such a way in any case). This has also contributed to some acceptance of views almost certainly incorrect, like (yet again) gap "theory".
 
 Note that the "earth" here clearly can't include the waters, since they would have shape (gravitationally, that of a sphere).
 
@@ -269,8 +273,177 @@ In other words, the Spirit was dark -- not shining, not making light yet.
 
 This in turn means that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!]]
 
+Keep in mind that the format in Hebrew is confirmed abundantly to be that of the historical narration genre. Structures like this might be mistaken for a justification for calling Genesis 1 poetry. This is a misunderstanding of how genre classification, and more fundamentally, the language culture in general, worked.
 
+Structures could be used in poetry and in prose, without any implication of figurative language being implied. The association between the two is a modern psychological case of circular reasoning and anachronism.
 
+Since our language culture generally doesn't use parallelism at all, and since we see it being used as the primary defining feature of Hebrew poetry such as the Psalms that survives the translation, and especially since not all parallelisms are formatted by our English translators like the Psalms (though we will see one shortly that traditionally is), we may think that in finding parallelism here about the deep and waters that we've found a missed proof that this is poetry.
+
+But that would be self-refuting, since the structure isn't used in virtually any of the rest of this section.
+
+Likewise for the merism we talked about earlier. The second aspect we anachronize is thinking that if we DO find a case of figurative language, it implies the whole thing is poetry.
+
+Again, that's not how it worked, and we apply this rule inconsistently (Jesus might use a stronger word here starting with an h and ending with ypocritically) when we see, so often, news reporters using (generally bad) puns and figures of speech to try (in vain) to spice up their reporting, yet we would never dream of dismissing the things they report as mere allegory or the like.
+
+The later case of parallelism that does seem to be poetry, and as such is typically translated in the traditional format English translators use for Hebrew poetry, looks like a mnemonic device used to emphasize, and thus show God's central care for, humans, about our being made in God's image.
+
+These are sometimes used freely for such things, interspersed inside what otherwise is prose. They don't imply the prose isn't prose.
+
+In this case, the parallelism isn't being used like that; it's part of the prose structure, and its purpose seems to be more about phrasing things in a compact informative way and making it more interesting, telling us what the light source is (that is, who the light source is), without turning it into a longer dry lecture filled with technical clarifications.
+
+Note also that the phrasing for how the light came to be is the same as many others for things nobody questions are created by God throughout the rest of this chapter.
+
+It's weird that we (at least we moderns) have this idea that the light would be an exception, speculating some other temporary created light source that is unnecessary and less parsimonious. And it would probably be less efficient design, unless of course, Jesus himself had his incarnation function that way, but it seems to say instead that the Spirit produced the light most directly, in context of other considerations about the Trinity I will discuss and have discussed in more detail elsewhere; in short, the one called simply God (the Father), gives the orders, the Word/Son/Wisdom manifests the message and may be speaking them out loud in some way, and the Spirit does the actions that produce the results).
+
+All of those ideas, while not completely disproven, seem to commit the special pleading fallacy.
+
+This could otherwise be potential evidence that Jesus was in an angelic form rather than a human form, since those are often portrayed as shining. But in the transfiguration, Jesus' human form appeared to shine as well, without needing to turn into some other angelic form (also perhaps angelic forms do look just like human forms or can, so this may be a moot question).
+
+Being in human form would probably help highlight better the "created in God's image" phrasing later, though note it's thought this has nothing to do literally with our shape. This would just be predicting our shape and manifesting in it to emphasize that the Son helps us relate to God. Our form itself would be designed to be the ideal adaptable form for a land-dwelling sapient being.
+
+Here we also see that the Spirit is mentioned at first, showing less authorial avoidance, then after that isn't mentioned again, implying he had some role in the authoring of the account, and implying what was known to early Christianity that the Spirit inspired all Scripture. This shows a personal distinction from the Son, and implies he played a role in creating.
+
+The passive voice in "there was light" also implies authorial avoidance, and involvement of the author, so this implies the author created. (See [here](DidLazarusWriteJohn#limited-personal-honor) for some of the reasoning involved in what I mean about authorial avoidance. More in favor of that is all throughout that article about authorship of John (I mean my article, not JPH's) and its [short version](DidLazarusWriteJohn_ShortAnswer).)
+
+Once again, we have a lot of groundwork observations themselves, and all of these help us understand how to correctly interpret what follows.
+
+##### 1:4-5 See One Day
+
+[/4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day./]
+
+It's been proven beyond reasonable doubt that the phrasing in verse 5 defines this as a single roughly 24-hour day. This isn't just about the use of the word for day (yom; Ln YOHM), as many assert without having done the homework on it. When it's used with evening and morning and a number in this way, especially in context of daylight and night, it means a 24-hour day.
+
+What about "saw;" what might that mean? After all, God is omniscient, yes?
+
+However, we see many passages later in the Bible where we're told that God comes to "know" things, while others agree God knows everything. The word for "know" can mean and often does mean experiential knowledge, as it does with the tree of the knowledge of good and evil, not head knowledge. This is seen in cases like the euphemism that Adam "knew" his wife, and a child resulted. It doesn't mean he obtained intellectual knowledge.
+
+So examples about God saying "now I know", as a baseline at least, imply that when something has happened, where in time and space it happens is where God has (doesn't gain anew, but experiences in a present-tense-like timeless way) experiential knowledge of it.
+
+Notice that when God expels Adam and Eve from the Garden, he confirms that he has experiential knowledge of good and evil.
+
+This of course can imply in that case nothing more than that God has "run simulations" (not in a single-linear-time sense but that he has full knowledge like the results of a simulation in his omniscience) and understands exactly what everything would be like causally-prior (not temporally prior) without needing to observe it actually happening.
+
+But in light of later passages, it seems to confirm that he also has direct observational knowledge of all of what happens throughout all of what to us is our future at any given moment. This obviously would also be the case for the ultimate God, and it implies his timelessness includes literally all multi-directional "time," not merely as if a super-smart but temporal entity in the past had simulated everything.
+
+So, language about God seeing things is hardly surprising. Knowing what this God is, we should expect such language up front.
+
+It may also be another hint at a manifestation with eyes at the time.
+
+I've also thought that it seems likely and maybe implied throughout the OT that Jesus had been maintaining a manifestation of one type or another throughout history.
+
+Also, God may have been giving him an experience similar to what it was like in his Incarnate body where his brain in that body had finite space for knowledge "onboard" but he could know anything he needed to, in that body, since he as a divine Person is omniscient, and the Father and Spirit also can share a focus on delivering that knowledge to the manifestation.
+
+This could have been happening all along, so things like Jesus saying he knows not the hour of his return may help explain passages like this, or like God being "grieved" about the violence leading up to the Flood.
+
+In the latter case it's often wrongly claimed to imply God had done something wrong, but the rest of the Bible shows God had a plan for humanity, which is also implied by bothering to save some of them on the ark. The strong wording, though, may imply more than merely an anthropomorphism; Jesus may have been manifested as a living anthropomorphism of God all along, and experiencing emotions in a way similar to a human.
+
+##### 1:6-8 Expansive Sky
+
+[/6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day./]
+
+The meaning of expanse (as well as waters above) is the subject of a lot of my focus, and my reasoning on it is too involved to try to summarize sufficiently here.
+
+LINK IT HERE LATER WHEN WRITTEN AS AN ARTICLE!
+
+(Note to self ^^)
+
+But in short, the word here translated expanse does quite literally mean expanse; an distance or separation, or a thing which has been expanded.
+
+Here it's clearly a vertical expanse and thus cannot be a solid sky. More evidence for that is seen later and I'll be focusing on some of what gives us interpretive keys that lead directly to that deduction.
+
+Note that those who still try to have it somehow mean a solid sky haven't thought this through very well anyways; they usually don't realize their view would require a solid object be made originally inside the waters, and then pushed up, shapeshifting, into a dome shape, since this says the expanse divided the waters, not that God directly miraculously lifted the waters and then create a solid dome under them.
+
+I think this suggests the waters above are primarily clouds, but there may have been water in some way above all along. We aren't told of the creation of air, so I do tend to think air was made on Day 1, and water may have been mixed as a mist throughout it, and extending higher up to possibly liquid water in the shape of the heavenly bodies to be transmuted later into them physically.
+
+The last point about transmutation, at least, was the premise that Dr. Russel Humphreys (yes, same one mentioned earlier) used to accurately predict the magnetic field of Mercury, based on his reading of a passage in Peter about this. As such it seems likely that it includes all the heavenly bodies already, but perhaps there was already some distance without stuff in it, or maybe water was spread out equally in a mistlike form above the waters of the world-Earth and then gathered into the shapes of the heavenly bodies (all of these are equally easy for God of course, despite the vast distances involved).
+
+Since the expanse itself is later named heaven (heavens) and birds are proven to be in it, and the expanse causes the lifting up of the waters above, I think that most directly the waters above in view here are simply clouds, and this is saying this was beginning to naturally happen on Day 2.
+
+However, it also says that God did the dividing as well.
+
+It's possible this simply means that the expanse's "dividing" is just saying when God moved mist around from a previously scattered arrangement into clouds, then the division appeared between the water, and then God did some other action not stated to turn it into the clouds or they just did on their own then, but the parallelism with a thing in creation doing something and God doing the thing is used many times in the rest of the Bible to mean God did it providentially.
+
+This should be expected for the omniscient, omnipotent creator, via the domino effect.
+
+Keep in mind this doesn't mean he wanted bad things that happen. That's disproven by Romans 9 saying God "endures" evil. I'll have other content about that later about my fuller disproof of the Problem of Evil bad argument, and explaining why God needing to create things how he did including how history happened isn't wanting the evil yet isn't due to weakness or any other explanation; it all simply logically follows from his omniscience, and criticisms are based on failing to think this through.
+
+So basically this could mean, and probably does mean, that God had created the universe the way he did knowing that without even the need for miraculous action in this case, per se, the clouds naturally formed in air.
+
+Creative miracles are more expected during creation, though, so both are options. Also, since it seems God was creating the light, and causing the heat which kept the water liquid, God would also be working a constant miracle at the time that also indirectly caused the clouds by evaporation of water. This process would take some time; it isn't surprising it happened on the second day. In that sense, God was literally causing the clouds AND the air was helping to cause them naturally, as two "ingredient" factors.
+
+Note that a popular old idea, the canopy theory, is debunked.
+
+That idea was based largely on a misreading of a passage in Genesis 2 about rain, turning it into an interpretation that no rain ever happened before the Flood of Noah and that thus there was an entirely different system for watering the land pre-Flood. No mainstream, informed biblical creationist today considers this a viable model, though I heard of one (and as far as I know, only one) who several years ago said he is still trying to find ways to make it viable, but it seems completely unneeded as nothing in the text suggests it.
+
+In fact, in light of the strong evidence for my SAUA theory (Sig After Until Abe), about the toledoths and authorship of sections of Genesis, most likely Adam wrote the verse they thought was denying rain before the Flood, and he died before the Flood, so in fact, that very same verse is CONFIRMING rain before the Flood!
+
+What the verse really means is that on the sixth day of the creation week, it hadn't rained yet. This surely makes sense; it would take time for rainstorms to form. It also mentions a mist from the ground. Since the land had just been created out of water, this also makes sense, and this would naturally dissipate later.
+
+Notice as well that here, unlike most other cases, it's explicitly confirmed that God made the expanse rather than merely the "it was so" although that phrase is included too.
+
+This is telling us what all the other "it was so" passages mean. 
+
+In light of the signs of authorial avoidance, I think that most likely not much domino effect is in play yet, so the combination of factors explanation seems more likely. Large-scale, dramatic miracles, in the fallen era, are usually reserved for credentialing God's Word as it was being authored.
+
+But this is pre-Fall, and we have other language that shows this account is intended to say it takes place over just one week on Earth, in our time. So direct creative action is more likely here, though in the fallen era, many of God's stated actions may be and in some cases have to be domino effect (hardening of Pharoah's heart even as Pharoah hardens his own heart, since God doesn't violate freewill, and most likely cases like the equivalent of the lucky dice roll in Esther probably are as well).
+
+This would also imply that when it says God created, it doesn't mean God gave commands to angels to carry it out, but that God himself did it.
+
+This implies that the authorial avoidance is about someone who is God, yet is also in some sense not the one being often called simply God, and isn't the Spirit of God, who, since he does have some avoidance, is likewise in some sense not the same as the one called simply God.
+
+This strongly implies the Trinity.
+
+We will see this pattern also with creation of humans, and with the account section I think is Adam's in Genesis 2, this will use God creating in parallel with the LORD God / Yahweh God creating humans, and LORD God / Yahweh God is the name in the signature line (2:4) that is right after 1:1-2:3 which has events no human could witness thus is most likely God's perspective (unless it were an angel). Thus, I think the other being implied here is the LORD God (who I think is Jesus), because he's authoring this account and showing humility toward the authority role (functional, not ontological) of the Father.
+
+Finally, we need to pay attention to places where one term is named another term. We have this several times, as here with "sky" (WEBP; LSB heavens).
+
+That definition is important in the proof that the expanse is air later. We see this also next with "earth" being called dry land and the waters below, gathered into one place, called seas.
+
+##### 1:9-10 Waters in One Place
+
+[/9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good./]
+
+When trying to reconstruct in your mind what the text is saying, it's important not to miss features.
+
+In my experience that's the most common problem when people are trying to interpret God's Word, and are confused or have multiple interpretations. Yes, many details simply aren't included, but often people will read a passage out loud, be looking at it in front of them, and then discuss trying to figure out what it means while looking at each other only, not at the text, not checking to see if any questions the had might have data in the text that could possibly be intended to answer it.
+
+(And sometimes sinful attitudes go way beyond that as well.)
+
+Here for example, many somehow miss that it says waters are gathered into ONE place.
+
+Oddly I saw one person claim that they sat down one day and sketched, supposedly, exactly what Genesis 1 describes as a cosmology, and claimed the drawing came out, without any bias on his part, to the typical modern claim of a flat land surrounded by a ring of water, and a solid dome over it.
+
+None of those features are in the text!
+
+And features that ARE there don't fit with it. A ring of water AROUND the land is an odd thing to describe as gathered into one place. This fits much better on a globe with an original supercontinent and superocean, both of which are now very well supported scientifically in line with the Flood model of Dr. John Baumgardner.
+
+It's commonly thought by those who are very informed on the matter and affirm the proven spherical world-Earth that the Bible doesn't actually comment on the shape of the world.
+
+I hold to that view by default, at least as in that it doesn't absolutely prove a model of the world-Earth, but here it does seem to strongly hint that it wouldn't fit with any flat world model, unless it had land only in the outer ring and a central ocean, but no flat world model to date has ever suggested that.
+
+They might try to salvage it by saying their supposed "ice wall" is the land-ring in the NEW Flat-Earth model (which puts the north pole as the center of a circle and turns Antarctica into the ice wall all around it, which is as absurd as the older one, if not more so, which at least had real sun"sets" and the like, but they have been forced by frequent modern travel across the Pacific to abandon the old model). But this would obviously be less parsimonious, since the waters wouldn't really be just in one place, and the land people actually live on would be something else not mentioned, plus it says plants grow on this land next.
+
+##### Earth Yield
+
+[/11 God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so. 12 The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good. 13 There was evening and there was morning, a third day./]
+
+In light of the time frame, even saying that the earth yielded the plants, I don't think we can inerpret this as merely the domino effect (no room for evolution here), nor even just the miraculous creation only of seeds and slow growth of most plants.
+
+The latter might seem to be implied in Genesis 2, though, but I think simply means that farm fields had not been laid out by people yet. (Since that would make that statement literally true.)
+
+The same is the case of humans made from earth later. This is talking about miraculous transmutation of earth to plants, and later to humans.
+
+This is probably tied to why God encapsulated the choice of freewill into a tree, an ets in Hebrew, rising up out of the erets (earth), shaped like a branching relationship tree of descent of future humanity from Adam and Eve, signifying (with a physical symbol, not a mere symbol in the text, but a visual symbol in front of a literal Adam and Eves' eyes) the choice of whether to inflict a future of mixed good and evil on their children.
+
+Sadly, they chose to do so, and we suffer the consequences as they did.
+
+Note that covenants throughout Genesis typically came with some kind of physical symbol, such as the alter of Moses or the rainbow, or the countless physical symbols of the Mosaic law. I think God begins setting up an original Adamic covenant with the command not to eat of the forbidden tree, with conditions, much like the Mosaic Law had conditions, and Adam and Eve broke that rule, violating that covenant.
+
+So we would expect a physical symbol to go with this covenant in some way.
+
+When did God make the garden, now, or on Day 6?
+
+Note that it's said that Hebrew past tense can be past perfect (had created) in the Genesis 2 description of this. That account is describing in real time an elaboration on Day 6, that time from Adam's point of view, most of them in past tense. It could be that additional plants were made then and it's simply past tense, though a case about the animals is clearly past-perfect, so I suspect it's past-perfect here as well. Either way is possible and there's nothing to contradict either that I know of.
 
 
 
