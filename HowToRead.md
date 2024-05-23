@@ -225,12 +225,53 @@ This verse is written in a way that appeals to that soundly-proven intuition, an
 
 This is unlikely by chance, to put it mildly.
 
-And beyond apologetics purposes, many of these factors will help us interpret the rest of the Bible properly, including the rest of Genesis 1.
+And beyond apologetics purposes, many of these factors will help us interpret the rest of the Bible properly, including the rest of Genesis 1. Many of them are among the most crucial interpretive clues. And that those are so skillfully in the first verse is also, in turn, more apologetic evidence.
+
+Many today wrongly think that for an apologetic to be logical, it needs to accommodate an old Earth. As mentioned, this was also debunked. It's thought that this merism may be doing double duty as well, not simply stating the absolute beginning but also summarizing the whole creation week.
+
+If so this would rule out at least the so-called gap "theory" (which is quite the opposite of a theory; it's wild speculation). There is no room for a gap between a summary of the whole creation week and its start.
+
+As such, much of the debate about how the next verse starts and how it's grammatically related to this one is evidently not really relevant. That said, I've seen it shown that it does only support the "young" Earth (YE) interpretation.
+
+Since so much in science has now confirmed a YE, though currently few have been allowed to be taught this or have bothered to check correctly, for the informed on the subject this also serves apologetic value, while also cluing us in that the text does not contradict what we've confirmed through (real) science.
 
 ##### 1:2-3 Dark Hovering Parallelism
 
 [/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 3 God said, “Let there be light,” and there was light./]
+
+Formless and empty (tohu and bohu; Ln TOH-hue and BOH-hue (hue is Ln pronounced hoo/who, not like the English word hue pronounced HYUE)) is much-debated.
+
+Given that the dry land isn't shaped (or transmuted and shaped?) yet until Day 3, though, phrasing like this would make sense. It implies at least that mass that would become the dry land already exists.
+
+Note that the "earth" here clearly can't include the waters, since they would have shape (gravitationally, that of a sphere).
+
+Whether that sphere encompassed the mass of the entire universe in some way, as Dr. Russel Humphreys consideres as a possibility, I don't see clearly answered here. It would be possible, but hints that Jesus may be walking on it might suggest against it, though the intense gravity of that would  hardly be a problem for him anymore than walking on water itself would.
+
+The word here translated "on" in WEBP or "over" in many others like LSB (al, Ln AHL, sounding like the English word "all") was the focus of a word study I did at one point, looking through the example uses.
+
+Many of the early-Genesis uses seem to have a meaning that usually fits the perspective of an observer being closer than a surface or apparent surface that the thing in question is over or on or in front of or under, depending on where the observer and that surface are. The thing in question is consistently not on the other side of a surface hidden behind it from an observer's POV.
+
+Usually, the thing in question is between the observer and the surface.
+
+In some cases, as with birds on land, the thing in question is above the surface and may go higher than the observer so that the observer would be between the thing in question and the surface, but can also be relatively between when the birds are landed.
+
+This would suggest the observer here, if any, may be standing on the water or perhaps also hovering over it, and the Spirit and the darkness may extend above the observer. So this would also be compatible with an implied Pre-Incarnate Christ.
+
+I have noted before that there is a parallelism here that sets up darkness and the Spirit in question. As said previously:
+
+[[What was over the water? It's unclear if there was air yet; that may be what was primarily added on Day 2, but in any case, we do know two things above the water, as the parallelism shows:
+
+||darkness|was|on|the surface of|the deep|
+|(and)|God's Spirit|was|hovering over|the surface of|the waters|
+
+In other words, the Spirit was dark -- not shining, not making light yet.
+
+This in turn means that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!]]
+
+
+
+
 
 
 
