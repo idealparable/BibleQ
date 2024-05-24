@@ -138,14 +138,17 @@ Or you can use a Find search if your browser has it (unsure if all options on to
 
 [^^ Back to Table of Contents](#table-of-contents)
 #### Genesis 1
-- [1:1 God, Uncreated, Creates Time & Everything Else](#11-god-uncreated-creates-time--everything-else)
-- [1:2-3 Dark Hovering Parallelism](#12-3-dark-hovering-parallelism)
-- [1:4-5 See One Day](#14-5-see-one-day)
-- [1:6-8 Expansive Sky](#16-8-expansive-sky)
+- [1(Genesis).1:1 God, Uncreated, Creates Time & Everything Else](#1genesis11-god-uncreated-creates-time--everything-else)
+- [1(Genesis).1:2-3 Dark Hovering Parallelism](#1genesis12-3-dark-hovering-parallelism)
+- [1(Genesis).1:4-5 See One Day](#1genesis14-5-see-one-day)
+- [1(Genesis).1:6-8 Expansive Sky](#1genesis16-8-expansive-sky)
+- [1(Genesis).1:9-10 Waters in One Place](#1genesis19-10-waters-in-one-place)
+- [1(Genesis).1:11-13 Earth Yield](#1genesis111-13-earth-yield)
+- [1(Genesis).1:14-19 Lights in the Expanse](#1genesis114-19lights-in-the-expanse)
 
-##### 1:1 God, Uncreated, Creates Time & Everything Else
+##### 1(Genesis).1:1 God, Uncreated, Creates Time & Everything Else
 
-[/1 In the beginning, God† created the heavens and the earth./]
+<blockquote><span class="bbq">/1 In the beginning, God† created the heavens and the earth./</span></blockquote>
 
 It's said that Hebrew grammarians say that the word for "beginning" here means an absolute beginning, so no room for beliefs in pre-existent matter. This is the beginning of time and only God began before it.
 
@@ -237,10 +240,10 @@ As such, much of the debate about how the next verse starts and how it's grammat
 
 Since so much in science has now confirmed a YE, though currently few have been allowed to be taught this or have bothered to check correctly, for the informed on the subject this also serves apologetic value, while also cluing us in that the text does not contradict what we've confirmed through (real) science.
 
-##### 1:2-3 Dark Hovering Parallelism
+##### 1(Genesis).1:2-3 Dark Hovering Parallelism
 
-[/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
-3 God said, “Let there be light,” and there was light./]
+<blockquote><span class="bbq">/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
+3 God said, “Let there be light,” and there was light./</span></blockquote>
 
 Formless and empty (tohu and bohu; Ln TOH-hue and BOH-hue (hue in Ln is pronounced like who, not like the English word hue pronounced HYUE)) is much-debated.
 
@@ -264,14 +267,14 @@ This would suggest the observer here, if any, may be standing on the water or pe
 
 I have noted before that there is a parallelism here that sets up darkness and the Spirit in question. As said previously:
 
-[[What was over the water? It's unclear if there was air yet; that may be what was primarily added on Day 2, but in any case, we do know two things above the water, as the parallelism shows:
+<blockquote>|What was over the water? It's unclear if there was air yet; that may be what was primarily added on Day 2, but in any case, we do know two things above the water, as the parallelism shows:
 
 ||darkness|was|on|the surface of|the deep|
 |(and)|God's Spirit|was|hovering over|the surface of|the waters|
 
 In other words, the Spirit was dark -- not shining, not making light yet.
 
-This in turn means that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!]]
+This in turn means that the Spirit of God / God's Spirit, the Holy Spirit was the source of light in the next few verses!|</blockquote>
 
 Keep in mind that the format in Hebrew is confirmed abundantly to be that of the historical narration genre. Structures like this might be mistaken for a justification for calling Genesis 1 poetry. This is a misunderstanding of how genre classification, and more fundamentally, the language culture in general, worked.
 
@@ -307,9 +310,9 @@ The passive voice in "there was light" also implies authorial avoidance, and inv
 
 Once again, we have a lot of groundwork observations themselves, and all of these help us understand how to correctly interpret what follows.
 
-##### 1:4-5 See One Day
+##### 1(Genesis).1:4-5 See One Day
 
-[/4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day./]
+<blockquote><span class="bbq">/4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day./</span></blockquote>
 
 It's been proven beyond reasonable doubt that the phrasing in verse 5 defines this as a single roughly 24-hour day. This isn't just about the use of the word for day (yom; Ln YOHM), as many assert without having done the homework on it. When it's used with evening and morning and a number in this way, especially in context of daylight and night, it means a 24-hour day.
 
@@ -337,9 +340,9 @@ This could have been happening all along, so things like Jesus saying he knows n
 
 In the latter case it's often wrongly claimed to imply God had done something wrong, but the rest of the Bible shows God had a plan for humanity, which is also implied by bothering to save some of them on the ark. The strong wording, though, may imply more than merely an anthropomorphism; Jesus may have been manifested as a living anthropomorphism of God all along, and experiencing emotions in a way similar to a human.
 
-##### 1:6-8 Expansive Sky
+##### 1(Genesis).1:6-8 Expansive Sky
 
-[/6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day./]
+<blockquote><span class="bbq">/6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day./</span></blockquote>
 
 The meaning of expanse (as well as waters above) is the subject of a lot of my focus, and my reasoning on it is too involved to try to summarize sufficiently here.
 
@@ -399,9 +402,9 @@ Finally, we need to pay attention to places where one term is named another term
 
 That definition is important in the proof that the expanse is air later. We see this also next with "earth" being called dry land and the waters below, gathered into one place, called seas.
 
-##### 1:9-10 Waters in One Place
+##### 1(Genesis).1.1:9-10 Waters in One Place
 
-[/9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good./]
+<blockquote><span class="bbq">/9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good./</span></blockquote>
 
 When trying to reconstruct in your mind what the text is saying, it's important not to miss features.
 
@@ -423,9 +426,9 @@ I hold to that view by default, at least as in that it doesn't absolutely prove 
 
 They might try to salvage it by saying their supposed "ice wall" is the land-ring in the NEW Flat-Earth model (which puts the north pole as the center of a circle and turns Antarctica into the ice wall all around it, which is as absurd as the older one, if not more so, which at least had real sun"sets" and the like, but they have been forced by frequent modern travel across the Pacific to abandon the old model). But this would obviously be less parsimonious, since the waters wouldn't really be just in one place, and the land people actually live on would be something else not mentioned, plus it says plants grow on this land next.
 
-##### Earth Yield
+##### 1(Genesis).1.1:11-13 Earth Yield
 
-[/11 God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so. 12 The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good. 13 There was evening and there was morning, a third day./]
+<blockquote><span class="bbq">/11 God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so. 12 The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good. 13 There was evening and there was morning, a third day./</span></blockquote>
 
 In light of the time frame, even saying that the earth yielded the plants, I don't think we can inerpret this as merely the domino effect (no room for evolution here), nor even just the miraculous creation only of seeds and slow growth of most plants.
 
@@ -445,6 +448,31 @@ When did God make the garden, now, or on Day 6?
 
 Note that it's said that Hebrew past tense can be past perfect (had created) in the Genesis 2 description of this. That account is describing in real time an elaboration on Day 6, that time from Adam's point of view, most of them in past tense. It could be that additional plants were made then and it's simply past tense, though a case about the animals is clearly past-perfect, so I suspect it's past-perfect here as well. Either way is possible and there's nothing to contradict either that I know of.
 
+##### 1(Genesis).1.1:14-19 Lights in the Expanse
+
+<blockquote><span class="bbq">/14 God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years; 15 and let them be for lights in the expanse of the sky to give light on the earth;” and it was so. 16 God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars. 17 God set them in the expanse of the sky to give light to the earth, 18 and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good. 19 There was evening and there was morning, a fourth day./</span></blockquote>
+
+What does "in" mean?
+
+It's biy (pronounced like "bee" in StAE, Standard American English or General American, Ln BIY or BEE as well), written unseparated from the word after it.
+
+It looks like this:
+
+<span style="font-size: 1.7em">בִּ</span>
+
+BLB's "Simplified Hebrew Grammar PDF says this:
+
+<blockquote>|The Inseparable Prepositions
+ There are three prepositions in Hebrew that are always attached to the word they are
+modifying, and that is why they are called “inseparable.” These three prepositions, with
+their primary meanings, in alphabetical order are:  – “in, by, with”;  – “as, like,
+according to”;  – “to, for, at.” Now all of these prepositions have other translations as
+29
+well (e.g., “among & before” for ; “thus & after” for ; “into & concerning” for , and
+many others for all three), but the first ones listed are the ones they are primarily
+identified with.|</blockquote>
+
+As far as I have found so far, BLB doesn't offer a Strong's page for it? Because it's unseparated, it seems not to be possible, as far as I can see, to compare other uses. That would mean we would need to appeal to some other source that does give us access to that information, unfortunately. I have no idea what sources might, at time of writing.
 
 
 
@@ -4495,12 +4523,12 @@ Other:
 Multi-para:
 Bible:
 Type as:
-[/test/]
+<blockquote><span class="bbq">/test/</span></blockquote>
 Find and Replace as:
 <blockquote><span class="bbq">//</span></blockquote>
 Other:
 Type as:
-[[test]]
+<blockquote>|test|</blockquote>
 Find and Replace as:
 <blockquote>||</blockquote>
 

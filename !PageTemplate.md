@@ -62,36 +62,6 @@ Other:
 Table of Contents link:
 [Section Title](#section-title)
 
-
-
-
-For Seek studies:
-
-For the table of contents:
-
-
-
-
-For the body text:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -->
 
 
