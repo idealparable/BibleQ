@@ -288,7 +288,7 @@ Skeptic's priorities are backwards and ironically counterproductive for his own 
 
 Important here too to understand that Jesus in Matthew 19 was telling Christians WHICH aspects of the Mosaic law do still apply in the Christian covenant; in essense, the ones that teach God's desires based on the original pattern.
 
-This at least strongly suggests Christian-led abolition was in accord with God's desires and implications biblically (I dunno if we have actual statements that they consciously noticed this, but either way it backs up what they did); the Deuteronomy statement, that slavery (modernlike def) is "wronging" the one under authority, would still apply and is context the NT didn't need to exlicitly repeat, since the NT DOES lay the groundwork to notice it applies.
+This at least strongly suggests Christian-led abolition was in accord with God's desires and implications biblically (I dunno if we have actual statements that they consciously noticed this, but either way it backs up what they did); the Deuteronomy statement, that slavery (modernlike def) is "wronging" the one under authority, would still apply and is context the NT didn't need to explicitly repeat, since the NT DOES lay the groundwork to notice it applies.
 
 ## False Cause Fallacy
 
@@ -296,7 +296,7 @@ Since he repeats enlightenment, let's look at it a bit more.
 
 Again, there probably was influence from that (but that would hardly have been pro equality -- that idea comes from the Bible, the world was typically AGAINST this; this is probably the modern skeptic trying to retcon which side anti-Bible arguers at the time were largely on), and I'm not claiming I've read everything on what they said were their influence, though noting again that others who say they do have sufficient understanding of it wildly disagree with his characterization here.
 
-So I won't be assuming the skeptic hasn't actually found a credible source that claims based on real expertise, and/or thorough reading and logical handling, that they largely decried the Bible and so on and saw that as they side that would be pro equality as opposed to the other way around (though the other way around looks correct right now as far as I know, and that more likely this skeptic is botching this history as much as he's demonstrably botching what I CAN more readily test, his handling of the Bible).
+So I won't be assuming the skeptic hasn't actually found a credible source that claims based on real expertise, and/or thorough reading and logical handling, that they largely decried the Bible and so on and saw that as the side that would be pro equality as opposed to the other way around (though the other way around looks correct right now as far as I know, and that more likely this skeptic is botching this history as much as he's demonstrably botching what I CAN more readily test, his handling of the Bible).
 
 All those cautions aside, PROBABLY I would expect the skeptic is just lazily guessing a false cause fallacy here -- X happens, then Y happens, therefore X caused Y; enlightenment happened, then abolition, so enlight caused abol.
 
@@ -337,7 +337,7 @@ God can influence history through Christ to trap even anti-biblicists into being
 
 7: Interestingly, the skeptic in point 7 appears to CONCEDE that abolition "has a huge debt to Christian influence"! Then just repeats the same errors like potency error in reply to blindly assume what God's "job" is (I guess this skeptic is God's boss!).
 
-And falsely claiming "condoning" "it" (ebed? Or modern-sense slaverY? He BANNED the latter!)
+And falsely claiming "condoning" "it" (ebed? Or modern-sense slavery? He BANNED the latter!)
 
 ## Endured
 
@@ -363,7 +363,7 @@ Thus, God did need to allow us to sin and let natural consequences normally happ
 
 Thus, it was logically necessary that God allow evils in general -- even if it takes a LONG time to advance the chess strategy against it (not a game) to expand the Rock that grows to fill the world (re Daniel; Christianity in the Rock of Christ), and he "endures" per Romans 9 this evil. He also has the RIGHT to do all of this, like the potter with clay.
 
-See especially Romans 9:14 (LSB is a good clear one on this), which affirms this isn't arbitrary (isn't unrighteousness), and 22 which confirms he "endured" evil, and those he foreknew would never repent of it to their ends in this life so go to hell (as other biblical context clarifies). Some argue based "desires" in verse 18 otherwise, but it can't overrule context in the same chapter and should be read in light of it.
+See especially Romans 9:14 (LSB is a good clear one on this), which affirms this isn't arbitrary (isn't unrighteousness), and 22 which confirms he "endured" evil, and those he foreknew would never repent of it to their ends in this life so go to hell (as other biblical context clarifies). Some argue based on "desires" in verse 18 otherwise, but it can't overrule context in the same chapter and should be read in light of it.
 
 Obviously it isn't saying God would irresponsibly do whatever he wanted even though he knows it would lead to unintended consequences. It obviously means he DOES know how to act wisely and when it will have the least of those, all things considered (for the WHOLE of history design).
 
@@ -373,7 +373,7 @@ He didn't want debt "slavery" or even servanthood!
 
 He wanted us not to sin in the first place and have food easily accessed everywhere with easy fun gardening work and the like, no curse, no fall, no death, and obviously no need for slavery or servanthood.
 
-I mean I guess people could have taken on other tasks on their own like a scientific study and others could have, if people hadn't sinned and humanity expanded beyond two etc., volunteered to help, so serving in a sense. But this wouldn't be much at all like what I'm talking about that was allowed in Law of Moses.
+I mean I guess people could have taken on other tasks on their own like a scientific study and others could have, if people hadn't sinned and humanity expanded beyond two etc., volunteered to help, so serving in a sense. But this wouldn't be much at all like what I'm talking about that was allowed in the Law of Moses.
 
 8: The skeptic's claim here is evidently unsupported that Christianity owes its debt to the Enlightenment for abolition. No attempt at support is offered here at least, so no further reply would be needed until he or someone does. That said, see what I said earlier about God using all of this, so any positive influence would be THROUGH the Enlightenment by God! So this would hardly work as an anti-Bible point. Just a very confused skeptic.
 
@@ -437,7 +437,7 @@ In fact, in the case of the abuses during the Crusades, there are explicit conde
 
 So even if the NT had also been extremely clear on its own in isolation from the OT's clearer ban of slavery, this clearly wouldn't necessarily be obeyed at the very least. Even if we were wrong that it wouldn't be counterproductive. Which it seems it would have to be.
 
-Also, that's because Christianity needed to first pass the hurdle of being embraced by most in the West i nthe first place.
+Also, that's because Christianity needed to first pass the hurdle of being embraced by most in the West in the first place.
 
 The skeptic might be implying that the NT could ban slavery very clearly (again) because that then would be obeyed once Christians did rise to power, but he's missing that if it had done that, quite possibly not enough people would have become Christian in the first place to allow that rise to power -- so the only option was to make it somewhat more cryptic, which is exactly what it did, but still DOES teach it!]
 
@@ -483,7 +483,7 @@ Amount of arguments wouldn't be relevant as they would be motivated to engage th
 
 "so calling it a Christian idea just isn't correct." That doesn't follow, since the argument isn't about 500-BC Persia at all but that it provided the idea in once-pagan Europe.
 
-And if we wanted to look there to Persia, how do I know it wasn't incluenced by God in various ways? But we're NOT saying it was ALWAYS allowed by all against God, which would be black swan fallacy anyways, but that we KNOW positively it was present in a LOT of places that were against God and on the whole global society never experience such a widespread reform (to what I think would be the Genesis pattern against slavery).
+And if we wanted to look there to Persia, how do I know it wasn't incluenced by God in various ways? But we're NOT saying it was ALWAYS allowed by all against God, which would be black swan fallacy anyways, but that we KNOW positively it was present in a LOT of places that were against God and on the whole global society never experienced such a widespread reform (to what I think would be the Genesis pattern against slavery).
 
 Besides, for such a late thing, if in fact, that really was a ban on slavery which I can't assume because an unreliable skeptic says it, how could we ever rule out any indirect influence from Moses? That wouldn't be "Christian" (true statement error risk again), but loyal to the same God, happening before the other, and we were told "before" should lead us to think "caused". (It shouldn't lead us to assume that, but it does open the door for it possibly!)
 
@@ -601,7 +601,7 @@ ESPECIALLY when that emotional charge happened largely AFTER the word was used i
 
 This has NO weight at all in proving the HEBREW authors intended anything that moderns would on full and fair analysis show is bad legitimately.
 
-They might insist that work should always be for pay and if the payer can't afford it God should magically make money or whatever -- in my review of Josh Bowen's shamefully stupid attempt to get out of the conclusive debunkings offered by Jon McCray of the whaddo You Meme channel of bad arguments for Bible as pro-slavery by Cosmic Skeptic (Alex O'Connor), in that review I was shocked to see the crazy argument really used by Josh Bowen (of Digital Hammurabi) that regardless of whether they obeyed God, Israel was promised, essentially, wealth.
+They might insist that work should always be for pay and if the payer can't afford it God should magically make money or whatever -- in my review of Josh Bowen's shamefully stupid attempt to get out of the conclusive debunkings offered by Jon McCray of the Whaddo You Meme channel of bad arguments for seeing the Bible as pro-slavery by Cosmic Skeptic (Alex O'Connor), in that review I was shocked to see the crazy argument really used by Josh Bowen (of Digital Hammurabi) that regardless of whether they obeyed God, Israel was promised, essentially, wealth.
 
 He even explicitly said he thought would be provided miraculously (as opposed to God just pointing out that following his wise laws would generally avoid the problems that lead to poverty in the first place, so more providential), though he didn't seem to think coins themselves would, but his argument was basically that insane.
 
@@ -637,7 +637,7 @@ Of course, then they'll go for "ITSH A CONTRADICTION!" LOL. Or they would if the
 
 Objectively, we COULD define words any way we want in logic. We generally SHOULDN'T, but the principles for why are strongly against this skeptic's approach here in "slavery is slavery" (which is a blatant equivocation fallacy, and as we all know, equivocation fallacy is equivocation fallacy).
 
-If not for the principles for why we generally shouldn't, someone CAN assign any definition to any jumble of words, as long as it's defined somewhere.
+If not for the principles for why we generally shouldn't, someone CAN assign any definition to any jumble of letters, as long as it's defined somewhere.
 
 When we're pointing to the context, this isn't excuses.
 
@@ -671,7 +671,7 @@ Let's look at the whole sentence and the next to see yet another rather idiotic 
 
 But if that's the objection, why bother whining about such an indirect objection as all of this in the first place? Might as well cut to the chase and apply this consistently to everything bad and just say "God should mind-control everybody so they never do ANYTHING bad".
 
-If the skeptic will admit this is all silly and God's obligations here are only about the wording in the autographs -- the Bible, not, as some might say for example, "the KJV Bible" LOL or and approach of "pretend the translation is the Bible in the sense of inerrant, or that if the copies and translations are inerrant we have problems" (all of which is debunked) and probably then "THE BIBLE IS THE BIBLE!" LOL and such -- then there's little the skeptic can do, really.
+If the skeptic will admit this is all silly and God's obligations here are only about the wording in the autographs -- the Bible, not, as some might say for example, "the KJV Bible" LOL or an approach of "pretend the translation is the Bible in the sense of inerrant, or that if the copies and translations are inerrant we have problems" (all of which is debunked) and probably then "THE BIBLE IS THE BIBLE!" LOL and such -- then there's little the skeptic can do, really.
 
 They could whine that God should never have allowed a generic word for anyone under authority, perhaps.
 
@@ -720,7 +720,7 @@ Then we would wonder why it didn't say so, and in light of the hardheartedness p
 
 We would realize our CAREFUL and ACTUALLY EMPATHETIC (not "pathetic") concern for avoiding slavery as much as possible, and limiting how often slaves are abused physically, should make us agree that God was WISE to refrain from asking too much.
 
-It would be CRAZY given the history of how constantly full of flagrant sin Israel was that God could add things on top of his existing demands and that this wouldn't be too much.
+It would be CRAZY given the history of how constantly full of flagrant sin Israel was to think that God could add things on top of his existing demands and that this wouldn't be too much or at least be noticeably detrimental.
 
 We would be horrified at what would result if the skeptic's advice had actually been followed.
 
@@ -825,9 +825,9 @@ And this is independant of any need for the skeptic to actually have what GM cal
 
 Skipping forward a little:
 
-(quote)Accordingly, I think--to avoid the inflammatory associations that naturally occur for Westerners when something is referred to as 'slavery'--it wise to carefully set out the structure of what we consider 'slavery' today, and compare that to the OT institution of 'Hebrew slavery'. New World slavery differs substantially from most ANE institutions labeled 'slavery', which themselves differed at significant points from OT slavery. We will try to make these distinctions clear, when they are relevant to the discussion.
+<blockquote>|(quote)Accordingly, I think--to avoid the inflammatory associations that naturally occur for Westerners when something is referred to as 'slavery'--it wise to carefully set out the structure of what we consider 'slavery' today, and compare that to the OT institution of 'Hebrew slavery'. New World slavery differs substantially from most ANE institutions labeled 'slavery', which themselves differed at significant points from OT slavery. We will try to make these distinctions clear, when they are relevant to the discussion.<br><br>
 
-With this in mind, I want to set out the basic elements associated with historical slavery, as practiced in America before the American Civil War, and to offer some general contrasts with ANE slavery (I will look at OT slavery later in the article). (This is not meant to be exhaustive, but simply to highlight the aspects of the institution that strike our sensibilities today.)(quote)
+With this in mind, I want to set out the basic elements associated with historical slavery, as practiced in America before the American Civil War, and to offer some general contrasts with ANE slavery (I will look at OT slavery later in the article). (This is not meant to be exhaustive, but simply to highlight the aspects of the institution that strike our sensibilities today.)(end quote)|</blockquote>
 
 I'll try to limit what I quote from the rest just to what clarifies the "diagnostic features" of what we COULD use to define "slavery" when we use the approach of "slavery is bad, Bible only condones servanthood" (the approach JPH has used).
 
@@ -931,7 +931,7 @@ That section especially highlights the absurd hypocrisy of skeptics in realizing
 
 Next he uses Legal Status again so I'm thinking it's more likely he's intentionally using header terms multiple times. The above one could be called Personhood; it's about property in the sense of whether the "slave" is considered property, what that means, and whether the slave is also anything else like a human being with equal worth and basic rights or not.
 
-The below one I'm having more time thinking of a single word for. I just ran it through AI and I'll pick "Economic Agency" although it's two words.
+The below one I'm having more trouble thinking of a single word for. I just ran it through AI and I'll pick "Economic Agency" although it's two words.
 
 This one is about, for example, if the "slave" can accumulate money, can the owner spend it? That could be relevant if there's a society where you CAN buy your freedom, so if your stuff is your master's stuff, the master can game the system by spending your money if it's ever getting too close to the amount that can buy your freedom.
 
@@ -1005,7 +1005,7 @@ As a yes/no thing if we define "property" as something distinct from what a soci
 
 Also, for those who are considered slaves and fully human or have personhood to some extent, pro-slavery arguers might say that the slave, in a case where the slave, they would claim, can be shot into like into a pumpkin and that there should be no serious legal punishment for doing so, would still be "human pumpkins" akin to what many skeptics do to the unborn, or even as some admit of the unborn persons, but I mean, more like, how relevant to their legal rights should their humanity and personhood be?
 
-That would be a clearer definnition of what the Personhood theme question is about, as well as whether they ARE persons or not.
+That would be a clearer definition of what the Personhood theme question is about, as well as whether they ARE persons or not.
 
 So for example in GM's point about a merger where his work contract is sold and bought, and could even be inherited, and is property of the owner of the business, he still has full personhood and full legal rights just like anyone else in our society. But he himself isn't the property; it's his work contract, in a major relevant sense.
 
