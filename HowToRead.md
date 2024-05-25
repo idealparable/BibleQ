@@ -476,7 +476,7 @@ As far as I have found so far, BLB doesn't offer a Strong's page for it? Because
 
 
 
-[^^ Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 #### Genesis 2
 
 [^^ Back to Table of Contents](#table-of-contents)
