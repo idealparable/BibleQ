@@ -19,7 +19,11 @@ Then (after much other study, and other "seek" studies as well as other whole-Bi
 
 As well as adding the options now of word searches (though it's a mistake to rely on these as your FIRST approach for a careful understanding, although often these are all we have time for), and many other tools, especially the tools at BLB.
 
-And now again starting from the start in LSB, because it gives more tools directly in the English text than others, with generally less problems than others, though usually recording here in WEBP since "seek" studies may quote vast numbers of verses. I recommend reading the LSB in splitscreen or on another device or paper as you read along as that will reflect what I'm looking at. (My original studies, I forget how early I switched to ESV, but my earliest Bible was an NIV, so it would have been in one of those, probably NIV. Those two are attempted thought for thought, while LSB is attempted word for word.)
+And now again starting from the start in LSB, because it gives more tools directly in the English text than others, with generally less problems than others, though usually recording here in WEBP since "seek" studies may quote vast numbers of verses. I recommend reading the LSB in splitscreen or on another device or paper as you read along as that will reflect what I'm looking at.
+
+My original studies, I forget how early I switched to ESV, but my earliest Bible was an NIV, so it would have been in one of those, probably NIV. NIV is an attempted thought for thought translation and as such takes a lot of liberties. The preface to ESV contrasts its approach with thought-for-thought, but does say only that major words are ensured to be represented, while other structure around them may be altered, so in effect it is still a partial thought for thought approach.
+
+LSB is much more strictly an attempted word for word. It can be good to familiarize yourself with thought-for-though translations to get a sense of how the grammar (is thought to) translate to English grammar, but it's best to understand the actual word order too and get a sense of the source language grammar through a source like LSB.
 
 This study will necessarily have to put off some studies still relevant to interpretation, such as a seek study on use of "all" language I would like to do (see [here](DidLazarusWriteJohn#non-literall){:target="_blank"}; this was a pattern I didn't know about on my own and learned from scholarship findings collated by JPH and others), or the planned article about Proverbs. And likely countless other patterns. Some basics on those I may try to include, though.
 
@@ -136,7 +140,7 @@ Or you can use a Find search if your browser has it (unsure if all options on to
 [41](#genesis-41), [42](#genesis-42), [43](#genesis-43), [44](#genesis-44), [45](#genesis-45), 
 [46](#genesis-46), [47](#genesis-47), [48](#genesis-48), [49](#genesis-49), [50](#genesis-50)
 
-[Back to Table of Contents](#table-of-contents)
+[Table of Contents](#table-of-contents)
 #### Genesis 1
 - [1(Genesis).1:1 God, Uncreated, Creates Time & Everything Else](#1genesis11-god-uncreated-creates-time--everything-else)
 - [1(Genesis).1:2-3 Dark Hovering Parallelism](#1genesis12-3-dark-hovering-parallelism)
@@ -144,13 +148,21 @@ Or you can use a Find search if your browser has it (unsure if all options on to
 - [1(Genesis).1:6-8 Expansive Sky](#1genesis16-8-expansive-sky)
 - [1(Genesis).1:9-10 Waters in One Place](#1genesis19-10-waters-in-one-place)
 - [1(Genesis).1:11-13 Earth Yield](#1genesis111-13-earth-yield)
-- [1(Genesis).1:14-19 Lights in the Expanse](#1genesis114-19lights-in-the-expanse)
+- [1(Genesis).1:14-19 Lights in the Expanse](#1genesis114-19-lights-in-the-expanse)
+  - [Nye's Moonshine](#nyes-moonshine)
+- [1(Genesis).1:20-23 Water Creatures, Flying Creatures, Fish are In Water](#1genesis120-23-water-creatures-flying-creatures-fish-are-in-water)
+  - [Sea Creatures, Air Creatures](#sea-creatures-air-creatures)
+  - [Across the Face of Sky](#across-the-face-of-sky)
+  - [NJ Isn't New Jersey](#nj-isnt-new-jersey)
+  - [You Monster](#you-monster)
+  - [Fish of Seas Are in Water](#fish-of-seas-are-in-water)
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis)
 ##### 1(Genesis).1:1 God, Uncreated, Creates Time & Everything Else
 
 <blockquote><span class="bbq">/1 In the beginning, God† created the heavens and the earth./</span></blockquote>
 
-It's said that Hebrew grammarians say that the word for "beginning" here means an absolute beginning, so no room for beliefs in pre-existent matter. This is the beginning of time and only God began before it.
+It's said that Hebrew grammarians say that the word for "beginning" here means an absolute beginning, so no room for beliefs in pre-existent matter. This is the beginning of (single-linear, single-directional) time and only God exists before it.
 
 This would be a good example of where reading beyond the Bible, albeit cautiously, would be wise in case others' perspectives can help understand the source language more correctly than an English translation would suggest.
 
@@ -170,7 +182,7 @@ Earth doesn't mean the planet; it means soil primarily and things closely relate
 
 It's defined a little later in this first chapter as dry land, in all later cases.
 
-Here it probably means the materials that would soon be shaped into dry land (whether still water that was transmuted into other materials, a common view, or already the materials not shaped yet until Day 3.
+Here it probably means the materials that would soon be shaped into dry land (whether still water that was transmuted into other materials, a common view, or already the materials not shaped yet until Day 3).
 
 Note that it's been said that our world was not yet named Earth (or equivalent terms in the directly relevant cultures to the Bible or to modern English) until after the Bible was written.
 
@@ -204,7 +216,7 @@ This makes sense, as land doesn't (normally) rock, and if it does, it can be dea
 
 Of course, I'm describing a post-Fall perspective, but God of course foreknew that would happen, and in any case, the sense of land as the most "here" to humans makes sense.
 
-This suggests that the air is seen in a way comparable to the waters, and indeed, the Hebrew word for the heavens, shamayim (Ln shah-MAI-yeem), is said to be a combination of, or meant to resemble, the word for fire.
+This suggests that the air is seen in a way comparable to the waters, and indeed, the Hebrew word for the heavens, shamayim (Ln shah-MAI-yeem), is said to be a combination of, or meant to resemble, the word for fire and (it does include the same letters as) the word for water.
 
 At the very least, the word for water, seen shortly, is indeed mayim (Ln MAI-yeem; literally waters; -im (Ln eem) is the masculine plural suffix).
 
@@ -240,6 +252,7 @@ As such, much of the debate about how the next verse starts and how it's grammat
 
 Since so much in science has now confirmed a YE, though currently few have been allowed to be taught this or have bothered to check correctly, for the informed on the subject this also serves apologetic value, while also cluing us in that the text does not contradict what we've confirmed through (real) science.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:2-3 Dark Hovering Parallelism
 
 <blockquote><span class="bbq">/2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
@@ -310,6 +323,7 @@ The passive voice in "there was light" also implies authorial avoidance, and inv
 
 Once again, we have a lot of groundwork observations themselves, and all of these help us understand how to correctly interpret what follows.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:4-5 See One Day
 
 <blockquote><span class="bbq">/4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day./</span></blockquote>
@@ -340,6 +354,7 @@ This could have been happening all along, so things like Jesus saying he knows n
 
 In the latter case it's often wrongly claimed to imply God had done something wrong, but the rest of the Bible shows God had a plan for humanity, which is also implied by bothering to save some of them on the ark. The strong wording, though, may imply more than merely an anthropomorphism; Jesus may have been manifested as a living anthropomorphism of God all along, and experiencing emotions in a way similar to a human.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:6-8 Expansive Sky
 
 <blockquote><span class="bbq">/6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day./</span></blockquote>
@@ -402,7 +417,14 @@ Finally, we need to pay attention to places where one term is named another term
 
 That definition is important in the proof that the expanse is air later. We see this also next with "earth" being called dry land and the waters below, gathered into one place, called seas.
 
-##### 1(Genesis).1.1:9-10 Waters in One Place
+By the way, Dr. Danny Faulkner argues that the waters above aren't the clouds, since other words for clouds aren't used here. I don't find that argument to be well-grounded, as a whole search of other uses of heavens, expanse, and words for clouds show they can be used interchangeably, and "heavens" can take on the meaning of whatever you can see when you look up so that clouds become "heavens" in the later chapters of Job when they are seeing full cloud cover.
+
+A similar argument could have denied that those were clouds, since there is a word for clouds. But the context shows that clouds can be referred to by other terms. Since clouds literally are water, and since the Hebrew phrasing POV usually has the nearest meanings in mind and you would need more contextual evidence to override the nearest meaning, I think they simply are (or include) clouds.
+
+Also, ancients likely would have understood it to be clouds because their common experience was that rain, which clearly is water, comes from clouds, thus the clouds, they would conclude, at least contain water. Job comments on this, in fact. They had no way to experience pre-Day 4 waters that the heavenly bodies might be made of, so would likely see that kind of meaning as more speculative and "out there". It makes sense to include that meaning prior to Day 4, but not, I think, to limit it solely to that meaning at that time.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1:9-10 Waters in One Place
 
 <blockquote><span class="bbq">/9 God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so. 10 God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good./</span></blockquote>
 
@@ -426,7 +448,8 @@ I hold to that view by default, at least as in that it doesn't absolutely prove 
 
 They might try to salvage it by saying their supposed "ice wall" is the land-ring in the NEW Flat-Earth model (which puts the north pole as the center of a circle and turns Antarctica into the ice wall all around it, which is as absurd as the older one, if not more so, which at least had real sun"sets" and the like, but they have been forced by frequent modern travel across the Pacific to abandon the old model). But this would obviously be less parsimonious, since the waters wouldn't really be just in one place, and the land people actually live on would be something else not mentioned, plus it says plants grow on this land next.
 
-##### 1(Genesis).1.1:11-13 Earth Yield
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1:11-13 Earth Yield
 
 <blockquote><span class="bbq">/11 God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so. 12 The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good. 13 There was evening and there was morning, a third day./</span></blockquote>
 
@@ -448,7 +471,8 @@ When did God make the garden, now, or on Day 6?
 
 Note that it's said that Hebrew past tense can be past perfect (had created) in the Genesis 2 description of this. That account is describing in real time an elaboration on Day 6, that time from Adam's point of view, most of them in past tense. It could be that additional plants were made then and it's simply past tense, though a case about the animals is clearly past-perfect, so I suspect it's past-perfect here as well. Either way is possible and there's nothing to contradict either that I know of.
 
-##### 1(Genesis).1.1:14-19 Lights in the Expanse
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1:14-19 Lights in the Expanse
 
 <blockquote><span class="bbq">/14 God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years; 15 and let them be for lights in the expanse of the sky to give light on the earth;” and it was so. 16 God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars. 17 God set them in the expanse of the sky to give light to the earth, 18 and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good. 19 There was evening and there was morning, a fourth day./</span></blockquote>
 
@@ -471,6 +495,205 @@ many others for all three), but the first ones listed are the ones they are prim
 identified with.|</blockquote>
 
 As far as I have found so far, BLB doesn't offer a Strong's page for it? Because it's unseparated, it seems not to be possible, as far as I can see, to compare other uses on their site other than searching for some of the English words and manually checking each one. That would mean we would need to appeal to some other source that does give us access to that information, unfortunately. I have no idea what sources might, at time of writing.
+
+With all those cautions said, it MAY imply "in" a three-dimensional space (in the sense of an open area) as in a vertical expanse.
+
+If so it wouldn't fit with a solid sky, though other senses of "in" would work, and the word by itself probably doesn't specify either way, I'd guess.
+
+If yes, it would weigh in on the extent of the expanse and would include outer space. We know the expanse includes air due to considerations in the rest of Genesis 1 (see later). And I think the waters above almost certainly include clouds. If the waters above included the original material transmuted into the astronomical bodies later on Day 4, this would all fit with the expanse including both the atmosphere and outer space.
+
+Otherwise it could simply mean the same sense as our "in the sky." I do see evidence that it might, since the word for heavens in the later chapters of Job refer to cloud cover Job and his friends are looking at as that. So whatever someone sees when they look up is "in" the heavens, in the sky, in the expanse in a sense, without the literal location of the expanse/heavens needing to include outer space per se.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Nye's Moonshine
+
+A good example of a bad interpretation approach is seen with a misrepresentation of something in this section (still in 1(Genesis).1:14-19; quoted [above](#1genesis114-19-lights-in-the-expanse)) by Bill Nye, the Science DeNyer, in a bad argument I've called Nye's Moonshine.
+
+That is the wild claim that this passage says the moon produces its own light.
+
+(Rather than simply being silent on it or indeed implying it reflects the sun's light; either of these is more likely but Nye assumes for self-serving reasons otherwise.)
+
+If it isn't silent on the question, the only evidence we have one way or another is that the word for "lesser" can mean dependant. If that sense is intended here, it would imply the moon is dependant on the sun. (Or it might simply mean the light that isn't as bright or hot.)
+
+The argument claims that there's positive evidence in the use of the word translated "give light" or shine (that's one word).
+
+But if you just look through all the other example uses, you see two that clearly they would not have thought implied producing their own light, of twinkling eyes, and of sunlight reflecting off of waves in water.
+
+Also no ancient could have thought the moon gives off its own light, since they could see as plainly as we can that when the side that isn't pointed toward the sun is visible, it isn't lit up (not enough for the eye to see, generally, other than during lunar eclipses).
+
+Moderns spend so much time indoors, staring at electronic screens and the like, that this might somehow be lost on them, or attribute knowledge of how it works to modern science alone without thinking through the rather obvious; that the dark side (don't confuse with far side) of the moon is visible for most of every month. (Or rather, not lit, so not as visible, but understandable by contrast with the light side's shape, and by occlusion of stars).
+
+Also remember, we're using to discerning what month it is by an electronic number on our phones or a paper calendar on the wall and the like -- but ancients were focused on lunar months, which is known for Hebrews, in fact.
+
+So they were not only looking at nature in general more than moderns, they were paying attention to the moon's phases.
+
+To salvage the Moonshine argument, you would need to (other than getting so drunk on moonshine it might seem to make sense to you) assume that the ancients would have thought that the side that just happens to be exactly where it would be the sun's light bouncing, at all times, is somehow not affected by the sun's light, and yet is producing its only light, but only right where the sun's light is hitting it, and selectively not generating light on the parts that it isn't.
+
+This is obviously against parsimony; it adds useless ad hoc rescuing hypotheses, and the only reason to add them is if you're a modern skeptic wanting to use eisegesis to read something into the text that isn't there, to deceptively claim a problem.
+
+Relevant passages:
+
+On "lesser" (Strong's H6996):
+
+Most meanings are younger, smaller, minor.
+
+Dependant is true of many of the younger cases, though not necessarily in view with the word itself. 
+
+It is in view here:
+
+<blockquote><span class="bbq">/2nd Samuel 12:3 but the poor man had nothing, except one little H6996 ewe lamb, which he had bought and raised. It grew up together with him and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him./</span></blockquote>
+
+The primary meaning (as with the moon) isn't about dependancy (here it's little/young, with the moon it's dim), but the rest of this verse clarifies the lamb is dependant on the man within the parable Nathan is telling.
+
+<blockquote><span class="bbq">/Job 3:19 The small H6996 and the great are there.
+The servant is free from his master./</span></blockquote>
+
+Some of the verses before this show normal parallelism, so it's likely in view here, though not all of the verses just before it are clearly parallel. My studies on meaning of the word here translated "slave" (ebed) show that other than criminals, which, to be fair, are evidently in view in the prior verse, means debt-caused indentured servitude (or poverty-caused). They were not slaves as properly defined (see [here](BibleIsAntiSlavery)), but more like a cross between adopted family members and servants, working for room and board (as in for survival) rather than a salary (per se, though they often were given allowances).
+
+Thus, if that sense is in mind here, they were dependant on the "masters" for survival. The previous verses do move to different subjects on each line, so most likely this is moving on from prisoner "slavery" to debt "slavery" and thus likely has the dependant connotation.
+
+Either way, it also has an "under authority" connotation which would also work to imply the moon's light is "under the sun's authority", not its own light.
+
+Similar:
+
+<blockquote><span class="bbq">/Isaiah 36:9 How then can you turn away the face of one captain of the least H6996 of my master’s servants, and put your trust in Egypt for chariots and for horsemen?/</span></blockquote>
+
+Survival dependance seems less in view here but the under authority sense again clearly is. Dependance in the sense of dependant for orders, at least (in both cases).
+
+For "give light" (Strong's H215):
+
+It's also used for "lights" and many meanings have that. Many others describe things like flames that do indeed clearly produce their own light.
+
+The exceptions are:
+
+<blockquote><span class="bbq">/1st Samuel 14:27 But Jonathan didn’t hear when his father commanded the people with the oath. Therefore he put out the end of the rod that was in his hand and dipped it in the honeycomb, and put his hand to his mouth; and his eyes brightened H215./</span></blockquote>
+
+Also in verse 29:
+
+<blockquote><span class="bbq">/1st Samuel 14:29 Then Jonathan said, “My father has troubled the land. Please look how my eyes have brightened H215 because I tasted a little of this honey./</span></blockquote>
+
+NET <span class="bbq">/gleamed/</span>. Some translations interpret it as becoming able to see, but there's no hint in the context of an inability to see. It clearly means the honey tasted good and satisfied hunger, so his eyes twinkled.
+
+This is obviously caused by outside light reflecting off, not the eyes producing their own light; nobody could take it that way, or else if someone made the same expression at night, people would see their eyes glowing from it.
+
+This is clearly a nromal figure of speech in their culture for being happier or less afflicted. Seen again here:
+
+<blockquote><span class="bbq">/Ezra 9:8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten H215 our eyes, and revive us a little in our bondage.]
+
+It may be in view here:
+
+<blockquote><span class="bbq">/Job 33:30 to bring back his soul from the pit,
+that he may be enlightened with the light H215 of the living./</span></blockquote>
+
+Others include Psalm 19:8, probably Proverbs 29:13 (though this could mean give sight, and there was another earlier I didn't list that I think means the latter, Psalm 13:3), and possibly figuratively Ecclesiastes 8:1 (though this may instead be figurative for a face producing its own light). 
+
+And:
+
+<blockquote><span class="bbq">/Job 41:32 He makes a path shine H215 after him.
+One would think the deep had white hair.]
+
+Deep refers to deep water. This means a wake (as LSB translates the word WEBP here calls path) in water, with whitecaps, and sunlight reflecting off of it, obviously not producing its own light.
+
+Many cases of things like dawn giving light may connotate air and/or clouds being lit too (such as Proverbs 4:18), though those might be just implying the sun's direct shining, so I didn't show them.
+
+Similar:
+
+<blockquote><span class="bbq">/Ezekiel 43:2 Behold, the glory of the God of Israel came from the way of the east. His voice was like the sound of many waters; and the earth was illuminated H215 with his glory./</span></blockquote>
+
+Ezekiel could hardly think the land was shining on its own here.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1:20-23 Water Creatures, Flying Creatures, Fish are In Water
+
+[/20 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.” 21 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good. 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 There was evening and there was morning, a fifth day./]
+
+The word translated "creatures" is nephesh, the term for soul in OT (body plus spirit; the tangible with the intangible, akin to hardware and software).
+
+Occasionally I see people thinking that animals don't "have" souls. That's not how it works. They aren't created in the image of God, but they "have" (or more properly "are", in the OT sense of soul) souls.
+
+In the New Testament, the word translated soul can be used interchangeably more for the same meaning as spirit. Neither connotate a created ghostly substance that detaches from the body at death as many moderns imagine; it simply means the non-substance/immaterial essence of what makes us living, denoting motion, thought, emotion, things made out of arrangements of stuff rather than just another type of stuff.
+
+Our continuance after death could simply be God causing that to happen directly; he is hardly dependant on having created something else to detach for whether he wants to continue us in another body after death. This includes a temporary afterlife (which clearly includes conscious life) with some kind of temporary body (perhaps simply something like a dream avatar) and the future resurrection into the permanent bodies of the New Creation.
+
+It's of course also possible that God did create something (perhaps the body of the temporary afterlife) already during this life, and it might detach at our deaths, but since God is omniscient, this has no bearing on whether we continue in the afterlife, or whether animals do. If he wants them to, and if he knows it's right for them to do so, they will, however he does it. And the use of words like soul or spirit have nothing (at least not directly) to do with whether that is already the case or not. We would need to be informed of this by other means.
+
+Here the word is being used as a wide category of things that are souls -- specifically, in context, organic things with souls, so "creatures" is indeed a good translation.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Sea Creatures, Air Creatures
+
+The first phrase is describing, as a category, all creatures that swim or otherwise are in the water, unless they are instead in the other two categories.
+
+The second phrase is poorly translated usually, and here; it doesn't only mean birds (as in with feathers); it means flying creatures. The parallelism here makes that clear to water creatures in general (not just to fish).
+
+Birds isn't an absolutely horrible translation; it works too as long as you read it as a synecdoche (example within the set, in this case of flying creatures, used figuratively as the label for the set), since the vast majority of other uses of the word do refer specifically to birds.
+
+But it doesn't strictly only mean birds; it would include bats (as it does in Leviticus 11:13-19 and Deuteronomy 14:11-18) as well as flying insects and pterosaurs.
+
+Ignorance of this is used by some populist skeptics today to foolishly claim that the Bible wrongly thinks bats are birds.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Across the Face of Sky
+
+To {/fly above the earth across the face of the expanse of the heavens/} (as better translated by LSB) is taken by many who affirm the spherical world-Earth as proof that the expanse/heavens is air.
+
+While it may imply that, it gets that meaning from a later verse in this chapter that defines this clearly. Here, it's a bit ambiguous on its own and we should be honest. Many translations, unfortunately, with good intentions no doubt, use a much more thought-for-thought approach with 1:20 and obscure the word "face" and will make it sound like the Hebrew here directly says that birds fly in the expanse. A case can be made for this (read on) based on face as well, but it's fair to say that it doesn't say it on its own.
+
+That case would be if the face (surface) of the expanse is meant as an upper surface of a fluid-like substance (air), which we could support with a parallel in later passages with fish in water -- and fish are under the "face" of water (compare 1:2 which talks about this face). However, this arguably begs the question of whether the expanse/heavens are or include air versus being something above the air. A solid-skyer will argue that the expanse (they would say firmament) is the solid dome, and its face its visible inner surface.
+
+In fact, Dr. Danny Faulkner says in his book Falling Flat (with his debunkings of countless Flattener arguments -- Flattener being my term for those who try to argue for the Bible teaching a flat world-Earth or solid sky) that he suspects the face of the heavens IS the atmosphere, with the rest of the heavens being outer space and the astronomical bodies, which makes some sense.
+
+Either way, note that the word translated across in LSB is still not translated ideally; it's the word for "on" or "over" again -- the one that if the observer is below would mean "under" or "on the lower surface of". Also the same word translated "above" in relation to the earth in the same verse (20).
+
+This implies that there is an observer who is on the earth or close to it, looking up at the face of the sky.
+
+In Faulkner's suggested interpretation, technically the birds and observer are literally in the very lowest part of that face (the atmosphere), or it may fit better with the idea of the face as the upper surface (or region where it fades) of the atmosphere.
+
+The latter case seems slightly more parsimonious to me in light of Job and others using "heavens" of anything visible when you look up plus that a later verse does teach that birds are in the heavens (the one that I think makes a solid case for that, unlike verse 20 per se), so that when the sky is completely overcast, the "face" of the heavens would not include the stars, sun, or moon. This supports a sense of the nearest visible things above the air that we are directly in (other than things like ceilings and trees).
+
+That would indeed support that "face" means upper surface of the literal expanse/heavens, while being "in" the sky doesn't have to mean literally in but can mean "visible through" when stars are not obscured by clouds.
+
+Alternatively, if waters above means clouds, the separation/distance/expanse literally adjusts in height depending on the cloud, so a sense of distance between the viewer on land and the clouds or the astronomical bodies would all literally fit with expanse, and thus heavens since the expanse of Genesis 1 is named the heavens.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### NJ Isn't New Jersey
+
+Note: I didn't mention it yet, but heaven/heavens here has nothing to do directly with the afterlife realm. In Luke 16 it's made clear that the realm of the saved in some sense is next to the realm of the unsaved, separated by a chasm (or at least where the pre-atonement saved were).
+
+Most likely "heaven" is associated with the afterlife realm and God's dwelling for two reasons.
+
+First, as figurative for better. Up is often figurative in most languages for good, down for bad; things are improving means things are looking up, etc. Since the word heavens originally was the name given to the sky, this figure applies to the afterlife realm of the saved, and to where God has a heavenly temple and so forth.
+
+Second, the New Jerusalem throughout Revelation appears to be a hovering city invisible in the sky (not physically literally in our plane of existence per se, but in the vision it is portrayed this way). So God's throne may have always been there in some way (again, not physically accessible to us now, not like a spaceship hovering or anything). Some of the context makes it clear the actual sky is above this, but from the perspective of John when he taken in the vision down to the land, the New Jerusalem is above him.
+
+After the new creation starts, it seems that everything else is un-instantiated, and the new creation is instantiated, while the New Jerusalem remains, and then lowers to land on the new earth. Thus, this is clearly the same place that John is seeing parts of throughout the earlier parts of the vision.
+
+And it's made clear that at least after the atonement, the saved at least can be present there, so it's the centerpiece of the final creation as well as of the temporary afterlife realm for the saved (of the present "heaven" in the afterlife sense).
+
+So in short, since this hovers in the sky (in the heavens), it gains that name by association.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### You Monster
+
+WEBP's {/large sea creatures/}, LSB has as {/great sea monsters/}. The word LSB puts as monsters is tanninim. What precisely this means I haven't personally studied yet. IIRC AiG had a study on it several years ago as an article on their site.
+
+But I would suggest based on this verse that it probably refers to larger sea creatures, such as (perhaps including) whales, plesiosaurs, kronosaurs, ichthyosaurs, etc. The word is often translated as serpents, although it isn't the same word translated that in Genesis 3 (that's nakhash). But it might refer specifically to the great sea reptiles, or perhaps to large sea creatures with scales so could include things like a whale shark, megaladon, or even a great white shark.
+
+It's translated jackals in Job 30:29 and 44:19 in LSB, but IIRC this may be translator bias at play. Some are translated dragon. In general it seems possible to read it as referring to scaly creatures. It doesn't always by itself connotate a large creature, as it's used in parallel with cobra. Here the referrent obtains the large connotation from the use of the word translated "great".
+
+In any case, it clearly has no negative connotation yet, as this is pre-Fall.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Fish of Seas Are in Water
+
+
+
+
+###### Baramin
+
+
+
+
 
 
 
