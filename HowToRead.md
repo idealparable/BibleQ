@@ -710,9 +710,29 @@ In verse 22 we have the last of several passages that give preparatory definitio
 This will tell us that birds are in the expanse. They aren't in the earth; they rest on the earth (land) when not flying, and fly above the earth.
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
-##### 1(Genesis).1:24-25
+##### 1(Genesis).1:24-25 Good
 
 [/24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good./]
+
+I've already commented on most of the features earlier that are repeated here. It's worth noting that "good" is being used in a sense similar to what Jesus says that only God is good, though it might not imply total perfection per se, but as good as a finite created entity can be (that all such created entities were, at the time), since they still had the potential to fall. Words, of course, can be used in a wide range of senses, and Jesus wasn't saying that relative senses of good can't be used.
+
+It's also worth mentioning that in ancient languages, typically words did have wider ranges of meanings than English words.
+
+Many modern readers will tend toward assuming that a language can only have, or even should only have, one meaning per word, what I've called the one word one meaning error.
+
+In reality, English is a pretty modern quirk of a language that it has collected such a vast vocabulary that in more cases, there is a single meaning, more or less, per word, and even that we have many words for various nuances and connotations of the same basic idea. While modern English has simplified in some ways versus ancient languages, usually it's toward less conjugations of words, so again toward the trend of one form of a word, one basic meaning.
+
+Ancient languages by contrast, with exceptions of course, tended more to have more meanings in each word, and relied on contextual keys to select the intended meaning.
+
+Is this better or worse?
+
+Well, it's true that if God lets language develop naturally somewhat, it would take time for languages to build enough variety to cover more concepts. However, this has serious downsides, especially if you lose the culture and live speakers of all of our vast vocabulary and then have to rely on historical records to try to piece together what we meant. We're a dictionary culture, an encyclopedia culture, and now an internet culture. If none of those happened to survive, discerning many words in our language would be very difficult.
+
+Having a smaller vocabulary would actually be easier, and observing patterns of the context selecting nuances of the word makes it easier as well to handle the distinctions.
+
+So while the primary reason that Hebrew, and Greek for NT, are relatively simple compared to modern English is that they are over 2000 years earlier in development, it's actually a smart decision that God worked with these kinds of languages for his Word rather than trying to make them learn a new system based on the one-word-one-meaning rule. It makes the Bible much easier to translate and represent in other languages.
+
+Even for English speakers this is often a problem as no matter how old we get, we continue to run into new words in our own language that we might have no idea what they mean, often even with the etymologies being unclear to us without looking it up (although that's in part due to our propensity to borrow heavily and almost freely from other languages).
 
 
 
