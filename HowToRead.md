@@ -578,7 +578,7 @@ This is obviously caused by outside light reflecting off, not the eyes producing
 
 This is clearly a nromal figure of speech in their culture for being happier or less afflicted. Seen again here:
 
-<blockquote><span class="bbq">/Ezra 9:8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten H215 our eyes, and revive us a little in our bondage.]
+<blockquote><span class="bbq">/Ezra 9:8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten H215 our eyes, and revive us a little in our bondage./]
 
 It may be in view here:
 
@@ -590,7 +590,7 @@ Others include Psalm 19:8, probably Proverbs 29:13 (though this could mean give 
 And:
 
 <blockquote><span class="bbq">/Job 41:32 He makes a path shine H215 after him.
-One would think the deep had white hair.]
+One would think the deep had white hair./]
 
 Deep refers to deep water. This means a wake (as LSB translates the word WEBP here calls path) in water, with whitecaps, and sunlight reflecting off of it, obviously not producing its own light.
 
@@ -684,13 +684,35 @@ It's translated jackals in Job 30:29 and 44:19 in LSB, but IIRC this may be tran
 In any case, it clearly has no negative connotation yet, as this is pre-Fall.
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
-###### Fish of Seas Are in Water
-
-
-
-
 ###### Baramin
 
+We're told in verse 21 that the sea creatures exist "after their kind" and likewise the flying creatures. We'll continue to see that reproduction occurs after the kind, the teaching of the created kind categories, after which the scientific term baramin was named.
+
+Baramins (if it takes the English plural as I have seen it used) clearly aren't modern species (per se); "species" is often defined much more narrowly including behavioral reproductive isolation, and even geographic isolation, with merely different mixes of traits from within the larger created kind category then giving an appearance of isolated distinction, while actually being genetically compatible.
+
+Also, after any such non-genetic isolation occurs, copying errors in the DNA (mutations, which aren't creative like pop culture tends to portray them as) can break their compatibility with other branches, resulting in actual genetic isolation, but as sub-branches of historical branches.
+
+Surprisingly, some ignorant evolutionists have somehow gotten the idea that our model needs variety in genes to result from mutations post-Creation, even post-Fall. This obviously makes no sense; God can and presumably would create more genetic options in the genomes of original kind pairs (called created heterozygosity, meaning created variety).
+
+Dr. Nathanael Jeanson has shown that the pattern toward "speciation" (isolation of branches within the baramin into differentiated groups that are behaviorally, geographically, and/or genetically isolated in reproduction) is faster earlier on when created heterozygosity is high, tending toward homogenization in each branch group over time, and that the timescale this would be expected to happen over fits the biblical one.
+
+God could, though, also create spots on the genome where mutations aren't harmful, or not as seriously so as the ones that lead to rapid death, to allow for opening up of even more variety post-Creation. Dr. John Woodmorappe also highlighted studies that showed that, in fact, recovery of lost pre-Flood variety could occur in these spots within the shorter timespan post-Flood!
+
+Some unusually ignorant evolutionists also object in various illogical ways like just saying "that's all evolution". Of course, this is just equivocation fallacy; it's obvious our view, among biblical creationists, is that God miraculously created the bulk of the DNA. This is like programming the shape and structure and logic of the design with "sliders" for size and color and the like, of the whole creature and of features of the creature, where various settings for the sliders doesn't change survivability much. "Evolution" properly used on this topic doesn't merely mean change; it means the aspects of NON-creationist views that try to replace the supernatural creation component.
+
+Which, by the way, has been debunked as scientifically plausible in a number of ways CMI, AiG, etc. highlight.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Fish of Seas Are in Water
+
+In verse 22 we have the last of several passages that give preparatory definitions that will add up, with other verses shortly, to defining birds as in the air. Here it is that 1) sea creatures are in the waters in the seas, while 2) birds are "on" the earth. (Again, in context, can mean above.) So, for now, we aren't told yet what the birds are "of" but we will see it shortly, that they are of the expanse in parallelism with fish of the sea. Here we're told that being of the sea means being in the seas, filling the waters in the seas.
+
+This will tell us that birds are in the expanse. They aren't in the earth; they rest on the earth (land) when not flying, and fly above the earth.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1:24-25
+
+[/24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good./]
 
 
 
