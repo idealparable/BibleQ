@@ -578,7 +578,7 @@ This is obviously caused by outside light reflecting off, not the eyes producing
 
 This is clearly a nromal figure of speech in their culture for being happier or less afflicted. Seen again here:
 
-<blockquote><span class="bbq">/Ezra 9:8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten H215 our eyes, and revive us a little in our bondage./]
+<blockquote><span class="bbq">/Ezra 9:8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten H215 our eyes, and revive us a little in our bondage./</span></blockquote>
 
 It may be in view here:
 
@@ -590,7 +590,7 @@ Others include Psalm 19:8, probably Proverbs 29:13 (though this could mean give 
 And:
 
 <blockquote><span class="bbq">/Job 41:32 He makes a path shine H215 after him.
-One would think the deep had white hair./]
+One would think the deep had white hair./</span></blockquote>
 
 Deep refers to deep water. This means a wake (as LSB translates the word WEBP here calls path) in water, with whitecaps, and sunlight reflecting off of it, obviously not producing its own light.
 
@@ -605,7 +605,7 @@ Ezekiel could hardly think the land was shining on its own here.
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:20-23 Water Creatures, Flying Creatures, Fish are In Water
 
-[/20 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.” 21 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good. 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 There was evening and there was morning, a fifth day./]
+[/20 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.” 21 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good. 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 There was evening and there was morning, a fifth day./</span></blockquote>
 
 The word translated "creatures" is nephesh, the term for soul in OT (body plus spirit; the tangible with the intangible, akin to hardware and software).
 
@@ -712,7 +712,7 @@ This will tell us that birds are in the expanse. They aren't in the earth; they 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:24-25 Good
 
-[/24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good./]
+[/24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good./</span></blockquote>
 
 I've already commented on most of the features earlier that are repeated here. It's worth noting that "good" is being used in a sense similar to what Jesus says that only God is good, though it might not imply total perfection per se, but as good as a finite created entity can be (that all such created entities were, at the time), since they still had the potential to fall. Words, of course, can be used in a wide range of senses, and Jesus wasn't saying that relative senses of good can't be used.
 
