@@ -734,15 +734,329 @@ So while the primary reason that Hebrew, and Greek for NT, are relatively simple
 
 Even for English speakers this is often a problem as no matter how old we get, we continue to run into new words in our own language that we might have no idea what they mean, often even with the etymologies being unclear to us without looking it up (although that's in part due to our propensity to borrow heavily and almost freely from other languages).
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1:26 Let us, Image/Likeness, Dominion, Birds of Sky, God Created
 
+[/26 God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” 27 God created man in his own image. In God’s image he created him; male and female he created them./]
 
+###### Let us Create / God Created
 
+Within these two verses, we have another confirmation that God is carrying out the "Let us" orders, not angels. Unitarians who rely on the angels interpretation of the "us" have to appeal to embedding to explain verse 27. Embedding is a real feature of their language culture, where a servant's actions can be referred to as the master's actions. However, in light of Genesis 1:2-3, it's clear that the Spirit of God is the one most directly carrying out the orders, and in light of 2:4 and authorial avoidance, again it's clear it's directly God creating.
 
+Also, to create a human would seem to likely be beyond the capabilities of angels, unless angels are created in turn by God with such powers, which doesn't change that this is still God's creative power at play even if angel embedding is in view here against the evidence. I don't argue that angels can't have such power per se; it does seem like they can take human form because two of them appear to have done so in the case of Sodom and Gomorrah, but it would be a stretch to think they could create the many other things throughout Genesis 1.
 
+Even if so, we still have features of the text that show that a different Person of God (since authorial avoidance is about personal honor) than the speaker here (the one called simply God, who we Trinitarians identify as the Father) is implying personal credit for the creative action, and to a lesser but more direct degree, the Spirit too. So this would still require that the "us" refer to three Persons in the Trinity, each in charge of delegating orders to angels. This hardly gets a Unitarian out of the evidence for the Trinity!
 
+We also should not claim that the text means something that there is nowhere any evidence that it does.
+
+The reality of embedding language only tells us that this COULD have been an option, but there would still be a hint in the text somewhere that it was meant. Here there's no such hint. Unitarians offer no claims of such, that I have seen, relying simply on their denial of Trinitarianism to claim that alone is the hint, which is circular reasoning. At this point if they start trying, I would be automatically suspicious, as it would be unlikely they would genuinely have been intended to hint at that yet that nobody picked up on it all that time.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Meaning of Image of God?
+
+Next we have image / likeness. Does this refer merely to physical form? Not if the dominion mandate is meant to be implied by being in God's image. Twice (here and in verse 28), image is stated, then dominion is stated. We can't assume that what comes after is caused by what came before (false cause fallacy), but it does suggest it might, especially when that pattern is repeated.
+
+In verse 27, the one sometimes (as in ESV) formatted on multiple lines like the traditional format for poetry like the Psalms, it seems that male and female are seen as a parallel outflowing from being in God's image. Why would that be, since God seems to only be given male pronouns, not counting when gendered language for words are used about him (which happens for anyone in languages with gender for all their words, as with Hebrew and Greek)?
+
+Probably this isn't about gender but about three persons, so another hint at God's trinitarian nature. A most basic family unit once a child has been born has three people in it. Yes, they are three separate beings, unlike God, but an image doesn't have to be identical in all ways; obviously they are necessarily finite/limited while God isn't, too. And one of them being a father, and one a child, fits the pattern of the Father and the Son. This isn't to say that the Spirit is female, but that having three persons in such a group mirrors God's tri-personality.
+
+As such, being in God's image looks to clearly be about personality, so not about physical form. If God wanted to create images of God on some other planet where the human shape isn't the most ideal to be basically adaptable to life there, or if he had wanted them to be more akin to flying creatures or water creatures, their physical form would have probably looked different while their spiritual nature would be more like ours than like an animal.
+
+Thus, in turn, I think that the dominion mandate is indeed not merely coincidentally twice mentioned after the image mention, but is also implied in what it means to be an image. We're to act as God's representatives within his creation, using our intelligence and empathy to guide and help animals where needed, and to keep plants in order.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Aliens?
+
+What about the possibility of aliens with their own planets, their own non-image life to help?
+
+While nothing that I have yet noticed here in Genesis 1 directly seems to comment on it, Genesis 2 and 3 introduce the idea that death and suffering come from human sin, and that this affects nature too. On their own, they at least open up the question of whether that extends to all of creation or not, and Romans weighs in with at least one superlative in {/whole creation/} toward that in 8:22, and several repeats of "creation" earlier. Arguably the word "creation" is itself a superlative so these repetitions would make it a literal-all, most likely, not mere hyperbole or "rounding up."
+
+If the curse affected all creation, it seems it would be unfair that Adam's sin applied to them too. Of course, it's possible the same natural instability of finite souls to eventually sin that applies to humans would cause them to sin before any causal effect of either sin on either of any two planets would reach the other. This would suggest at least that likely no aliens are close to us. If some aliens are sinless, they would probably need to be so in a way like how the unfallen angels evidently are. While we aren't told what that way is, it seems that this same instability implies that the only known way is through God sharing experiential knowledge to them without having them actually live it out, in something like a knowledge download. This would put them more in the category of an angel-like lifeform, not likely like a human.
+
+If such existed in our "plane of reality", so that we could observe them living, made of atoms, etc., and they stayed unfallen, they would presumably need to be so distant the light from their world wouldn't reach ours before the end of the fallen era. Or else they would need to have an angel-like function for us, which seems unlikely as a separate type of entity from angels.
+
+This is complicated and it isn't on-topic here to settle this definitively, but the seemingly most parsimonious default expectation is that material life is probably only here, and that angels are the only other sapient lifeform (other than God himself, of course).
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Dominion Isn't Violent
+
+Many critics (and some holding to compromise views, even) claim that the words dominion (in verse 26) and subdue (in 28) are intrinsically violent, and thus they distort the dominion mandate into a right to essentially abuse the creation. However, their reasoning for doing so commits an anachronism fallacy in seeing other later uses that are post-Fall as applying to pre-Fall. In the whole context of the entire Bible it's obvious that God's ideal of ruling isn't "lording it over" as Jesus puts it at the footwashing, but loving service.
+
+In some of the examples, the logic is also backward even without that context, as they compare the ease with which God will lead to the defeat of a corrupted nation to the pruning of a plant. This isn't saying that you should prune plants "violently" (whatever that would mean). It's saying that you shouldn't be evil, to get pruned at all.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+###### Birds of the Air
+
+Finally, 1:26, and again in 1:28, have our parallelism with the "fish of the sea" to "birds of the sky."
+
+Notice that all the phrasings of land animals are careful to avoid "of the land" in these constructions too; they instead say "on" the earth, until verse 30, which carefully removes fish from the phrasing, to avoid confusion that the parallel there to birds necessarily makes beasts "of" the earth as IN the earth. (Though of course some are, as moles.)
+
+This strongly suggests that the parallel is intentional, and is saying that birds are of the raqiya (expanse, named heavens) in the same way fish are of the seas / waters, which was defined already as "in" the waters (in case you didn't know).
+
+That it repeats this pattern twice, and then avoids the pattern when beasts "of" the earth are in view, is a clear sign of intentionality.
+
+The implication of this is that the raqiya isn't a firmament; isn't a solid thing.
+
+If a Flattener wants to support a solid dome or solid sphere sky, they need to look elsewhere than the word raqiya here to do it. This raqiya in Genesis 1 is (or includes) air.
+
+Translators of the earlier "across the face of the expanse" as "in the expanse" are rightly communicating the thought there, but we learn that from these constructions, not directly from that verse. So thought-for-thought translations of that passage aren't wrong, but we should be clear that they don't reflect the grammar within that verse itsellf. Even so, we don't need them to, because the reason those translations are conveying an accurate idea is that it's stated in these other passages.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
+##### 1(Genesis).1: 28-30 Greenatarianism
+
+[/28 God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.” 29 God said, “Behold,‡ I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food. 30 To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so./]
+
+I've covered most aspects of this already. What's left is mostly that before the Flood (as we find out later), only what's green is given for food, or, presumably, fruit of any color coming from plants that have green leaves, since fuit are mentioned too.
+
+One interesting question is whether the forbidden fruit had seeds. This specifies that which has seeds is given to eat. Would there be a point to a fruit with no seeds? Well, we know a point to that fruit other than seeds, so in that one case, yes there would be. There are three repeats of superlatives here, two of them clarifying with seeds. This would suggest a literal all, of all fruit that have seeds may be eaten.
+
+Of course, a literal all can still have stated exceptions, and the exception will be stated shortly in the next chapter. Is this close enough? It's possible. Even with Genesis 1:1 to 2:4 being most likely the account of the pre-Incarnate Christ and the account with the mention of the forbidden fruit being Adam's, this is still possible, as I think it would be clear that the Lord most likely taught Genesis 1:1 to 2:4 to Adam and Eve, and Adam's account after it is intended to go with it. The Lord would foreknow that Adam would be recording the warning about that tree, and that wouldn't even require omniscience to guess, so he would expect his readers to understand, without having his omniscience, that he didn't need to specify here an exception they were about to read.
+
+All that said, this is POSSIBLE evidence that the forbidden tree did not create seeds. This would make sense based on its purpose; if the instructions are "don't eat the tree here," one easy way to ensure nobody (if they had been perfectly obedient already) would do so is to ensure that tree only stays there. Of course, God also foreknew they would sin very early, so this might be a moot point. I think God would most likely design things the best way to accommodate the possibility that they wouldn't, though, even if they would, since he himself can't sin. However, it could still be dealt with, by having each child in a hypothetical alternate sinless timeline be brought at least once to that tree before they are old enough to pick their own food, and trained to recognize the one that is there, so that they could recognize its copies elsewhere.
+
+So I find that interesting question unsettled either way.
+
+And that isn't unsettling.
+
+What about whether we should return to eating only plants?
+
+Well, it's made clear in the NT that the Christian covenant is a branch off of the Abrahamic. This is a branch off of the Noahic, and in all three of these, meat is still eaten. The NT specifically says that eating meat is acceptable, because the topic came up in the need to clarify that the specific rules of the Mosaic covenant no longer apply about WHICH meat we may eat. So at the very least, we MAY eat meat still, provided some other conditions not stated don't obtain in which it becomes morally wrong to do so.
+
+That is, if it's still needed for nutrition purposes, and if alternatives like lab-grown meat MAY still have unknown health problems such as long-term hidden influences toward cancer, which will be likely within at least 100 years or so of its invention, we should probably err on the side of caution and prefer some meat in our diet.
+
+Some people can get by on just a plant diet, allegedly, but the range of what's available for this is likely lessened as a result of the Flood, as well as possibly genetic decay due to the Fall in general. And those plants already existed in the NT era, and yet there was no command to limit food only to those. It seems unwise to stake our whole survival on a tiny range of foods, so here again, it seems best to include at least some meat, sometimes.
+
+What about Daniel's eating of vegetables only? This wasn't likely about being anti-meat but about meat sacrificed to idols, the king's food, and likely the specific foods offered also weren't as healthy. It's highly unlikely that Daniel is preserving some kind of otherwise lost hint of a greenery-only diet.
+
+(I'm not saying "vegetarian" in most cases here, because evidently some who use the term actually eat fish! Obviously fish weren't included in what is allowed here pre-Flood for consumption. It's a bizarre quirk of modern language that somehow "vegetarian" can include a thing with a brain. Clearly this is an unwise use of language. So we have "veganism" to imply what really vegetarianism would imply... plus the term may be confusing due to the common trend of categorizing plant foods as either fruits or else vegetables. Here I mean all plant products, if not poisonous or otherwise harmful.)
+
+Note that post-Fall, pre-Flood, humans actually were, evidently, sacrificing animals, for animal skins and a temporary atonement symbol foreshadowing Christ's atonement, and in fact, evidently God killed the first animal for the original clothes' animal skins. Part of Cain's problem was that he wasn't sacrificing animals.
+
+However, it seems that the meat of the sacrificed animals wouldn't be eaten by humans.
+
+What was done with it? Possibly it was all burned in altars. Some of it could have been used for defensive traps against animals which due to genetic decay were already eating meat as well.
+
+Note that we see preserved in the fossil layers, which are almost entirely Flood or post-Flood, and in many layers known to be Flood for sure, that meat-eating was indeed happening by the time of the Flood among animals.
+
+One final note; compromise views try to say that death only applied to humans due to sin, and try to retcon the fossil layers as evolutionary records and Genesis as supposedly not commenting on whether it applied to animals, but notice it's clear here that the limitation to plant diets is on all animals as well. So the layers preserving meat-eating proof are clearly post-Fall, and made in the Flood (in at least virtually all of the lower layers' case, and the question of Flood or post-Flood for higher layers is irrelevant to this). And we even have multiple superlatives for the animals, although to be fair, two of them are in separate subcategories (earth and sky), but then the eath one has a second repeated, so it's most likely literally absolute at least for them. This is crystal clear that the curse of Genesis 3 is the start of death and suffering for animals too, not only for humans.
+
+##### 1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing?
+
+[/31 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day./]
+
+Our chapter divisions (unfortunately) split here (though it may be fortunate in that it doesn't in this case, unlike others, appear to show bias for sig-before or transition-before, about toledoth lines, unlike 5:1a), and my navigation structure requires I put the Genesis 2 header here, but you should consider this a continued quoting next; the header just above goes with content below as well.
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 #### Genesis 2
+
+[/2:1 The heavens, the earth, and all their vast array were finished. 2 On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done. 3 God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done./]
+
+Very good is said to be about as close to perfection as you could get in the Hebrew language, suggesting what we do see played out in Genesis 3, that there is still a potential for a Fall, but that otherwise humans and indeed all else were unfallen.
+
+The rest here means a cessatio of activity, not that God got tired, and Exodus 20 and Jesus in passages like in Matthew 19 teach that God created in six days and rested on the seventh to live out an example for us to follow in our work week.
+
+Notice 1:31, if literally absolute, constrains the fall of Satan to after this point. Most likely also it was after Day 7 as well, as it seems unlikely it would be fully holy until after that.
+
+By the way, there is a popularist view that tries to see elaboration on the fall of Satan in a passage in Isaiah and one in Exekiel. While this can't be absolutely ruled out, it's questionable to repeat that idea as if it were definitively proven. The direct targets of those passages are human rulers. Of course, it's implied and even taught elsewhere that the rulers of the world in the pagan systems had demons ultimately behind them in some way, so a double application is possible, but JPH cautions that this was not known to be an existent view until 300 AD.
+
+In the Isaiah case, 14:12-22, very little in it would immediately seem to be Satan, except by begging the question that "Lucifer" is Satan's "original name", a theory that is based on this very passage. "Son of the morning" may have contextual data we could check, and I haven't at time of writing. Fallen from heaven might be taken that way, but as we saw, "heaven" can mean good, and a verse after it says that the reason this person "fell from heaven" is that he thought to ascend to it in the first place. In Job, we're told that Satan in fact DOES visit heaven sometimes, or did before the Christian era at least, with various challenges, defeated then by God. So this would actually seem to suggest this can't be Satan, and that the falling from heaven happens after the attempt to ascend, which fails, so more like jumping up and expecting to just keep going up, but instead landing with a deadly crash.
+
+The previous verses that lead up to this are also directly about human rulers who die and are buried in the ground, having maggots in their dead bodies. We're also told in verse 16 that the king in question is a man.
+
+So the leap to heaven here is the worldly idea that gaining worldy gains, like being a government ruler to lord it over the poor, a model we see repeated in almost all modern politicians still to this day to some extent, and the fall from that heaven is death. (And possibly other failures.) So it seems clear that Satan isn't even poetically in view here.
+
+The morning star would just be saying that they tried to leap into the heavens and shine brightly with honor and authority among men. As for "Lucifer," it simply means day star; the same meaning as the morning star, a star bright enough that you can see it before all other stars at night, and for longer than the others in the morning. Specifically, this is just the king of Babylon, apparently.
+
+Ezekiel 28 also explicitly corrects the recipient's view to that he is "but a man", in verse 2. It's also about wealth and presumarly selfish use of it, in verses 4-5 while still clearly about a man, the "prince" of Tyre (admittedly "prince" might imply a demon in general, but here it says it's a man).
+
+Verse 7 says that foreign nations would draw swords and cut this person down, and his reign. This seems clearly again to have to be a human ruler.
+
+8 says he would die and be buried (pit).
+
+Verse 9 repeats again that he is "but a man", and asks if he will claim otherwise while he's in the hands of those who kill him.
+
+Perfection and Eden are brought up in 13, but in a 'strange' context that doesn't seem to resemble anything we're told about Eden in Genesis 1-3, of precious stones. These might be symbolic of the scales of the serpent of Genesis 3, though. But it seems that what this is doing is comparing the fall of this human to the fall of Satan, not giving us new data about the fall of Satan. It doesn't seem to mean that the man in question was literally perfect. It looks more like it's saying that he was relatively closer to perfectly, a lot more than he became when he allowed himself to become conceited and arrogant, and that this mirrors Satan's literal former perfection.
+
+Verse 14 might genuinely give us new information, in saying poetically that this human king was an anointed guardian cherub. However, Michael Heiser, though his claims can't be relied on as certain as he has been shown to be in error on some things, but we can't assume everything he taught was error either, has said that the word for cherub, which we were told were there in Genesis 3 post-Fall, meant a guardian serpent. So this would seem not to be new information at all, but just further backup for us that the people of the time understood the word that way. So, by calling the tempter the Nakhash, it seems (if this is all correct) that it is saying Satan was a guardian serpent of the garden, perhaps of the tree itself, and he ate of the very thing he was supposed to prevent anyone from eating of.
+
+Verse 14 also says the recipient of this chastisement was "on the holy mountain of God; in the midst of the stones of fire". What does this mean? Based on the opening of Isaiah, this seems to by comparing the human king to a different cherub, not to Satan directly. It's unclear if Satan would already have been visiting the throne room of God pre-Fall or if he was always assigned to the forbidden tree. It seems a stretch now to take this statement as confiring the former, when it may simply be poetic language freely describing former glory of this human king. Of course, cherubim could have worked in shifts and wouldn't need to be there at all until Day 6.
+
+Verse 15 would fit with both, though "blameless" is clearly used in a relative sense often, as with Noah, so this is compatible with the human king.
+
+Verse 16, though, is where it seems to fall apart to think this could be Satan. There is no hint that his sin was abundance of trade or related to trade at all; this seems clearly to be grounded in what was said of the human king earlier.
+
+So while the Ezekiel case MIGHT help confirm how Genesis 1-3 was understood in relation to Satan, it also doesn't seem to be giving us any new information, and isn't actually talking about Satan, but just poetically comparing this human king to aspects of Cherubim in general and likely an implication of Satan's fall.
+
+##### 1(Genesis).2:4 Toledoth of the LORD God
+
+[/4 This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh† God made the earth and the heavens./]
+
+Here's the verse key to the question of the meanings of toledoth lines (lines with the toledoth in them, being Strong's H8435, plural of a form of yalad (Strong's H3205 meaning beget, bring forth); -oth is the feminine plural). Let's put the actual wording directly here this time from LSB:
+
+[/Gen 2:4 -
+These are the generations  of the heavens and the earth when they were created, in the day that [fn]Yahweh God made earth and heaven./]
+
+If this is an end-signature line, it makes sense that it would go right after the creation account which included things no human could yet know and would be signed by the LORD God / Yahweh God. See several comments earlier on the hints of authorial avoidance as well. This is very similar to Mark and John not using their own names within their works but signing their names to the work itself (in their cases to scroll tags, what we know as the titles).
+
+When I was a child, before having access to any interlinear, other places where this word is translated seemed to be assuming it was about introducing a genealogy, which did often follow. This would make sense of the "begat". However, we have nothing like that in this case.
+
+And genealogies make sense to open accounts, establishing credentials of the authors, so if they were preceded by another account in a compilation like Genesis, and if the toledoth lines at the time were end-signatures, we would see that pattern later.
+
+Whereas this account is about the God who has no beginning, so has no genealogy, as Hebrews also says (7:3, referring more to Melchizedek, but saying it's a fitting comparison to the divine nature of Christ, although he does have genealogies of his mother and his adoptive human father in Luke and Matthew).
+
+So the sense of "coming forth from" probably simply means the account comes from the author -- so these are bylines.
+
+Others argue that these aren't inherently genealogy-introducing lines but still don't go for the signature interpretation (whether end or start), with a more generic idea that the compiler himself, Moses, or later curators in a generational work of compiling older accounts with their own new accounts along the way. They must appeal to a definition of "toledoth" as clunky as a transition statement saying that what follows is what resulted from the person in question in various ways.
+
+This idea is evidently popular even among scholars, but notice how un-parsimonious it is.
+
+The perspectives match that the names in the lines in every case are the authors of the content, with the only difference being whether the byline is end or start in different cases, with the sole exception of the Naamah genealogy (if she is Noah's wife), which however clearly fits a pattern of later curators updating genealogical information as seen with the two consecutive genealogies of Esau, so isn't a problem.
+
+We see several "previously on" summaries of what came before in many cases right after the line, showing it isn't just a transition in a larger work but represents the split between multiple formerly separate accounts.
+
+In some cases the information repeated was only just stated in the previous account! We know that colophons existed in ANE cultures, and we know that later such lines preceded accounts, yet clearly none does precede Genesis 1:1-2:4, while the person who WOULD be cited in such a byline IS in 2:4!
+
+We see an echoring of the same wording that opened Genesis 1-2:3 in "heavens and the earth", and a chiasm within the verse, and that sets up the second part of the chiasm to even reflect the first verse, 1:1! This seems to imply that the author of this section is the same author as of 1:1. This would fit with the idea that none of these are bylines at all, merely transitions written by Moses if he was originally writing the wording of the rest of this, but not with the idea that multiple authors are being quoted by Moses. And the idea that Moses is originating all of this wording doesn't fit with the many "previously on"s or the perspective-matches. Either way, this interpretation doesn't work at all, not even close to parsimoniously. If we're okay with a wildly unparsimonious interpretation, then okay, but I would rather go with what best fits the evidence unless the Scripture elsewhere tells me otherwise, as it doesn't as far as I know or proponents of that view have yet shown.
+
+And this is even just scratching the surface; there is also that the only case that actually looks like a transition, in that wording on both sides depends on it to make sense, is in the one that in SAUA (Sig-After Until Abe) would be sons of Noah end-signature followed by the account end-signed by Shem, meaning Shem wrote both, with his brothers helping with the first one.
+
+And that the Esau genealogies don't show up at all until Jacob is reconciled with him and visited by him, so likely he got a family document there.
+
+And that after Abraham's account starts (he who visited Egypt), is when longer accounts start and also when the SAUA pattern finally breaks, and we have extrabiblical support that Moses, a prince of Egypt, wrote the Pentateuch on animal skins, so this may have been an Egyptian tradition that Abraham also could have learned from them already, a precursor to papyrus (which is thought not to have been used yet at these times), whereas the previous accounts may have been only oral or on tablets.
+
+Is all of this just one giant coincidence, and toledoth lines are nevertheless merely transitions? Seems unlikely.
+
+###### In the Day
+
+Old-Earth compromise views also are argued from "in the day" here since this clearly refers at least to a whole week, so clearly the word for "day" can mean longer than 24 hours. This of course is simply strawmanning (whether intentionally or not) the biblical creationist position, since we're saying it's when yohm is used with a number and evening and morning and in context especially of day/night, as it is for Day 1, and number and evening/morning for the others.
+
+I'm sure we've all seen, and gotten very tired of it, countless of them also pulling in "a day is like a thousand years". Suffice to say, the use of this to reinterpet this is debunked, and the repetition of it at this point is so tiresome, that for the purposes of this study I'll just refer the reader to CMI, AiG, etc. to read up, as everyone should have done before repeating the argument in the first place.
+
+Finally, has the seventh day not ended? It has ended. Arguments to this end are similarly based on distortions and unwise assumptions, such as a passage from Hebrews taken out of context (which says only that the rest continues, not the day), or argument from silence that here it isn't explicitly stated that it ended.
+
+That latter argument is so silly, it's clear, no offense to them, that those using it haven't thought it through; if it had said that the seventh day had ended, but didn't say it about the eighth, the same premise would insist the 8th day hadn't ended. And if for the 8th, then for the 9th, and so on. In even the shortest of interpretations of history of 6000 years, we have had around 6000 times about 365 days since then!
+
+Of course, if you beg the question and ignore the clear definition of the days as day/night cycles, you might think that perhaps that "day" had indeed not ended yet, but you do have that definition and shouldn't ignore it. You witness multiple days passing by that definition, so you see with your own eyes that if the 7th day hadn't ended yet, it just was ended last night, at the very latest. By extrapolation, you realize it ended about 6000 years ago.
+
+It's surely, in turn, reasonable for the author to not see the need to spell out to you what you can easily deduce on your own.
+
+So if anything, the silence would seem to imply it did end, if silence ever means anything, and that if it hadn't, it would be weirder that we aren't told it didn't. (Since this isn't an argument purely on silence, but on the non-silence of that clear definition of a day/night cycle and of your own observation of other day/night cycles.)
+
+###### Conclusion of First Toledoth Section; of LORD God account
+
+I have up to now included every single verse of this foundational section of the Bible, as all of them were highly relevant to how to read, beyond merely what to read it as saying, though I have commented as well on what it seems to be saying on major topics also foundational.
+
+I won't be doing that from now on, though for a while I might be including a lot of them since the early sections of Genesis are so rich with major details and much of it also relevant to interpretation. Some of the points about that have by now been repeated several times, so at some point without warning I will begin to drop reiteration of it. If you wonder why a passage isn't mentioned that could warrant a comment akin to ones I have already given and application to another branch of interpretation, it's to avoid this article becoming longer than the Bible.
+
+I will have comments in other OT books too, but the most important for interpretation will begin with the gospels and the epistles.
+
+As mentioned before, I may do the Proverbs study as relevant to interpretation as a completely separate article, though I might include major highlights here too; we'll see. Either way, the nagivation structure of this page will be left intact for Proverbs.
+
+##### 1(Genesis).2:5-6 Of the Field, Rain Before Flood
+
+[/5 No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground, 6 but a mist went up from the earth, and watered the whole surface of the ground./]
+
+I already said pretty much what I wanted to say on this earlier, but including to show what I was alluding to there. To summarize (since I now forget where exactly I said it before here, to link to it), this probably just means that farm fields had not been planted, not denying that the plants used in them existed yet, and there is no contradiction of order of creation. And if SAUA, then Adam likely wrote the mention of rain, thus knew about rain, so it had to have (on that premise) rained before the Flood. (And SAUA, Sig-After Until Abe, is extremely well-supported as just covered.)
+
+If you need more detail, I advise reading this article in its entirety anyways, so go back and read all that came before.
+
+##### 1(Genesis).2:7-9 Dust, Breath, Soul, East, Eden, Put, Orchard/Arboretum, Pleasant-sight -> Good Food, Trees of Life and (Death)
+
+[/7 Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. 8 Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed. 9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil./]
+
+This section is a great example of why I say this is such a rich section of Scripture. There's so much here that even quoting a few short verses makes it difficult to write a concise header for it. I could have split but I'm trying for less total sections now.
+
+Dust means soil, dirt, or similar materials like clay in its dustlike form, silt, etc. It doesn't mean the dust in your house. Note dust "of the ground" and look at other uses on BLB, such as Genesis 26:15 where a well is stopped up with what is given this same word (LSB translates it earth there, but it's the same word as what here they call dust).
+
+The words for breathed, breath, and soul are related, variants of nephesh and similar.
+
+On this basis it's often argued that insects and similar aren't nephesh life, don't have souls. I think this is a stretch, so we shouldn't take it dogmatically, but it would make sense that Noah didn't need to take insects or arachnids or the like on the ark, for example. But I think all that's definitely going on here is a play on words for mnemonic purposes that draws on the fact that the dynamic immateriality of the spirit is similar to the motion of breathing.
+
+Most likely God's manifestation didn't literally breathe at Adam here, though it's certainly possible, or at least that it wasn't literally needed to do so, but the imagery of doing so could be a way to physically act out the play on words itself. This latter idea could be seen as what Lewis in Narnia is doing when Aslan breathes on someone and, well, I guess I won't spoil it in case anyone has somehow not read Narnia. But this may be Lewis' idea only, and not necessarily actually done by the pre-incarnate Christ who I think was most likely present. Still, the language here could suggest it.
+
+Of the four cardinal directions, only east is mentioned in Genesis 2:5 through 5:1a, several times, our first being here, that Eden is in the east. Post-Fall, Adam and Eve are driven out, evidently even further to the east, and Cain is cast out from that area even further to the east.
+
+The relevance may be, in combination with geological reconstructions of the original supercontinent (note: not necessarily what is termed Pangaea, the most well-known term for that, but that's from secularist pseudoscience; suffice it to simply call it the original supercontinent and leave it at that, though biblical creationists may justifiably apply other terms to it), imply that the 
+
+This is if "east" actually meant what it means here, versus just something like "over there".
+
+One clarification; we often use "Eden" interchangeably with the Garden, and we can justifiably do that in most uses as a sort of reverse synecdoche (using the name for a category as if it was the name for the noteworthy member of the set), but 4:16 may imply that the whole of the land that is in the presence of the Lord, where people would go up (probably to the entrance to the Garden without going in) to where the Lord typically had a manifestation still, it seems in earlier chapter 4, to sacrifice. Whether this encompasses the lands of the four split-rivers is unclear to me at time of writing. But the land of Nod (wandering) seems to be east of the land of Eden, at least, per 4:16.
+
+The word translated here "put" (WEBP) or "placed" (LSB) is interesting; does it mean God first created Adam elsewhere and then had him moved (or move on his own) to the Garden? This would explain "eastward".
+
+How did the Lord put the man there?
+
+Might it be something like in Ezekiel where a visible hand picks him up and moves him around, setting him perhaps on the mobile throne structure with the cherubim creatures described in that book?
+
+Alternatively, "put" might just be reiterating the creation, and saying that it took place there in the garden.
+
+This would seem to be possible; the word for put, Strong's H7760, is used in such a way in this example:
+
+[/Gen 13:16 - “And I will make H7760 your seed as the dust of the earth, so that if anyone can number the dust of the earth, then your seed can also be numbered./]
+
+Here clearly "make" is a good translation. Other cases are translated laid or placed. The idea here seems to be that God would create (or cause to come to be, more properly) Abraham's descendants, and they would be placed on the earth, walking around and so forth. The placing where they are need not be a later event. So it's possible Genesis is here just saying that in creating Adam, Adam came to be in the garden.
+
+What of eastward, then?
+
+Well, we aren't told which direction the four rivers flow in. We aren't told how Eden gets its single source river, whether from a spring or something else.
+
+I have wondered if the close association of Eden and mountain of God in Ezekiel, while it might not comment on Satan per se, might at least confirm that Eden was on a mountain, perhaps in a valley between two foothill ridges or the like, channeling water to the east.
+
+Another combination of possibilities is that Adam was created anywhere, whether in the garden or not, then given a tour of the rivers, then brought (back?) to the garden.
+
+In verse 15 shortly we'll see a phrasing of "Yahweh God took the man" after the discussion of the rivers, which seems to help support the idea of a move to the garden. This would possibly suggest that in fact the rivers flow to the west, and the tour happened there, and that the garden is on the west side. In that case, Eden might be a smaller area just around the garden and the possible mountain.
+
+There's so little data we can't be sure of any of these possibilities, though.
+
+It does seem most likely that mountains probably sourced the river and that the garden was east of one, so it's possible that there was a sort of throne place atop the mountain, where Adam may have been created, whether a tour then happened or not. Having a garden east of a raised place for God's theophany or theophanies to often say would allow morning sunlight to enable early work there, then the mountain would provide shade for the later afternoon, while the trees themselves would provide noon shade. So it seems most likely to me that these other rivers and lands are east of the garden, and that likely-steep rock fences the garden other than at the river entrance.
+
+This likely implies that the lands mentioned are "sub-lands" of Eden, and Nod is thus likely a place less-well-watered, further to the east.
+
+Current reconstructions have essentially North America and South America and Africa squeezed together, forming two points of a three-pointed shape, with most of what is now Asia, minus the India portion, pointing east. So the rivers might have all turned south, not watering well the Nod area.
+
+Ironically, this richer area evidently turned much more violent than the Nod inhabitants on the whole, though clearly most Cainites did as well, and Lamech of that line seems quite violent. Many Cainites in Naamah's line have names that seem to praise the true God, though with the post-Flood use of "El" taken from Elohim for a Canaanite diety (distorted), such things could have happened pre-Flood too.
+
+It thus seems likely that Noah built the ark far in the east, possibly near the city of Enoch, and possibly near an ocean coast, but also likely in a more mountainous area, likely lower mountains that don't get much of snow-caps. Geologically it looks likely that the main area of runaway subduction began very near there, so the steam walls would have been visible, and indeed, in an ark-passenger-POV section the fountains of the deep are described, so it seems that Noah likely was near that area and may have witnessed the initial after-effects of the cause of the cataclysm.
+
+Next, note that although we call this a garden, it clearly is a tree-specific type of garden, and the trees are there both to be pleasant to look at and for their fruit to eat for the workers of the garden. As such, it might be more properly called an orchard or arboretum (arbor-eat-'em, we might say).
+
+Often missed here is that we're told that the only types of fruit included are pleasant to sight, and good to eat. This would seem to explain an otherwise perplexing detail in Genesis 3 that Eve thought that she could see the quality of being good for obtaining wisdom about the forbidden fruit. It probably means that the fruit looked pleasant to the sight as well, and knowing the name of the tree, and that both God and the serpent agree on the detail that eating it would given knowledge of good and evil, that she assumes that the pleasant appearance helps confirm this. That is, that things in the garden with a pleasant appearance do fulfill their apparent purpose; in most cases, food, in this case, the gaining of this experiential knowledge of mixed good and evil.
+
+How are the two special trees arranged?
+
+Eve seems to think the forbidden tree is the one in the middle of the garden (LSB "midst" but means middle), in 3:3, and she would be seeing it, so it seems unlikely this is an error on her part. This seems to have to mean that it's the one most in the middle, and that the tree of life is not.
+
+However, in 2:9, "midst" is stated for the tree of life, not for the forbidden tree per se. I think most likely it applies to both there.
+
+One possible setup that would fit well with Revelation (read on) is that there are actually twelve trees of life, arranged in a circle around the forbidden tree. It may be that before the Flood, the NJ was taken up from the mountain, unless it was previously already hovering / in a different plane of reality + hovering or however that works. It seems it comes down in the new creation because sin and the fall and curse have been finally dealt with. It would make sense that it could be on the ground, then, on a vast mountain, or a smaller structure similar to it and it was expanded later perhaps, before the Fall, and might have remained until the Flood neared. Then the tree of life may have been intentionally preserved on this thing, and the saved can be given access to it. If so, this would in turn imply that the temporary body of the saved in the temporary afterlife may already be physical, but not quite as fully improved per se as the future resurrection body.
+
+This would explain Jesus statement to the repentant thief on the cross that "today" he would be with him in "paradise".
+
+Revelation describes the tree of life as giving twelve different crops, possibly meaning there are twelve sub-types of the tree of life, one per month of the year. If this is the case, and if it was already like this originally, it would make sense to need a ring of them around the forbidden tree, and thus the tree (plural) of life is indeed in the middle of the garden.
+
+Alternatively, it could simply be another individual tree and it's just relatively closer to the middle than all the other trees other than the forbidden one.
+
+So much more could be said about this short section, but for purposes of interpretation, hopefully I have covered enough basics that we can move on.
+
+##### 1(Genesis).2:10-15 Branch-Rivers, Lands, Cultivate and Keep the Garden
+
+[/10 A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers. 11 The name of the first is Pishon: it flows through the whole land of Havilah, where there is gold; 12 and the gold of that land is good. Bdellium‡ and onyx stone are also there. 13 The name of the second river is Gihon. It is the same river that flows through the whole land of Cush. 14 The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates. 15 Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it./]
+
+It would be worth mentioning at this point that our English style of "translating" picks an approach that, while it sounds much better and is probably on the whole better for our culture, nevertheless leaves out a lot in that it doesn't typically translate names. There is likely more data here about the pre-Flood setup of this region than we tend to think.
+
+For example, Euphrates means fruitfulness, possibly implying people tended to prefer to live on it (more food, perhaps, if that meaning existed at the time for whatever the pre-Babel term would have been, or if it doesn't take that meaning only from the post-Flood river of which this pre-Flood one is the namesake, etc.), while Tigris means rapid, probably implying it was fast-moving.
+
+We also lose something in that we alter even the "transliterations" of names. Tigris, for example, while it's a great-sounding word, obscures another great-sounding word which is really here, Khiddekel (Ln khiy-DEH-kehl if pronounced the way BLB says the Hebrew is, or if merely transliterating and then pronouncing it how it looks in StAE, KHIHD-(uh)-Kehl). An ideal representation of the Word of God would hopefully include all of the above, though how to do so concisely isn't so obvious, even if it were to take a highly interlinear approach.
+
+I generally won't be commenting on this topic in the rest of this article, unless relevant to other details like when the text itself points out a play on words around the naming of a child, but it's something every reader of the Bible should be looking up for everything (eventually, not that you need any of that to know how to be saved or anything like that, but like the sense of "you must watch that movie"). I did, a long time ago, do a whole-Bible study on names, constructing my own translations of as many of them as I had time for. Eventually, Lord willing, I would like to re-do and reproduce that study in a Seek article for this site... but there are other priorities.
+
+
+
+
+
+
+
+
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 #### Genesis 3
