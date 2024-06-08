@@ -113,7 +113,7 @@ Whether Jairus or Matthew phrased it that way is less clear to me; seems that so
 
 As a truthseeker I'm still curious which it is, though, or if something else might be going on (whether an error is here somewhere or not), but I don't need to know per se. What matters is no accusation here currently stands with sound support, and following the normal rules, there isn't even an apparent one here.
 
-As JPH in the vid version also says, it's like the "you're a dead man" that even we have in our culture. Give it time and future wooden literalists if they were being consistent should insist we're wrong to point out that that wasn't meant literally. Yet today's wooden literalists have no excuse because even though understand it in that case.
+As JPH in the vid version also says, it's like the "you're a dead man" that even we have in our culture. Give it time and future wooden literalists if they were being consistent should insist we're wrong to point out that that wasn't meant literally. Yet today's wooden literalists have no excuse because even they understand it in that case.
 
 /5 - While He was still speaking, they *came [[coming]] from the [house of] the synagogue official, saying, “Your daughter has died; why trouble the Teacher anymore?”/
 
