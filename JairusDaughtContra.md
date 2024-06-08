@@ -57,6 +57,8 @@ Matthew 9: /18 While He was saying these things to them, behold, [fn]a [synagogu
 
 Pause: I completely forgot that my point about Lazarus could have been made right here! Should we object that Jesus "didn't say" that she died, so Jesus must have literally meant she was merely asleep?
 
+Addition for this article version: My point about Lazarus in the conversation prior to starting this, was when Jesus said he had merely fallen asleep, but then later clarified he meant that he had died, should his disciples object "but that's not what you said!"? Re: the skeptic objecting that "died" is what Matthew said, and any figurative meaning "isn't what it says". (My paraphrase from memory.)
+
 /25 - But when the crowd had been sent out, coming in, He took her by the hand, and the girl [fn]got up.
 
 26 - And this news spread throughout all that land./
