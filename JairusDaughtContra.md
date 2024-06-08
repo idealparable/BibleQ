@@ -49,11 +49,11 @@ All will be LSB. Square brackets (mine) are italic in LSB, indicating words not 
 
 Matthew 9:
 
-<blockquote><span class="bbq">/18 While He was saying these things to them, behold, [fn]a [synagogue] [fn]official came and [fn]was bowing down before Him, and said, “My daughter has just died; but come and lay Your hand on her, and she will live.”
+<blockquote><span class="bbq">/18 While He was saying these things to them, behold, [fn]a [synagogue] [fn]official came and [fn]was bowing down before Him, and said, “My daughter has just died; but come and lay Your hand on her, and she will live.”<br><br>
 
-19 - And Jesus got up and [began] to follow him, and so did His disciples.
+19 - And Jesus got up and [began] to follow him, and so did His disciples.<br><br>
 
-23 - And when Jesus came into the [fn]official’s house, and saw the flute-players and the crowd in noisy disorder,
+23 - And when Jesus came into the [fn]official’s house, and saw the flute-players and the crowd in noisy disorder,<br><br>
 
 24 - He was saying, “Leave; for the girl has not died, but is asleep.” And they [began] laughing at Him./</span></blockquote>
 
@@ -61,7 +61,7 @@ Pause: I completely forgot that my point about Lazarus could have been made righ
 
 Addition for this article version: My point about Lazarus in the conversation prior to starting this, was when Jesus said he had merely fallen asleep, but then later clarified he meant that he had died, should his disciples object "but that's not what you said!"? Re: the skeptic objecting that "died" is what Matthew said, and any figurative meaning "isn't what it says". (My paraphrase from memory.)
 
-<blockquote><span class="bbq">/25 - But when the crowd had been sent out, coming in, He took her by the hand, and the girl [fn]got up.
+<blockquote><span class="bbq">/25 - But when the crowd had been sent out, coming in, He took her by the hand, and the girl [fn]got up.<br><br>
 
 26 - And this news spread throughout all that land./</span></blockquote>
 
@@ -93,9 +93,9 @@ NOTE: I'm using "resurrection" in a general sense here. IIRC JPH would call this
 
 Mark 5:
 
-<blockquote><span class="bbq">/21 - And when Jesus had crossed over again in the boat to the other side, a large crowd gathered around Him; and so He [fn]stayed by the seashore.
+<blockquote><span class="bbq">/21 - And when Jesus had crossed over again in the boat to the other side, a large crowd gathered around Him; and so He [fn]stayed by the seashore.<br><br>
 
-22 - And one of the synagogue [fn]officials named Jairus *came [[coming]] up, and on seeing Him, *fell [[falling]] at His feet
+22 - And one of the synagogue [fn]officials named Jairus *came [[coming]] up, and on seeing Him, *fell [[falling]] at His feet<br><br>
 
 23 - and *pleaded [[pleading]] with Him earnestly, saying, “My little daughter is at the point of death; [please] come, that by coming, You may lay Your hands on her, so that she will [fn]be saved and live.”/</span></blockquote>
 
@@ -166,11 +166,11 @@ However, I tend to think Jesus would raise her even if Jairus himself refused to
 
 
 
-<blockquote><span class="bbq">/39 - And entering in, He *said [[saying]] to them, “Why are you making a commotion and crying? The child has not died, but is asleep.”
+<blockquote><span class="bbq">/39 - And entering in, He *said [[saying]] to them, “Why are you making a commotion and crying? The child has not died, but is asleep.”<br><br>
 
-40 - And they [began] laughing at Him. But putting them all out, He *took [[taking]] along the child’s father and mother and His own companions, and *entered [[entering]] [the room] where the child was.
+40 - And they [began] laughing at Him. But putting them all out, He *took [[taking]] along the child’s father and mother and His own companions, and *entered [[entering]] [the room] where the child was.<br><br>
 
-41 - And taking the child by the hand, He *said [[saying]] to her, “Talitha kum!” (which translated means, “Little girl, I say to you, arise!”).
+41 - And taking the child by the hand, He *said [[saying]] to her, “Talitha kum!” (which translated means, “Little girl, I say to you, arise!”).<br><br>
 
 42 - And immediately the little girl stood up and began to walk, for she was twelve years old. And immediately they were completely astounded./</span></blockquote>
 
@@ -190,7 +190,7 @@ This again supports that it wasn't known, per se, that Jesus did raisings from d
 ## Luke
 
 Luke 8:
-<blockquote><span class="bbq">/41 - And behold, there came a man named Jairus, and he was [fn]an official of the synagogue. And falling at Jesus’ feet, he began to plead with Him to come to his house,
+<blockquote><span class="bbq">/41 - And behold, there came a man named Jairus, and he was [fn]an official of the synagogue. And falling at Jesus’ feet, he began to plead with Him to come to his house,<br><br>
 
 42 - for he had an [fn]only daughter, about twelve years old, and she was dying. But as He went, the crowds were pressing against Him./</span></blockquote>
 
@@ -214,17 +214,17 @@ The most desperate would probably already be whining that I'm daring to look at 
 
 Some who do this understandable mistake their "blur your eyes and insist on a contradiction" reaction for the more parsimonious one, but that's actually anti-parsimony (what I have called farcimony). Real parsimony first factors in ALL the data.
 
-<blockquote><span class="bbq">/50 - But when Jesus heard [this], He answered him, “Do not be afraid [any longer]; only believe, and she will be [fn]saved.”
+<blockquote><span class="bbq">/50 - But when Jesus heard [this], He answered him, “Do not be afraid [any longer]; only believe, and she will be [fn]saved.”<br><br>
 
-51 - So when He came to the house, He did not allow anyone to enter with Him, except Peter and John and James, and the girl’s father and mother.
+51 - So when He came to the house, He did not allow anyone to enter with Him, except Peter and John and James, and the girl’s father and mother.<br><br>
 
-52 - Now they were all crying and lamenting for her, but He said, “Stop crying, for she has not died, but is asleep.”
+52 - Now they were all crying and lamenting for her, but He said, “Stop crying, for she has not died, but is asleep.”<br><br>
 
-53 - And they [began] laughing at Him, knowing that she had died.
+53 - And they [began] laughing at Him, knowing that she had died.<br><br>
 
-54 - He, however, took her by the hand and called, saying, “Child, arise!”
+54 - He, however, took her by the hand and called, saying, “Child, arise!”<br><br>
 
-55 - And her spirit returned, and she stood up immediately. And He gave orders for [something] to be given her to eat.
+55 - And her spirit returned, and she stood up immediately. And He gave orders for [something] to be given her to eat.<br><br>
 
 56 - And her parents were astounded, but He directed them to tell no one what had happened./</span></blockquote>
 
