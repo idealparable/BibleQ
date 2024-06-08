@@ -95,7 +95,7 @@ Mark 5: /21 - And when Jesus had crossed over again in the boat to the other sid
 
 Pause: Note that LSB Preface may suggest the present-tense is used to put the reader in the scene. This to me may imply this is literally Jairus in person, literally bowing, etc. Which would make sense of a father of a dear daughter. So less likely embedding here, and I note JPH also doesn't go that route.
 
-Also that both Matthew and Mark put the garment incident between these things likely implies chronology. NOTE: That doens't at all mean NO achronology is allowed. Read JPH's book sources on this, especially Misreading Scripture with Western Eyes.
+Also that both Matthew and Mark put the garment incident between these things likely implies chronology. NOTE: That doesn't at all mean NO achronology is allowed. Read JPH's book sources on this, especially Misreading Scripture with Western Eyes.
 
 But it seems like the generalities here are in roughly chronological order, that Jairus personally said something likely paraphrased here, but Matthew achronologizing about "has died" still looks likely. NOTE: JPH calls this the "freedom of composition" explanation, both in his article and 60-second vid version.
 
