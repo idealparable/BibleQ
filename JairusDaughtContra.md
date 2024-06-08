@@ -47,21 +47,23 @@ Let's put the actual accounts here for the record about Jairus since I have a mo
 
 All will be LSB. Square brackets (mine) are italic in LSB, indicating words not directly in original but according to LSB translators implied by the surrounding grammar. (Except square brackets with "[fn]" which is BLB footnote links, preserved in the copypaste.) Double square brackets -ing construction (mine) explain the asterisked past-tense LSB (see LSB Preface). Slashes (mine) delimit Scripture quotes. Garment incident is skipped.
 
-Matthew 9: /18 While He was saying these things to them, behold, [fn]a [synagogue] [fn]official came and [fn]was bowing down before Him, and said, “My daughter has just died; but come and lay Your hand on her, and she will live.”
+Matthew 9:
+
+<blockquote><span class="bbq">/18 While He was saying these things to them, behold, [fn]a [synagogue] [fn]official came and [fn]was bowing down before Him, and said, “My daughter has just died; but come and lay Your hand on her, and she will live.”
 
 19 - And Jesus got up and [began] to follow him, and so did His disciples.
 
 23 - And when Jesus came into the [fn]official’s house, and saw the flute-players and the crowd in noisy disorder,
 
-24 - He was saying, “Leave; for the girl has not died, but is asleep.” And they [began] laughing at Him./
+24 - He was saying, “Leave; for the girl has not died, but is asleep.” And they [began] laughing at Him./</span></blockquote>
 
 Pause: I completely forgot that my point about Lazarus could have been made right here! Should we object that Jesus "didn't say" that she died, so Jesus must have literally meant she was merely asleep?
 
 Addition for this article version: My point about Lazarus in the conversation prior to starting this, was when Jesus said he had merely fallen asleep, but then later clarified he meant that he had died, should his disciples object "but that's not what you said!"? Re: the skeptic objecting that "died" is what Matthew said, and any figurative meaning "isn't what it says". (My paraphrase from memory.)
 
-/25 - But when the crowd had been sent out, coming in, He took her by the hand, and the girl [fn]got up.
+<blockquote><span class="bbq">/25 - But when the crowd had been sent out, coming in, He took her by the hand, and the girl [fn]got up.
 
-26 - And this news spread throughout all that land./
+26 - And this news spread throughout all that land./</span></blockquote>
 
 So in Matthew, an official (translators say a synagogue one) came and was bowing. Based on the norm, our first question is if this is embedding; servants of the official coming and bowing spoken of as if the official himself personally. We know this is the case of a similar contradiction false allegation about a centurion.
 
@@ -89,11 +91,13 @@ NOTE: I'm using "resurrection" in a general sense here. IIRC JPH would call this
 
 ## Mark
 
-Mark 5: /21 - And when Jesus had crossed over again in the boat to the other side, a large crowd gathered around Him; and so He [fn]stayed by the seashore.
+Mark 5:
+
+<blockquote><span class="bbq">/21 - And when Jesus had crossed over again in the boat to the other side, a large crowd gathered around Him; and so He [fn]stayed by the seashore.
 
 22 - And one of the synagogue [fn]officials named Jairus *came [[coming]] up, and on seeing Him, *fell [[falling]] at His feet
 
-23 - and *pleaded [[pleading]] with Him earnestly, saying, “My little daughter is at the point of death; [please] come, that by coming, You may lay Your hands on her, so that she will [fn]be saved and live.”/
+23 - and *pleaded [[pleading]] with Him earnestly, saying, “My little daughter is at the point of death; [please] come, that by coming, You may lay Your hands on her, so that she will [fn]be saved and live.”/</span></blockquote>
 
 Pause: Note that LSB Preface may suggest the present-tense is used to put the reader in the scene. This to me may imply this is literally Jairus in person, literally bowing, etc. Which would make sense of a father of a dear daughter. So less likely embedding here, and I note JPH also doesn't go that route.
 
@@ -117,7 +121,7 @@ As a truthseeker I'm still curious which it is, though, or if something else mig
 
 As JPH in the vid version also says, it's like the "you're a dead man" that even we have in our culture. Give it time and future wooden literalists if they were being consistent should insist we're wrong to point out that that wasn't meant literally. Yet today's wooden literalists have no excuse because even they understand it in that case.
 
-/5 - While He was still speaking, they *came [[coming]] from the [house of] the synagogue official, saying, “Your daughter has died; why trouble the Teacher anymore?”/
+<blockquote><span class="bbq">/5 - While He was still speaking, they *came [[coming]] from the [house of] the synagogue official, saying, “Your daughter has died; why trouble the Teacher anymore?”/</span></blockquote>
 
 
 
@@ -129,7 +133,7 @@ Pause again: The use of "they... from" here is interesting. We might need schola
 Still, the other evidence to me seems to outweight it and imply Jairus was personally present and physically bowed, himself. Though he may have had others with him too, so could be a bit of both.
 
 
-/36 - But Jesus, overhearing what had been spoken, *said [[saying]] to the synagogue official, “Do not be afraid, only [fn]believe.”/
+<blockquote><span class="bbq">/36 - But Jesus, overhearing what had been spoken, *said [[saying]] to the synagogue official, “Do not be afraid, only [fn]believe.”/</span></blockquote>
 
 
 (I then considered if Jairus strategized by sending someone else to Jesus and Matthew embedded, so that Jairus could be with his daughter in her final moments if it failed, but later ev shows against this as said above. And makes more sense he was too upset to strategize like that and didn't trust others to hurry fast enough or beg well enough.)
@@ -145,11 +149,11 @@ However, it IS possible, as far as I know, that this is also telescoping that Ja
 
 
 
-/37 - And He allowed no one to accompany Him, except Peter and James and John the brother of James./
+<blockquote><span class="bbq">/37 - And He allowed no one to accompany Him, except Peter and James and John the brother of James./</span></blockquote>
 
 This may be suggesting he was still managing to keep somewhat secret his use of raising-from-death miracles?
 
-/38 - And they *came [[coming]] to the house of the synagogue official; and He *saw [[seeing]] a commotion, and [people] loudly crying and wailing./
+<blockquote><span class="bbq">/38 - And they *came [[coming]] to the house of the synagogue official; and He *saw [[seeing]] a commotion, and [people] loudly crying and wailing./</span></blockquote>
 
 Commotion may imply, I would think, that she had just died, which of course fits with the need to send a "second wave" of "they".
 
@@ -162,38 +166,39 @@ However, I tend to think Jesus would raise her even if Jairus himself refused to
 
 
 
-/39 - And entering in, He *said [[saying]] to them, “Why are you making a commotion and crying? The child has not died, but is asleep.”
+<blockquote><span class="bbq">/39 - And entering in, He *said [[saying]] to them, “Why are you making a commotion and crying? The child has not died, but is asleep.”
 
 40 - And they [began] laughing at Him. But putting them all out, He *took [[taking]] along the child’s father and mother and His own companions, and *entered [[entering]] [the room] where the child was.
 
 41 - And taking the child by the hand, He *said [[saying]] to her, “Talitha kum!” (which translated means, “Little girl, I say to you, arise!”).
 
-42 - And immediately the little girl stood up and began to walk, for she was twelve years old. And immediately they were completely astounded./
+42 - And immediately the little girl stood up and began to walk, for she was twelve years old. And immediately they were completely astounded./</span></blockquote>
 
 Who's within this "they"? The three disciples in question? Jairus included probably. (If all 3 Synoptics are accurate, I later noted Luke says directly it includes the parents. Skipping more discussion made moot by that.)
 
 
- Others were put out, but it may be family. Complete astonishment to me fits that the girl had literally died (at some point, any point prior to this), and also, interestingly, supports that Jairus might not have believed that raising her from the dead was on the table.
+Others were put out, but it may be family. Complete astonishment to me fits that the girl had literally died (at some point, any point prior to this), and also, interestingly, supports that Jairus might not have believed that raising her from the dead was on the table.
 
 This would further support that there can be no contradiction with Matthew; Matthew could hardly think that this was common belief or fail to be aware of Jairus' astonishment. He doesn't note it, but the "news spread throughout all the land" may imply it, and/or at least general astonishment.
 
 
 
-/43 - And He gave them strict orders that no one should know about this, and He said that some food should be given to her to eat./
+<blockquote><span class="bbq">/43 - And He gave them strict orders that no one should know about this, and He said that some food should be given to her to eat./</span></blockquote>
 
 This again supports that it wasn't known, per se, that Jesus did raisings from death. (As I'm calling it, whether or not we call it "resurrection" or resuscitation.) Though he says this of many healings in general and people often tell anyways, so it's still possible Jairus expected it as an option.
 
 ## Luke
 
-Luke 8: /41 - And behold, there came a man named Jairus, and he was [fn]an official of the synagogue. And falling at Jesus’ feet, he began to plead with Him to come to his house,
+Luke 8:
+<blockquote><span class="bbq">/41 - And behold, there came a man named Jairus, and he was [fn]an official of the synagogue. And falling at Jesus’ feet, he began to plead with Him to come to his house,
 
-42 - for he had an [fn]only daughter, about twelve years old, and she was dying. But as He went, the crowds were pressing against Him./
+42 - for he had an [fn]only daughter, about twelve years old, and she was dying. But as He went, the crowds were pressing against Him./</span></blockquote>
 
 Pause. So we have several common traits here. It looks like this is an oral unit (see JPH on the debunking of Q, and likely-debunking of Markan priority) from those later telling these accounts (perhaps, per JPH, from live notes from Matthew, but either way oral memory is normal), and including "dying" or "death" here in the formula looks like why it's here.
 
 It doesn't likely imply Matthew meant the speaker literally said she was dead. But even if so, clearly that can be non-literal, and it looks VERY LIKELY that the speaker could hardly have meant, in Matthew or otherwise, that she had literally died already, or else it looks like it was assumed that would be too late to "trouble" Jesus with.
 
-/49 - While He was still speaking, someone *came [[coming]] from [the house of] the synagogue official, saying, “Your daughter has died; do not trouble the Teacher anymore.”/
+<blockquote><span class="bbq">/49 - While He was still speaking, someone *came [[coming]] from [the house of] the synagogue official, saying, “Your daughter has died; do not trouble the Teacher anymore.”/</span></blockquote>
 
 Pause. This wording clearly implies Jairus was physically present in the "first wave"!
 
@@ -209,7 +214,7 @@ The most desperate would probably already be whining that I'm daring to look at 
 
 Some who do this understandable mistake their "blur your eyes and insist on a contradiction" reaction for the more parsimonious one, but that's actually anti-parsimony (what I have called farcimony). Real parsimony first factors in ALL the data.
 
-/50 - But when Jesus heard [this], He answered him, “Do not be afraid [any longer]; only believe, and she will be [fn]saved.”
+<blockquote><span class="bbq">/50 - But when Jesus heard [this], He answered him, “Do not be afraid [any longer]; only believe, and she will be [fn]saved.”
 
 51 - So when He came to the house, He did not allow anyone to enter with Him, except Peter and John and James, and the girl’s father and mother.
 
@@ -221,7 +226,7 @@ Some who do this understandable mistake their "blur your eyes and insist on a co
 
 55 - And her spirit returned, and she stood up immediately. And He gave orders for [something] to be given her to eat.
 
-56 - And her parents were astounded, but He directed them to tell no one what had happened./
+56 - And her parents were astounded, but He directed them to tell no one what had happened./</span></blockquote>
 
 Well well well! The critic had blurred eyes indeed! If we "take Luke literally" we HAVE to conclude that Jairus could not think that she had already died if he was physically present in the "first wave" request, and we also have to think that almost certainly he WAS present there!
 
@@ -229,7 +234,9 @@ The critic can still whine that this is Luke, not Matthew, or even accuse Luke o
 
 ## Summary
 
-So seems like MOST LIKELY what happened (keep in mind "most likely" tentatively modifies everything in the numbered list to follow) is 1) Jairus personally sees that his daughter "is a dead girl" like today's "you're a dead man, what do you have to say to that?" or the Bible's "the old has died" etc.
+So seems like MOST LIKELY what happened (keep in mind "most likely" tentatively modifies everything in the numbered list to follow) is:
+
+1) Jairus personally sees that his daughter "is a dead girl" like today's "you're a dead man, what do you have to say to that?" or the Bible's "the old has died" etc.
 
 2) Jairus personally in first wave.
 
@@ -251,17 +258,27 @@ So seems like MOST LIKELY what happened (keep in mind "most likely" tentatively 
 
 ## Addendum per Blomberg
 
-A bit more: JPH cites Blomberg: |there is not nearly so much difference between Matthew's arti eteleutesn in v. 18 (which could fairly be translated "just came to the point of death"; cf. Heb. 11:22) and eschates echer in Mark 5:23 (which could also be rendered "is dying").|
+A bit more: JPH cites Blomberg:
 
-And JPH adds: |Blomberg has a good point about the linguistic data. That first bit in Matthew ("even now" -- actually the Greek arti) has some connotations that suggest not always a present reality, but an inevitable reality. Note how it is used elsewhere:|
+<blockquote>|there is not nearly so much difference between Matthew's arti eteleutesn in v. 18 (which could fairly be translated "just came to the point of death"; cf. Heb. 11:22) and eschates echer in Mark 5:23 (which could also be rendered "is dying").|</blockquote>
 
-And he cites (quoting his KJV citation, bold is his, reproduced here by me, indicating, I presume, the term (or terms?) in question): /Matthew 3:15 And Jesus answering said unto him, Suffer it to be so *now:* for thus it becometh us to fulfil all righteousness. Then he suffered him./
+And JPH adds:
 
-/Matthew 23:39 For I say unto you, Ye shall not see me *henceforth,* till ye shall say, Blessed is he that cometh in the name of the Lord./
+<blockquote>|Blomberg has a good point about the linguistic data. That first bit in Matthew ("even now" -- actually the Greek arti) has some connotations that suggest not always a present reality, but an inevitable reality. Note how it is used elsewhere:|</blockquote>
 
-/1 Cor. 4:13 Being defamed, we entreat: we are made as the filth of the world, and are the offscouring of all things unto *this day./*
+And he cites (quoting his KJV citation, bold is his, reproduced here by me, indicating, I presume, the term (or terms?) in question):
 
-LSB for Matthew about Jairus was, to review: /Mat 9:18 - While He was saying these things to them, behold, [fn]a synagogue [fn]official came and [fn]was bowing down before Him, and said, “My daughter has just (arti) died; but come and lay Your hand on her, and she will live.”/ Per NASB BLB Interlinear, I've included in parentheses the term that seems to be meant. The other word Blomberg mentions is is "died".
+<blockquote><span class="bbq">/Matthew 3:15 And Jesus answering said unto him, Suffer it to be so <b>now</b>: for thus it becometh us to fulfil all righteousness. Then he suffered him./</span></blockquote>
+
+<blockquote><span class="bbq">/Matthew 23:39 For I say unto you, Ye shall not see me <b>henceforth</b>, till ye shall say, Blessed is he that cometh in the name of the Lord./</span></blockquote>
+
+<blockquote><span class="bbq">/1 Cor. 4:13 Being defamed, we entreat: we are made as the filth of the world, and are the offscouring of all things unto <b>this day</b>./</span></blockquote>
+
+LSB for Matthew about Jairus was, to review:
+
+<blockquote><span class="bbq">/Mat 9:18 - While He was saying these things to them, behold, [fn]a synagogue [fn]official came and [fn]was bowing down before Him, and said, “My daughter has just (arti) died; but come and lay Your hand on her, and she will live.”/</span></blockquote>
+
+Per NASB BLB Interlinear, I've included in parentheses the term that seems to be meant. The other word Blomberg mentions is is "died".
 
 So now it looks even more certain that Matthew (and maybe Jairus) can hardly have meant that the speaker knew that she had literally died at that point.
 
@@ -284,7 +301,7 @@ Other:
 Multi-para:
 Bible:
 Type as:
-[/test/]
+<blockquote><span class="bbq">/test/</span></blockquote>
 Find and Replace as:
 <blockquote><span class="bbq">//</span></blockquote>
 Other:
