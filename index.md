@@ -3,6 +3,7 @@
 
 ## Recent topics:
 
+- [Jairus' Daughter Death-Timing Contradiction Claim](JairusDaughtContra). A convo save notes going through Matthew, Mark, and Luke on this, finding: no contradiction. [Complete for now, other than format issues.]
 - [Bible is Anti-Slavery](BibleIsAntiSlavery). This isn't an ideal, well-organized, direct analysis of all the Bible says relevant to popular biblioskeptic absurdities claiming it's pro-slavery, but in the course of answering a series of quotes of a skeptic I was asked to review I cover a lot of what I had found in many past times of researching aspects of it. This is a save of my response, originally written in Notepad but became too long to post directly where it was asked.
 - [Flatteners Fail to Flatten the Bible's Earth or Sky](FlattenerFail). Arguments examined from those who want to make the Bible seem to teach a Flat Earth, whether biblioskeptics or professing Christians. [VERY UNFINISHED WIP]
 - [Did Lazarus Write John? Is he the Disciple Jesus Loved?](DidLazarusWriteJohn_ShortAnswer) Why I think answer's no to both. [[Long Answer](DidLazarusWriteJohn) draft form complete (typo list collected, not yet fixed), short answer version is work in progress (WIP)].
