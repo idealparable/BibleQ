@@ -207,7 +207,7 @@ Pause. This wording clearly implies Jairus was physically present in the "first 
 
 Looks like we have our most likely answer there, if we give the texts the normal grace of presuming accuracy until a strong burden of proof is met by the critic, the same standard other ancient historical documents are held to; see JPH and many others on this.
 
-Also note that this culture was taught to pounce on what their rules ACTUALLY showed to be error and would strike texts from the canon for the slightest error). So the default is to see the three Synoptics (and anything John might contribute to any incident) as likely accurate since we have so much attestation to their acceptance.
+Also note that this culture was taught to pounce on what their rules ACTUALLY showed to be error and would strike texts from the canon for the slightest error. So the default is to see the three Synoptics (and anything John might contribute to any incident) as likely accurate since we have so much attestation to their acceptance.
 
 Note: The modern, anachronizing, poorly-informed wooden literalist critic would perhaps call this "error" and think I'm saying that they just accepted types of errors we don't -- no, an intentional non-literal sense of a statement isn't an error at all.
 
