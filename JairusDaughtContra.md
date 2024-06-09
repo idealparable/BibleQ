@@ -105,7 +105,9 @@ Also that both Matthew and Mark put the garment incident between these things li
 
 But it seems like the generalities here are in roughly chronological order, that Jairus personally said something likely paraphrased here, but Matthew achronologizing about "has died" still looks likely. NOTE: JPH calls this the "freedom of composition" explanation, both in his article and 60-second vid version.
 
-What JPH's vid version says after this (delimiting with "|"): |In an age before medical devices, there wasn't a precise way to say someone was "dead". You could just express the certainty of death without making a clinical statement."|
+What JPH's vid version says after this (delimiting with "\|"):
+
+<blockquote>|In an age before medical devices, there wasn't a precise way to say someone was "dead". You could just express the certainty of death without making a clinical statement."|</blockquote>
 
 In other words, EVEN JAIRUS can be achronologizing.
 
