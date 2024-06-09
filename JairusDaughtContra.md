@@ -342,7 +342,7 @@ Table of Contents link:
 
 #### For this page:
 
-(None listed yet.)
+JJJ = Jeremiah J. Johnston, author of Body of Proof.
 
 {% include bibleseekcommonabbreviations.md %}
 
