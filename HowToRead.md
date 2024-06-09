@@ -156,8 +156,16 @@ Chapter List: [1](#genesis-1), [2](#genesis-2), [3](#genesis-3), [4](#genesis-4)
   - [NJ Isn't New Jersey](#nj-isnt-new-jersey)
   - [You Monster](#you-monster)
   - [Fish of Seas Are in Water](#fish-of-seas-are-in-water)
+- [1(Genesis).1:24-25 Good]()
+- [1(Genesis).1:26 Let us, Image/Likeness, Dominion, Birds of Sky, God Created](#1genesis126-let-us-imagelikeness-dominion-birds-of-sky-god-created)
+  - [Let us Create / God Created](#let-us-create--god-created)
+  - [Meaning of Image of God?](#meaning-of-image-of-god)
+  - [Aliens?](#aliens)
+  - [Dominion Mandate Isn't Violent](#dominion-mandate-isnt-violent)
+  - [Birds of the Air](#birds-of-the-air)
+- [1(Genesis).1: 28-30 Greenatarianism](#1genesis1-28-30-greenatarianism)
 - [1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing?](#1genesis131-to-23-very-good-sabbath-rest-fall-of-satan-timing) (Genesis 1 portion)
-- [1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing? (CONTINUED)](#1genesis131-to-23-very-good-sabbath-rest-fall-of-satan-timing-continued) (Genesis 2 portion)
+  - [1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing? (CONTINUED)](#1genesis131-to-23-very-good-sabbath-rest-fall-of-satan-timing-continued) (Genesis 2 portion)
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis)
 ##### 1(Genesis).1:1 God, Uncreated, Creates Time & Everything Else
@@ -780,7 +788,7 @@ If such existed in our "plane of reality", so that we could observe them living,
 This is complicated and it isn't on-topic here to settle this definitively, but the seemingly most parsimonious default expectation is that material life is probably only here, and that angels are the only other sapient lifeform (other than God himself, of course).
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
-###### Dominion Isn't Violent
+###### Dominion Mandate Isn't Violent
 
 Many critics (and some holding to compromise views, even) claim that the words dominion (in verse 26) and subdue (in 28) are intrinsically violent, and thus they distort the dominion mandate into a right to essentially abuse the creation. However, their reasoning for doing so commits an anachronism fallacy in seeing other later uses that are post-Fall as applying to pre-Fall. In the whole context of the entire Bible it's obvious that God's ideal of ruling isn't "lording it over" as Jesus puts it at the footwashing, but loving service.
 
@@ -842,6 +850,7 @@ Note that we see preserved in the fossil layers, which are almost entirely Flood
 
 One final note; compromise views try to say that death only applied to humans due to sin, and try to retcon the fossil layers as evolutionary records and Genesis as supposedly not commenting on whether it applied to animals, but notice it's clear here that the limitation to plant diets is on all animals as well. So the layers preserving meat-eating proof are clearly post-Fall, and made in the Flood (in at least virtually all of the lower layers' case, and the question of Flood or post-Flood for higher layers is irrelevant to this). And we even have multiple superlatives for the animals, although to be fair, two of them are in separate subcategories (earth and sky), but then the eath one has a second repeated, so it's most likely literally absolute at least for them. This is crystal clear that the curse of Genesis 3 is the start of death and suffering for animals too, not only for humans.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing?
 
 [/31 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day./]
@@ -852,7 +861,7 @@ Our chapter divisions (unfortunately) split here (though it may be fortunate in 
 #### Genesis 2
 
 - [1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing?](#1genesis131-to-23-very-good-sabbath-rest-fall-of-satan-timing) (Genesis 1 portion)
-- [1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing? (CONTINUED)](#1genesis131-to-23-very-good-sabbath-rest-fall-of-satan-timing-continued) (Genesis 2 portion)
+  - [1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing? (CONTINUED)](#1genesis131-to-23-very-good-sabbath-rest-fall-of-satan-timing-continued) (Genesis 2 portion)
 - [1(Genesis).2:4 Toledoth of the LORD God](#1genesis24-toledoth-of-the-lord-god)
   - [In the Day](#in-the-day)
   - [Conclusion of First Toledoth Section; of LORD God account](#conclusion-of-first-toledoth-section-of-lord-god-account)
@@ -860,6 +869,7 @@ Our chapter divisions (unfortunately) split here (though it may be fortunate in 
 - [1(Genesis).2:7-9 Dust, Breath, Soul, East, Eden, Put, Orchard/Arboretum, Pleasant-sight -> Good Food, Trees of Life and (Death)](#1genesis27-9-dust-breath-soul-east-eden-put-orchardarboretum-pleasant-sight---good-food-trees-of-life-and-death)
 - [1(Genesis).2:10-15 Branch-Rivers, Lands, Cultivate and Keep the Garden](#1genesis210-15-branch-rivers-lands-cultivate-and-keep-the-garden)
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis)
 ##### 1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing? (CONTINUED)
 
 [/2:1 The heavens, the earth, and all their vast array were finished. 2 On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done. 3 God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done./]
@@ -900,6 +910,7 @@ Verse 16, though, is where it seems to fall apart to think this could be Satan. 
 
 So while the Ezekiel case MIGHT help confirm how Genesis 1-3 was understood in relation to Satan, it also doesn't seem to be giving us any new information, and isn't actually talking about Satan, but just poetically comparing this human king to aspects of Cherubim in general and likely an implication of Satan's fall.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:4 Toledoth of the LORD God
 
 [/4 This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh† God made the earth and the heavens./]
@@ -939,6 +950,7 @@ And that after Abraham's account starts (he who visited Egypt), is when longer a
 
 Is all of this just one giant coincidence, and toledoth lines are nevertheless merely transitions? Seems unlikely.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ###### In the Day
 
 Old-Earth compromise views also are argued from "in the day" here since this clearly refers at least to a whole week, so clearly the word for "day" can mean longer than 24 hours. This of course is simply strawmanning (whether intentionally or not) the biblical creationist position, since we're saying it's when yohm is used with a number and evening and morning and in context especially of day/night, as it is for Day 1, and number and evening/morning for the others.
@@ -955,6 +967,7 @@ It's surely, in turn, reasonable for the author to not see the need to spell out
 
 So if anything, the silence would seem to imply it did end, if silence ever means anything, and that if it hadn't, it would be weirder that we aren't told it didn't. (Since this isn't an argument purely on silence, but on the non-silence of that clear definition of a day/night cycle and of your own observation of other day/night cycles.)
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ###### Conclusion of First Toledoth Section; of LORD God account
 
 I have up to now included every single verse of this foundational section of the Bible, as all of them were highly relevant to how to read, beyond merely what to read it as saying, though I have commented as well on what it seems to be saying on major topics also foundational.
@@ -965,6 +978,7 @@ I will have comments in other OT books too, but the most important for interpret
 
 As mentioned before, I may do the Proverbs study as relevant to interpretation as a completely separate article, though I might include major highlights here too; we'll see. Either way, the nagivation structure of this page will be left intact for Proverbs.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:5-6 Of the Field, Rain Before Flood
 
 [/5 No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground, 6 but a mist went up from the earth, and watered the whole surface of the ground./]
@@ -973,6 +987,7 @@ I already said pretty much what I wanted to say on this earlier, but including t
 
 If you need more detail, I advise reading this article in its entirety anyways, so go back and read all that came before.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:7-9 Dust, Breath, Soul, East, Eden, Put, Orchard/Arboretum, Pleasant-sight -> Good Food, Trees of Life and (Death)
 
 [/7 Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. 8 Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed. 9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil./]
@@ -1051,6 +1066,7 @@ Alternatively, it could simply be another individual tree and it's just relative
 
 So much more could be said about this short section, but for purposes of interpretation, hopefully I have covered enough basics that we can move on.
 
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:10-15 Branch-Rivers, Lands, Cultivate and Keep the Garden
 
 [/10 A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers. 11 The name of the first is Pishon: it flows through the whole land of Havilah, where there is gold; 12 and the gold of that land is good. Bdellium‡ and onyx stone are also there. 13 The name of the second river is Gihon. It is the same river that flows through the whole land of Cush. 14 The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates. 15 Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it./]
@@ -1062,6 +1078,8 @@ For example, Euphrates means fruitfulness, possibly implying people tended to pr
 We also lose something in that we alter even the "transliterations" of names. Tigris, for example, while it's a great-sounding word, obscures another great-sounding word which is really here, Khiddekel (Ln khiy-DEH-kehl if pronounced the way BLB says the Hebrew is, or if merely transliterating and then pronouncing it how it looks in StAE, KHIHD-(uh)-Kehl). An ideal representation of the Word of God would hopefully include all of the above, though how to do so concisely isn't so obvious, even if it were to take a highly interlinear approach.
 
 I generally won't be commenting on this topic in the rest of this article, unless relevant to other details like when the text itself points out a play on words around the naming of a child, but it's something every reader of the Bible should be looking up for everything (eventually, not that you need any of that to know how to be saved or anything like that, but like the sense of "you must watch that movie"). I did, a long time ago, do a whole-Bible study on names, constructing my own translations of as many of them as I had time for. Eventually, Lord willing, I would like to re-do and reproduce that study in a Seek article for this site... but there are other priorities.
+
+[Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 
 
 
