@@ -117,7 +117,7 @@ Or that seeing she was NEAR death's door, he rushed out and expresses the URGENC
 
 To insist otherwise with the red-flag parrot "sure, you can" blah blah blah looks like desperate wishful thinking to me.
 
-Whether Jairus or Matthew phrased it that way is less clear to me; seems that so far based on the above analysis only so far (maybe others have more), neither is conclusively ruled out. The one claiming contradiction has the burden of proof to rule them out.
+Whether Jairus or Matthew phrased it that way is less clear to me; seems that so far based on the above analysis only (maybe others have more), neither is conclusively ruled out. The one claiming contradiction has the burden of proof to rule them out.
 
 As a truthseeker I'm still curious which it is, though, or if something else might be going on (whether an error is here somewhere or not), but I don't need to know per se. What matters is no accusation here currently stands with sound support, and following the normal rules, there isn't even an apparent one here.
 
