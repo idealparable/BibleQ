@@ -125,7 +125,7 @@ As JPH in the vid version also says, it's like the "you're a dead man" that even
 
 <blockquote><span class="bbq">/5 - While He was still speaking, they *came [[coming]] from the [house of] the synagogue official, saying, “Your daughter has died; why trouble the Teacher anymore?”/</span></blockquote>
 
-[Addition for article: I noticed for the Luke parallel of this verse that this addresses Jairus, but failed to notice this in Mark does it too, until I caught it on the later proofread.]
+[Addition for article: I noticed for the Luke parallel of this verse that this addresses Jairus, but failed to notice that this in Mark does it too, until I caught it on the later proofread.]
 
 
 (Next in my notes I talked about the "they" but later evidence in Luke makes it clear Jairus was with Jesus at this point, so I'll skip that here.)
