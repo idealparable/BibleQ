@@ -35,9 +35,9 @@ In other places you did try to offer evidence, and added more about that later t
 Let me start by listing the arguments.
 
 
-- Claim: Grain offerings, drink offerings, oil, and animal sacrifices wouldn't work while wandering, and (you thus imply that) those laws had to be followed or were issued for the wandering, rather than just laws for the nation to take effect once they had established places.
+- Claim: Grain offerings, drink offerings, oil, and animal sacrifices wouldn't work while wandering, and (you thus imply that) those laws had to be followed during, or were issued for, the wandering, rather than just laws for the nation to take effect once they had established places.
 
-Initial thoughts: I have done two whole-law studies but on a different topic (slavery accusation), and don't recall offhand which parts these were in. None of them seem like serious problems though, even if issues right in Exodus (the book), it's well-established that it's didactic law. If you don't know what that means also read up from JPH.
+Initial thoughts: I have done two whole-law studies but on a different topic (slavery accusation), and don't recall offhand which parts these were in. None of them seem like serious problems though, even if issued right in Exodus (the book), it's well-established that it's didactic law. If you don't know what that means also read up from JPH.
 
 Animal sacrifices especially wouldn't be a problem so it's absolutely bizarre that it's on your list.
 
