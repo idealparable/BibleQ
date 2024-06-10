@@ -23,4 +23,14 @@ Keep in mind for brevity my wording may sound more definite than intended. This 
 
 I might refer to a particular Bible question that a topic page is about as a "BibleQ" for short.
 
+If I quote LSB, I'll try to put anything that they put in italics into square brackets, indicating words not in original but, according to them, implied by the original. This is done by BLB automatically if I use the checkbox-select and then use the Copy button method, but I often just drag and manually copy.
+
+"[fn]" (footnote markers) in LSB (and anything similar in WEBP) will be left intact in the copypaste.
+
+When LSB puts an asterisk before a past-tense verb, which is their way to indicate it's really present-tense (as I understand it, -ing construction) in the original but where that would look weird in English, I'll preserve that in the copypaste but right after it try to add double square brackets, like [[this]] for the -ing version of the word.
+
+As such for LSB quotes (if I remember and have time), you'll be able to read them both as what they mean according to them, and learn to read what they (evidently) mean into the awkward-in-English version, which may help understand the original better.
+
+(WEBP unfortunately doesn't indicate these things. I might possibly, if the WEBP is close enough to the LSB, add in square brackets including double with -ing in WEBP if I think it's worth the effort per instance and it's clear which WEBP words equate to which LSB ones.)
+
 See [end notes](#end-notes) for more about citation style, copyright notices, explanations of common abbreviations, and a little more about (ideally not) citing me or contacting me. Read those too when you finish reading the rest of this page, please, if you haven't before.
