@@ -23,47 +23,6 @@
 
 
 
-<!--
-
-Code snippets:
-
-Inline:
-Bible:
-<span class="bbq">//</span>
-Other:
-<span class="ebq">\|\|</span>
-
-One-para:
-Bible:
-> <span class="bbq">//</span>
-Other:
-> \|\|
-
-Multi-para:
-Bible:
-Type as:
-[/test/]
-Find and Replace as:
-<blockquote><span class="bbq">//</span></blockquote>
-Other:
-Type as:
-[[test]]
-Find and Replace as:
-<blockquote>||</blockquote>
-
-(And use <br><br> after paras. Remember to check output generated for these; they glitchalot.)
-
-New tab link:
-BLB:
-[Book ch:v](https://www.blueletterbible.org/lsb/mat/3/1){:target="_blank"}
-Other:
-[Text](URL){:target="_blank"}
-
-Table of Contents link:
-[Section Title](#section-title)
-
--->
-
 
 <br>
 <br>
