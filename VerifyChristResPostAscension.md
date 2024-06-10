@@ -46,7 +46,7 @@ It's thought that creeds and even epistles were going out extremely early, in an
 
 Many people there who lived in and around Jerusalem and were still there for the Passover would have been right in the epicenter of this event.
 
-Others would have access to these witnesses' reports from all over the globe as Jews who had pilgrimed to Jerusalem for the feast return home, throughout Judea, Galilee, Palestine in general, the near-east, the Roman Empire, and possibly some cases even beyond it to some extent.
+Others would have access to these witnesses' reports from all over as Jews who had pilgrimed to Jerusalem for the feast return home, throughout Judea, Galilee, Palestine in general, the near-east, the Roman Empire, and possibly some cases even beyond it to some extent.
 
 Later evangelists, which could include witnesses and those who heard from them early, would also go out.
 
