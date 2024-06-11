@@ -615,7 +615,7 @@ Ezekiel could hardly think the land was shining on its own here.
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:20-23 Water Creatures, Flying Creatures, Fish are In Water
 
-[/20 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.” 21 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good. 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 There was evening and there was morning, a fifth day./</span></blockquote>
+<blockquote><span class="bbq">/20 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.” 21 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good. 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 There was evening and there was morning, a fifth day./</span></blockquote>
 
 The word translated "creatures" is nephesh, the term for soul in OT (body plus spirit; the tangible with the intangible, akin to hardware and software).
 
@@ -722,7 +722,7 @@ This will tell us that birds are in the expanse. They aren't in the earth; they 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:24-25 Good
 
-[/24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good./</span></blockquote>
+<blockquote><span class="bbq">/24 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so. 25 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good./</span></blockquote>
 
 I've already commented on most of the features earlier that are repeated here. It's worth noting that "good" is being used in a sense similar to what Jesus says that only God is good, though it might not imply total perfection per se, but as good as a finite created entity can be (that all such created entities were, at the time), since they still had the potential to fall. Words, of course, can be used in a wide range of senses, and Jesus wasn't saying that relative senses of good can't be used.
 
@@ -747,7 +747,7 @@ Even for English speakers this is often a problem as no matter how old we get, w
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:26 Let us, Image/Likeness, Dominion, Birds of Sky, God Created
 
-[/26 God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” 27 God created man in his own image. In God’s image he created him; male and female he created them./]
+<blockquote><span class="bbq">/26 God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” 27 God created man in his own image. In God’s image he created him; male and female he created them./</span></blockquote>
 
 ###### Let us Create / God Created
 
@@ -814,7 +814,7 @@ Translators of the earlier "across the face of the expanse" as "in the expanse" 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1: 28-30 Greenatarianism
 
-[/28 God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.” 29 God said, “Behold,‡ I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food. 30 To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so./]
+<blockquote><span class="bbq">/28 God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.” 29 God said, “Behold,‡ I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food. 30 To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so./</span></blockquote>
 
 I've covered most aspects of this already. What's left is mostly that before the Flood (as we find out later), only what's green is given for food, or, presumably, fruit of any color coming from plants that have green leaves, since fuit are mentioned too.
 
@@ -853,7 +853,7 @@ One final note; compromise views try to say that death only applied to humans du
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-1)
 ##### 1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing?
 
-[/31 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day./]
+<blockquote><span class="bbq">/31 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day./</span></blockquote>
 
 Our chapter divisions (unfortunately) split here (though it may be fortunate in that it doesn't in this case, unlike others, appear to show bias for sig-before or transition-before, about toledoth lines, unlike 5:1a), and my navigation structure requires I put the Genesis 2 header here, but you should consider this a continued quoting next; the header just above goes with content below as well.
 
@@ -874,7 +874,7 @@ Our chapter divisions (unfortunately) split here (though it may be fortunate in 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis)
 ##### 1(Genesis).1:31 to .2:3 Very Good, Sabbath Rest, Fall of Satan Timing? (CONTINUED)
 
-[/2:1 The heavens, the earth, and all their vast array were finished. 2 On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done. 3 God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done./]
+<blockquote><span class="bbq">/2:1 The heavens, the earth, and all their vast array were finished. 2 On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done. 3 God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done./</span></blockquote>
 
 Very good is said to be about as close to perfection as you could get in the Hebrew language, suggesting what we do see played out in Genesis 3, that there is still a potential for a Fall, but that otherwise humans and indeed all else were unfallen.
 
@@ -915,12 +915,12 @@ So while the Ezekiel case MIGHT help confirm how Genesis 1-3 was understood in r
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:4 Toledoth of the LORD God
 
-[/4 This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh† God made the earth and the heavens./]
+<blockquote><span class="bbq">/4 This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh† God made the earth and the heavens./</span></blockquote>
 
 Here's the verse key to the question of the meanings of toledoth lines (lines with the toledoth in them, being Strong's H8435, plural of a form of yalad (Strong's H3205 meaning beget, bring forth); -oth is the feminine plural). Let's put the actual wording directly here this time from LSB:
 
-[/Gen 2:4 -
-These are the generations  of the heavens and the earth when they were created, in the day that [fn]Yahweh God made earth and heaven./]
+<blockquote><span class="bbq">/Gen 2:4 -
+These are the generations  of the heavens and the earth when they were created, in the day that [fn]Yahweh God made earth and heaven./</span></blockquote>
 
 If this is an end-signature line, it makes sense that it would go right after the creation account which included things no human could yet know and would be signed by the LORD God / Yahweh God. See several comments earlier on the hints of authorial avoidance as well. This is very similar to Mark and John not using their own names within their works but signing their names to the work itself (in their cases to scroll tags, what we know as the titles).
 
@@ -983,7 +983,7 @@ As mentioned before, I may do the Proverbs study as relevant to interpretation a
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:5-6 Of the Field, Rain Before Flood
 
-[/5 No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground, 6 but a mist went up from the earth, and watered the whole surface of the ground./]
+<blockquote><span class="bbq">/5 No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground, 6 but a mist went up from the earth, and watered the whole surface of the ground./</span></blockquote>
 
 I already said pretty much what I wanted to say on this earlier, but including to show what I was alluding to there. To summarize (since I now forget where exactly I said it before here, to link to it), this probably just means that farm fields had not been planted, not denying that the plants used in them existed yet, and there is no contradiction of order of creation. And if SAUA, then Adam likely wrote the mention of rain, thus knew about rain, so it had to have (on that premise) rained before the Flood. (And SAUA, Sig-After Until Abe, is extremely well-supported as just covered.)
 
@@ -992,7 +992,7 @@ If you need more detail, I advise reading this article in its entirety anyways, 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:7-9 Dust, Breath, Soul, East, Eden, Put, Orchard/Arboretum, Pleasant-sight -> Good Food, Trees of Life and (Death)
 
-[/7 Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. 8 Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed. 9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil./]
+<blockquote><span class="bbq">/7 Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. 8 Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed. 9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil./</span></blockquote>
 
 This section is a great example of why I say this is such a rich section of Scripture. There's so much here that even quoting a few short verses makes it difficult to write a concise header for it. I could have split but I'm trying for less total sections now.
 
@@ -1022,7 +1022,7 @@ Alternatively, "put" might just be reiterating the creation, and saying that it 
 
 This would seem to be possible; the word for put, Strong's H7760, is used in such a way in this example:
 
-[/Gen 13:16 - “And I will make H7760 your seed as the dust of the earth, so that if anyone can number the dust of the earth, then your seed can also be numbered./]
+<blockquote><span class="bbq">/Gen 13:16 - “And I will make H7760 your seed as the dust of the earth, so that if anyone can number the dust of the earth, then your seed can also be numbered./</span></blockquote>
 
 Here clearly "make" is a good translation. Other cases are translated laid or placed. The idea here seems to be that God would create (or cause to come to be, more properly) Abraham's descendants, and they would be placed on the earth, walking around and so forth. The placing where they are need not be a later event. So it's possible Genesis is here just saying that in creating Adam, Adam came to be in the garden.
 
@@ -1071,7 +1071,7 @@ So much more could be said about this short section, but for purposes of interpr
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:10-15 Branch-Rivers, Lands, Cultivate and Keep the Garden
 
-[/10 A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers. 11 The name of the first is Pishon: it flows through the whole land of Havilah, where there is gold; 12 and the gold of that land is good. Bdellium‡ and onyx stone are also there. 13 The name of the second river is Gihon. It is the same river that flows through the whole land of Cush. 14 The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates. 15 Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it./]
+<blockquote><span class="bbq">/10 A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers. 11 The name of the first is Pishon: it flows through the whole land of Havilah, where there is gold; 12 and the gold of that land is good. Bdellium‡ and onyx stone are also there. 13 The name of the second river is Gihon. It is the same river that flows through the whole land of Cush. 14 The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates. 15 Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it./</span></blockquote>
 
 It would be worth mentioning at this point that our English style of "translating" picks an approach that, while it sounds much better and is probably on the whole better for our culture, nevertheless leaves out a lot in that it doesn't typically translate names. There is likely more data here about the pre-Flood setup of this region than we tend to think.
 
@@ -1084,9 +1084,9 @@ I generally won't be commenting on this topic in the rest of this article, unles
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:18-20 Helper, Formed Animals, Naming Time
 
-[/18 Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to§ him.” 19 Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name.
+<blockquote><span class="bbq">/18 Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to§ him.” 19 Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name.
 
-20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him./]
+20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him./</span></blockquote>
 
 Many will form views based on eisegetically reading a meaning in to "helper" here to conclude (whether as critical skeptics or compromising Christians) that it teaches inferiority of women. As said before, to determine the meanings of the words you first need to look at other uses in the Bible, and if that were indeterminate on a question (this isn't), then look to contemporary other sources if possible, etc. The last place to look for the meaning is modern meanings of the word in a destination language of a translation in a particular culture.
 
@@ -1115,13 +1115,13 @@ Encouraging the reader's brain to participate in the reading process is not only
 Here's the chiastic structure:
 
 First let's start with 2:4 itself, that it within itself has a chiasm:
-[/4 This is the history of the generations of the heavens and of the earth when they were 
-created, in the day that Yahweh† God made the earth and the heavens./]
+<blockquote><span class="bbq">/4 This is the history of the generations of the heavens and of the earth when they were 
+created, in the day that Yahweh† God made the earth and the heavens./</span></blockquote>
 
 LSB:
 
-[/Gen 2:4 -
-These are the generations of the heavens and the earth when they were created, in the day that [fn]Yahweh God made earth and heaven./]
+<blockquote><span class="bbq">/Gen 2:4 -
+These are the generations of the heavens and the earth when they were created, in the day that [fn]Yahweh God made earth and heaven./</span></blockquote>
 
 Structure:
 
@@ -1153,7 +1153,7 @@ I'm saying just "God" because the silence on his name here may imply a silence o
 
 Around it, we have some points that make a loose match to a chiasm, although it shouldn't be overstated since, again, other details don't fit into one:
 
-[/1
+<blockquote><span class="bbq">/1
 1 In the beginning, God† created the heavens and the earth. 2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 3 God said, “Let there be light,” and there was light. 4 God saw the light, and saw that it was good. God divided the light from the darkness. 5 God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day.
 6 God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” 7 God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. 8 God called the expanse “sky”. There was evening and there was morning, a second day.
@@ -1170,7 +1170,7 @@ Around it, we have some points that make a loose match to a chiasm, although it 
 created, in the day that Yahweh† God made the earth and the heavens.</b>
 
 5 No <b>plant of the field was yet in the earth, and no herb of the field had yet sprung up;</b> for Yahweh God had not caused it to rain on the earth. <b>There was not a man to till the ground,</b> 6 but a mist went up from the earth, and watered the whole surface of the ground. 7 <b>Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.</b> 8 <b>Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed. 9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil.</b> 10 A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers. 11 The name of the first is Pishon: it flows through the whole <b>land</b> of Havilah, where there is gold; 12 and the gold of that <b>land</b> is good. Bdellium‡ and onyx stone are also there. 13 The name of the second river is Gihon. It is the same river that flows through the whole <b>land</b> of Cush. 14 The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates. 15 Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it. 16 Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden; 17 but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”
-18 Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to§ him.” 19 Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name. 20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him. 21 Yahweh God caused the man to fall into a deep sleep. As the man slept, he took one of his ribs, and closed up the flesh in its place. 22 Yahweh God made a woman from the rib which he had taken from the man, and brought her to the man. 23 The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.” 24 Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh. 25 The man and his wife were both naked, and they were not ashamed./]
+18 Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to§ him.” 19 Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name. 20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him. 21 Yahweh God caused the man to fall into a deep sleep. As the man slept, he took one of his ribs, and closed up the flesh in its place. 22 Yahweh God made a woman from the rib which he had taken from the man, and brought her to the man. 23 The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.” 24 Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh. 25 The man and his wife were both naked, and they were not ashamed./</span></blockquote>
 
 It appears that the author of 2:5 on (or, the author of 2:4 on if I'm wrong about Sig-After-Until-Abe, or, the author of all of this if I'm wrong about signatures entirely) has picked out a pattern of the opening section of the second account (what I think is Adam's account), and structured it in a way that mirrors some of the focus on man and plants before, likely only focusing on those because they were the focus of this author for this section.
 
@@ -1202,7 +1202,7 @@ Especially prior to the effects of sin. Even today, we can often intuitively nam
 
 Note the next verse reiterates these things, though it does clarify that livestock are not necessarily the only creatures of the field included. (See below for it repeated.)
 
-[/20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him./]
+<blockquote><span class="bbq">/20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him./</span></blockquote>
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-2)
 ##### 1(Genesis).2:23-24 Creation Therefore
@@ -1211,7 +1211,7 @@ I here skip the rib incident since this article isn't meant to be an entire comm
 
 Continuing to look more for major interpretatation implications, I start next in 23-24:
 
-[/23 The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.” 24 Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh./]
+<blockquote><span class="bbq">/23 The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.” 24 Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh./</span></blockquote>
 
 The key here being the Therefore.
 
@@ -1228,9 +1228,9 @@ This makes sense, because God didn't HAVE to create in this format, taking a day
 
 ##### 1(Genesis).3:1-4 Interpreting God's Command
 
-[/1 Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?”
+<blockquote><span class="bbq">/1 Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?”
 2 The woman said to the serpent, “We may eat fruit from the trees of the garden, 3 but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it. You shall not touch it, lest you die.’ ”
-4 The serpent said to the woman, “You won’t really die, 5 for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”/]
+4 The serpent said to the woman, “You won’t really die, 5 for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”/</span></blockquote>
 
 Many people focus here on whether Eve made something up. We don't know that; God may have said more than was recorded. Keep in mind the norm in ancient times was selection from what was said (and paraphrase).
 
@@ -1246,19 +1246,23 @@ About what the serpent was, we have a lot of data, but again, trying not to make
 
 ##### 1(Genesis).3:8 Heard God's Voice Walking
 
-[/8 They heard Yahweh God’s voice walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden./]
+<blockquote><span class="bbq">/8 They heard Yahweh God’s voice walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden./</span></blockquote>
 
 I heard someone, who has on many occasions demonstrated a good understanding of source grammars and looks at scholars, Anthony Rogers, though I don't know if he's correct, say this "Voice" is an allusion to the Word, as in that this is the title of this manifestion of God, and of the Person it represents, the pre-Incarnate Christ.
 
 WEBP here earns its keep, if this is true; it actually shows that it would seem to mean that; hearing the voice walking, not what many other translations do, perhaps out of innocently failing to connect the dots and trying to clear up their own confusion (assuming the grammar doesn't actually indicate what they change it to), and say things like here in NIV:
 
-[/Then the man and his wife heard the sound of the LORD God as he was walking in the garden in the cool of the day, and they hid from the LORD God among the trees of the garden./]
+<blockquote><span class="bbq">/Then the man and his wife heard the sound of the LORD God as he was walking in the garden in the cool of the day, and they hid from the LORD God among the trees of the garden./</span></blockquote>
 
 Even LSB here obscures it:
 
-[/Then they heard the sound of Yahweh God walking in the garden in the [fn]cool of the day, and the man and his wife hid themselves from the presence of Yahweh God in the midst of the trees of the garden./]
+<blockquote><span class="bbq">/Then they heard the sound of Yahweh God walking in the garden in the [fn]cool of the day, and the man and his wife hid themselves from the presence of Yahweh God in the midst of the trees of the garden./</span></blockquote>
 
 Though that's partly because LSB strives to preserve the word order, and that actually is the word order (sound of LORD God means the same as LORD God's sound), but it makes "sound" generalized so it could be the sound of footsteps/etc. rather than voice. This would fit with verse 10, though it could also of course be that God simply is calling out already asking where they are at that point, as we'll see said that he did shortly.
+
+Note: "of" is added by LSB, although in this case they don't put it in italics to indicate a word only implied by the original and not stated, presumably because it's such a basic of grammar. To fit normal English grammar and preserve the word order, "of" does need to be added. But this still makes it clear that it's the "sound" word that what was walking. There is nothing in the Hebrew to indicate other than word order that this means sound/voice [of] God, though voice/sound itself does have a direct-object marker in front of it, meaning the voice (or sound) is also what was heard.
+
+And a look at other meanings shows this to be ambiguous; the word can indeed mean both voice and sound in general.
 
 This looks like a good example at least of how the data can seem to support one interpretation, while a look at wider data can make it look like another is the more correct.
 
@@ -1266,11 +1270,11 @@ This encourages thought, attentiveness, and further reading, making God's Word w
 
 It does mean you need to treat your own interpretations (and that of others, even if the most popular readings, even those favored perhaps by scholars, who from time to time change the majority view on various things) with humility and caution.
 
-(And I'm not sure which interpretation of that is right. In any case, we did already have evidence that John didn't get the Word idea merely from later extrabiblical ideas like a common source of Philo's Logos, but that these are likely rooted in God speaking the orders in Genesis 1. So we wouldn't need this to be Voice as a title for John to have seen that.)
+(And I'm not sure which interpretation of that is right. Rogers may know of some point I'm unaware of (or have forgotten if I had seen him raise it before) that favors the Voice as a title interpretation. In any case, we did already have evidence that John didn't get the Word idea merely from later extrabiblical ideas like a common source of Philo's Logos, but that these are likely rooted in God speaking the orders in Genesis 1. So we wouldn't need this to be Voice as a title for John to have seen that.)
 
 ##### 1(Genesis).3:9-15 Rhetorical Ignorance, and He and then He
 
-[/9 Yahweh God called to the man, and said to him, “Where are you?”
+<blockquote><span class="bbq">/9 Yahweh God called to the man, and said to him, “Where are you?”
 10 The man said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”
 11 God said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”
 12 The man said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”
@@ -1285,7 +1289,7 @@ and you shall eat dust all the days of your life.
 15 I will put hostility between you and the woman,
 and between your offspring and her offspring.
 He will bruise your head,
-and you will bruise his heel.”/]
+and you will bruise his heel.”/</span></blockquote>
 
 Here what I'm focusing on are just two aspects, at least for now.
 
@@ -1297,11 +1301,11 @@ In Genesis 4 we'll see an even more obvious case of rhetorical ignorance.
 
 Second, a clear proof here that pronouns in Hebrew do not need to only reference the previous noun. WEBP obscures this a bit, but LSB here is:
 
-[/Gen 3:9 - Yahweh God called to the man and said to him, “Where are you?”
+<blockquote><span class="bbq">/Gen 3:9 - Yahweh God called to the man and said to him, “Where are you?”
 
 10 - And he said, “I heard the sound of You in the garden, and I was afraid because I was naked; so I hid.”
 
-11 - And He said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?”/]
+11 - And He said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?”/</span></blockquote>
 
 I haven't seen very many things made of this, but some "fundy atheist" groups do make much of ONE use of it, when Moses was told to write other things God said while God was writing the second copy of the Ten Commandments after Moses broke the first one.
 
