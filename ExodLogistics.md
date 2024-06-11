@@ -135,35 +135,35 @@ That's where the convo was at when I came to it. Now to JP's article.
 
 - On water (using "\|" to delimit quotes):
 
-[|In terms of providing water, we see of course the miraculous provision of springs at least twice in the accounts; one may justly argue, given that the Pentateuchal narratives have been clearly designed for the purpose of oral communication, that these incidents are representative of what happened during the whole trip.<br><br>
+<blockquote>|In terms of providing water, we see of course the miraculous provision of springs at least twice in the accounts; one may justly argue, given that the Pentateuchal narratives have been clearly designed for the purpose of oral communication, that these incidents are representative of what happened during the whole trip.<br><br>
 
-Certainly it is misguided for critics to argue using estimates of how many gallons of water, or how many trainloads of food or firewood, would be needed to support the Israelites and then remark that such provision would have been impossible in a desert setting (especially if, as some theorists suppose, the Exodus took place in a fertile part of Arabia, not the Sinai peninsula).|]
+Certainly it is misguided for critics to argue using estimates of how many gallons of water, or how many trainloads of food or firewood, would be needed to support the Israelites and then remark that such provision would have been impossible in a desert setting (especially if, as some theorists suppose, the Exodus took place in a fertile part of Arabia, not the Sinai peninsula).|</blockquote>
 
   (PattOEv does argue that Mt. Sinai isn't on the Sinai peninsula, and right now as far as I know that's best-supported, though I find it more ambiguous which part was considered "Egypt" but obviously they would have had to cross the peninsula either way on that point. How fertile the area around Mt. Lawz is I don't know. IIRC didn't look very.)
 
-[|Even without miraculous provision, we may add, how do they think other ancient nations survived? Were they all primitives that could not work out systems to provide for their needs? (The Scythians survived just fine without firewood; they used their own herd animals for such purposes -- the bones made for firewood, and the carcasses made do as a stirring pot.)|]
+<blockquote>|Even without miraculous provision, we may add, how do they think other ancient nations survived? Were they all primitives that could not work out systems to provide for their needs? (The Scythians survived just fine without firewood; they used their own herd animals for such purposes -- the bones made for firewood, and the carcasses made do as a stirring pot.)|</blockquote>
 
 - On communication and sanitation:
 
-[|Similarly, one might object to the practical, everyday operation of such a community and problems such as communication and sanitation, but this is an argument that can be defeated analogically:<br><br>
+<blockquote>|Similarly, one might object to the practical, everyday operation of such a community and problems such as communication and sanitation, but this is an argument that can be defeated analogically:<br><br>
 
 The Long Marchers resorted to clever practicality to solve such problems. For example, items like needles and chopsticks were carried stuck under the peaks of hats or inside puttees; children as young as 11 or 12 were used as orderlies, buglers, mess-workers, water carriers, nurses, or messengers.<br><br>
 
-A community that bands togeter against hardship is likely to do what it needs to survive. (We'll press with some practical examples from the Scythians in the next section.)|]
+A community that bands togeter against hardship is likely to do what it needs to survive. (We'll press with some practical examples from the Scythians in the next section.)|</blockquote>
 
 - On tabernacle visitation:
 
-[|Critics refer to verses like Lev. 8:3-4 and Deut. 1:1 which refer to the nation of Israel being gathered to the door of the tabernacle, or Moses speaking to "all Israel" and ask how such a massive group could be gathered to such a small place, or how Moses could speak to so many people at once and be heard.<br><br>
+<blockquote>|Critics refer to verses like Lev. 8:3-4 and Deut. 1:1 which refer to the nation of Israel being gathered to the door of the tabernacle, or Moses speaking to "all Israel" and ask how such a massive group could be gathered to such a small place, or how Moses could speak to so many people at once and be heard.<br><br>
 
 An objection like this simply failing to understand the legal view of what constituted "all" of a nation. In our article on baptism (Link below) we introduced the reader to the notion of the Semitic Totality Concept, whereby men were viewed as a totality of spirit and material; we alluded also to the fact that this concept included the idea that one part of a person who is a member of a group "sums up, comprehends and represents" all that a group is.<br><br>
 
 Therefore, in verses like the ones referred to above, all that needs be implied is that representatives (such as tribal chieftains, or representatives from each family group) be present. Those present may have actually numbered from 12 to 12,000, neither of which extremes poses a problem.<br><br>
 
-Our closest modern analogue to this kind of thought is when an official like the President gets on television and "speaks to the nation" -- it doesn't matter in such cases that some people are instead watching Hee Haw; the President is "speaking" to them whether they are listening or not.|]
+Our closest modern analogue to this kind of thought is when an official like the President gets on television and "speaks to the nation" -- it doesn't matter in such cases that some people are instead watching Hee Haw; the President is "speaking" to them whether they are listening or not.|</blockquote>
 
 - On the complaining about the need for food:
 
-[|As an aside, it may be asked why meat was asked for when there were so many flocks and herds. The answer: in the ANE flock animals were far more valuable for their products like wool and milk than for meat.|]
+<blockquote>|As an aside, it may be asked why meat was asked for when there were so many flocks and herds. The answer: in the ANE flock animals were far more valuable for their products like wool and milk than for meat.|</blockquote>
 
 - At one point he clarifies 600,000 is the number of men.
 
@@ -171,8 +171,8 @@ Our closest modern analogue to this kind of thought is when an official like the
 
 - To any other supply not included in herds:
 
-[|<b>"How did the Israelites get basic necessities that their herds could not produce?"</b><br><br>
-The Scythians had no problem with this. The Scythians became "fabulously wealthy" because they "taxed all trade that passed through their domain on its way to the Greek trading colonies on the Black Sea." They also provided the Greeks with wheat and other perishable commodities, receiving metals, art objects, oils and wines in return.|]
+<blockquote>|<b>"How did the Israelites get basic necessities that their herds could not produce?"</b><br><br>
+The Scythians had no problem with this. The Scythians became "fabulously wealthy" because they "taxed all trade that passed through their domain on its way to the Greek trading colonies on the Black Sea." They also provided the Greeks with wheat and other perishable commodities, receiving metals, art objects, oils and wines in return.|</blockquote>
 
   This would need modified for the 2 years against grain, of course, but fits with what I said about purchase above, products like wool, etc. Keep in mind this is automatically more possible for anybody in this region to some extent too since this whole area is a trade center for geographical reasons, though where they were wandering likely less than some places like the Mediterranean road to Canaan that God had them avoid.
 
@@ -180,42 +180,42 @@ The Scythians had no problem with this. The Scythians became "fabulously wealthy
 
   He adds:
 
-[|In the same way, Israel would have been a force to be reckoned with by the traders in the area, and they had ample resources (flocks, herds, and plunder from Egypt) with which to conduct trade and get things like grain.|]
+<blockquote>|In the same way, Israel would have been a force to be reckoned with by the traders in the area, and they had ample resources (flocks, herds, and plunder from Egypt) with which to conduct trade and get things like grain.|</blockquote>
 
   In line with what I said as well.
 
 - Worth mentioning:
 
-[|<b>"What did the Israelites live in and how did they clothe themselves?"</b><br><br>
+<blockquote>|<b>"What did the Israelites live in and how did they clothe themselves?"</b><br><br>
 
-Even if we ignore the provision that God miraculously preserved the Israelites' personal effects from wear (Deut. 8:4), this isn't too hard to fathom naturalistically.|]
+Even if we ignore the provision that God miraculously preserved the Israelites' personal effects from wear (Deut. 8:4), this isn't too hard to fathom naturalistically.|</blockquote>
 
   Pausing to note that I do think this might not have been an actual miracle but just saying God provided in general and gave them the means to keep purchasing such things to replace old ones. I say that because as far as I recall nothing like it was mentioned in the Pentateuch, just later. In any case, as he said, we can ignore this and it would still work.
 
-[|The Scythians used their herds as resources to make their clothes and dwellings. The felt of their tents was made by "wetting and pounding together wool and animal hair until the fibers interlocked, and then weatherproofed the material with grease."<br><br>
+<blockquote>|The Scythians used their herds as resources to make their clothes and dwellings. The felt of their tents was made by "wetting and pounding together wool and animal hair until the fibers interlocked, and then weatherproofed the material with grease."<br><br>
 
 Beyond that the Scythians were in constant motion looking for new grass for their herds -- even if we ignore the miraculous provision of manna, such provision should have been no more of a problem for Israel.<br><br>
 
 Think the climate of Sinai was too harsh? So was the land of the Scythians: "Scythia was, as the Ukraine is now, the prey of challenging weathers -- extreme, volatile, whimsical. Winter entombs the steppe; spring rejuvenates it." Then the summer scorches it all away with 104 degree heat.<br><br>
 
-The Israelites had it better, not having winter to deal with (even if we assume they were in Sinai and not Arabia).|]
+The Israelites had it better, not having winter to deal with (even if we assume they were in Sinai and not Arabia).|</blockquote>
 
 - On offerings:
 
-[|<b>"How did the priests manage all those sin offerings?"</b><br><br>
+<blockquote>|<b>"How did the priests manage all those sin offerings?"</b><br><br>
 Skeptics who perform calculations to figure out that a mere handful of preists would have to do 58 jillion sacrifices a year or "43 sacrifices an hour, around the clock" and so on are simply failing to read ancient law codes within their didactic context. Just as Hillers says of Deuteronomy and other law codes:<br><br>
 
-[|]...there is no evidence that any collection of Near Eastern laws functioned as a written code that was applied by a strict method of exegesis to individual cases. As far as we can tell, these bodies of laws served educational purposes and gave expression to what was regarded as just in typical cases, but they left considerable latitude to local courts for determining the right in individual suits. They aided local courts without controlling them.<br><br>
+<blockquote>|</blockquote>...there is no evidence that any collection of Near Eastern laws functioned as a written code that was applied by a strict method of exegesis to individual cases. As far as we can tell, these bodies of laws served educational purposes and gave expression to what was regarded as just in typical cases, but they left considerable latitude to local courts for determining the right in individual suits. They aided local courts without controlling them.<br><br>
 
-...it is equally doubtful that the Israelites applied (or had to apply) Leviticus in any such pedantic manner as described, but that "considerable latitude" was given in extraordinary situations. Priests can sanctify helpers; the poverty-stricken can forego the full ritual sacrifice (or other observations) until such time as it can be affored.|]<br><br>
+...it is equally doubtful that the Israelites applied (or had to apply) Leviticus in any such pedantic manner as described, but that "considerable latitude" was given in extraordinary situations. Priests can sanctify helpers; the poverty-stricken can forego the full ritual sacrifice (or other observations) until such time as it can be affored.|</blockquote><br><br>
 
-Living in the wilderness no doubt meant "considerable latitude" was given as well. Perhaps whole families or clans could bring a single sin offering for a year, for example. The mistake made is turning Yahweh into the fundamentalist that certain critics are.|]
+Living in the wilderness no doubt meant "considerable latitude" was given as well. Perhaps whole families or clans could bring a single sin offering for a year, for example. The mistake made is turning Yahweh into the fundamentalist that certain critics are.|</blockquote>
 
 - On 1000:
 
-[|One proposed solution to the Exodus numbers matter which simply reduces the totals and resolves all of the objections with one fell swoop. The answer in sum: <br><br>
+<blockquote>|One proposed solution to the Exodus numbers matter which simply reduces the totals and resolves all of the objections with one fell swoop. The answer in sum: <br><br>
 
-The word translated "thousand" ('elep) ought rather be read as, "family units". Thus for example, as Sarna relates [Sarn.EE, 99], Reuben's "46,500 grown males" would be read as "forty six units".|]
+The word translated "thousand" ('elep) ought rather be read as, "family units". Thus for example, as Sarna relates [Sarn.EE, 99], Reuben's "46,500 grown males" would be read as "forty six units".|</blockquote>
 
   (NOTE: I'm not endorsing that per se but it would need ruled out. Mentioning since it was raised here earlier.)
 
@@ -245,15 +245,15 @@ Updates:
 
   By the way one clarification about the 40, that I'm not sure if the wandering is 40 - 2, or if the 2 are in addition to 40. 40 might also be a common rounding number in their culture since it shows up often. The 2 looks less likely to be rounding (or at least to the same extent).
 
-[/21 - “I hate, I reject your feasts, / Nor do I [fn]delight in your solemn assemblies.<br><br>
+<blockquote><span class="bbq">/21 - “I hate, I reject your feasts, / Nor do I [fn]delight in your solemn assemblies.<br><br>
 
-22 - “Even though you offer up to Me burnt offerings and your grain offerings, / I will not accept them; / And I will not even look at the peace offerings of your fatlings./]
+22 - “Even though you offer up to Me burnt offerings and your grain offerings, / I will not accept them; / And I will not even look at the peace offerings of your fatlings./</span></blockquote>
 
   (So 25 might not be saying they didn't present grain offerings, but that if they did, he did not look at them, so it might be a rhetorical device to say "Oh, did you offer stuff back then? You were so sinful I couldn't look at you so I dunno." Emphasis on rhetorical before someone objects "Wull, omniscient!" Could also mean they collected a grain tax but didn't offer from it as they should have.)
 
-[/25 - “[fn]Did you present Me with sacrifices and grain offerings in the wilderness for forty years, O house of Israel?<br><br>
+<blockquote><span class="bbq">/25 - “[fn]Did you present Me with sacrifices and grain offerings in the wilderness for forty years, O house of Israel?<br><br>
 
-26 - “You also carried along [fn]Sikkuth your king and [fn]Kiyyun, your images, [fn]the star of your gods which you made for yourselves./]
+26 - “You also carried along [fn]Sikkuth your king and [fn]Kiyyun, your images, [fn]the star of your gods which you made for yourselves./</span></blockquote>
 
   (That last verse would seem to fit with an idea like, "Did you do what I commanded? Yes? Well, you still did this other thing I commanded you not to, so it doesn't count.)
 
@@ -263,19 +263,19 @@ Updates:
   
   NLT:
   
-[/NLT “Was it to me you were bringing sacrifices and offerings during the forty years in the wilderness, Israel?/]
+<blockquote><span class="bbq">/NLT “Was it to me you were bringing sacrifices and offerings during the forty years in the wilderness, Israel?/</span></blockquote>
 
   NET:
   
-[/NET You did not bring me sacrifices and grain offerings during the forty years you spent in the wilderness, family of Israel./]
+<blockquote><span class="bbq">/NET You did not bring me sacrifices and grain offerings during the forty years you spent in the wilderness, family of Israel./</span></blockquote>
 
   Most others just phrase it as a question. This may be an error of prooftexting; it doesn't look like it corroborates as clearly as he thought, in context.
 
   FWIW, NET is a respectable translation and offers its reasons for the translation, so I should go check there. 
 
-[|Like Jer 7:22-23, this passage seems to contradict the Pentateuchal accounts that indicate Israel did offer sacrifices during the wilderness period. It is likely that both Amos and Jeremiah overstate the case to emphasize the relative insignificance of sacrifices in comparison to weightier matters of the covenant. See R. de Vaux, Ancient Israel, 428.<br><br>
+<blockquote>|Like Jer 7:22-23, this passage seems to contradict the Pentateuchal accounts that indicate Israel did offer sacrifices during the wilderness period. It is likely that both Amos and Jeremiah overstate the case to emphasize the relative insignificance of sacrifices in comparison to weightier matters of the covenant. See R. de Vaux, Ancient Israel, 428.<br><br>
 
-tn Heb “Did you bring me…?” This rhetorical question expects a negative answer. The point seems to be this: Since sacrifices did not characterize God’s relationship with Israel during the nation’s formative years, the people should not consider them to be so fundamental. The Lord places a higher priority on justice than he does on empty ritual.|]
+tn Heb “Did you bring me…?” This rhetorical question expects a negative answer. The point seems to be this: Since sacrifices did not characterize God’s relationship with Israel during the nation’s formative years, the people should not consider them to be so fundamental. The Lord places a higher priority on justice than he does on empty ritual.|</blockquote>
 
   The Jeremiah contradiction claim is familiar and IIRC JPH also debunked it. But this does add weight both that they DID sacrifice during the 40 years (but sacrifice what specifically?), but also that Amos may mean in literal terms that they did not, rather than just asking if they did, or just asking who they brought them to. (Though the latter would make perfect sense with the verse that followed.)
 
