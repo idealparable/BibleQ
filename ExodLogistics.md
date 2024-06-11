@@ -12,6 +12,12 @@ This is a save of my reply in a conversation that brought it up. It's an initial
   - [Must-Read Notes](#must-read-notes)
   - [Table of Contents](#table-of-contents)
 - [**Answer**](#answer) <----- Skip to answer
+  - [Original Reply](#original-reply)
+    - [Listing Initial Arguments & Initial Reactions](#listing-initial-arguments--initial-reactions)
+    - [Listing & Reactions to Initial Replies to the Thread](#listing--reactions-to-initial-replies-to-the-thread)
+    - [JPH Logistics Article Relevant Portions](#jph-logistics-article-relevant-portions)
+    - [Initial Conclusion](#initial-conclusion)
+  - [Update](#update)
 - [End Notes](#end-notes)
   - [Bible Citations](#bible-citations)
   - [Abbreviations](#abbreviations)
@@ -27,6 +33,10 @@ Keep in mind this article isn't meant as a thorough conclusion; this is more of 
 For now it's only about the exodus itself, as in from the actual leaving through the wandering, not including issues prior to the leaving or in the Canaan conquest. JPH's article did cover some things about the former, and a bit about Jericho.
 
 As usual with convo saves, the format here was originally for a different site but I'll probably go through and update it later for my usual style here.
+
+## Original Reply
+
+### Listing Initial Arguments & Initial Reactions
 
 Me: Some of the arguments here are new to me, some vaguely recall discussed. Let's see how much headway I can make. First, you shouldn't be passing on blithe "it didn't happen" claims like that. Claims like that have been debunked so often they're almost certainly false, so you run the risk of passing on misinformation, especially since in some cases here you didn't give actual support, just things like "X number doesn't make sense".
 
@@ -64,6 +74,8 @@ Let me start by listing the arguments.
 - We should take all details with salt anyways; you don't need to grasp at straws to claim some are errors first in order to support that!
 
 - The evidence is it WAS about recording the minute details and got them right, when testable so far. Its focus being about God's relationship with man isn't at all mutually exclusive with that.
+
+### Listing & Reactions to Initial Replies to the Thread
 
 Before reviewing that article, continuing through the conversation to see if anything else is worth listing here.
 
@@ -112,6 +124,8 @@ Before reviewing that article, continuing through the conversation to see if any
   (Also even if it needs turned off from time to time, this is argument from silence.)
 
 That's where the convo was at when I came to it. Now to JP's article.
+
+### JPH Logistics Article Relevant Portions
 
 - First topic is plausibility of expansion to that number, which wasn't raised here, so skipping, but suffice that he shows it isn't a problem, though he assumes an Egyptian sojourn of 430, and lately it has been looking to me like the evidence is slightly more in favor of the 215, but also he's using a different (much higher) number for the Exodus. Keep in mind I'm not sure what the actual number was offhand; 600,000 was just what was stated in the conversation.
 
@@ -202,6 +216,8 @@ Living in the wilderness no doubt meant "considerable latitude" was given as wel
 The word translated "thousand" ('elep) ought rather be read as, "family units". Thus for example, as Sarna relates [Sarn.EE, 99], Reuben's "46,500 grown males" would be read as "forty six units".|]
 
   (NOTE: I'm not endorsing that per se but it would need ruled out. Mentioning since it was raised here earlier.)
+
+### Initial Conclusion
 
 Conclusion not included in the conversation:
 
