@@ -118,7 +118,7 @@ That's where the convo was at when I came to it. Now to JP's article.
 
 - Several other arguments are considered; I'll try to limit this just to the ones brought up.
 
-- On water (using "|" to delimit quotes):
+- On water (using "\|" to delimit quotes):
 
 |In terms of providing water, we see of course the miraculous provision of springs at least twice in the accounts; one may justly argue, given that the Pentateuchal narratives have been clearly designed for the purpose of oral communication, that these incidents are representative of what happened during the whole trip.
 
