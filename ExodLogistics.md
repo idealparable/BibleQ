@@ -5,6 +5,8 @@
 
 This is a save of my reply in a conversation that brought it up. It's an initial-reaction reply so not all points are necessarily covered. Then I went through a [JPH article](https://www.tektonics.org/af/exoduslogistics.php){:target="_blank"} and quoted portions on-topic.
 
+[Now with one update from further comments posted later.]
+
 {% include mustreadnotes.md %}
 
 ## Table of Contents
