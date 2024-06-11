@@ -193,6 +193,49 @@ On things like oil, basically the argument was flawed in TWO ways; reading in th
 
 I didn't end up finding when the issuing of those laws was, but as expected, it isn't a problem if pre-Deut.
 
+## Update
+
+Updates: - On the conquest, on a point that could apply to the battle during the exodus-through-wandering with the amalekites etc., it's argued that there would have to be mass graves and we would have to find them. We would have to check to be sure but offhand I thought they burned them?
+
+This was said at least of Jericho and we DO have this! (Skeptics just retcon the date, but the detail match is extremely exact, evidencing in turn that skeptics' dating is unreliable for events that far back.)
+
+We would also need a full historical survey of all battles, especially what was the tendency in ANE, and if we have mass graves for all of them, plus this ignores that we haven't necessarily found everything underground yet. Also, would they have to be in a single mass grave per se? That would need proved too. We obviously know people lived and died, so this argument might accidentally prove too much, if we don't have graves for most of them, and "disprove" that most of them ever existed.
+
+- Someone who appears to be a Christian pointed out that Numbers 28 details the sacrifices (I haven't had time to verify), and that this is right after death of Aaron, right before death of Moses (so around same time as Deut.), so they wouldn't take effect until entering Canaan. (I would also need it checked that none were detailed before this though, but either way it's already shown it wouldn't be a problem.)
+
+Also cites Amos 5:25 as corroborating. Looking at it, because its wording in LSB looks ambiguous to me, first relevant is 5:11a: /Therefore because you [fn]impose heavy rent on the poor / And take a tribute of grain from them,/ (Might support the mentioned idea about obtaining grain even during the 2 initial years, and during the 40 of wandering.)
+
+By the way one clarification about the 40, that I'm not sure if the wandering is 40 - 2, or if the 2 are in addition to 40. 40 might also be a common rounding number in their culture since it shows up often. The 2 looks less likely to be rounding (or at least to the same extent).
+
+/21 - “I hate, I reject your feasts, / Nor do I [fn]delight in your solemn assemblies.
+22 - “Even though you offer up to Me burnt offerings and your grain offerings, / I will not accept them; / And I will not even look at the peace offerings of your fatlings./
+
+(So 25 might not be saying they didn't present grain offerings, but that if they did, he did not look at them, so it might be a rhetorical device to say "Oh, did you offer stuff back then? You were so sinful I couldn't look at you so I dunno." Emphasis on rhetorical before someone objects "Wull, omniscient!" Could also mean they collected a grain tax but didn't offer from it as they should have.)
+
+/25 - “[fn]Did you present Me with sacrifices and grain offerings in the wilderness for forty years, O house of Israel? 26 - “You also carried along [fn]Sikkuth your king and [fn]Kiyyun, your images, [fn]the star of your gods which you made for yourselves./ (That last verse would seem to fit with an idea like, "Did you do what I commanded? Yes? Well, you still did this other thing I commanded you not to, so it doesn't count.)
+
+(Fitting with the NT affirming that in the ML, violating any one commandment, in terms of causing separation from God, is as if you violated all of them.)
+
+Other translations (verse 25): NLT: /NLT “Was it to me you were bringing sacrifices and offerings during the forty years in the wilderness, Israel?/ NET: /NET You did not bring me sacrifices and grain offerings during the forty years you spent in the wilderness, family of Israel./ Most others just phrase it as a question. This may be an error of prooftexting; it doesn't look like it corroborates as clearly as he thought, in context.
+
+FWIW, NET is a respectable translation and offers its reasons for the translation, so I should go check there. 
+
+|Like Jer 7:22-23, this passage seems to contradict the Pentateuchal accounts that indicate Israel did offer sacrifices during the wilderness period. It is likely that both Amos and Jeremiah overstate the case to emphasize the relative insignificance of sacrifices in comparison to weightier matters of the covenant. See R. de Vaux, Ancient Israel, 428.
+
+tn Heb “Did you bring me…?” This rhetorical question expects a negative answer. The point seems to be this: Since sacrifices did not characterize God’s relationship with Israel during the nation’s formative years, the people should not consider them to be so fundamental. The Lord places a higher priority on justice than he does on empty ritual.|
+
+The Jeremiah contradiction claim is familiar and IIRC JPH also debunked it. But this does add weight both that they DID sacrifice during the 40 years (but sacrifice what specifically?), but also that Amos may mean in literal terms that they did not, rather than just asking if they did, or just asking who they brought them to. (Though the latter would make perfect sense with the verse that followed.)
+
+But to assume it corroborates a denial of the sacrifices in general during the wandering would require it to be literal, as in not a rhetorical device (similar to sarcasm). It seems more likely it's the latter, just unclear which specific device is intended. (Some of those aren't mutually exclusive either.)
+
+Note that the second part of the NET note seems to be saying that the literal phrasing is a question, so most translations have it right if you want just what it actually does say, and NET is doing a bit of a thought for thought thing here and clarifying that the point of the question is a denial (without requiring that the denial is meant literally).
+
+- Someone else says that no advocate says there were 2 million people, and they go with the clan/etc. However, JPH's initial calculation did use 1-2 million (without necessarily endorsing; this would be in line with a Woodmorappe-like standard of intentionally using the worst case to show it would still work), though he did show the clan/etc. option at the end, without endorsing or denying it.
+
+- Then some more arguments are made based on assumptions of Egyptian chronology; again, since that's still highly disputed we would need a ton of more work to be done first before anything related to it could be taken as a solid argument.
+
+
+
 
 
 
