@@ -208,7 +208,7 @@ Skeptics who perform calculations to figure out that a mere handful of preists w
 <blockquote>|...there is no evidence that any collection of Near Eastern laws functioned as a written code that was applied by a strict method of exegesis to individual cases. As far as we can tell, these bodies of laws served educational purposes and gave expression to what was regarded as just in typical cases, but they left considerable latitude to local courts for determining the right in individual suits. They aided local courts without controlling them.<br><br>
 
 ...it is equally doubtful that the Israelites applied (or had to apply) Leviticus in any such pedantic manner as described, but that "considerable latitude" was given in extraordinary situations. Priests can sanctify helpers; the poverty-stricken can forego the full ritual sacrifice (or other observations) until such time as it can be affored.|</blockquote>
-<br><br>
+<br>
 Living in the wilderness no doubt meant "considerable latitude" was given as well. Perhaps whole families or clans could bring a single sin offering for a year, for example. The mistake made is turning Yahweh into the fundamentalist that certain critics are.|</blockquote>
 
 - On 1000:
