@@ -3,6 +3,8 @@
 
 **Bible Study Topic:** What does the Bible itself say about how it should be read? What patterns does it use? What are the rules of the source "language culture" in context (how structures of thought work, expressed in any language to some extent, such as parallelism)?
 
+[SKIP TO: Table of Contents](#table-of-contents)
+
 This is obviously a vast subject; I can't cover everything, and it's something we're all continually learning more about. Keep in mind I'm not an expert. Experts undoubtedly have many observations I'm not yet aware of, and some of those might render some of my thoughts on this incorrect.
 
 So take everything as tentative but with an observation that as far as I've found so far, following the Bible's own rules, as far as we can attempt to discern the statements (which is an iterative process involving all past translations and translators of the languages involved, of course, to even get us to a point that APPEARS to be understandable) -- that the body of interpretations that logically follow from these rules "just happen" to naturally fit best with all other observations when carefully determined by sound logic.
@@ -1322,11 +1324,55 @@ Many, many other examples of pronouns clearly not referring to the most-recently
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-3)
 #### Genesis 4
 
+- [1(Genesis).4:9-12 Rhetorical Ignorance, Abel's Keeper](#1genesis49-12-rhetorical-ignorance-abels-keeper)
 
+##### 1(Genesis).4:9-12 Rhetorical Ignorance, Abel's Keeper
 
+[/9 Yahweh said to Cain, “Where is Abel, your brother?”
+He said, “I don’t know. Am I my brother’s keeper?”
+10 Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground. 11 Now you are cursed because of the ground, which has opened its mouth to receive your brother’s blood from your hand. 12 From now on, when you till the ground, it won’t yield its strength to you. You will be a fugitive and a wanderer in the earth.”/]
+
+Here is our more obvious case of rhetorical ignorance; this time the same subject God asks about is the same one he later reveals he knows the answer to. This is obviously a way to show Cain that he doesn't understand who God is, that he isn't someone you can lie to and get away with it. It's a "test" for Cain, not that God needed to see the answer, but that Cain did.
+
+This establishes that we shouldn't interpret any similar apparent ignorance on God's part as literal ignorance.
+
+Much else can be said about this, suffice to say that people often read an assumption in that may be unwarranted about whether Cain is Abel's keeper. Since Cain is older, and Abel was a keeper of sheep, Cain wasn't necessarily implying he had no responsibility over Abel's safety as some read into it, though ultimately the irony they're pointing out is true, in that we are all each others' keeper.
+
+Cain may have had to literally babysit his brother earlier in life and he could be implying "Abel's a grown man now, I don't have to do that anymore" -- as part of his lie. And/or "Abel's the keeper, of sheep, I don't have to think like that, plants don't wander around."
+
+As usual, much else could be said about many other details in this chapter related to interpretation, especially about toledoths, but at least for this first version of this page I'll restrict it to that for now and move on.
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-4)
 #### Genesis 5
+- [1(Genesis).5:1-5 Days of Person = X Years](#1genesis51-5-days-of-person--x-years)
+
+##### 1(Genesis).5:1-5 Days of Person = X Years
+
+[/1 This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness. 2 He created them male and female, and blessed them. On the day they were created, he named them Adam.† 3 Adam lived one hundred thirty years, and became the father of a son in his own likeness, after his image, and named him Seth. 4 The days of Adam after he became the father of Seth were eight hundred years, and he became the father of other sons and daughters. 5 All the days that Adam lived were nine hundred thirty years, then he died./]
+
+Again, on my usual topics there's so much to say here, but since most of it is planned to be covered in other articles like the one about my Sig-After-Until-Abe toledoth theory, I'll restrict it just to what's the main interpretation point to notice here on another topic.
+
+That is that when we read a construction in something written by this culture, and it over and over has a particular meaning, and it's obvious it does, when we see that same structure elsewhere, we should at least consider that it likely implies the same meaning there as well.
+
+For example, biblical creationists do a good job of recognizing that the use of yohm (day) with a number and the phrase evening and morning, and a day/night context, as Genesis 1 does, selects from the range of meanings of yohm the one for a roughly 24-hour day.
+
+They look to other places in Scripture where this is done, and point out that, in effect, it would become special pleading fallacy to claim it means something different in Genesis 1.
+
+Not that it CAN'T mean something different, and I'll be considering such a possibility with the case of "sons of God" related to the Nephilim, and we should at least consider alternatives anyways. But it at least lends strong support to it.
+
+However, weirdly, many creationists don't consistently follow this same rule when it comes to the "the days of [this person] [related to such and such a life event] were [X number of] years".
+
+Throughout Genesis 5's genealogy section, we see this repeated over and over, both about the span of time from a father's age at the birth of the next son in the list to his death, and from that same father's beginning of life to death. The phrase isn't used for the span between the father's birth and the birth of his son. It's clearly a construction that refers to individual lifespan.
+
+Yet when the same phrase is used in Genesis 6 about the coming disaster, people don't take it as about human lifespan, but about a countdown to the Flood.
+
+Some proponents of the latter do at least notice the implication, and stretch it so that it is in effect the remaining lifespan of the humans alive at the time. But this is unnecessary.
+
+This would be a good topic for its own article, as much more can be said about it, and specifically what it does and does not mean, against bad counterarguments they make. Again, since this article isn't meant as a general commentary, I'll move on from it but the point is just to consistently pay attention to structure, not only words used.
+
+This is what makes invaluable translations like LSB, or here in this case WEBP has also done well, NASB, etc. that actually show you (more or less) the structure, and why you should be, any time you have a question of meaning, opening the interlinear, on BLB or any other way you have access to such a thing.
+
+Learning the source languages and looking for online articlese by those who know them on the questions you had also can help immensely. Not that thought-for-thought translations don't help, but then you rely on the quality of largely hidden reasoning on the part of the translators, rather than directly seeing why it means what it means.
 
 [Table of Contents](#table-of-contents) | [Chapter List](#book-1-genesis) | [This Chapter's Observation Headers List](#genesis-5)
 #### Genesis 6
