@@ -191,7 +191,7 @@ Without color codes:
 <br>
 Single-image version (might be slightly easier to see the differences between hues like Harlequin and Green here):
 
-![W White]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/hues.png)
+![W White]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/huelist.png)
 
 
 <!--
