@@ -314,33 +314,33 @@ _ clear<br>
 
 Text-only multiline with the hue angles and hex codes:
 
-R Red R Red (0°/360°, #FF0000)<br>
-U burnt Umber U burnt Umber (15°, #FF4000)<br>
-O Orange O Orange (30°, #FF7F00)<br>
-D Dandelion D Dandelion (45°, #FFBF00)<br>
-Y Yellow Y Yellow (60°, #FFFF00)<br>
-P Pear P Pear (75°, #BFFF00)<br>
-L Lime L Lime (90°, #80FF00)<br>
-H Harlequin H Harlequin (105°, #40FF00)<br>
-G Green G Green (120°, #00FF00)<br>
-J Jade J Jade (135°, #00FF40)<br>
-S Spring green S Spring green (150°, #00FF7F)<br>
-Q aQuamarine Q aQuamarine (165°, #00FFBF)<br>
-C Cyan C Cyan (180°, #00FFFF)<br>
-X sky blue X sky blue (195°, #00BFFF)<br>
-Z aZure Z aZure (210°, #0080FF)<br>
-T cobalT blue T cobalT blue (225°, #0040FF)<br>
-B Blue B Blue (240°, #0000FF)<br>
-I Indigo I Indigo (255°, #4000FF)<br>
-V Violet V Violet (270°, #8000FF)<br>
-F Fuschia F Fuschia (285°, #BF00FF)<br>
-M Magenta M Magenta (300°, #FF00FF)<br>
-N piNk N piNk (315°, #FF00BF)<br>
-E rosE E rosE (330°, #FF0080)<br>
-A Amaranth A Amaranth (345°, #FF0040)<br>
-K blacK K blacK (#000000)<br>
-W White W White (#FFFFFF)<br>
-_ clear _ clear<br>
+R Red (0°/360°, #FF0000)<br>
+U burnt Umber (15°, #FF4000)<br>
+O Orange (30°, #FF7F00)<br>
+D Dandelion (45°, #FFBF00)<br>
+Y Yellow (60°, #FFFF00)<br>
+P Pear (75°, #BFFF00)<br>
+L Lime (90°, #80FF00)<br>
+H Harlequin (105°, #40FF00)<br>
+G Green (120°, #00FF00)<br>
+J Jade (135°, #00FF40)<br>
+S Spring green (150°, #00FF7F)<br>
+Q aQuamarine (165°, #00FFBF)<br>
+C Cyan (180°, #00FFFF)<br>
+X sky blue (195°, #00BFFF)<br>
+Z aZure (210°, #0080FF)<br>
+T cobalT blue (225°, #0040FF)<br>
+B Blue (240°, #0000FF)<br>
+I Indigo (255°, #4000FF)<br>
+V Violet (270°, #8000FF)<br>
+F Fuschia (285°, #BF00FF)<br>
+M Magenta (300°, #FF00FF)<br>
+N piNk (315°, #FF00BF)<br>
+E rosE (330°, #FF0080)<br>
+A Amaranth (345°, #FF0040)<br>
+K blacK (#000000)<br>
+W White (#FFFFFF)<br>
+_ clear<br>
 
 #### Alphabetic HueLetters (HueHours) List
 
