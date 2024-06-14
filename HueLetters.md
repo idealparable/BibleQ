@@ -30,33 +30,33 @@ I also use the color names that end up chosen to explain charts/lists of hues in
 
 To start with, here's the basic list that resulted from the decision process, as of the date mentioned above:
 
-![R Red]({{ site.baseurl }}/_imgs/Cipher_HueLetters/01_R_Red.png) R Red (0°/360°, #FF0000)<br>
-![U burnt Umber]({{ site.baseurl }}/_imgs/Cipher_HueLetters/02_U_burnt_Umber.png) U burnt Umber (15°, #FF4000)<br>
-![O Orange]({{ site.baseurl }}/_imgs/Cipher_HueLetters/03_O_Orange.png) O Orange (30°, #FF7F00)<br>
-![D Dandelion]({{ site.baseurl }}/_imgs/Cipher_HueLetters/04_D_Dandelion.png) D Dandelion (45°, #FFBF00)<br>
-![Y Yellow]({{ site.baseurl }}/_imgs/Cipher_HueLetters/05_Y_Yellow.png) Y Yellow (60°, #FFFF00)<br>
-![P Pear]({{ site.baseurl }}/_imgs/Cipher_HueLetters/06_P_Pear.png) P Pear (75°, #BFFF00)<br>
-![L Lime]({{ site.baseurl }}/_imgs/Cipher_HueLetters/07_L_Lime.png) L Lime (90°, #80FF00)<br>
-![H Harlequin]({{ site.baseurl }}/_imgs/Cipher_HueLetters/08_H_Harlequin.png) H Harlequin (105°, #40FF00)<br>
-![G Green]({{ site.baseurl }}/_imgs/Cipher_HueLetters/09_G_Green.png) G Green (120°, #00FF00)<br>
-![J Jade]({{ site.baseurl }}/_imgs/Cipher_HueLetters/10_J_Jade.png) J Jade (135°, #00FF40)<br>
-![S Spring green]({{ site.baseurl }}/_imgs/Cipher_HueLetters/11_S_Spring_green.png) S Spring green (150°, #00FF7F)<br>
-![Q aQuamarine]({{ site.baseurl }}/_imgs/Cipher_HueLetters/12_Q_aQuamarine.png) Q aQuamarine (165°, #00FFBF)<br>
-![C Cyan]({{ site.baseurl }}/_imgs/Cipher_HueLetters/13_C_Cyan.png) C Cyan (180°, #00FFFF)<br>
-![X sky-blue]({{ site.baseurl }}/_imgs/Cipher_HueLetters/14_X_sky_blue.png) X sky-blue (195°, #00BFFF)<br>
-![Z aZure]({{ site.baseurl }}/_imgs/Cipher_HueLetters/15_Z_aZure.png) Z aZure (210°, #0080FF)<br>
-![T cobalT blue]({{ site.baseurl }}/_imgs/Cipher_HueLetters/16_T_cobalT_blue.png) T cobalT blue (225°, #0040FF)<br>
-![B Blue]({{ site.baseurl }}/_imgs/Cipher_HueLetters/17_B_Blue.png) B Blue (240°, #0000FF)<br>
-![I Indigo]({{ site.baseurl }}/_imgs/Cipher_HueLetters/18_I_Indigo.png) I Indigo (255°, #4000FF)<br>
-![V Violet]({{ site.baseurl }}/_imgs/Cipher_HueLetters/19_V_Violet.png) V Violet (270°, #8000FF)<br>
-![F Fuschia]({{ site.baseurl }}/_imgs/Cipher_HueLetters/20_F_Fuschia.png) F Fuschia (285°, #BF00FF)<br>
-![M Magenta]({{ site.baseurl }}/_imgs/Cipher_HueLetters/21_M_Magenta.png) M Magenta (300°, #FF00FF)<br>
-![N piNk]({{ site.baseurl }}/_imgs/Cipher_HueLetters/22_N_piNk.png) N piNk (315°, #FF00BF)<br>
-![E rosE]({{ site.baseurl }}/_imgs/Cipher_HueLetters/23_E_rosE.png) E rosE (330°, #FF0080)<br>
-![A Amaranth]({{ site.baseurl }}/_imgs/Cipher_HueLetters/24_A_Amaranth.png) A Amaranth (345°, #FF0040)<br>
-![K blacK]({{ site.baseurl }}/_imgs/Cipher_HueLetters/25_K_blacK.png) K blacK (#000000)<br>
-![W White]({{ site.baseurl }}/_imgs/Cipher_HueLetters/26_W_White.png) W White (#FFFFFF)<br>
-![_ clear]({{ site.baseurl }}/_imgs/Cipher_HueLetters/27_clear.png) _ clear<br>
+![R Red]({{ image_baseurl }}/_imgs/Cipher_HueLetters/01_R_Red.png) R Red (0°/360°, #FF0000)<br>
+![U burnt Umber]({{ image_baseurl }}/_imgs/Cipher_HueLetters/02_U_burnt_Umber.png) U burnt Umber (15°, #FF4000)<br>
+![O Orange]({{ image_baseurl }}/_imgs/Cipher_HueLetters/03_O_Orange.png) O Orange (30°, #FF7F00)<br>
+![D Dandelion]({{ image_baseurl }}/_imgs/Cipher_HueLetters/04_D_Dandelion.png) D Dandelion (45°, #FFBF00)<br>
+![Y Yellow]({{ image_baseurl }}/_imgs/Cipher_HueLetters/05_Y_Yellow.png) Y Yellow (60°, #FFFF00)<br>
+![P Pear]({{ image_baseurl }}/_imgs/Cipher_HueLetters/06_P_Pear.png) P Pear (75°, #BFFF00)<br>
+![L Lime]({{ image_baseurl }}/_imgs/Cipher_HueLetters/07_L_Lime.png) L Lime (90°, #80FF00)<br>
+![H Harlequin]({{ image_baseurl }}/_imgs/Cipher_HueLetters/08_H_Harlequin.png) H Harlequin (105°, #40FF00)<br>
+![G Green]({{ image_baseurl }}/_imgs/Cipher_HueLetters/09_G_Green.png) G Green (120°, #00FF00)<br>
+![J Jade]({{ image_baseurl }}/_imgs/Cipher_HueLetters/10_J_Jade.png) J Jade (135°, #00FF40)<br>
+![S Spring green]({{ image_baseurl }}/_imgs/Cipher_HueLetters/11_S_Spring_green.png) S Spring green (150°, #00FF7F)<br>
+![Q aQuamarine]({{ image_baseurl }}/_imgs/Cipher_HueLetters/12_Q_aQuamarine.png) Q aQuamarine (165°, #00FFBF)<br>
+![C Cyan]({{ image_baseurl }}/_imgs/Cipher_HueLetters/13_C_Cyan.png) C Cyan (180°, #00FFFF)<br>
+![X sky-blue]({{ image_baseurl }}/_imgs/Cipher_HueLetters/14_X_sky_blue.png) X sky-blue (195°, #00BFFF)<br>
+![Z aZure]({{ image_baseurl }}/_imgs/Cipher_HueLetters/15_Z_aZure.png) Z aZure (210°, #0080FF)<br>
+![T cobalT blue]({{ image_baseurl }}/_imgs/Cipher_HueLetters/16_T_cobalT_blue.png) T cobalT blue (225°, #0040FF)<br>
+![B Blue]({{ image_baseurl }}/_imgs/Cipher_HueLetters/17_B_Blue.png) B Blue (240°, #0000FF)<br>
+![I Indigo]({{ image_baseurl }}/_imgs/Cipher_HueLetters/18_I_Indigo.png) I Indigo (255°, #4000FF)<br>
+![V Violet]({{ image_baseurl }}/_imgs/Cipher_HueLetters/19_V_Violet.png) V Violet (270°, #8000FF)<br>
+![F Fuschia]({{ image_baseurl }}/_imgs/Cipher_HueLetters/20_F_Fuschia.png) F Fuschia (285°, #BF00FF)<br>
+![M Magenta]({{ image_baseurl }}/_imgs/Cipher_HueLetters/21_M_Magenta.png) M Magenta (300°, #FF00FF)<br>
+![N piNk]({{ image_baseurl }}/_imgs/Cipher_HueLetters/22_N_piNk.png) N piNk (315°, #FF00BF)<br>
+![E rosE]({{ image_baseurl }}/_imgs/Cipher_HueLetters/23_E_rosE.png) E rosE (330°, #FF0080)<br>
+![A Amaranth]({{ image_baseurl }}/_imgs/Cipher_HueLetters/24_A_Amaranth.png) A Amaranth (345°, #FF0040)<br>
+![K blacK]({{ image_baseurl }}/_imgs/Cipher_HueLetters/25_K_blacK.png) K blacK (#000000)<br>
+![W White]({{ image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White.png) W White (#FFFFFF)<br>
+![_ clear]({{ image_baseurl }}/_imgs/Cipher_HueLetters/27_clear.png) _ clear<br>
 
 
 <!--
@@ -204,7 +204,7 @@ Note: If I refer to HueLetters, I normally mean HueHours unless otherwise specif
 
 Also note: The justification for "sky blue" being abbreviated with X is obviously less than ideal.
 
-Virtually no color names that start with, or otherwise include, X, are well known enough for me to justify including. SK to KS to X is at least mnemonically useful. I have noticed though that a color called "Amazon Alexa Blue" is almost idential according to one website. You could perhaps call it Alexa blue, although you might not want to say it out loud if you have an Amazon Alexa. (X aleXa blue.)
+Virtually no color names that start with, or otherwise include, X, are well known enough for me to justify including. SK to KS to X is at least mnemonically useful. I have noticed though that a color called "Amazon Alexa Blue" is almost idential according to one web You could perhaps call it Alexa blue, although you might not want to say it out loud if you have an Amazon Alexa. (X aleXa blue.)
 
 Other comments could be made about issues with Fuschia versus Magenta, Violet versus purple, how the whole range of Pear to Green can be difficult to visually distinguish and similar for Blue and Indigo, and about the un-intuitiveness of using E for rosE, N for piNk, and how the precise hex codes have to be reinterpreted a bit for many like those to get them to align, but suffice to say, all alignments likely have problems and this is the one that had the least after years of a ton of work rethinking the system.
 
