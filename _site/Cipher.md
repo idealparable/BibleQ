@@ -9,7 +9,7 @@
 # Cipher, Lingua, Syllabic, ThoughtGlyphs, Speakscript, & Related Systems
 For the purposes of this text-based site, [Lingua](Lingua){:target="_blank"} is the most relevant, a keyboard-typeable pronunciation system.
 
-"Cipher" refers both to the category containing all of the following systems, and to the "ThoughtGlyphs" group of systems (meanings-based, not sound-based). The reason for the large number of systems is to provide options for different purposes.
+"Cipher," or the Cipher Art Language, refers both to the category containing all of the following systems, and to the "ThoughtGlyphs" group of systems (meanings-based, not sound-based). The reason for the large number of systems is to provide options for different purposes.
 
 - **Cipher (Cf)**: a group of (mostly hand-drawn) language systems that clarify meanings and pronunciations of other languages.
 
@@ -33,7 +33,11 @@ For the purposes of this text-based site, [Lingua](Lingua){:target="_blank"} is 
 
         - *TuneGlyphs (TnGl)*: Music notation system, integrated with standard musical systems, with a few different options that can portray the meaning of notes, expanding on the Countglyphs numeric system.
 
-        - *HueGlyphs (HuGl)*: System using the "dot compression" rule from Basic to easily protray all basic colors using very condensed symbols. Also comes with a standard system for English letter codes, expanding on RGB CMYK, for a typeable option.
+        - *HueGlyphs (HuGl)*: System using the "dot compression" rule from Basic to easily protray all basic colors using very condensed symbols. Also comes with a standard system for English letter codes, expanding on RGB CMYK, for a typeable option, [HueLetters](HueLetters).
+
+          - HueCompass (HuCp) (8-division), a development version of HueLetters with only 8 color abbreviations, intended originally to reserve the letters N North, S South, E East, W West, though N ended up needing to refer to one of the colors on the list in the current version.
+
+          - HueHours (HuHr) (24 division). The full version, in which N, etc. are used for colors. Could work for a 24-hour clock, hence the name, plus black, white, and underscore for clear. If I refer to HueLetters I normally mean this; the full system.
 
   - *Cipher Scripts (CfSc)* systems:
 
