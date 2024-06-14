@@ -30,7 +30,7 @@ I also use the color names that end up chosen to explain charts/lists of hues in
 
 To start with, here's the basic list that resulted from the decision process, as of the date mentioned above:
 
-![R Red](/_imgs/Cipher_HueLetters/01_R_Red.png) R Red (0°/360°, #FF0000)<br>
+![R Red](/_imgs/Cipher_HueLetters/01 R Red.png) R Red (0°/360°, #FF0000)<br>
 ![U burnt Umber](/_imgs/Cipher_HueLetters/02_U_Burnt_Umber.png) U burnt Umber (15°, #FF4000)<br>
 ![O Orange](/_imgs/Cipher_HueLetters/03_O_Orange.png) O Orange (30°, #FF7F00)<br>
 ![D Dandelion](/_imgs/Cipher_HueLetters/04_D_Dandelion.png) D Dandelion (45°, #FFBF00)<br>
