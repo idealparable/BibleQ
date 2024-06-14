@@ -59,6 +59,40 @@ To start with, here's the basic list that resulted from the decision process, as
 ![_ clear]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27___clear.png) _ clear<br>
 
 
+Wrapping 1-line version with larger images and font to help make it easier to see and all on one screen maybe, depending on your screen:
+
+<div style="font-size: larger;">
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/01_R_Red.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">R Red</span> (0°/360°, #FF0000),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/02_U_burnt_Umber.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">U burnt Umber</span> (15°, #FF4000),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/03_O_Orange.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">O Orange</span> (30°, #FF7F00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/04_D_Dandelion.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">D Dandelion</span> (45°, #FFBF00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/05_Y_Yellow.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">Y Yellow</span> (60°, #FFFF00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/06_P_Pear.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">P Pear</span> (75°, #BFFF00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/07_L_Lime.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">L Lime</span> (90°, #80FF00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/08_H_Harlequin.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">H Harlequin</span> (105°, #40FF00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/09_G_Green.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">G Green</span> (120°, #00FF00),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/10_J_Jade.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">J Jade</span> (135°, #00FF40),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/11_S_Spring_green.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">S Spring green</span> (150°, #00FF7F),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/12_Q_aQuamarine.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">Q aQuamarine</span> (165°, #00FFBF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/13_C_Cyan.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">C Cyan</span> (180°, #00FFFF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/14_X_sky_blue.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">X sky-blue</span> (195°, #00BFFF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/15_Z_aZure.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">Z aZure</span> (210°, #0080FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/16_T_cobalT_blue.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">T cobalT blue</span> (225°, #0040FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/17_B_Blue.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">B Blue</span> (240°, #0000FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/18_I_Indigo.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">I Indigo</span> (255°, #4000FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/19_V_Violet.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">V Violet</span> (270°, #8000FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/20_F_Fuschia.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">F Fuschia</span> (285°, #BF00FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/21_M_Magenta.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">M Magenta</span> (300°, #FF00FF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/22_N_piNk.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">N piNk</span> (315°, #FF00BF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/23_E_rosE.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">E rosE</span> (330°, #FF0080),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/24_A_Amaranth.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">A Amaranth</span> (345°, #FF0040),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/25_K_blacK.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">K blacK</span> (#000000),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">W White</span> (#FFFFFF),
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27_clear.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span>
+</div>
+
+
+
 <!--
 
 R Red (0°/360°, #FF0000)<br>
