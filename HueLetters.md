@@ -193,6 +193,7 @@ Single-image version (might be slightly easier to see the differences between hu
 
 ![W White]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/hues.png)
 
+
 <!--
 
 R Red (0°/360°, #FF0000)<br>
