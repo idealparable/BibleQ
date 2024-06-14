@@ -87,13 +87,11 @@ Hue compass is a term in-story for a system of glowing road indicators that let 
 - South 180° 00FFFF -- <b>✓ C Cyan</b>
   - Southwest 225° 0040FF -- <b>✓ T cobalT blue</b>
 - West 270° 8000FF -- <b>✓ V Violet</b> (but in-story this can still be called purple informally), U pUrple, P Purple
-  - Northwest 315° FF00BF -- <b>✓ I pInk</b>, P Pink
+  - Northwest 315° FF00BF -- <b>✓ N piNk</b>, I pInk, P Pink
 
-I didn't mention it in the notes, but part of the decision process here included a rule that N, S, E, and W would not be allowed as any of the 8 letters for the most basic Hue Compass color abbreviations, though of course on the full 24 hues list they are.
+In-story, roads that curve would really have a whole color circle of ranges potentially, but reserving just those 8 was part of an attempt to let the NEWS of North East West South be reserved for a shorter version. This didn't work, though, as no easily recognizeable color worked for hue angle 315 other than the generic name "pink," "I" was reserved for Indigo from ROYGBIV, K for blacK from CMYK, and I felt P works better for Pear.
 
-So for example you could have abbreviations something like INW, indicating I pInk North-West, as long as it was clear you were only working within a hue-compass (HuCp), and not allowing the full HueLetters to be used for roads on any other angle.
-
-Instead you would use a mix, so for example, for the direction NNW, North-North-West, you would use hue RI, R Red + I pInk.
+Still, it would generally be clear if EWS are reserved for directions, and I did avoid overlap otherwise, within the 8 version.
 
 ### Hue 24-Hours Clock (24-division; HueHours, HuHr)
 
@@ -129,7 +127,7 @@ Others:
 - ✓ W White FFFFFF, H wHite FFFFFF
 - ✓ _ clear (transparent), X clear, \# clear
 
-I consider black, white, and clear to be part of the HueHours version of HueLetters (not using N for North etc.), although they aren't hues of course. They're the remainder after 24 hues are all assigned.
+I consider black, white, and clear to be part of the HueHours version of HueLetters, although they aren't hues of course. They're the remainder after 24 hues are all assigned.
 
 Here's the process used for arrive at the number 24.
 
@@ -175,7 +173,7 @@ Also note: The justification for "sky blue" being abbreviated with X is obviousl
 
 Virtually no color names that start with, or otherwise include, X, are well known enough for me to justify including. SK to KS to X is at least mnemonically useful. I have noticed though that a color called "Amazon Alexa Blue" is almost idential according to one website. You could perhaps call it Alexa blue, although you might not want to say it out loud if you have an Amazon Alexa. (X aleXa blue.)
 
-Other comments could be made about issues with Fuschia versus Magenta, Violet versus purple, how the whole range of Pear to Green can be difficult to visually distinguish and similar for Blue and Indigo, and about the un-intuitiveness of using E for rosE, I for pInk, and how the precise hex codes have to be reinterpreted a bit for many like those to get them to align, but suffice to say, all alignments likely have problems and this is the one that had the least after years of a ton of work rethinking the system.
+Other comments could be made about issues with Fuschia versus Magenta, Violet versus purple, how the whole range of Pear to Green can be difficult to visually distinguish and similar for Blue and Indigo, and about the un-intuitiveness of using E for rosE, N for piNk, and how the precise hex codes have to be reinterpreted a bit for many like those to get them to align, but suffice to say, all alignments likely have problems and this is the one that had the least after years of a ton of work rethinking the system.
 
 #### Summaries of HueLetters (HueHours)
 
