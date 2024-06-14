@@ -88,7 +88,7 @@ Wrapping 1-line version with larger images and font to help make it easier to se
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/24_A_Amaranth.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">A Amaranth</span> (345°, #FF0040),
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/25_K_blacK.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">K blacK</span> (#000000),
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">W White</span> (#FFFFFF),
-  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27_clear.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span>
+  <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27_____clear.png" style="height: 100px; margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span>
 </div>
 
 
