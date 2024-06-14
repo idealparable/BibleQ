@@ -43,7 +43,7 @@ To start with, here's the basic list that resulted from the decision process, as
 ![S Spring green]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/11_S_Spring_green.png) S Spring green (150°, #00FF7F)<br>
 ![Q aQuamarine]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/12_Q_aQuamarine.png) Q aQuamarine (165°, #00FFBF)<br>
 ![C Cyan]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/13_C_Cyan.png) C Cyan (180°, #00FFFF)<br>
-![X sky-blue]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/14_X_sky_blue.png) X sky-blue (195°, #00BFFF)<br>
+![X sky-blue]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/14_X_sky-blue.png) X sky-blue (195°, #00BFFF)<br>
 ![Z aZure]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/15_Z_aZure.png) Z aZure (210°, #0080FF)<br>
 ![T cobalT blue]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/16_T_cobalT_blue.png) T cobalT blue (225°, #0040FF)<br>
 ![B Blue]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/17_B_Blue.png) B Blue (240°, #0000FF)<br>
