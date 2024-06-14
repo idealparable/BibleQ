@@ -35,6 +35,10 @@ For the purposes of this text-based site, [Lingua](Lingua){:target="_blank"} is 
 
         - *HueGlyphs (HuGl)*: System using the "dot compression" rule from Basic to easily protray all basic colors using very condensed symbols. Also comes with a standard system for English letter codes, expanding on RGB CMYK, for a typeable option, [HueLetters](HueLetters).
 
+          - HueCompass (HuCp) (8-division), a version of HueLetters with only 8 color abbreviations, reserving letters N North, S South, E East, W West.
+
+          - HueHours (HuHr) (24 division). The full version, in which N, etc. are used for colors. Could work for a 24-hour clock, hence the name, plus black, white, and underscore for clear. If I refer to HueLetters I normally mean this; the full system.
+
   - *Cipher Scripts (CfSc)* systems:
 
     - *SpellScript (SlSc)*: This is simply a hand-drawn "font," or can be used that way, indicating spellings of words only. Its purpose is to be distinct from the following two systems.

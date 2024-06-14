@@ -2,8 +2,13 @@
 
 ## Table of Contents
 
-- [Basic HueLetters List]
-
+- HueLetters
+  - [Basic HueLetters List](#hueletters)
+  - [Development Basics](#development-basics)
+    - [Hue Compass (8-division; HueCompass, HuCp)](#hue-compass-8-division-huecompass-hucp)
+    - [Hue 24-Hours Clock (24-division; HueHours, HuHr)](#hue-24-hours-clock-24-division-huehours-huhr)
+    - [Summaries of HueLetters (HueHours)](#summaries-of-hueletters-huehours)
+    - [Alphabetic HueLetters (HueHours) List](#alphabetic-hueletters-huehours-list)
 
 # HueLetters
 
@@ -42,7 +47,7 @@ X sky-blue (195°, #00BFFF)<br>
 Z aZure (210°, #0080FF)<br>
 T cobalT blue (225°, #0040FF)<br>
 B Blue (240°, #0000FF)<br>
-I Indigo (255°, #0040FF)<br>
+I Indigo (255°, #4000FF)<br>
 V Violet (270°, #8000FF)<br>
 F Fuschia (285°, #BF00FF)<br>
 M Magenta (300°, #FF00FF)<br>
@@ -111,7 +116,7 @@ The HueHours system could be used for a 24-hour clock arrangement of a color cir
     - 210° 0080FF -- ✓ Z aZure, A Azure
       - 225° 0040FF (Southwest) -- ✓ T cobalT blue
 - 240° 0000FF -- ✓ B Blue
-      - 255° 0040FF -- ✓ I Indigo, BU Blue-pUrple, N iNdigo
+      - 255° 4000FF -- ✓ I Indigo, BU Blue-pUrple, N iNdigo
     - 270° 8000FF (West) -- ✓ V Violet, U pUrple, P Purple
       - 285° BF00FF -- ✓ F Fuschia
   - 300° FF00FF -- ✓ M Magenta
@@ -170,6 +175,8 @@ Also note: The justification for "sky blue" being abbreviated with X is obviousl
 
 Virtually no color names that start with, or otherwise include, X, are well known enough for me to justify including. SK to KS to X is at least mnemonically useful. I have noticed though that a color called "Amazon Alexa Blue" is almost idential according to one website. You could perhaps call it Alexa blue, although you might not want to say it out loud if you have an Amazon Alexa. (X aleXa blue.)
 
+Other comments could be made about issues with Fuschia versus Magenta, Violet versus purple, how the whole range of Pear to Green can be difficult to visually distinguish and similar for Blue and Indigo, and about the un-intuitiveness of using E for rosE, I for pInk, and how the precise hex codes have to be reinterpreted a bit for many like those to get them to align, but suffice to say, all alignments likely have problems and this is the one that had the least after years of a ton of work rethinking the system.
+
 #### Summaries of HueLetters (HueHours)
 
 Full hue list order: RUODYPLHGJSQCXZTBIVFMNEA (plus K and W for blacK and White, and _ for clear).
@@ -210,6 +217,36 @@ _ clear<br>
 
 #### Alphabetic HueLetters (HueHours) List
 
+This list was maintained in parallel to the 24-hues list (and other colors) and hue compass during development. Provided for completeness here.
+
+A ✓ A Amaranth 345°, grAy 808080, Azure 210°, Amber 45°<br>
+B ✓ Blue 240°<br>
+C ✓ Cyan 180°<br>
+D ✓ Dandelion 45°<br>
+E ✓ rosE 330°, Erin 135°, grEy 808080<br>
+F ✓ Fuschia 285°, Flame 15°<br>
+G ✓ Green 120°<br>
+H ✓ Harlequin 105°, wHite FFFFFF<br>
+I ✓ Indigo 255°, pInk 315°<br>
+J ✓ Jade 135°<br>
+K ✓ blacK 000000<br>
+L ✓ Lime 90°<br>
+M ✓ Magenta 300°<br>
+N ✓ piNk 315°, browN 804000 (dark 30°), iNdigo 255°<br>
+O ✓ Orange 30°<br>
+P ✓ Pear 75°, Purple 270°, Pink 315°<br>
+Q ✓ aQuamarine 165°<br>
+R ✓ Red 0°/360°<br>
+S ✓ Spring green 150°, roSe 330°<br>
+T ✓ cobalT blue 225°, Turquoise 165°<br>
+U ✓ Umber (burnt Umber) 15°, pUrple 270°<br>
+V ✓ Violet 270°, Vermillion 15°<br>
+W ✓ White FFFFFF<br>
+X ✓ X sky-blue (sk->ks->X), clear [decanonized]<br>
+Y ✓ Yellow 60°<br>
+Z ✓ aZure 210°<br>
+
+Note that "Umber" shouldn't be used as an abbreviation for U burnt Umber, although I did call it that on that list, since "umber" by itself is a more yellowish color. Technically both umber and burnt umber often refer to somewhat brownish colors but burnt umber is closer to orange-red / red-orange. I wanted Vermillion for it but to preserve ROYGBIV's V for Violet I couldn't.
 
 
 
