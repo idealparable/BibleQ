@@ -56,7 +56,7 @@ To start with, here's the basic list that resulted from the decision process, as
 ![A Amaranth]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/24_A_Amaranth.png) A Amaranth (345°, #FF0040)<br>
 ![K blacK]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/25_K_blacK.png) K blacK (#000000)<br>
 ![W White]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White.png) W White (#FFFFFF)<br>
-![_ clear]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27_clear.png) _ clear<br>
+![_ clear]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27___clear.png) _ clear<br>
 
 
 <!--
