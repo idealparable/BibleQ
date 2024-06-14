@@ -90,7 +90,7 @@ Wrapping 1-line version with larger images and font to help make it easier to se
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">W White</span> (#FFFFFF),
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27___clear_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span>
 </div>
-
+<br>
 Version without the hue angle or hex codes:
 
 <div style="font-size: 1.1em;">
@@ -156,7 +156,7 @@ With color codes:
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">W White</span> (#FFFFFF)<br>
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27___clear_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span><br>
 </div>
-
+<br>
 Without color codes:
 
 <div style="font-size: 1.1em;">
@@ -188,7 +188,10 @@ Without color codes:
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">W White</span><br>
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27___clear_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span><br>
 </div>
+<br>
+Single-image version (might be slightly easier to see the differences between hues like Harlequin and Green here):
 
+![W White]({{ site.image_baseurl }}/_imgs/Cipher_HueLetters/hues.png)
 
 <!--
 
