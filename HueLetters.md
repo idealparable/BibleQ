@@ -30,33 +30,34 @@ I also use the color names that end up chosen to explain charts/lists of hues in
 
 To start with, here's the basic list that resulted from the decision process, as of the date mentioned above:
 
-![R Red](/_imgs/Cipher_HueLetters/01_R_Red.png) R Red (0°/360°, #FF0000)<br>
-![U burnt Umber](/_imgs/Cipher_HueLetters/02_U_burnt_Umber.png) U burnt Umber (15°, #FF4000)<br>
-![O Orange](/_imgs/Cipher_HueLetters/03_O_Orange.png) O Orange (30°, #FF7F00)<br>
-![D Dandelion](/_imgs/Cipher_HueLetters/04_D_Dandelion.png) D Dandelion (45°, #FFBF00)<br>
-![Y Yellow](/_imgs/Cipher_HueLetters/05_Y_Yellow.png) Y Yellow (60°, #FFFF00)<br>
-![P Pear](/_imgs/Cipher_HueLetters/06_P_Pear.png) P Pear (75°, #BFFF00)<br>
-![L Lime](/_imgs/Cipher_HueLetters/07_L_Lime.png) L Lime (90°, #80FF00)<br>
-![H Harlequin](/_imgs/Cipher_HueLetters/08_H_Harlequin.png) H Harlequin (105°, #40FF00)<br>
-![G Green](/_imgs/Cipher_HueLetters/09_G_Green.png) G Green (120°, #00FF00)<br>
-![J Jade](/_imgs/Cipher_HueLetters/10_J_Jade.png) J Jade (135°, #00FF40)<br>
-![S Spring green](/_imgs/Cipher_HueLetters/11_S_Spring_green.png) S Spring green (150°, #00FF7F)<br>
-![Q aQuamarine](/_imgs/Cipher_HueLetters/12_Q_aQuamarine.png) Q aQuamarine (165°, #00FFBF)<br>
-![C Cyan](/_imgs/Cipher_HueLetters/13_C_Cyan.png) C Cyan (180°, #00FFFF)<br>
-![X sky-blue](/_imgs/Cipher_HueLetters/14_X_sky_blue.png) X sky-blue (195°, #00BFFF)<br>
-![Z aZure](/_imgs/Cipher_HueLetters/15_Z_aZure.png) Z aZure (210°, #0080FF)<br>
-![T cobalT blue](/_imgs/Cipher_HueLetters/16_T_cobalT_blue.png) T cobalT blue (225°, #0040FF)<br>
-![B Blue](/_imgs/Cipher_HueLetters/17_B_Blue.png) B Blue (240°, #0000FF)<br>
-![I Indigo](/_imgs/Cipher_HueLetters/18_I_Indigo.png) I Indigo (255°, #4000FF)<br>
-![V Violet](/_imgs/Cipher_HueLetters/19_V_Violet.png) V Violet (270°, #8000FF)<br>
-![F Fuschia](/_imgs/Cipher_HueLetters/20_F_Fuschia.png) F Fuschia (285°, #BF00FF)<br>
-![M Magenta](/_imgs/Cipher_HueLetters/21_M_Magenta.png) M Magenta (300°, #FF00FF)<br>
-![N piNk](/_imgs/Cipher_HueLetters/22_N_piNk.png) N piNk (315°, #FF00BF)<br>
-![E rosE](/_imgs/Cipher_HueLetters/23_E_rosE.png) E rosE (330°, #FF0080)<br>
-![A Amaranth](/_imgs/Cipher_HueLetters/24_A_Amaranth.png) A Amaranth (345°, #FF0040)<br>
-![K blacK](/_imgs/Cipher_HueLetters/25_K_blacK.png) K blacK (#000000)<br>
-![W White](/_imgs/Cipher_HueLetters/26_W_White.png) W White (#FFFFFF)<br>
-![_ clear](/_imgs/Cipher_HueLetters/27_clear.png) _ clear<br>
+![R Red]({{ site.baseurl }}/_imgs/Cipher_HueLetters/01_R_Red.png) R Red (0°/360°, #FF0000)<br>
+![U burnt Umber]({{ site.baseurl }}/_imgs/Cipher_HueLetters/02_U_burnt_Umber.png) U burnt Umber (15°, #FF4000)<br>
+![O Orange]({{ site.baseurl }}/_imgs/Cipher_HueLetters/03_O_Orange.png) O Orange (30°, #FF7F00)<br>
+![D Dandelion]({{ site.baseurl }}/_imgs/Cipher_HueLetters/04_D_Dandelion.png) D Dandelion (45°, #FFBF00)<br>
+![Y Yellow]({{ site.baseurl }}/_imgs/Cipher_HueLetters/05_Y_Yellow.png) Y Yellow (60°, #FFFF00)<br>
+![P Pear]({{ site.baseurl }}/_imgs/Cipher_HueLetters/06_P_Pear.png) P Pear (75°, #BFFF00)<br>
+![L Lime]({{ site.baseurl }}/_imgs/Cipher_HueLetters/07_L_Lime.png) L Lime (90°, #80FF00)<br>
+![H Harlequin]({{ site.baseurl }}/_imgs/Cipher_HueLetters/08_H_Harlequin.png) H Harlequin (105°, #40FF00)<br>
+![G Green]({{ site.baseurl }}/_imgs/Cipher_HueLetters/09_G_Green.png) G Green (120°, #00FF00)<br>
+![J Jade]({{ site.baseurl }}/_imgs/Cipher_HueLetters/10_J_Jade.png) J Jade (135°, #00FF40)<br>
+![S Spring green]({{ site.baseurl }}/_imgs/Cipher_HueLetters/11_S_Spring_green.png) S Spring green (150°, #00FF7F)<br>
+![Q aQuamarine]({{ site.baseurl }}/_imgs/Cipher_HueLetters/12_Q_aQuamarine.png) Q aQuamarine (165°, #00FFBF)<br>
+![C Cyan]({{ site.baseurl }}/_imgs/Cipher_HueLetters/13_C_Cyan.png) C Cyan (180°, #00FFFF)<br>
+![X sky-blue]({{ site.baseurl }}/_imgs/Cipher_HueLetters/14_X_sky_blue.png) X sky-blue (195°, #00BFFF)<br>
+![Z aZure]({{ site.baseurl }}/_imgs/Cipher_HueLetters/15_Z_aZure.png) Z aZure (210°, #0080FF)<br>
+![T cobalT blue]({{ site.baseurl }}/_imgs/Cipher_HueLetters/16_T_cobalT_blue.png) T cobalT blue (225°, #0040FF)<br>
+![B Blue]({{ site.baseurl }}/_imgs/Cipher_HueLetters/17_B_Blue.png) B Blue (240°, #0000FF)<br>
+![I Indigo]({{ site.baseurl }}/_imgs/Cipher_HueLetters/18_I_Indigo.png) I Indigo (255°, #4000FF)<br>
+![V Violet]({{ site.baseurl }}/_imgs/Cipher_HueLetters/19_V_Violet.png) V Violet (270°, #8000FF)<br>
+![F Fuschia]({{ site.baseurl }}/_imgs/Cipher_HueLetters/20_F_Fuschia.png) F Fuschia (285°, #BF00FF)<br>
+![M Magenta]({{ site.baseurl }}/_imgs/Cipher_HueLetters/21_M_Magenta.png) M Magenta (300°, #FF00FF)<br>
+![N piNk]({{ site.baseurl }}/_imgs/Cipher_HueLetters/22_N_piNk.png) N piNk (315°, #FF00BF)<br>
+![E rosE]({{ site.baseurl }}/_imgs/Cipher_HueLetters/23_E_rosE.png) E rosE (330°, #FF0080)<br>
+![A Amaranth]({{ site.baseurl }}/_imgs/Cipher_HueLetters/24_A_Amaranth.png) A Amaranth (345°, #FF0040)<br>
+![K blacK]({{ site.baseurl }}/_imgs/Cipher_HueLetters/25_K_blacK.png) K blacK (#000000)<br>
+![W White]({{ site.baseurl }}/_imgs/Cipher_HueLetters/26_W_White.png) W White (#FFFFFF)<br>
+![_ clear]({{ site.baseurl }}/_imgs/Cipher_HueLetters/27_clear.png) _ clear<br>
+
 
 <!--
 
