@@ -166,6 +166,10 @@ So that left just clear as the only thing that couldn't otherwise be indicated. 
 
 Note: If I refer to HueLetters, I normally mean HueHours unless otherwise specified.
 
+Also note: The justification for "sky blue" being abbreviated with X is obviously less than ideal.
+
+Virtually no color names that start with, or otherwise include, X, are well known enough for me to justify including. SK to KS to X is at least mnemonically useful. I have noticed though that a color called "Amazon Alexa Blue" is almost idential according to one website. You could perhaps call it Alexa blue, although you might not want to say it out loud if you have an Amazon Alexa. (X aleXa blue.)
+
 #### Summaries of HueLetters (HueHours)
 
 Full hue list order: RUODYPLHGJSQCXZTBIVFMNEA (plus K and W for blacK and White, and _ for clear).
