@@ -122,7 +122,7 @@ Version without the hue angle or hex codes:
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/26_W_White_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">W White</span>,
   <img src="{{ site.image_baseurl }}/_imgs/Cipher_HueLetters/27___clear_large.png" style="margin-right: 10px;"> <span style="font-size: 1.2em;">_ clear</span>
 </div>
-
+<br>
 Multi-line versions of the large ones, so maybe it will be easier to see the differences between hues (in some of these cases it's difficult for my eyes to tell, like Harlequin and Green):
 
 With color codes:
