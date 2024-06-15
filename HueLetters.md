@@ -452,3 +452,25 @@ Note that "Umber" shouldn't be used as an abbreviation for U burnt Umber, althou
 
 
 
+<br>
+<br>
+
+---
+
+<br>
+
+# End Notes:
+
+{% include bibleseekbiblecitations.md %}
+
+### Abbreviations:
+
+#### For this page:
+
+Explained inline above.
+
+{% include bibleseekcommonabbreviations.md %}
+
+{% include bibleseekciteorcontactme.md %}
+
+{% include bibleseekfooter.md %}
